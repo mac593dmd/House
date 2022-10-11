@@ -1,0 +1,74 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-chno="1" tvg-id="Ecotel.ec" tvg-name="Ecotel" tvg-country="EC" tvg-language="SPANISH" group-title="NACIONAL"  tvg-logo="https://sites.google.com/site/radioecotel/_/rsrc/1472777761320/ecotel-television-on-line-1/ECOLOGOTV.jpg" ,Ecotel
+
+https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="2" tvg-id="EcuadorTV.ec" tvg-name="Ecuador TV" tvg-country="EC" tvg-language="SPANISH" group-title="NACIONAL"  tvg-logo="https://www.udla.edu.ec/wp-content/uploads/2017/06/Ecuador-TV.jpg" ,Ecuador TV
+
+https://streaming.ecuadortv.ec/hls/key-0a1dbc53-65b9-4207-a796-2ad2afff4666lfuQfxKbLr_mid/index.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Ecuavisa.ec" tvg-name="Ecuavisa" tvg-country="EC" tvg-language="SPANISH" group-title="NACIONAL"  tvg-logo="https://pbs.twimg.com/profile_images/553725322483335168/P8WbdzKV_400x400.jpeg" ,Ecuavisa
+
+
+
+
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Oromar.ec" tvg-name="Oromar" tvg-country="EC" tvg-language="SPANISH" group-title="NACIONAL"  tvg-logo="https://oromartv.com/wp-content/uploads/2022/05/IMG_20220401_100837_641.jpg" ,Oromar
+
+https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="5" tvg-id="PasajeTV.ec" tvg-name="Pasaje TV" tvg-country="EC" tvg-language="SPANISH" group-title="NACIONAL"  tvg-logo="https://pbs.twimg.com/profile_images/818498293307162625/1ccnoN9X_400x400.jpg" ,Pasaje TV
+
+
+
+#EXTINF:-1 tvg-chno="6" tvg-id="RTU.ec" tvg-name="RTU" tvg-country="EC" tvg-language="SPANISH" group-title="NACIONAL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_rtu.jpg" ,RTU
+
+https://streamingwowza.com:19360/rtutv/rtutv.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="7" tvg-id="TC.ec" tvg-name="TC" tvg-country="EC" tvg-language="SPANISH" group-title="NACIONAL"  tvg-logo="https://radiolacalle.com/wp-content/uploads/2021/04/46bafe86abf8f4083d79882b3f6f6dc4.jpg" ,TC
+
+https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl3emLj23pRgVTcTagzKjGkFUZkV3wrXpf76te-9lQRkK)/dm/3/x7wijay/d/live-0.m3u8#cell=lnyc
+
+
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas" tvg-country="EC" tvg-language="SPANISH" group-title="NACIONAL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png" ,Teleamazonas
+
+https://stream-04.nyc.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMLVvmMAQavlX2Wb5xMCRtDwjwJCuyiHlmkEUmBX2FeAL)/dm/3/x8dhua9/s/live-0.m3u8#cell=lnyc
+
+
+
+#EXTINF:-1 tvg-chno="9" tvg-id="Telerama.ec" tvg-name="Telerama" tvg-country="EC" tvg-language="SPANISH" group-title="NACIONAL"  tvg-logo="https://static-media.streema.com/media/cache/27/af/27afea308274909fd22e99b78e6cc2df.jpg" ,Telerama
+
+https://envivo.telerama.ec/stream.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="10" tvg-id="TVC.ec" tvg-name="TVC" tvg-country="EC" tvg-language="SPANISH" group-title="NACIONAL"  tvg-logo="https://pbs.twimg.com/profile_images/986970273609109504/WGiYE_i2_400x400.jpg" ,TVC
+
+https://d6op0qag07k4o.cloudfront.net/hls/tvc_360.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="11" tvg-id="UCSGRTV.ec" tvg-name="UCSGRTV" tvg-country="EC" tvg-language="SPANISH" group-title="NACIONAL"  tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fa02f30860df52c4ef5aa8ab0e5c17a81ef45885ef78154bb184321d6ee659bce.jpg
+" ,UCSGRTV
+
+https://ecuastream.net:19360/ucsghd/ucsghd.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="12" tvg-id="Unsion.ec" tvg-name="Unsion" tvg-country="EC" tvg-language="SPANISH" group-title="NACIONAL"  tvg-logo="https://pbs.twimg.com/profile_images/1090633829704962048/xoUQxABh_400x400.jpg" ,Unsion
+
+
+
+
