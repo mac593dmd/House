@@ -71,4 +71,19 @@ https://ecuastream.net:19360/ucsghd/ucsghd.m3u8
 
 
 
+#EXTINF:-1 tvg-chno="15" tvg-id="RT.ru" tvg-name="RT" tvg-country="RU" tvg-language="SPANISH" group-title="NOTICIAS"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" ,RT
+
+https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="16" tvg-id="DW.de" tvg-name="DW" tvg-country="DE" tvg-language="SPANISH" group-title="NOTICIAS"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" ,DW
+
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="17" tvg-id="teleSURtv.ve" tvg-name="teleSUR Tv" tvg-country="VE" tvg-language="SPANISH" group-title="NOTICIAS"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" ,TeleSUR TV
+
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 
