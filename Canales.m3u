@@ -60,8 +60,7 @@ https://d6op0qag07k4o.cloudfront.net/hls/tvc_360.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="11" tvg-id="UCSGRTV.ec" tvg-name="UCSGRTV" tvg-country="EC" tvg-language="SPANISH" group-title="NACIONAL"  tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fa02f30860df52c4ef5aa8ab0e5c17a81ef45885ef78154bb184321d6ee659bce.jpg
-" ,UCSGRTV
+#EXTINF:-1 tvg-chno="11" tvg-id="UCSGRTV.ec" tvg-name="UCSGRTV" tvg-country="EC" tvg-language="SPANISH" group-title="NACIONAL"  tvg-logo="https://www.ucsgrtv.com/assets/images/about-icon-03.png" ,UCSGRTV
 
 https://ecuastream.net:19360/ucsghd/ucsghd.m3u8
 
@@ -86,4 +85,10 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/strea
 #EXTINF:-1 tvg-chno="17" tvg-id="teleSURtv.ve" tvg-name="teleSUR Tv" tvg-country="VE" tvg-language="SPANISH" group-title="NOTICIAS"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" ,TeleSUR TV
 
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="24" tvg-id="gen.py" tvg-name="GEN TV" tvg-country="PY" tvg-language="SPANISH" group-title="INTERNACIONAL"  tvg-logo="https://1.bp.blogspot.com/-qEOh3DrIvJQ/X4X3vPe1plI/AAAAAAAAHP4/JTIm_HTKpm4Z-Bdu68cq9ioGTq_qVOH-QCLcBGAsYHQ/s340/gen.png" ,GEN TV
+
+https://inliveserver.com:1936/14056/14056/chunklist_w1762324157.m3u8
 
