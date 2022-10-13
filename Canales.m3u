@@ -40,7 +40,7 @@ https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl3emLj23pRgVTcTagz
 
 #EXTINF:-1 tvg-chno="8" tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas" tvg-country="EC" tvg-language="SPANISH" group-title="NACIONAL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png" ,Teleamazonas
 
-https://stream-04.nyc.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMLVvmMAQavlX2Wb5xMCRtDwjwJCuyiHlmkEUmBX2FeAL)/dm/3/x8dhua9/s/live-0.m3u8#cell=lnyc
+https://stream-01.nyc.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMKasGgKTqmLOyFkWxhq2u_EDZNec1pwXqGh3_-TF0xwK)/dm/3/x8dhua9/s/live-2.m3u8#cell=lnyc
 
 
 
@@ -90,3 +90,20 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 
 https://inliveserver.com:1936/14056/14056/chunklist_w1762324157.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV
+
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="Infantiles" tvg-name="Cartoon Network Latino",Cartoon Network Latino
+
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="Infantiles" tvg-name="Cartoon Network Latino",Cartoon Network Latino
+
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
