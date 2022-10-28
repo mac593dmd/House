@@ -19,11 +19,6 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
 
-#EXTINF:-1 tvg-chno="4" tvg-id="WBKidslatino.us" tvg-name="WB Kids Latino" tvg-country="US" tvg-language="SPANISH" group-title="INFANTIL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Warner_Bros._Animation_2010_Logo.svg/800px-Warner_Bros._Animation_2010_Logo.svg.png" ,WB Kids Latino
-
-https://www.youtube.com/watch?v=XELiOGJqnls
-
-
 
 #EXTINF:-1 tvg-chno="11" tvg-id="Ecotel.ec" tvg-name="Ecotel" tvg-country="EC" tvg-language="SPANISH" group-title="NACIONAL"  tvg-logo="https://sites.google.com/site/radioecotel/_/rsrc/1472777761320/ecotel-television-on-line-1/ECOLOGOTV.jpg" ,Ecotel
 
