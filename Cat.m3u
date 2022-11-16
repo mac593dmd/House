@@ -52,6 +52,7 @@ https://streamingwowza.com:19360/rtutv/rtutv.m3u8
 
 #EXTINF:-1 tvg-chno="17" tvg-id="TC.ec" tvg-name="TC" tvg-country="EC" tvg-language="SPANISH" group-title="NACIONAL"  tvg-logo="https://radiolacalle.com/wp-content/uploads/2021/04/46bafe86abf8f4083d79882b3f6f6dc4.jpg" ,TC
 
+https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl-pf4vE0kb__-hZkerVF8e0KfD6KEDQCtyvqFh1AzhIc)/dm/3/x7wijay/d/live-1.m3u8#cell=lnyc
 
 
 
@@ -84,6 +85,12 @@ https://d6op0qag07k4o.cloudfront.net/hls/rts_360.m3u8
 
 
 
+#EXTINF:-1 tvg-chno="23" tvg-id="HechosEC.ec" tvg-name="HECHOS" tvg-country="EC" tvg-language="SPANISH" group-title="NACIONAL"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/znddkhgxhbqp.jpg" ,HECHOS
+
+https://stmv.streamingvip.click/hechosecuador/hechosecuador/chunklist_w1839505953.m3u8
+
+
+
 #EXTINF:-1 tvg-chno="30" tvg-id="RT.ru" tvg-name="RT" tvg-country="RU" tvg-language="SPANISH" group-title="NOTICIAS"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" ,RT
 
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
@@ -104,14 +111,19 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno="33" tvg-id="RTVE.es" tvg-name="RTVE" tvg-country="ES" tvg-language="SPANISH" group-title="NOTICIAS"  tvg-logo="https://pbs.twimg.com/profile_images/1269026518128365571/7PeLkMvv_400x400.jpg" ,RTVE
 
-https://rtvelivestream.akamaized.net/segments/24h/24h_main_720.m3u8
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_576.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="41" tvg-id="gen.py" tvg-name="GEN TV" tvg-country="PY" tvg-language="SPANISH" group-title="INTERNACIONAL"  tvg-logo="https://1.bp.blogspot.com/-qEOh3DrIvJQ/X4X3vPe1plI/AAAAAAAAHP4/JTIm_HTKpm4Z-Bdu68cq9ioGTq_qVOH-QCLcBGAsYHQ/s340/gen.png" ,GEN TV
+#EXTINF:-1 tvg-chno="34" tvg-id="Foro TV.mx" tvg-name="ForoTV" tvg-country="MX" tvg-language="SPANISH" group-title="NOTICIAS"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Foro_%28Televisa%29.png" ,Foro TV
+
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_2.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="41" tvg-id="gen.ar" tvg-name="GEN TV" tvg-country="AR" tvg-language="SPANISH" group-title="INTERNACIONAL"  tvg-logo="https://1.bp.blogspot.com/-qEOh3DrIvJQ/X4X3vPe1plI/AAAAAAAAHP4/JTIm_HTKpm4Z-Bdu68cq9ioGTq_qVOH-QCLcBGAsYHQ/s340/gen.png" ,GEN TV
 
 https://inliveserver.com:1936/14056/14056/chunklist_w1762324157.m3u8
-
 
 
 
@@ -154,4 +166,4 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 
 #EXTINF:-1 tvg-chno="72" tvg-id="toplatinotv.pe" tvg-name="Top Latino TV Perú" tvg-logo="https://graph.facebook.com/toplatinotv/picture?width=200&height=200" group-title="Musicales" ,Top Latino TV Perú
 
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/tvweb.stream/playlist.m3u8
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latinotv.stream/chunklist_w1390250283.m3u8
