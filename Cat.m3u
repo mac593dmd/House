@@ -25,7 +25,6 @@ https://tastemadees16intl-brightcove.amagi.tv/hls/amagi_hls_data_tastemade-taste
 https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 
 #EXTINF:-1 tvg-chno="12" tvg-id="EcuadorTV.ec" tvg-name="Ecuador TV" tvg-country="EC" tvg-language="SPANISH" group-title="NACIONAL"  tvg-logo="https://www.udla.edu.ec/wp-content/uploads/2017/06/Ecuador-TV.jpg" ,Ecuador TV
-https://live-ak.vimeocdn.com/exp=1668876617~acl=%2F75569b98-ff8f-4d56-9883-5474528498a6%2F%2A~hmac=36d82ccdf6b22ed51537f246de805947d690818da5678826180924bee042bd58/75569b98-ff8f-4d56-9883-5474528498a6/chunklist_b2056000.m3u8?max_segments=10
 
 #EXTINF:-1 tvg-chno="13" tvg-id="Ecuavisa.ec" tvg-name="Ecuavisa" tvg-country="EC" tvg-language="SPANISH" group-title="NACIONAL"  tvg-logo="https://pbs.twimg.com/profile_images/553725322483335168/P8WbdzKV_400x400.jpeg" ,Ecuavisa
 
@@ -55,6 +54,9 @@ https://d6op0qag07k4o.cloudfront.net/hls/rts_360.m3u8
 
 #EXTINF:-1 tvg-chno="23" tvg-id="HechosEC.ec" tvg-name="HECHOS" tvg-country="EC" tvg-language="SPANISH" group-title="NACIONAL"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/znddkhgxhbqp.jpg" ,Hechos
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/chunklist_w1839505953.m3u8
+
+#EXTINF:-1 tvg-id="25" tvg-id="Educa.ec" tvg-name="Educa TV" tvg-country="EC" tvg-language="SPANISH" group-title="NACIONAL"  tvg-logo="https://lh3.googleusercontent.com/-gwVSG0Gv_VY/XzxqczgyXhI/AAAAAAAA4pA/P26xKeDaPZcrzl5WvvYymInXCZJRU3L3wCK8BGAsYHg/s0/2020-08-18.png", Educa TV
+https://cloud7.streamingcnt.net/cnt/educa/chunklist_w143162487.m3u8
 
 
 
@@ -164,13 +166,13 @@ https://daiconnect.com/live/hls/tvup/tvfy-mtov/791b83ec57063d5be36796eaa1279dcd/
 
 
 
-#EXTINF:-1 tvg-chno="91" tvg-id="inglestotalprincipiante.es"  tvg-name="Ingles Total Principiante" tvg-logo="https://www.inglestotal.com/wp-content/uploads/2019/06/INGLESAUDIO2-360.jpg" group-title="Educación" ,Ingles Total Principiante
+#EXTINF:-1 tvg-chno="91" tvg-id="inglestotalprincipiante.es"  tvg-name="IT Principiante" tvg-logo="https://www.inglestotal.com/wp-content/uploads/2019/06/INGLESAUDIO2-360.jpg" group-title="Educación" ,IT Principiante
 https://daiconnect.com/live/hls/tvup/tivify-ita-principiante/3994d030860ea2583b3c423885623524/.m3u8?ApPW=1600&ApPH=793&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=95ea4afd-66c2-11ed-9e9d-d6835f939ca3
 
-#EXTINF:-1 tvg-chno="92" tvg-id="inglestotalintermedio.es"  tvg-name="Ingles Total Intermedio" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Podcasts125/v4/a8/b7/28/a8b7285b-0c9d-8f43-dfb8-ff24b53ed30b/mza_6821662929761198421.jpg/1200x600wp.png" group-title="Educación" ,Ingles Total Intermedio
+#EXTINF:-1 tvg-chno="92" tvg-id="inglestotalintermedio.es"  tvg-name="IT Intermedio" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Podcasts125/v4/a8/b7/28/a8b7285b-0c9d-8f43-dfb8-ff24b53ed30b/mza_6821662929761198421.jpg/1200x600wp.png" group-title="Educación" ,IT Intermedio
 https://daiconnect.com/live/hls/tvup/tivify-ita-intermedio/4e7d7cf8e0277f9029bfe0cb400f7769/.m3u8?ApPW=1600&ApPH=793&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=d948cb93-66c2-11ed-9e9d-d6835f939ca3
 
-#EXTINF:-1 tvg-chno="93" tvg-id="inglestotalavanzado.es"  tvg-name="Ingles Total Avanzado" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc-nA_EsGY06pp2t7ZOuHzKYhuAT49X08x5A&usqp=CAU" group-title="Educación" ,Ingles Total Avanzado
+#EXTINF:-1 tvg-chno="93" tvg-id="inglestotalavanzado.es"  tvg-name="IT Avanzado" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc-nA_EsGY06pp2t7ZOuHzKYhuAT49X08x5A&usqp=CAU" group-title="Educación" ,IT Avanzado
 https://daiconnect.com/live/hls/tvup/tivify-ita-avanzado/3994d030860ea2583b3c423885623524/.m3u8?ApPW=1600&ApPH=793&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=fe2eec2f-66c2-11ed-9e9d-d6835f939ca3
 
 
@@ -182,7 +184,7 @@ https://daiconnect.com/live/hls/tvup/tvfy-qello/0f8612520f7d0c7a97d750e661ae473b
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="103" tvg-id="toplatinotv.pe" tvg-name="Top Latino TV Perú" tvg-logo="https://graph.facebook.com/toplatinotv/picture?width=200&height=200" group-title="Musicales" ,Top Latino TV Perú
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latinotv.stream/chunklist_w1390250283.m3u8
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/chunklist_w251169644.m3u8
 
 #EXTINF:-1 tvg-chno="104" tvg-id="musictop.ar" tvg-name="Music Top Argentina" tvg-logo="https://graph.facebook.com/MusictopArgentina/picture?width=200&height=200" group-title="Musicales" ,Music Top Argentina
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
