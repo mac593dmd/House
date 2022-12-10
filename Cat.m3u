@@ -32,6 +32,7 @@ https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
 #EXTINF:-1 tvg-chno="15" tvg-id="PasajeTV.ec" tvg-name="Pasaje TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/818498293307162625/1ccnoN9X_400x400.jpg" ,Pasaje TV
+https://canal.pasajetv.com/PasajeTV.m3u8
 
 #EXTINF:-1 tvg-chno="16" tvg-id="RTU.ec" tvg-name="RTU" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_rtu.jpg" ,RTU
 https://streamingwowza.com:19360/rtutv/rtutv.m3u8
@@ -54,6 +55,9 @@ https://d6op0qag07k4o.cloudfront.net/hls/rts_360.m3u8
 
 #EXTINF:-1 tvg-chno="23" tvg-id="HechosEC.ec" tvg-name="HECHOS" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/znddkhgxhbqp.jpg" ,Hechos
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/chunklist_w1839505953.m3u8
+
+#EXTINF:-1 tvg-chno="24" tvg-id="Unsion.ec" tvg-name="UNSION" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMFtQV8Wej-4y-Q6pwPNwO5V8GYPPWDzUQERMOpvQMVr1jXdrG5lwPyJlSEVMxNyS1g1Q&usqp=CAU" ,Unsion
+https://live-ak.vimeocdn.com/exp=1670633985~acl=%2F57ac0e28-6450-47fb-9932-2d15ddff55df%2F%2A~hmac=917930266442d8aa898fdc225ad95919e63ea040f2c3e8b0cb933e788b60cb4a/57ac0e28-6450-47fb-9932-2d15ddff55df/chunklist_b416000.m3u8?max_segments=10
 
 #EXTINF:-1 tvg-chno="25" tvg-id="EducaTV.ec" tvg-name="Educa TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://lh3.googleusercontent.com/-gwVSG0Gv_VY/XzxqczgyXhI/AAAAAAAA4pA/P26xKeDaPZcrzl5WvvYymInXCZJRU3L3wCK8BGAsYHg/s0/2020-08-18.png", Educa TV
 https://cloud7.streamingcnt.net/cnt/educa/chunklist_w143162487.m3u8
