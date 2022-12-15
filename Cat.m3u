@@ -24,10 +24,6 @@ https://tastemadees16intl-brightcove.amagi.tv/hls/amagi_hls_data_tastemade-taste
 #EXTINF:-1 tvg-chno="11" tvg-id="Ecotel.ec" tvg-name="Ecotel" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://sites.google.com/site/radioecotel/_/rsrc/1472777761320/ecotel-television-on-line-1/ECOLOGOTV.jpg" ,Ecotel
 https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 
-#EXTINF:-1 tvg-chno="12" tvg-id="EcuadorTV.ec" tvg-name="Ecuador TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://www.udla.edu.ec/wp-content/uploads/2017/06/Ecuador-TV.jpg" ,Ecuador TV
-
-#EXTINF:-1 tvg-chno="13" tvg-id="Ecuavisa.ec" tvg-name="Ecuavisa" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/553725322483335168/P8WbdzKV_400x400.jpeg" ,Ecuavisa
-
 #EXTINF:-1 tvg-chno="14" tvg-id="Oromar.ec" tvg-name="Oromar" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://oromartv.com/wp-content/uploads/2022/05/IMG_20220401_100837_641.jpg" ,Oromar
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
@@ -36,10 +32,6 @@ https://canal.pasajetv.com/PasajeTV.m3u8
 
 #EXTINF:-1 tvg-chno="16" tvg-id="RTU.ec" tvg-name="RTU" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_rtu.jpg" ,RTU
 https://streamingwowza.com:19360/rtutv/rtutv.m3u8
-
-#EXTINF:-1 tvg-chno="17" tvg-id="TC.ec" tvg-name="TC" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://radiolacalle.com/wp-content/uploads/2021/04/46bafe86abf8f4083d79882b3f6f6dc4.jpg" ,TC
-
-#EXTINF:-1 tvg-chno="18" tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png" ,Teleamazonas
 
 #EXTINF:-1 tvg-chno="19" tvg-id="Telerama.ec" tvg-name="Telerama" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://static-media.streema.com/media/cache/27/af/27afea308274909fd22e99b78e6cc2df.jpg" ,Telerama
 https://envivo.telerama.ec/stream.m3u8
@@ -55,9 +47,6 @@ https://d6op0qag07k4o.cloudfront.net/hls/rts_360.m3u8
 
 #EXTINF:-1 tvg-chno="23" tvg-id="HechosEC.ec" tvg-name="HECHOS" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/znddkhgxhbqp.jpg" ,Hechos
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/chunklist_w1839505953.m3u8
-
-#EXTINF:-1 tvg-chno="24" tvg-id="Unsion.ec" tvg-name="UNSION" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMFtQV8Wej-4y-Q6pwPNwO5V8GYPPWDzUQERMOpvQMVr1jXdrG5lwPyJlSEVMxNyS1g1Q&usqp=CAU" ,Unsion
-https://live-ak.vimeocdn.com/exp=1670633985~acl=%2F57ac0e28-6450-47fb-9932-2d15ddff55df%2F%2A~hmac=917930266442d8aa898fdc225ad95919e63ea040f2c3e8b0cb933e788b60cb4a/57ac0e28-6450-47fb-9932-2d15ddff55df/chunklist_b416000.m3u8?max_segments=10
 
 #EXTINF:-1 tvg-chno="25" tvg-id="EducaTV.ec" tvg-name="Educa TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://lh3.googleusercontent.com/-gwVSG0Gv_VY/XzxqczgyXhI/AAAAAAAA4pA/P26xKeDaPZcrzl5WvvYymInXCZJRU3L3wCK8BGAsYHg/s0/2020-08-18.png", Educa TV
 https://cloud7.streamingcnt.net/cnt/educa/chunklist_w143162487.m3u8
@@ -151,9 +140,6 @@ https://daiconnect.com/live/hls/tvup/tvfy-rtromc/b939fcae84b0fe5717c168deb77dcc4
 #EXTINF:-1 tvg-chno="71" tvg-id="Runtimeclasicos.es" tvg-name="Run Time Clasicos" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cla%CC%81sicos-en-directo-Online.png?resize=218%2C150&ssl=1" ,Run Time Clasicos
 https://daiconnect.com/live/hls/tvup/tvfy-rtclsc/0970efd6bbf19c6efe1d09808e0104b4/.m3u8?ApPW=1920&ApPH=1080&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=c06d0f65-66bd-11ed-9f6a-5a7b45621b50
 
-#EXTINF:-1 tvg-chno="72" tvg-id="Runtimefamilia.es" tvg-name="Run Time Familia" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://cigars.roku.com/v1/resize/384x216/https%3A%2F%2Fimages.sr.roku.com%2FidType%2Froku%2Fcontext%2Ftrc%2Fid%2F4b90291cedad562f96d9b4b03f246961%2FrokuFeed%2Fassets%2F9a8e206cdeae5346800b1bfc815eddaf.jpg%2Fmagic%2F384x0" ,Run Time Familia
-https://stream.ads.ottera.tv/cl/8acdf99e-30e9-461f-80eb-f0203f4c66d9/1280x720_3071200_0_f.m3u8
-
 
 
 #EXTINF:-1 tvg-chno="81" tvg-id="garajetv.ar" tvg-name="Garaje TV" tvg-logo="https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_200x200.jpg" group-title="DEPORTE" ,Garage TV
@@ -161,9 +147,6 @@ http://186.0.233.76:1935/Garage/garage.smil/chunklist_w1648686726_b1296000_sleng
 
 #EXTINF:-1 tvg-chno="82" tvg-id="redbulltv.ru"  tvg-name="Redbull TV" tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200" group-title="DEPORTE" ,Redbull TV EN
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-#EXTINF:-1 tvg-chno="83" tvg-id="surfchannel.es"  tvg-name="Surf Channel" tvg-logo="https://www.eurosima.com/wp-content/uploads/2022/03/surf-channel_logo-240x150.png" group-title="DEPORTE" ,Surf Channel
-https://daiconnect.com/live/hls/tvup/tvfy-surf/1b158bd551d178c26d4148afd486f924/.m3u8?ApPW=1600&ApPH=793&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=3bc61eda-66bf-11ed-9f6a-5a7b45621b50
 
 #EXTINF:-1 tvg-chno="84" tvg-id="motorvisiontv.es"  tvg-name="Motorvision TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/motorvision-tv-3201.jpg" group-title="DEPORTE" ,Motorvision TV
 https://daiconnect.com/live/hls/tvup/tvfy-mtov/791b83ec57063d5be36796eaa1279dcd/.m3u8?ApPW=1920&ApPH=1080&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=72d49265-66bf-11ed-9e9d-d6835f939ca3
@@ -181,6 +164,9 @@ https://daiconnect.com/live/hls/tvup/tivify-ita-avanzado/3994d030860ea2583b3c423
 
 
 
+#EXTINF:-1 tvg-chno="100" tvg-id="canalsurpatagonia.cl" tvg-name="Canal Sur Patagonia" tvg-country="CL" tvg-language="SPANISH" group-title="MUSICA"  tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.4zcC8XNI_kCtLjdBZdFcogHaHa%26pid%3DApi&f=1&ipt=581036818637fdddb1bb741bcc8c93953087f887a6060dc71beeddf15c711dc7&ipo=images" ,Canal Sur Patagonia
+https://v1.tustreaming.cl:19360/canalsurpatagoniatv/canalsurpatagoniatv.m3u8
+
 #EXTINF:-1 tvg-chno="101" tvg-id="qelloconcerts.us" tvg-name="Qello Concerts" tvg-logo="https://m.media-amazon.com/images/I/61UKePMkOeL.png" group-title="MUSICA" ,Qello Concerts
 https://daiconnect.com/live/hls/tvup/tvfy-qello/0f8612520f7d0c7a97d750e661ae473b/.m3u8?ApPW=1600&ApPH=793&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=c6f97c09-66bf-11ed-9f6a-5a7b45621b50
 
@@ -195,6 +181,8 @@ https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-id="portalfoxmix.cl" tvg-name="Portal Foxmix Chile" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj90kC8kqjZ69oiVT718JUs9iedB5o1w9cKfApo=s200" group-title="MUSICA" ,Portal Foxmix Chile
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8
+
+
 
 
 
