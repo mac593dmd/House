@@ -33,6 +33,9 @@ https://canal.pasajetv.com/PasajeTV.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-id="RTU.ec" tvg-name="RTU" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_rtu.jpg" ,RTU
 https://streamingwowza.com:19360/rtutv/rtutv.m3u8
 
+#EXTINF:-1 tvg-chno="17" tvg-id="TC.ec" tvg-name="TC" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://radiolacalle.com/wp-content/uploads/2021/04/46bafe86abf8f4083d79882b3f6f6dc4.jpg" ,TC
+https://youvideostreaming.club/hls/ecutv3.m3u8
+
 #EXTINF:-1 tvg-chno="19" tvg-id="Telerama.ec" tvg-name="Telerama" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://static-media.streema.com/media/cache/27/af/27afea308274909fd22e99b78e6cc2df.jpg" ,Telerama
 https://envivo.telerama.ec/stream.m3u8
 
