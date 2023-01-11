@@ -48,7 +48,7 @@ https://streamingwowza.com:19360/rtutv/rtutv.m3u8
 #EXTINF:-1 tvg-chno="37" tvg-id="TC.ec" tvg-name="TC" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://radiolacalle.com/wp-content/uploads/2021/04/46bafe86abf8f4083d79882b3f6f6dc4.jpg" ,TC
 https://youvideostreaming.club/hls/ecutv3.m3u8
 
-#EXTINF:-1 tvg-chno=39" tvg-id="Telerama.ec" tvg-name="Telerama" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://static-media.streema.com/media/cache/27/af/27afea308274909fd22e99b78e6cc2df.jpg" ,Telerama
+#EXTINF:-1 tvg-chno="39" tvg-id="Telerama.ec" tvg-name="Telerama" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://static-media.streema.com/media/cache/27/af/27afea308274909fd22e99b78e6cc2df.jpg" ,Telerama
 https://envivo.telerama.ec/stream.m3u8
 
 #EXTINF:-1 tvg-chno="40" tvg-id="TVC.ec" tvg-name="TVC" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/986970273609109504/WGiYE_i2_400x400.jpg" ,TVC
@@ -89,7 +89,7 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_2.m3u8
 #EXTINF:-1 tvg-chno="56" tvg-id="Euronews.fr" tvg-name="EURONEWS" tvg-country="FR" tvg-language="SPANISH" group-title="NOTICIAS"  tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/24/fa/cd/24facda7-b9e2-6068-061b-cd742f4c0943/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" ,Euronews | FR
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="57" tvg-id="Telefe.ar" tvg-name="Telefe" tvg-country=AR" tvg-language="SPANISH" group-title="NOTICIAS"  tvg-logo="https://i.imgur.com/WAZn1np.png" ,Telefe | AR
+#EXTINF:-1 tvg-chno="57" tvg-id="Telefe.ar" tvg-name="Telefe" tvg-country="AR" tvg-language="SPANISH" group-title="NOTICIAS"  tvg-logo="https://i.imgur.com/WAZn1np.png" ,Telefe | AR
 https://siloh.pluto.tv/lilo/production/LATAM/Telefe/master_1.m3u8
 
 #EXTINF:-1 tvg-chno="58" tvg-id="eltoro.es" tvg-name="El Toro" tvg-logo="http://static-1.ivoox.com/canales/7/8/8/1/6391603381887_LG.jpg" group-title="NOTICIAS",El Toro | ES
@@ -274,7 +274,7 @@ https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/chunklist_w1898957158.
 #EXTINF:-1 tvg-chno="173" tvg-id="RCNXtra.co" tvg-name="RCN Xtra" tvg-country="CO" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://i.imgur.com/rP8UBPq.png" ,RCN Mas | CO
 https://rcntv-rcnmas-1-us.plex.wurl.tv/4300.m3u8
 
-#EXTINF:-1 tvg-chno="174" tvg-id="TelefeInt.ar" tvg-name="Telefe Internacional" tvg-country=AR" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://i.imgur.com/WAZn1np.png" ,Telefe Int | AR
+#EXTINF:-1 tvg-chno="174" tvg-id="TelefeInt.ar" tvg-name="Telefe Internacional" tvg-country="AR" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://i.imgur.com/WAZn1np.png" ,Telefe Int | AR
 https://siloh.pluto.tv/lilo/production/TelefePluto/master_1.m3u8
 
 #EXTINF:-1 tvg-chno="175" tvg-id="Bolivisión.bo" tvg-name="Bolivisión" tvg-country="BO" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png" ,Bolivisión | BO
