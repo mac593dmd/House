@@ -5,10 +5,10 @@
 #EXTINF:-1 tvg-chno="1" tvg-id="Pequeradio.es" tvg-name="Pequeradio" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="INFANTIL" ,Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
-#EXTINF:-1 tvg-chno="2" tvg-id="CartoonNetwork.es" tvg-name="Cartoon Network" tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="INFANTIL" ,Cartoon Network Latino
+#EXTINF:-1 tvg-chno="2" tvg-id="CartoonNetwork.es" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL" ,Cartoon Network Latino
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Cartoonito.es" tvg-name="Cartoonito" tvg-logo="https://www.elespectador.com/resizer/nl-rsmJcADKmiNEUmaQiHAat1SA=/arc-anglerfish-arc2-prod-elespectador/public/Q5GZ2WZL6VHNVCFVJK72P7UIHA.jpg" group-title="INFANTIL" ,Cartoonito
+#EXTINF:-1 tvg-chno="3" tvg-id="Cartoonito.es" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/5U7AMyc.png" group-title="INFANTIL" ,Cartoonito
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="4" tvg-id="Chiquilines.ec" tvg-name="Chiquilines" tvg-country="EC" tvg-language="SPANISH" group-title="INFANTIL"  tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/chiquilines_logo_light.png" ,Chiquilines
@@ -54,9 +54,6 @@ https://envivo.telerama.ec/stream.m3u8
 #EXTINF:-1 tvg-chno="40" tvg-id="TVC.ec" tvg-name="TVC" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/986970273609109504/WGiYE_i2_400x400.jpg" ,TVC
 https://d6op0qag07k4o.cloudfront.net/hls/tvc_360.m3u8
 
-#EXTINF:-1 tvg-chno="41" tvg-id="UCSGRTV.ec" tvg-name="UCSGRTV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://www.ucsgrtv.com/assets/images/about-icon-03.png" ,UCSGRTV
-https://ecuastream.net:19360/ucsghd/ucsghd.m3u8
-
 #EXTINF:-1 tvg-chno="42" tvg-id="RTS.ec" tvg-name="RTS" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/150px-Rts_logo.png" ,RTS
 https://d6op0qag07k4o.cloudfront.net/hls/rts_360.m3u8
 
@@ -95,12 +92,14 @@ https://siloh.pluto.tv/lilo/production/LATAM/Telefe/master_1.m3u8
 #EXTINF:-1 tvg-chno="58" tvg-id="eltoro.es" tvg-name="El Toro" tvg-logo="http://static-1.ivoox.com/canales/7/8/8/1/6391603381887_LG.jpg" group-title="NOTICIAS",El Toro | ES
 https://streaming011.gestec-video.com/hls/eltoro_bal.m3u8
 
-#EXTINF:-1 tvg-chno="59" tvg-id="adn40.mx" tvg-name="ADN 40" tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200" group-title="NOTICIAS",ADN40 | MX
+#EXTINF:-1 tvg-chno="59" tvg-id="adn40.mx" tvg-name="ADN 40" tvg-logo="https://i.imgur.com/MLdfm8o.png" group-title="NOTICIAS",ADN40 | MX
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-chno="60" tvg-id="cubavisión.cu" tvg-name="Cubavisión" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.beKw8aXaycAjAvQP4qaZvAHaFj%26pid%3DApi&f=1&ipt=2274222d9ec67fe539584391254bf1d178793e8be8a252e49b41dfd3ef13c317&ipo=images" group-title="NOTICIAS",Cubavisión |  CU
 https://tvup-live.secure2.footprint.net/cubavision/cubavision.mpd
 
+#EXTINF:-1 tvg-chno="61" tvg-id="Telemundo52.cr" tvg-name="Telemundo 52" tvg-country="CR" tvg-language="SPANISH" group-title="NOTICIAS"  tvg-logo="https://i.imgur.com/Ys31Rhw.png" ,Telemundo 52 | PR
+https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream6/master_1080.m3u8
 
 
 
@@ -136,6 +135,11 @@ https://daiconnect.com/live/hls/tvup/tivify-test-wildearth/9dd782540d3c929dc7677
 #EXTINF:-1 tvg-chno="90" tvg-id="StingrayNaturescape.us" tvg-name="Stingray Naturescape" tvg-country="US" tvg-language="SPANISH" group-title="CULTURA"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Stingray_Ambiance_logo.png/revision/latest?cb=20191020182946" ,Stingray Naturescape | US
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a20-62fbf52c1567211fdb82e922/variant.m3u8?url=4c5f20dd00665b31185a3bfb152f9ae8-c5551424f5e37e2ee79312a71c8c82fe3e957def7bc701eb85ecd7f66a860443da258604d1a6fb2dd77be3624e6151044d26ed3f8c5b9521898223c66993c5c846253e9a30a1ea5f6a4554166ca9c23afea4c56d6f17de019d428c703c06a4fc&x-plex-token=w_f3QjrHpqHJLsq3ZKXg
 
+#EXTINF:-1 tvg-chno="91" tvg-id="WappTV.ec" tvg-name="Wapp TV" tvg-country="EC" tvg-language="SPANISH" group-title="CULTURA"  tvg-logo="https://lh3.googleusercontent.com/-XPA8QBfVGSA/YLEWvahvgkI/AAAAAAABCjo/sVxl7r4_EQgdvmviKMozcvmxwajFgdLcgCJEEGAsYHg/s512/2021-05-28.jpg" ,Wapp TV
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/d47f184d-f0da-4966-b11b-d1ffc56ba60e/2.m3u8
+
+#EXTINF:-1 tvg-chno="92" tvg-id="DemandAfrica.mx" tvg-name="Demand Africa" tvg-country="MX" tvg-language="SPANISH" group-title="CULLTURA"  tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/75/89/64/7589640f-38b9-cf6f-0963-1980ee7758a1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png" ,Demand Africa | MX
+https://demandafrica-samsungmexico.amagi.tv/playlist1080p.m3u8
 
 
 
@@ -292,8 +296,17 @@ https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/chunklist_w746140526.m
 #EXTINF:-1 tvg-chno="179" tvg-id="15TelevisionSabinas.mx" tvg-name="15 Television Sabinas" tvg-country="MX" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/13/cf/9e/13cf9eb5-7c62-f2c7-bde0-efeee4e653b4/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x600wa.png" ,15 Television Sabinas | MX
 https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w1963013639.m3u8
 
-#EXTINF:-1 tvg-chno="180" tvg-id="tvg.gb" tvg-name="TVG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdJRKaoiwPUiroo9uU3S4dy93Q3pjIqtn6DA&usqp=CAU" group-title="PAISES" ,TVG
+#EXTINF:-1 tvg-chno="180" tvg-id="tvg.gb" tvg-name="TVG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdJRKaoiwPUiroo9uU3S4dy93Q3pjIqtn6DA&usqp=CAU" group-title="PAISES" ,TVG | ES
 https://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="181" tvg-id="CanalCapital.co" tvg-name="Canal Capital" tvg-country="CO" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://lh3.googleusercontent.com/-Emi_jrNT71c/XqeMwoB2P-I/AAAAAAAAyS4/pUS5P-UYKsoW5xFT9RQjmCl7ONAL0oG4wCK8BGAsYHg/s0/2020-04-27.png" ,Canal Capital | CO
+https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live-2500/index.m3u8
+
+#EXTINF:-1 tvg-chno="182" tvg-id="ATV.pe" tvg-name="ATV" tvg-country="PE" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png" ,ATV | PE
+https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
+
+#EXTINF:-1 tvg-chno="183" tvg-id="ATV+.pe" tvg-name="ATV +" tvg-country="PE" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png" ,ATV + | PE
+https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
 
 
 
@@ -328,7 +341,6 @@ https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="207" tvg-id="FlashTV.ec" tvg-name="Flash TV" tvg-country="EC" tvg-language="SPANISH" group-title="MUSICA"  tvg-logo="https://tvprofil.com/img/kanali-logo/flash-tv-logo.png" ,Flash TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/2470cc9f-360d-4124-b3fc-a53f6f0d731a/5.m3u8
-
 
 
 
