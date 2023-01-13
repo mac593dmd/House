@@ -138,7 +138,7 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a20-62fbf52c1567
 #EXTINF:-1 tvg-chno="91" tvg-id="WappTV.ec" tvg-name="Wapp TV" tvg-country="EC" tvg-language="SPANISH" group-title="CULTURA"  tvg-logo="https://lh3.googleusercontent.com/-XPA8QBfVGSA/YLEWvahvgkI/AAAAAAABCjo/sVxl7r4_EQgdvmviKMozcvmxwajFgdLcgCJEEGAsYHg/s512/2021-05-28.jpg" ,Wapp TV
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/d47f184d-f0da-4966-b11b-d1ffc56ba60e/2.m3u8
 
-#EXTINF:-1 tvg-chno="92" tvg-id="DemandAfrica.mx" tvg-name="Demand Africa" tvg-country="MX" tvg-language="SPANISH" group-title="CULLTURA"  tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/75/89/64/7589640f-38b9-cf6f-0963-1980ee7758a1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png" ,Demand Africa | MX
+#EXTINF:-1 tvg-chno="92" tvg-id="DemandAfrica.mx" tvg-name="Demand Africa" tvg-country="MX" tvg-language="SPANISH" group-title="CULTURA"  tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/75/89/64/7589640f-38b9-cf6f-0963-1980ee7758a1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png" ,Demand Africa | MX
 https://demandafrica-samsungmexico.amagi.tv/playlist1080p.m3u8
 
 
