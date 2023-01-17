@@ -342,3 +342,14 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/c57c0d
 
 
 
+#EXTINF:-1 tvg-chno="1001" tvg-id="RadioFMMundo.ec" tvg-name="Radio FM Mundo" tvg-country="EC" tvg-language="SPANISH" group-title="RA-EC"  tvg-logo="https://fmmundo.com/wp-content/uploads/2019/08/Fmmundo-comapartir.jpeg" ,FM Mundo | UIO
+https://streamingwowza.com:19360/fmmundolive/fmmundolive.m3u8
+
+#EXTINF:-1 tvg-chno="1002" tvg-id="RadioAmericaEstereo.ec" tvg-name="Radio America Estereo" tvg-country="EC" tvg-language="SPANISH" group-title="RA-EC"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4WM9M67xkX.jpg" ,America Estereo | UIO
+https://streamingwowza.com:19360/radioamericaquito/radioamericaquito.m3u8
+
+#EXTINF:-1 tvg-chno="1003" tvg-id="RadioMorena.ec" tvg-name="Radio Morena" tvg-country="EC" tvg-language="SPANISH" group-title="RA-EC" tvg-logo="https://cdn-radiotime-logos.tunein.com/s187650g.png" ,Radio Morena | GYE
+https://video.str3ming.com:3616/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-chno="1004" tvg-id="SonOndaTV.ec" tvg-name="Sono Onda TV" tvg-country="EC" tvg-language="SPANISH" group-title="RA-EC" tvg-logo="https://i2.paste.pics/8cac932b5b12ee4c5ae8a6ff04da69bc.png", Sono Onda TV | UIO
+https://mediacpstreamchile.com:1936/sonoonda/sonoonda/chunklist_w1535311867.m3u8
