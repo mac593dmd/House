@@ -60,11 +60,20 @@ https://d6op0qag07k4o.cloudfront.net/hls/rts_360.m3u8
 #EXTINF:-1 tvg-chno="43" tvg-id="HechosEC.ec" tvg-name="HECHOS" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/znddkhgxhbqp.jpg" ,Hechos
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/chunklist_w1839505953.m3u8
 
-#EXTINF:-1 tvg-chno="44" tvg-id="RedTVEVentanas.ec" tvg-name="Red TVE Ventanas" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://i2.paste.pics/4b572215220370b87829ebde7c0f63c9.png", Red TVE Ventanas | EC
+#EXTINF:-1 tvg-chno="44" tvg-id="RedTVEVentanas.ec" tvg-name="Red TVE Ventanas" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://i2.paste.pics/4b572215220370b87829ebde7c0f63c9.png", Red TVE Ventanas
 https://s2.tvdatta.com:3141/live/redtvelive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-chno="45" tvg-id="WuanPlusTV.ec" tvg-name="Wuan Plus TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://wuanplus.tv/wp-content/uploads/2017/10/cropped-2-WUAN-Orange-RGB-para-WEB.png" ,Wuan PlusTV
 https://streamingwowza.com:19360/wuanplus/wuanplus.m3u8
+
+#EXTINF:-1 tvg-chno="46" tvg-id="FMTV.ec" tvg-name="FMTV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://scontent.fjuj1-1.fna.fbcdn.net/v/t1.6435-1/p148x148/92024439_816035892239417_7261013389256687616_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=1eb0c7&_nc_ohc=F3ioXeZwNdcAX-KFu8Y&_nc_ht=scontent.fjuj1-1.fna&oh=601b97c5efa3e4823c421f4ae9c7e144&oe=61D20FC7" ,FMTV
+https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="47" tvg-id="MulticanalCatamayo.ec" tvg-name="Multicanal Catamayo" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/1047832405523030016/PbAkxwut_400x400.jpg" ,Multicanal Catamayo
+https://multicanal.streamseguro.com/hls/streaming.m3u8
+
+#EXTINF:-1 tvg-chno="48" tvg-id="puruwatv.ec" tvg-name="Puruwa TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://www.m3u.cl/logo/110_TV_Puruwa.png" ,Puruwa TV
+https://mediacp.us:8081/8054/tracks-v1a1/mono.m3u8
 
 
 
@@ -98,8 +107,11 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-chno="60" tvg-id="cubavisión.cu" tvg-name="Cubavisión" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Cubavisi%C3%B3n-Internacional-en-vivo-Online.png" group-title="NOTICIAS",Cubavisión |  CU
 https://tvup-live.secure2.footprint.net/cubavision/cubavision.mpd
 
-#EXTINF:-1 tvg-chno="61" tvg-id="Telemundo52.cr" tvg-name="Telemundo 52" tvg-country="CR" tvg-language="SPANISH" group-title="NOTICIAS"  tvg-logo="https://i.imgur.com/Ys31Rhw.png" ,Telemundo 52 | PR
+#EXTINF:-1 tvg-chno="61" tvg-id="Telemundo52.us" tvg-name="Telemundo 52" tvg-country="US" tvg-language="SPANISH" group-title="NOTICIAS"  tvg-logo="https://i.imgur.com/Ys31Rhw.png" ,Telemundo 52 | US
 https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream6/master_1080.m3u8
+
+#EXTINF:-1 tvg-chno="62" tvg-id="Telemundo.cr" tvg-name="Telemundo" tvg-country="CR" tvg-language="SPANISH" group-title="NOTICIAS"  tvg-logo="https://i.imgur.com/Ys31Rhw.png" ,Telemundo | PR
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 
 
 
@@ -139,6 +151,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-chno="92" tvg-id="DemandAfrica.mx" tvg-name="Demand Africa" tvg-country="MX" tvg-language="SPANISH" group-title="CULTURA"  tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/75/89/64/7589640f-38b9-cf6f-0963-1980ee7758a1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png" ,Demand Africa | MX
 https://demandafrica-samsungmexico.amagi.tv/playlist1080p.m3u8
 
+#EXTINF:-1 tvg-chno="93" tvg-id="EuroLatinaTVEspaña.es" tvg-name="EuroLatina TV España" tvg-country="ES" tvg-language="SPANISH" group-title="CULTURA" tvg-logo="https://eurolatinatelevision.com/wp-content/uploads/cropped-logo-eurolatina.png",EuroLatina TV España
+https://media2.streambrothers.com:1936/8150/8150/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-chno="101" tvg-id="expertoanimalgatos.es" tvg-name="Experto Animal Gatos" tvg-logo="https://www.webconsultas.com/sites/default/files/media/2019/10/21/experto_animal.jpg" group-title="CULTURA" ,Experto Animal Gatos
@@ -175,6 +190,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-distro/9
 
 #EXTINF:-1 tvg-chno="119" tvg-id="CineAR.ar" tvg-name="Cine AR" tvg-country="AR" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" ,Cine AR
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w352327459.m3u8
+
+#EXTINF:-1 tvg-chno="120" tvg-id="Juntos.ec" tvg-name="Juntos TV" tvg-country="EC" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/juntos_logo_dark_v3.png" ,Juntos TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/cb9e97c5-19a3-4d50-a070-859334ceb84b/5.m3u8
 
 #EXTINF:-1 tvg-chno="121" tvg-id="cinefeelgood.es" tvg-name="Cine Feel Gool" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://i.ytimg.com/vi/axMcwAsWXU4/mqdefault.jpg" ,Cine Feel Good
 https://daiconnect.com/live/hls/tvup/tvfy-feelgood/51933d2746a9887f25e7432fcdfd08b5/.m3u8?DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&requestuid=e20e20df-66bb-11ed-9e9d-d6835f939ca3
@@ -353,3 +371,4 @@ https://video.str3ming.com:3616/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-chno="1004" tvg-id="SonOndaTV.ec" tvg-name="Sono Onda TV" tvg-country="EC" tvg-language="SPANISH" group-title="RA-EC" tvg-logo="https://i2.paste.pics/8cac932b5b12ee4c5ae8a6ff04da69bc.png", Sono Onda TV | UIO
 https://mediacpstreamchile.com:1936/sonoonda/sonoonda/chunklist_w1535311867.m3u8
+
