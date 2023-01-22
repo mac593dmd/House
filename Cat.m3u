@@ -2,371 +2,371 @@
 
 
 
-#EXTINF:-1 tvg-chno="1" tvg-id="Pequeradio.es" tvg-name="Pequeradio" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="INFANTIL" ,Pequeradio TV
+#EXTINF:-1 tvg-chno="1" tvg-id="Pequeradio.es" tvg-name="Pequeradio" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="INFANTIL", Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
-#EXTINF:-1 tvg-chno="2" tvg-id="CartoonNetwork.es" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL" ,Cartoon Network Latino
+#EXTINF:-1 tvg-chno="2" tvg-id="CartoonNetwork.es" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL", Cartoon Network Latino
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Cartoonito.es" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/5U7AMyc.png" group-title="INFANTIL" ,Cartoonito
+#EXTINF:-1 tvg-chno="3" tvg-id="Cartoonito.es" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/5U7AMyc.png" group-title="INFANTIL", Cartoonito
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Chiquilines.ec" tvg-name="Chiquilines" tvg-country="EC" tvg-language="SPANISH" group-title="INFANTIL"  tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/chiquilines_logo_light.png" ,Chiquilines
+#EXTINF:-1 tvg-chno="4" tvg-id="Chiquilines.ec" tvg-name="Chiquilines" tvg-country="EC" tvg-language="SPANISH" group-title="INFANTIL"  tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/chiquilines_logo_light.png", Chiquilines
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/8d2eb6c0-598c-49e3-b536-0496beba7101/4.m3u8
 
-#EXTINF:-1 tvg-chno="5" tvg-id="PitufoTV.ec" tvg-name="Pitufo TV" tvg-country="EC" tvg-language="SPANISH" group-title="INFANTIL"  tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/bcec3e2f3cdb5e5eb87f4f526731dadf94b1c5ae16bdafb0cde04bbf17e6f37c._RI_V_TTW_.jpg" ,Pitufo TV
+#EXTINF:-1 tvg-chno="5" tvg-id="PitufoTV.ec" tvg-name="Pitufo TV" tvg-country="EC" tvg-language="SPANISH" group-title="INFANTIL"  tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/bcec3e2f3cdb5e5eb87f4f526731dadf94b1c5ae16bdafb0cde04bbf17e6f37c._RI_V_TTW_.jpg", Pitufo TV
 https://stream.ads.ottera.tv/cl/dO2CIqsxSn4lCCgAydZHi/1920x1080_2900000_5_f.m3u8
 
 #EXTINF:-1 tvg-chno="6" tvg-id="EducaTV.ec" tvg-name="Educa TV" tvg-country="EC" tvg-language="SPANISH" group-title="INFANTIL"  tvg-logo="https://lh3.googleusercontent.com/-gwVSG0Gv_VY/XzxqczgyXhI/AAAAAAAA4pA/P26xKeDaPZcrzl5WvvYymInXCZJRU3L3wCK8BGAsYHg/s0/2020-08-18.png", Educa TV | EC
 https://cloud7.streamingcnt.net/cnt/educa/chunklist_w143162487.m3u8
 
-#EXTINF:-1 tvg-chno="8" tvg-id="LosSimpson.us" tvg-name="Los Simpson" tvg-country="US" tvg-language="SPANISH" group-title="INFANTIL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png" ,Los Simpson
+#EXTINF:-1 tvg-chno="8" tvg-id="LosSimpson.us" tvg-name="Los Simpson" tvg-country="US" tvg-language="SPANISH" group-title="INFANTIL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png", Los Simpson
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w1263754573.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="21" tvg-id="medicostv.es" tvg-name="Medicos TV" tvg-logo="https://pbs.twimg.com/profile_images/879460223496462338/qiMA2_kt_400x400.jpg" group-title="CULTURA" ,Medicos Tv
+#EXTINF:-1 tvg-chno="21" tvg-id="medicostv.es" tvg-name="Medicos TV" tvg-logo="https://pbs.twimg.com/profile_images/879460223496462338/qiMA2_kt_400x400.jpg" group-title="CULTURA", Medicos Tv
 https://2-fss-1.streamhoster.com/pl_154/amlst:206242-3004894/1080/medSCTE35.m3u8
 
-#EXTINF:-1 tvg-chno="22" tvg-id="tastemade.es" tvg-name="Tastemade" tvg-logo="https://graph.facebook.com/TastemadeEs/picture?width=200&height=200" group-title="CULTURA" ,Tastemade
+#EXTINF:-1 tvg-chno="22" tvg-id="tastemade.es" tvg-name="Tastemade" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/23a7e9de-728e-4ede-ba4c-f96201c90fc8-profile_image-300x300.png" group-title="CULTURA", Tastemade
 https://tastemadees16intl-brightcove.amagi.tv/hls/amagi_hls_data_tastemade-tastemade-es16intl-brightcove/CDN/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="31" tvg-id="Ecotel.ec" tvg-name="Ecotel" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://sites.google.com/site/radioecotel/_/rsrc/1472777761320/ecotel-television-on-line-1/ECOLOGOTV.jpg" ,Ecotel
+#EXTINF:-1 tvg-chno="31" tvg-id="Ecotel.ec" tvg-name="Ecotel" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://sites.google.com/site/radioecotel/_/rsrc/1472777761320/ecotel-television-on-line-1/ECOLOGOTV.jpg", Ecotel
 https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 
-#EXTINF:-1 tvg-chno="34" tvg-id="Oromar.ec" tvg-name="Oromar" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://oromartv.com/wp-content/uploads/2022/05/IMG_20220401_100837_641.jpg" ,Oromar
+#EXTINF:-1 tvg-chno="34" tvg-id="Oromar.ec" tvg-name="Oromar" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://oromartv.com/wp-content/uploads/2022/05/IMG_20220401_100837_641.jpg", Oromar
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
-#EXTINF:-1 tvg-chno="35" tvg-id="PasajeTV.ec" tvg-name="Pasaje TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/818498293307162625/1ccnoN9X_400x400.jpg" ,Pasaje TV
+#EXTINF:-1 tvg-chno="35" tvg-id="PasajeTV.ec" tvg-name="Pasaje TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/818498293307162625/1ccnoN9X_400x400.jpg", Pasaje TV
 https://canal.pasajetv.com/PasajeTV.m3u8
 
-#EXTINF:-1 tvg-chno="36" tvg-id="RTU.ec" tvg-name="RTU" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_rtu.jpg" ,RTU
+#EXTINF:-1 tvg-chno="36" tvg-id="RTU.ec" tvg-name="RTU" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_rtu.jpg", RTU
 https://streamingwowza.com:19360/rtutv/rtutv.m3u8
 
-#EXTINF:-1 tvg-chno="37" tvg-id="TC.ec" tvg-name="TC" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://radiolacalle.com/wp-content/uploads/2021/04/46bafe86abf8f4083d79882b3f6f6dc4.jpg" ,TC
+#EXTINF:-1 tvg-chno="37" tvg-id="TC.ec" tvg-name="TC" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://radiolacalle.com/wp-content/uploads/2021/04/46bafe86abf8f4083d79882b3f6f6dc4.jpg", TC
 https://youvideostreaming.club/hls/ecutv3.m3u8
 
-#EXTINF:-1 tvg-chno="39" tvg-id="Telerama.ec" tvg-name="Telerama" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://static-media.streema.com/media/cache/27/af/27afea308274909fd22e99b78e6cc2df.jpg" ,Telerama
+#EXTINF:-1 tvg-chno="39" tvg-id="Telerama.ec" tvg-name="Telerama" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://static-media.streema.com/media/cache/27/af/27afea308274909fd22e99b78e6cc2df.jpg", Telerama
 https://envivo.telerama.ec/stream.m3u8
 
-#EXTINF:-1 tvg-chno="40" tvg-id="TVC.ec" tvg-name="TVC" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/986970273609109504/WGiYE_i2_400x400.jpg" ,TVC
+#EXTINF:-1 tvg-chno="40" tvg-id="TVC.ec" tvg-name="TVC" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/986970273609109504/WGiYE_i2_400x400.jpg", TVC
 https://d6op0qag07k4o.cloudfront.net/hls/tvc_360.m3u8
 
-#EXTINF:-1 tvg-chno="42" tvg-id="RTS.ec" tvg-name="RTS" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/150px-Rts_logo.png" ,RTS
+#EXTINF:-1 tvg-chno="42" tvg-id="RTS.ec" tvg-name="RTS" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/150px-Rts_logo.png", RTS
 https://d6op0qag07k4o.cloudfront.net/hls/rts_360.m3u8
 
-#EXTINF:-1 tvg-chno="43" tvg-id="HechosEC.ec" tvg-name="HECHOS" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/znddkhgxhbqp.jpg" ,Hechos
+#EXTINF:-1 tvg-chno="43" tvg-id="HechosEC.ec" tvg-name="HECHOS" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/znddkhgxhbqp.jpg", Hechos
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/chunklist_w1839505953.m3u8
 
 #EXTINF:-1 tvg-chno="44" tvg-id="RedTVEVentanas.ec" tvg-name="Red TVE Ventanas" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://i2.paste.pics/4b572215220370b87829ebde7c0f63c9.png", Red TVE Ventanas
 https://s2.tvdatta.com:3141/live/redtvelive.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-chno="45" tvg-id="WuanPlusTV.ec" tvg-name="Wuan Plus TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://wuanplus.tv/wp-content/uploads/2017/10/cropped-2-WUAN-Orange-RGB-para-WEB.png" ,Wuan PlusTV
+#EXTINF:-1 tvg-chno="45" tvg-id="WuanPlusTV.ec" tvg-name="Wuan Plus TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://wuanplus.tv/wp-content/uploads/2017/10/cropped-2-WUAN-Orange-RGB-para-WEB.png", Wuan PlusTV
 https://streamingwowza.com:19360/wuanplus/wuanplus.m3u8
 
-#EXTINF:-1 tvg-chno="46" tvg-id="FMTV.ec" tvg-name="FMTV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://scontent.fjuj1-1.fna.fbcdn.net/v/t1.6435-1/p148x148/92024439_816035892239417_7261013389256687616_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=1eb0c7&_nc_ohc=F3ioXeZwNdcAX-KFu8Y&_nc_ht=scontent.fjuj1-1.fna&oh=601b97c5efa3e4823c421f4ae9c7e144&oe=61D20FC7" ,FMTV
+#EXTINF:-1 tvg-chno="46" tvg-id="FMTV.ec" tvg-name="FMTV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://fmtv24.com/wp-content/uploads/2022/10/Untitled-design-18.png", FMTV
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="47" tvg-id="MulticanalCatamayo.ec" tvg-name="Multicanal Catamayo" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/1047832405523030016/PbAkxwut_400x400.jpg" ,Multicanal Catamayo
+#EXTINF:-1 tvg-chno="47" tvg-id="MulticanalCatamayo.ec" tvg-name="Multicanal Catamayo" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/1047832405523030016/PbAkxwut_400x400.jpg", Multicanal Catamayo
 https://multicanal.streamseguro.com/hls/streaming.m3u8
 
-#EXTINF:-1 tvg-chno="48" tvg-id="puruwatv.ec" tvg-name="Puruwa TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://www.m3u.cl/logo/110_TV_Puruwa.png" ,Puruwa TV
+#EXTINF:-1 tvg-chno="48" tvg-id="puruwatv.ec" tvg-name="Puruwa TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://www.m3u.cl/logo/110_TV_Puruwa.png", Puruwa TV
 https://mediacp.us:8081/8054/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="51" tvg-id="RT.ru" tvg-name="RT" tvg-country="RU" tvg-language="SPANISH" group-title="NOTICIAS"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" ,RT | RU
+#EXTINF:-1 tvg-chno="51" tvg-id="RT.ru" tvg-name="RT" tvg-country="RU" tvg-language="SPANISH" group-title="NOTICIAS"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png", RT | RU
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 
-#EXTINF:-1 tvg-chno="52" tvg-id="DW.de" tvg-name="DW" tvg-country="DE" tvg-language="SPANISH" group-title="NOTICIAS"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" ,DW | DE
+#EXTINF:-1 tvg-chno="52" tvg-id="DW.de" tvg-name="DW" tvg-country="DE" tvg-language="SPANISH" group-title="NOTICIAS"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", DW | DE
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-chno="53" tvg-id="teleSURtv.ve" tvg-name="teleSUR Tv" tvg-country="VE" tvg-language="SPANISH" group-title="NOTICIAS"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" ,TeleSUR TV | VE
+#EXTINF:-1 tvg-chno="53" tvg-id="teleSURtv.ve" tvg-name="teleSUR Tv" tvg-country="VE" tvg-language="SPANISH" group-title="NOTICIAS"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png", TeleSUR TV | VE
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="54" tvg-id="RTVE.es" tvg-name="RTVE" tvg-country="ES" tvg-language="SPANISH" group-title="NOTICIAS"  tvg-logo="https://pbs.twimg.com/profile_images/1269026518128365571/7PeLkMvv_400x400.jpg" ,RTVE | ES
+#EXTINF:-1 tvg-chno="54" tvg-id="RTVE.es" tvg-name="RTVE" tvg-country="ES" tvg-language="SPANISH" group-title="NOTICIAS"  tvg-logo="https://pbs.twimg.com/profile_images/1269026518128365571/7PeLkMvv_400x400.jpg", RTVE | ES
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-#EXTINF:-1 tvg-chno="55" tvg-id="Foro TV.mx" tvg-name="ForoTV" tvg-country="MX" tvg-language="SPANISH" group-title="NOTICIAS"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Foro_%28Televisa%29.png" ,Foro TV | MX
+#EXTINF:-1 tvg-chno="55" tvg-id="Foro TV.mx" tvg-name="ForoTV" tvg-country="MX" tvg-language="SPANISH" group-title="NOTICIAS"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Foro_%28Televisa%29.png", Foro TV | MX
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_2.m3u8
 
-#EXTINF:-1 tvg-chno="56" tvg-id="Euronews.fr" tvg-name="EURONEWS" tvg-country="FR" tvg-language="SPANISH" group-title="NOTICIAS"  tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/24/fa/cd/24facda7-b9e2-6068-061b-cd742f4c0943/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" ,Euronews | FR
+#EXTINF:-1 tvg-chno="56" tvg-id="Euronews.fr" tvg-name="EURONEWS" tvg-country="FR" tvg-language="SPANISH" group-title="NOTICIAS"  tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/24/fa/cd/24facda7-b9e2-6068-061b-cd742f4c0943/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png", Euronews | FR
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="57" tvg-id="Telefe.ar" tvg-name="Telefe" tvg-country="AR" tvg-language="SPANISH" group-title="NOTICIAS"  tvg-logo="https://i.imgur.com/WAZn1np.png" ,Telefe | AR
+#EXTINF:-1 tvg-chno="57" tvg-id="Telefe.ar" tvg-name="Telefe" tvg-country="AR" tvg-language="SPANISH" group-title="NOTICIAS"  tvg-logo="https://i.imgur.com/WAZn1np.png", Telefe | AR
 https://siloh.pluto.tv/lilo/production/LATAM/Telefe/master_1.m3u8
 
-#EXTINF:-1 tvg-chno="58" tvg-id="eltoro.es" tvg-name="El Toro" tvg-logo="http://static-1.ivoox.com/canales/7/8/8/1/6391603381887_LG.jpg" group-title="NOTICIAS",El Toro | ES
+#EXTINF:-1 tvg-chno="58" tvg-id="eltoro.es" tvg-name="El Toro" tvg-logo="http://static-1.ivoox.com/canales/7/8/8/1/6391603381887_LG.jpg" group-title="NOTICIAS", El Toro | ES
 https://streaming011.gestec-video.com/hls/eltoro_bal.m3u8
 
-#EXTINF:-1 tvg-chno="59" tvg-id="adn40.mx" tvg-name="ADN 40" tvg-logo="https://i.imgur.com/MLdfm8o.png" group-title="NOTICIAS",ADN40 | MX
+#EXTINF:-1 tvg-chno="59" tvg-id="adn40.mx" tvg-name="ADN 40" tvg-logo="https://i.imgur.com/MLdfm8o.png" group-title="NOTICIAS", ADN40 | MX
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 tvg-chno="60" tvg-id="cubavisión.cu" tvg-name="Cubavisión" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Cubavisi%C3%B3n-Internacional-en-vivo-Online.png" group-title="NOTICIAS",Cubavisión |  CU
+#EXTINF:-1 tvg-chno="60" tvg-id="cubavisión.cu" tvg-name="Cubavisión" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Cubavisi%C3%B3n-Internacional-en-vivo-Online.png" group-title="NOTICIAS", Cubavisión | CU
 https://tvup-live.secure2.footprint.net/cubavision/cubavision.mpd
 
-#EXTINF:-1 tvg-chno="61" tvg-id="Telemundo52.us" tvg-name="Telemundo 52" tvg-country="US" tvg-language="SPANISH" group-title="NOTICIAS"  tvg-logo="https://i.imgur.com/Ys31Rhw.png" ,Telemundo 52 | US
+#EXTINF:-1 tvg-chno="61" tvg-id="Telemundo52.us" tvg-name="Telemundo 52" tvg-country="US" tvg-language="SPANISH" group-title="NOTICIAS"  tvg-logo="https://i.imgur.com/Ys31Rhw.png", Telemundo 52 | US
 https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream6/master_1080.m3u8
 
-#EXTINF:-1 tvg-chno="62" tvg-id="Telemundo.cr" tvg-name="Telemundo" tvg-country="CR" tvg-language="SPANISH" group-title="NOTICIAS"  tvg-logo="https://i.imgur.com/Ys31Rhw.png" ,Telemundo | PR
+#EXTINF:-1 tvg-chno="62" tvg-id="Telemundo.cr" tvg-name="Telemundo" tvg-country="CR" tvg-language="SPANISH" group-title="NOTICIAS"  tvg-logo="https://i.imgur.com/Ys31Rhw.png", Telemundo | PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="81" tvg-id="elconfindencial.es" tvg-name="El Confindencial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Elconfidencial.jpg" group-title="CULTURA" ,El Confidencial
+#EXTINF:-1 tvg-chno="81" tvg-id="elconfindencial.es" tvg-name="El Confindencial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Elconfidencial.jpg" group-title="CULTURA", El Confidencial
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 
-#EXTINF:-1 tvg-chno="82" tvg-id="sinfiltros.es" tvg-name="Sin Filtros" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2017/02/09/639E1709-1B67-4F5E-B556-EC440C382190/1280x720.jpg" group-title="CULTURA" ,Sin Filtros | ES
+#EXTINF:-1 tvg-chno="82" tvg-id="sinfiltros.es" tvg-name="Sin Filtros" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2017/02/09/639E1709-1B67-4F5E-B556-EC440C382190/1280x720.jpg" group-title="CULTURA", Sin Filtros | ES
 https://daiconnect.com/live/hls/tvup/tivify-sinfiltros/3994d030860ea2583b3c423885623524/.m3u8?ApPW=1600&ApPH=793&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=e938af46-66bd-11ed-9e9d-d6835f939ca3
 
-#EXTINF:-1 tvg-chno="83" tvg-id="elpais.es" tvg-name="El Pais" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS88klxekQcwd48uMYWLyh3nO8E66rQE4Xbcw&usqp=CAU" group-title="CULTURA" ,El Pais | ES
+#EXTINF:-1 tvg-chno="83" tvg-id="elpais.es" tvg-name="El Pais" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS88klxekQcwd48uMYWLyh3nO8E66rQE4Xbcw&usqp=CAU" group-title="CULTURA", El Pais | ES
 https://daiconnect.com/live/hls/tvup/tivify-elpais/e619d43b1839455fb5d47bacdcc66382/.m3u8?ApPW=1600&ApPH=793&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=8ef12b23-66c0-11ed-9e9d-d6835f939ca3
 
-#EXTINF:-1 tvg-chno="84" tvg-id="inti.ec" tvg-name="Inti" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/INTI_Network_TV.png/800px-INTI_Network_TV.png" group-title="CULTURA" ,Inti | EC
+#EXTINF:-1 tvg-chno="84" tvg-id="inti.ec" tvg-name="Inti" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/INTI_Network_TV.png/800px-INTI_Network_TV.png" group-title="CULTURA", Inti | EC
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/chunklist_w897810099.m3u8
 
-#EXTINF:-1 tvg-chno="85" tvg-id="sabermas.ec" tvg-name="Saber Mas" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.rhDiggdUkd-sDQ3oC5iiXQHaHa%26pid%3DApi&f=1&ipt=06b379906eee77638928a0f2548d263e6577bae9f60323e87c770e1add2a2f6f&ipo=images" group-title="CULTURA" ,Saber Mas | EC
+#EXTINF:-1 tvg-chno="85" tvg-id="sabermas.ec" tvg-name="Saber Mas" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.rhDiggdUkd-sDQ3oC5iiXQHaHa%26pid%3DApi&f=1&ipt=06b379906eee77638928a0f2548d263e6577bae9f60323e87c770e1add2a2f6f&ipo=images" group-title="CULTURA", Saber Mas | EC
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/51c9e9da-09db-42b9-8db3-74af46633658/5.m3u8
 
-#EXTINF:-1 tvg-chno="86" tvg-id="CanalENCUENTRO.ar" tvg-name="Canal ENCUENTRO" tvg-country="AR" tvg-language="SPANISH" group-title="CULTURA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/2560px-Logo_del_canal_Encuentro.svg.png" ,Canal ENCUENTRO | AR
+#EXTINF:-1 tvg-chno="86" tvg-id="CanalENCUENTRO.ar" tvg-name="Canal ENCUENTRO" tvg-country="AR" tvg-language="SPANISH" group-title="CULTURA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/2560px-Logo_del_canal_Encuentro.svg.png", Canal ENCUENTRO | AR
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/chunklist_w1562995537.m3u8
 
-#EXTINF:-1 tvg-chno="87" tvg-id="TheGuardian.gb" tvg-name="The Guardian" tvg-country="GB" tvg-language="SPANISH" group-title="CULTURA"  tvg-logo="https://w7.pngwing.com/pngs/681/822/png-transparent-united-kingdom-the-guardian-theguardian-com-newspaper-guardian-media-group-united-kingdom-text-logo-news-thumbnail.png" ,The Guardian | GB
+#EXTINF:-1 tvg-chno="87" tvg-id="TheGuardian.gb" tvg-name="The Guardian" tvg-country="GB" tvg-language="SPANISH" group-title="CULTURA"  tvg-logo="https://w7.pngwing.com/pngs/681/822/png-transparent-united-kingdom-the-guardian-theguardian-com-newspaper-guardian-media-group-united-kingdom-text-logo-news-thumbnail.png", The Guardian | GB
 https://rakuten-guardian-1-eu.rakuten.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-chno="88" tvg-id="CGTNDoc.TV" tvg-name="CGTN Doc TV" tvg-logo="https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=200&height=200" group-title="CULTURA" ,CGTN Documentary | ENG
+#EXTINF:-1 tvg-chno="88" tvg-id="CGTNDoc.TV" tvg-name="CGTN Doc TV" tvg-logo="https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=200&height=200" group-title="CULTURA", CGTN Documentary | ENG
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
-#EXTINF:-1 tvg-chno="89" tvg-id="wildearth.us" tvg-name="Wild Earth" tvg-logo="https://149772863.v2.pressablecdn.com/wp-content/uploads/2017/02/logo-no-background2.jpg.png" group-title="CULTURA" ,Wild Earth | US
+#EXTINF:-1 tvg-chno="89" tvg-id="wildearth.us" tvg-name="Wild Earth" tvg-logo="https://149772863.v2.pressablecdn.com/wp-content/uploads/2017/02/logo-no-background2.jpg.png" group-title="CULTURA", Wild Earth | US
 https://daiconnect.com/live/hls/tvup/tivify-test-wildearth/9dd782540d3c929dc7677a0247a95a90/.m3u8?ApPW=1600&ApPH=793&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=a89ff30b-66be-11ed-9f6a-5a7b45621b50
 
-#EXTINF:-1 tvg-chno="90" tvg-id="StingrayNaturescape.us" tvg-name="Stingray Naturescape" tvg-country="US" tvg-language="SPANISH" group-title="CULTURA"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Stingray_Ambiance_logo.png/revision/latest?cb=20191020182946" ,Stingray Naturescape | US
+#EXTINF:-1 tvg-chno="90" tvg-id="StingrayNaturescape.us" tvg-name="Stingray Naturescape" tvg-country="US" tvg-language="SPANISH" group-title="CULTURA"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Stingray_Ambiance_logo.png/revision/latest?cb=20191020182946", Stingray Naturescape | US
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a20-62fbf52c1567211fdb82e922/variant.m3u8?url=4c5f20dd00665b31185a3bfb152f9ae8-c5551424f5e37e2ee79312a71c8c82fe3e957def7bc701eb85ecd7f66a860443da258604d1a6fb2dd77be3624e6151044d26ed3f8c5b9521898223c66993c5c846253e9a30a1ea5f6a4554166ca9c23afea4c56d6f17de019d428c703c06a4fc&x-plex-token=w_f3QjrHpqHJLsq3ZKXg
 
-#EXTINF:-1 tvg-chno="91" tvg-id="WappTV.ec" tvg-name="Wapp TV" tvg-country="EC" tvg-language="SPANISH" group-title="CULTURA"  tvg-logo="https://lh3.googleusercontent.com/-XPA8QBfVGSA/YLEWvahvgkI/AAAAAAABCjo/sVxl7r4_EQgdvmviKMozcvmxwajFgdLcgCJEEGAsYHg/s512/2021-05-28.jpg" ,Wapp TV
+#EXTINF:-1 tvg-chno="91" tvg-id="WappTV.ec" tvg-name="Wapp TV" tvg-country="EC" tvg-language="SPANISH" group-title="CULTURA"  tvg-logo="https://lh3.googleusercontent.com/-XPA8QBfVGSA/YLEWvahvgkI/AAAAAAABCjo/sVxl7r4_EQgdvmviKMozcvmxwajFgdLcgCJEEGAsYHg/s512/2021-05-28.jpg", Wapp TV
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/884d8d99-8505-45c8-b04c-9d598cf3d973/2.m3u8
 
-#EXTINF:-1 tvg-chno="92" tvg-id="DemandAfrica.mx" tvg-name="Demand Africa" tvg-country="MX" tvg-language="SPANISH" group-title="CULTURA"  tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/75/89/64/7589640f-38b9-cf6f-0963-1980ee7758a1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png" ,Demand Africa | MX
+#EXTINF:-1 tvg-chno="92" tvg-id="DemandAfrica.mx" tvg-name="Demand Africa" tvg-country="MX" tvg-language="SPANISH" group-title="CULTURA"  tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/75/89/64/7589640f-38b9-cf6f-0963-1980ee7758a1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png", Demand Africa | MX
 https://demandafrica-samsungmexico.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-chno="93" tvg-id="EuroLatinaTVEspaña.es" tvg-name="EuroLatina TV España" tvg-country="ES" tvg-language="SPANISH" group-title="CULTURA" tvg-logo="https://eurolatinatelevision.com/wp-content/uploads/cropped-logo-eurolatina.png",EuroLatina TV España
+#EXTINF:-1 tvg-chno="93" tvg-id="EuroLatinaTVEspaña.es" tvg-name="EuroLatina TV España" tvg-country="ES" tvg-language="SPANISH" group-title="CULTURA" tvg-logo="https://eurolatinatelevision.com/wp-content/uploads/cropped-logo-eurolatina.png", EuroLatina TV España
 https://media2.streambrothers.com:1936/8150/8150/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="101" tvg-id="expertoanimalgatos.es" tvg-name="Experto Animal Gatos" tvg-logo="https://www.webconsultas.com/sites/default/files/media/2019/10/21/experto_animal.jpg" group-title="CULTURA" ,Experto Animal Gatos
+#EXTINF:-1 tvg-chno="101" tvg-id="expertoanimalgatos.es" tvg-name="Experto Animal Gatos" tvg-logo="https://www.webconsultas.com/sites/default/files/media/2019/10/21/experto_animal.jpg" group-title="CULTURA", Experto Animal Gatos
 https://daiconnect.com/live/hls/tvup/tivify-vivircongatos/3994d030860ea2583b3c423885623524/.m3u8?ApPW=1600&ApPH=793&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=2f280a10-66be-11ed-9f6a-5a7b45621b50
 
-#EXTINF:-1 tvg-chno="102" tvg-id="expertoanimalperros.es" tvg-name="Experto Animal Perros" tvg-logo="https://t1.ea.ltmcdn.com/es/places/8/6/3/happycan-residencia-canina_1368_0_600.jpg" group-title="CULTURA" ,Experto Animal Perros
+#EXTINF:-1 tvg-chno="102" tvg-id="expertoanimalperros.es" tvg-name="Experto Animal Perros" tvg-logo="https://t1.ea.ltmcdn.com/es/places/8/6/3/happycan-residencia-canina_1368_0_600.jpg" group-title="CULTURA", Experto Animal Perros
 https://daiconnect.com/live/hls/tvup/tivify-vivirconperros/3994d030860ea2583b3c423885623524/.m3u8?ApPW=1600&ApPH=793&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=749a2d32-66be-11ed-9e9d-d6835f939ca3
 
 
 
-#EXTINF:-1 tvg-chno="111" tvg-id="gen.ar" tvg-name="GEN TV" tvg-country="AR" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://lh3.googleusercontent.com/-C5rX_zRruQw/X1TKqOXYS-I/AAAAAAAA5UA/IOKCb1AwbRsqtVnLmUBAvTj-8pnxmF7MgCK8BGAsYHg/s0/2020-09-06.png" ,GEN TV
+#EXTINF:-1 tvg-chno="111" tvg-id="gen.ar" tvg-name="GEN TV" tvg-country="AR" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://lh3.googleusercontent.com/-C5rX_zRruQw/X1TKqOXYS-I/AAAAAAAA5UA/IOKCb1AwbRsqtVnLmUBAvTj-8pnxmF7MgCK8BGAsYHg/s0/2020-09-06.png", GEN TV
 https://inliveserver.com:1936/14056/14056/chunklist_w1762324157.m3u8
 
-#EXTINF:-1 tvg-chno="112" tvg-id="TuCine.ar" tvg-name="Tu Cine" tvg-country="AR" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.E2U_cTcvjkLAE3bbd8pVygAAAA%26pid%3DApi&f=1&ipt=fa62cc11f6cb762e3e1e186977a0f6d057d80c07735c8ff17e69d61fc44c8786&ipo=images" ,Tu Cine
+#EXTINF:-1 tvg-chno="112" tvg-id="TuCine.ar" tvg-name="Tu Cine" tvg-country="AR" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.E2U_cTcvjkLAE3bbd8pVygAAAA%26pid%3DApi&f=1&ipt=fa62cc11f6cb762e3e1e186977a0f6d057d80c07735c8ff17e69d61fc44c8786&ipo=images", Tu Cine
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/ee9acdaa-d1f9-4223-b3eb-7f18ea20af23/5.m3u8
 
-#EXTINF:-1 tvg-chno="113" tvg-id="butakatv.ec" tvg-name="Butaka TV" tvg-country="EC" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://m.media-amazon.com/images/I/61oOVpNLmqL._SL500_.png" ,Butaka TV
+#EXTINF:-1 tvg-chno="113" tvg-id="butakatv.ec" tvg-name="Butaka TV" tvg-country="EC" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://m.media-amazon.com/images/I/61oOVpNLmqL._SL500_.png", Butaka TV
 https://veranda-butacatv-2-mx.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-chno="114" tvg-id="topcine.ec" tvg-name="Top Cine" tvg-country="EC" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TopCine_295x98.png" ,Top Cine
+#EXTINF:-1 tvg-chno="114" tvg-id="topcine.ec" tvg-name="Top Cine" tvg-country="EC" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TopCine_295x98.png", Top Cine
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/2b9a0b7e-12c8-4f83-975c-55687a09fdf4/5.m3u8
 
-#EXTINF:-1 tvg-chno="115" tvg-id="cinereal.ec" tvg-name="Cine Real" tvg-country="EC" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/cine-real.jpg?itok=xcg6JUt0" ,Cine Real
+#EXTINF:-1 tvg-chno="115" tvg-id="cinereal.ec" tvg-name="Cine Real" tvg-country="EC" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/cine-real.jpg?itok=xcg6JUt0", Cine Real
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/8782eee9-ea63-45af-9849-a56547561a84/5.m3u8
 
-#EXTINF:-1 tvg-chno="116" tvg-id="Cortos.ec" tvg-name="Cortos" tvg-country="EC" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://w7.pngwing.com/pngs/244/256/png-transparent-short-film-cinema-graphy-others-photography-film-metal.png" ,Cortos
+#EXTINF:-1 tvg-chno="116" tvg-id="Cortos.ec" tvg-name="Cortos" tvg-country="EC" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://w7.pngwing.com/pngs/244/256/png-transparent-short-film-cinema-graphy-others-photography-film-metal.png", Cortos
 https://amc-cortos-1-us.plex.wurl.tv/6dbbaa2db12ab50781c9147553a6f01d.m3u8
 
-#EXTINF:-1 tvg-chno="117" tvg-id="LaCorriente.ec" tvg-name="La Corriente" tvg-country="EC" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://e7.pngegg.com/pngimages/699/365/png-clipart-flamenco-ballet-dancer-silhouette-animals-free-dance.png" ,La Corriente
+#EXTINF:-1 tvg-chno="117" tvg-id="LaCorriente.ec" tvg-name="La Corriente" tvg-country="EC" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://e7.pngegg.com/pngimages/699/365/png-clipart-flamenco-ballet-dancer-silhouette-animals-free-dance.png", La Corriente
 https://stream.ads.ottera.tv/cl/O9nrszSd8_VV6lJV0GJ33/1280x720_2300000_0_f.m3u8
 
-#EXTINF:-1 tvg-chno="118" tvg-id="CineSureño.ec" tvg-name="Cine Sureño" tvg-country="EC" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://i.ytimg.com/vi/d-o_vB7tJ6Y/hqdefault.jpg" ,Cine Sureño
+#EXTINF:-1 tvg-chno="118" tvg-id="CineSureño.ec" tvg-name="Cine Sureño" tvg-country="EC" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://i.ytimg.com/vi/d-o_vB7tJ6Y/hqdefault.jpg", Cine Sureño
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-distro/9b081c51-6d31-4f5f-a025-93ab28f64c73/5.m3u8
 
-#EXTINF:-1 tvg-chno="119" tvg-id="CineAR.ar" tvg-name="Cine AR" tvg-country="AR" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" ,Cine AR
+#EXTINF:-1 tvg-chno="119" tvg-id="CineAR.ar" tvg-name="Cine AR" tvg-country="AR" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png", Cine AR
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w352327459.m3u8
 
-#EXTINF:-1 tvg-chno="120" tvg-id="Juntos.ec" tvg-name="Juntos TV" tvg-country="EC" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/juntos_logo_dark_v3.png" ,Juntos TV
+#EXTINF:-1 tvg-chno="120" tvg-id="Juntos.ec" tvg-name="Juntos TV" tvg-country="EC" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/juntos_logo_dark_v3.png", Juntos TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/cb9e97c5-19a3-4d50-a070-859334ceb84b/5.m3u8
 
-#EXTINF:-1 tvg-chno="121" tvg-id="cinefeelgood.es" tvg-name="Cine Feel Gool" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://i.ytimg.com/vi/axMcwAsWXU4/mqdefault.jpg" ,Cine Feel Good
+#EXTINF:-1 tvg-chno="121" tvg-id="cinefeelgood.es" tvg-name="Cine Feel Gool" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://i.ytimg.com/vi/axMcwAsWXU4/mqdefault.jpg", Cine Feel Good
 https://daiconnect.com/live/hls/tvup/tvfy-feelgood/51933d2746a9887f25e7432fcdfd08b5/.m3u8?DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&requestuid=e20e20df-66bb-11ed-9e9d-d6835f939ca3
 
-#EXTINF:-1 tvg-chno="122" tvg-id="f&c.es" tvg-name="Film & Co" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=72&h=54&tok=79fab5&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Ffilmco.png" ,F&C
+#EXTINF:-1 tvg-chno="122" tvg-id="f&c.es" tvg-name="Film & Co" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=72&h=54&tok=79fab5&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Ffilmco.png", F&C
 https://daiconnect.com/live/hls/tvup/tvfy-filmco/3994d030860ea2583b3c423885623524/.m3u8?ApPW=1600&ApPH=793&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=3958e82a-66bc-11ed-9f6a-5a7b45621b50
 
-#EXTINF:-1 tvg-chno="123" tvg-id="cinesverditv.es" tvg-name="Cines Verdi TV" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://www.moviementarios.com/wp-content/uploads/2021/02/cinesverditv.jpg" ,Cines Verdi Tv
+#EXTINF:-1 tvg-chno="123" tvg-id="cinesverditv.es" tvg-name="Cines Verdi TV" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://www.moviementarios.com/wp-content/uploads/2021/02/cinesverditv.jpg", Cines Verdi Tv
 https://daiconnect.com/live/hls/tvup/tvfy-verdi/51933d2746a9887f25e7432fcdfd08b5/.m3u8?DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&requestuid=a9ee4d26-66bc-11ed-9e9d-d6835f939ca3
 
-#EXTINF:-1 tvg-chno="124" tvg-id="Runtimetvypeliculas.es" tvg-name="Run Time TV y Peliculas" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThgpTxFLdjk629i3PDoADODdUcsKhIutO3MBlAqBVN5xYS0K67JGhvUCm5LE8jnrarXx0&usqp=CAU" ,Run Time TV y Peliculas
+#EXTINF:-1 tvg-chno="124" tvg-id="Runtimetvypeliculas.es" tvg-name="Run Time TV y Peliculas" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThgpTxFLdjk629i3PDoADODdUcsKhIutO3MBlAqBVN5xYS0K67JGhvUCm5LE8jnrarXx0&usqp=CAU", Run Time TV y Peliculas
 https://daiconnect.com/live/hls/tvup/tvfy-rtflgs/11bed237a292749272b3b8c10ab34486/.m3u8?ApPW=1920&ApPH=1080&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=dcab93d2-66bc-11ed-9f6a-5a7b45621b50
 
-#EXTINF:-1 tvg-chno="125" tvg-id="RakutenTop.es" tvg-name="Rakuten Top" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/Logo-rakuten-tv-transparent-PNG.png" ,Rakuten Top
+#EXTINF:-1 tvg-chno="125" tvg-id="RakutenTop.es" tvg-name="Rakuten Top" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/Logo-rakuten-tv-transparent-PNG.png", Rakuten Top
 https://e2480f6eed82498b953d8a2eabd43b4f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_TopFree/18e11353-ae1a-407f-9558-806a0ed1da22/2.m3u8
 
-#EXTINF:-1 tvg-chno="126" tvg-id="Runtimeaccion.es" tvg-name="Run Time Accion" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/runtime_las_action.jpg?itok=raqVJkT3" ,Run Time Accion
+#EXTINF:-1 tvg-chno="126" tvg-id="Runtimeaccion.es" tvg-name="Run Time Accion" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/runtime_las_action.jpg?itok=raqVJkT3", Run Time Accion
 https://daiconnect.com/live/hls/tvup/tvfy-rtaccn/53f0b7ecb64151c0efd6716e36321ef4/.m3u8?ApPW=1920&ApPH=1080&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=05d68765-66bd-11ed-9f6a-5a7b45621b50
 
-#EXTINF:-1 tvg-chno="127" tvg-id="RakutenAction.es" tvg-name="Rakuten Action" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://image.pngaaa.com/380/5477380-middle.png" ,Rakuten Action
+#EXTINF:-1 tvg-chno="127" tvg-id="RakutenAction.es" tvg-name="Rakuten Action" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://image.pngaaa.com/380/5477380-middle.png", Rakuten Action
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-chno="128" tvg-id="Runtimecomedia.es" tvg-name="Run Time Comedia" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://cigars.roku.com/v1/resize/384x216/https%3A%2F%2Fimages.sr.roku.com%2FidType%2Froku%2Fcontext%2Ftrc%2Fid%2F7215d2db98d35fdc89d39d8c191a8840%2FrokuFeed%2Fassets%2Fd49120ba342551869c0f5405c400ac5b.jpeg%2Fmagic%2F384x0" ,Run Time Comedia
+#EXTINF:-1 tvg-chno="128" tvg-id="Runtimecomedia.es" tvg-name="Run Time Comedia" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://cigars.roku.com/v1/resize/384x216/https%3A%2F%2Fimages.sr.roku.com%2FidType%2Froku%2Fcontext%2Ftrc%2Fid%2F7215d2db98d35fdc89d39d8c191a8840%2FrokuFeed%2Fassets%2Fd49120ba342551869c0f5405c400ac5b.jpeg%2Fmagic%2F384x0", Run Time Comedia
 https://daiconnect.com/live/hls/tvup/tvfy-rtcomd/3a206ef355f10456753b7193b45d9a6a/.m3u8?ApPW=1920&ApPH=1080&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=2ddd36be-66bd-11ed-9e9d-d6835f939ca3
 
-#EXTINF:-1 tvg-chno="129" tvg-id="RakutenComedy.es" tvg-name="Rakuten Comedy" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://www.tecnologia.press/wp-content/uploads/2021/03/unnamed-1-512x492.png" ,Rakuten Comedy
+#EXTINF:-1 tvg-chno="129" tvg-id="RakutenComedy.es" tvg-name="Rakuten Comedy" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://www.tecnologia.press/wp-content/uploads/2021/03/unnamed-1-512x492.png", Rakuten Comedy
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-chno="130" tvg-id="Runtimethriller+terror.es" tvg-name="Run Time Thriller + Terror" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Thiller-y-Terror-en-directo-Online.png?fit=1920%2C1080&ssl=1" ,Run Time Thriller + Terror
+#EXTINF:-1 tvg-chno="130" tvg-id="Runtimethriller+terror.es" tvg-name="Run Time Thriller + Terror" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Thiller-y-Terror-en-directo-Online.png?fit=1920%2C1080&ssl=1", Run Time Thriller + Terror
 https://daiconnect.com/live/hls/tvup/tvfy-rtthrl/9ac4e9187143ac6d5452f0f9b53ede3c/.m3u8?ApPW=1920&ApPH=1080&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=54cef556-66bd-11ed-9e9d-d6835f939ca3
 
-#EXTINF:-1 tvg-chno="131" tvg-id="RakutenThrillers.es" tvg-name="Rakuten Thrillers" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://www.cineytele.com/wp-content/uploads/2018/04/rakuten.png" ,Rakuten Thrillers
+#EXTINF:-1 tvg-chno="131" tvg-id="RakutenThrillers.es" tvg-name="Rakuten Thrillers" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://www.cineytele.com/wp-content/uploads/2018/04/rakuten.png", Rakuten Thrillers
 https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenThriller/81af1d2c-334d-4dc5-8b44-9386bc557e10/2.m3u8
 
-#EXTINF:-1 tvg-chno="132" tvg-id="Runtimecrimen.es" tvg-name="Run Time Crimen" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Crimen-en-directo-Online.png?fit=1920%2C1080&ssl=1" ,Run Time Crimen
+#EXTINF:-1 tvg-chno="132" tvg-id="Runtimecrimen.es" tvg-name="Run Time Crimen" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Crimen-en-directo-Online.png?fit=1920%2C1080&ssl=1", Run Time Crimen
 https://daiconnect.com/live/hls/tvup/tvfy-rtcrim/29be370b4eccaf7a1ad9d2a02b871487/.m3u8?ApPW=1920&ApPH=1080&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=7de63aa2-66bd-11ed-9e9d-d6835f939ca3
 
-#EXTINF:-1 tvg-chno="133" tvg-id="RakutenDrama.es" tvg-name="Rakuten Drama" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://www.cineytele.com/wp-content/uploads/2018/04/rakuten.png" ,Rakuten Drama
+#EXTINF:-1 tvg-chno="133" tvg-id="RakutenDrama.es" tvg-name="Rakuten Drama" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://www.cineytele.com/wp-content/uploads/2018/04/rakuten.png", Rakuten Drama
 https://rakuten-tvshows-2-es.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-chno="134" tvg-id="Runtimeromance.es" tvg-name="Run Time Romance" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Romance-en-directo-Online.png?resize=218%2C150&ssl=1" ,Run Time Romance
+#EXTINF:-1 tvg-chno="134" tvg-id="Runtimeromance.es" tvg-name="Run Time Romance" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Romance-en-directo-Online.png?resize=218%2C150&ssl=1", Run Time Romance
 https://daiconnect.com/live/hls/tvup/tvfy-rtromc/b939fcae84b0fe5717c168deb77dcc4a/.m3u8?ApPW=1920&ApPH=1080&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=9ca3eead-66bd-11ed-9f6a-5a7b45621b50
 
-#EXTINF:-1 tvg-chno="135" tvg-id="RakutenRomantico.es" tvg-name="Rakuten Romantico" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/Logo-rakuten-tv-transparent-PNG.png" ,Rakuten Romantico
+#EXTINF:-1 tvg-chno="135" tvg-id="RakutenRomantico.es" tvg-name="Rakuten Romantico" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/Logo-rakuten-tv-transparent-PNG.png", Rakuten Romantico
 https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/6eb2cbad-3f4d-4dc2-b569-c4ce008607d9/2.m3u8
 
-#EXTINF:-1 tvg-chno="136" tvg-id="RakutenEspañol.es" tvg-name="Rakuten Español" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://www.tecnologia.press/wp-content/uploads/2021/03/unnamed-1-512x492.png" ,Rakuten Español
+#EXTINF:-1 tvg-chno="136" tvg-id="RakutenEspañol.es" tvg-name="Rakuten Español" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://www.tecnologia.press/wp-content/uploads/2021/03/unnamed-1-512x492.png", Rakuten Español
 https://128559a99ef24f61b53e3f954af3db8c.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_Local/1b89fb0a-e7e8-4922-b2a5-eb359ad77591/2.m3u8
 
-#EXTINF:-1 tvg-chno="137" tvg-id="RakutenFamily.es" tvg-name="Rakuten Family" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/Logo-rakuten-tv-transparent-PNG.png" ,Rakuten Family
+#EXTINF:-1 tvg-chno="137" tvg-id="RakutenFamily.es" tvg-name="Rakuten Family" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/Logo-rakuten-tv-transparent-PNG.png", Rakuten Family
 https://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-chno="138" tvg-id="RakutenStories.es" tvg-name="Rakuten Stories" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://www.tecnologia.press/wp-content/uploads/2021/03/unnamed-1-512x492.png" ,Rakuten Stories
+#EXTINF:-1 tvg-chno="138" tvg-id="RakutenStories.es" tvg-name="Rakuten Stories" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://www.tecnologia.press/wp-content/uploads/2021/03/unnamed-1-512x492.png", Rakuten Stories
 https://rakuten-spotlight-2-es.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-chno="139" tvg-id="A3CINE.es" tvg-name="A3CINE" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/A3Cine.png/640px-A3Cine.png" ,A3CINE
+#EXTINF:-1 tvg-chno="139" tvg-id="A3CINE.es" tvg-name="A3CINE" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/A3Cine.png/640px-A3Cine.png", A3CINE
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 
-#EXTINF:-1 tvg-chno="140" tvg-id="Runtimeclasicos.es" tvg-name="Run Time Clasicos" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cla%CC%81sicos-en-directo-Online.png?resize=218%2C150&ssl=1" ,Run Time Clasicos
+#EXTINF:-1 tvg-chno="140" tvg-id="Runtimeclasicos.es" tvg-name="Run Time Clasicos" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cla%CC%81sicos-en-directo-Online.png?resize=218%2C150&ssl=1", Run Time Clasicos
 https://daiconnect.com/live/hls/tvup/tvfy-rtclsc/0970efd6bbf19c6efe1d09808e0104b4/.m3u8?ApPW=1920&ApPH=1080&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=c06d0f65-66bd-11ed-9f6a-5a7b45621b50
 
-#EXTINF:-1 tvg-chno="141" tvg-id="PeliculasdelOeste.ec" tvg-name="Peliculas del Oeste" tvg-country="EC" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.0s825TztAJjj11WCdaGafwAAAA%26pid%3DApi&f=1&ipt=8ea22e1b64f00dabc961ee2f5b479ab501a4dd84b280775d580c22d987f16218&ipo=images" ,Peliculas del Oeste
+#EXTINF:-1 tvg-chno="141" tvg-id="PeliculasdelOeste.ec" tvg-name="Peliculas del Oeste" tvg-country="EC" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.0s825TztAJjj11WCdaGafwAAAA%26pid%3DApi&f=1&ipt=8ea22e1b64f00dabc961ee2f5b479ab501a4dd84b280775d580c22d987f16218&ipo=images", Peliculas del Oeste
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a20-63489eff90b96ef5e0eb3282/variant.m3u8?url=ab7ba574792ce65e771372fb374c1cef-3bf11150c4bc6da3ed45327adeb7c8558d51d42f11907d419c235ef06ea2259c8b6dbf6935e2ed94007fc14f0adab50399d4f79d5b5010304cfc01c89f83885f1b5fccbb762bea889912a71d9e2127908715c3a59a371f4f8b607788a22431bdaba86443c9ae0bfbcc0c97b9c7cca8414f4064b5fe2e11f9691e476d02d20e5d57721dfece60b1eb3505789390d6d63f6963870522b25b86b0884201cf93f14c7b55bbec9feeb717bb52e09293840cea03c2c89c0190bd92bcbdc9ddb915e5887e4b4f856b0f502dd2db6c668feb1807&x-plex-token=dfu8thF6AEgBgztQxx3d
 
-#EXTINF:-1 tvg-chno="142" tvg-id="ARTFLIX.ec" tvg-name="ARTFLIX" tvg-country="EC" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.-9tWFSDTbudsDn7rPLvsJgHaHa%26pid%3DApi&f=1&ipt=a178cb066d2da0021303b4e3b76d42f4d1ff4787e080ab120978b30073734fa3&ipo=images" ,ARTFLIX
+#EXTINF:-1 tvg-chno="142" tvg-id="ARTFLIX.ec" tvg-name="ARTFLIX" tvg-country="EC" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.-9tWFSDTbudsDn7rPLvsJgHaHa%26pid%3DApi&f=1&ipt=a178cb066d2da0021303b4e3b76d42f4d1ff4787e080ab120978b30073734fa3&ipo=images", ARTFLIX
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a20-6348a34c1159f6a5ce819b81/variant.m3u8?url=3f93e92b743bac198b921693a81495d7-5516ae703f7f4ea93426b6040d07cfedd5400c47c951726ef7d65b4c1d02db5708c29da0e56487e124180a9883cbbcdea7396973c43c92a65dab9e372ad9b4b1ae506d53e63543cca5e7ac7c4a888b63f96f16dc9869d3cdefa546bae6d7d618de39c1e43a8bba98fea85cff3d9cc38dc080ee1b6b445c8db9362b02855641ff4ed98c2f3125c76bffc282437553d7dd009e744108c605144733f107a671eef7ce3d46bb24f4cdf1838c585ef1737f746f68ba6973c19cf9bbc3f39ba48e3ff3e4a0ce5846f9998791ebbb5f2a0e22c4aa62c2ef8d84a614e8921a4f30867ccb&x-plex-token=dfu8thF6AEgBgztQxx3d
 
 
 
-#EXTINF:-1 tvg-chno="151" tvg-id="BeinSportsÑ.gb" tvg-name="Bein Sports Ñ" tvg-logo="https://i.imgur.com/D06tacN.png" group-title="DEPORTE" ,Bein Sports Ñ
+#EXTINF:-1 tvg-chno="151" tvg-id="BeinSportsÑ.gb" tvg-name="Bein Sports Ñ" tvg-logo="https://i.imgur.com/D06tacN.png" group-title="DEPORTE", Bein Sports Ñ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
-#EXTINF:-1 tvg-chno="152" tvg-id="BeinSportsX.gb" tvg-name="Bein Sports Xtra" tvg-logo="https://i.imgur.com/D06tacN.png" group-title="DEPORTE" ,Bein Sports Xtra
+#EXTINF:-1 tvg-chno="152" tvg-id="BeinSportsX.gb" tvg-name="Bein Sports Xtra" tvg-logo="https://i.imgur.com/D06tacN.png" group-title="DEPORTE", Bein Sports Xtra
 https://siloh.pluto.tv/lilo/production/bein/b1121710f0b14c1146591b65168004e6/master_1.m3u8
 
-#EXTINF:-1 tvg-chno="163" tvg-id="garajetv.ar" tvg-name="Garaje TV" tvg-logo="https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_200x200.jpg" group-title="DEPORTE" ,Garage TV
+#EXTINF:-1 tvg-chno="163" tvg-id="garajetv.ar" tvg-name="Garaje TV" tvg-logo="https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_200x200.jpg" group-title="DEPORTE", Garage TV
 http://186.0.233.76:1935/Garage/garage.smil/chunklist_w1648686726_b1296000_sleng.m3u8
 
-#EXTINF:-1 tvg-chno="164" tvg-id="PeopleareAwesome.us" tvg-name="People are Awesome" tvg-country="US" tvg-language="SPANISH" group-title="DEPORTE"  tvg-logo="https://pbs.twimg.com/profile_images/1379286557337653252/1jJOD0Zq_400x400.jpg" ,People are Awesome
+#EXTINF:-1 tvg-chno="164" tvg-id="PeopleareAwesome.us" tvg-name="People are Awesome" tvg-country="US" tvg-language="SPANISH" group-title="DEPORTE"  tvg-logo="https://pbs.twimg.com/profile_images/1379286557337653252/1jJOD0Zq_400x400.jpg", People are Awesome
 https://jukin-peopleareawesome-1-us.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-chno="165" tvg-id="redbulltv.ru"  tvg-name="Redbull TV" tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200" group-title="DEPORTE" ,Redbull TV
+#EXTINF:-1 tvg-chno="165" tvg-id="redbulltv.ru"  tvg-name="Redbull TV" tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200" group-title="DEPORTE", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 tvg-chno="166" tvg-id="surfchannel.es"  tvg-name="Surf Channel" tvg-logo="https://www.eurosima.com/wp-content/uploads/2022/03/surf-channel_logo-240x150.png" group-title="DEPORTE" ,Surf Channel
+#EXTINF:-1 tvg-chno="166" tvg-id="surfchannel.es"  tvg-name="Surf Channel" tvg-logo="https://www.eurosima.com/wp-content/uploads/2022/03/surf-channel_logo-240x150.png" group-title="DEPORTE", Surf Channel
 https://surfchannel-surfchannel-01-es.samsung.wurl.tv/playlist_1920x1080_4200k.m3u8
 
-#EXTINF:-1 tvg-chno="167" tvg-id="motorvisiontv.es"  tvg-name="Motorvision TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/motorvision-tv-3201.jpg" group-title="DEPORTE" ,Motorvision TV
+#EXTINF:-1 tvg-chno="167" tvg-id="motorvisiontv.es"  tvg-name="Motorvision TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/motorvision-tv-3201.jpg" group-title="DEPORTE", Motorvision TV
 https://daiconnect.com/live/hls/tvup/tvfy-mtov/791b83ec57063d5be36796eaa1279dcd/.m3u8?ApPW=1920&ApPH=1080&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=72d49265-66bf-11ed-9e9d-d6835f939ca3
 
 
 
-#EXTINF:-1 tvg-chno="171" tvg-id="tvpublica.ar" tvg-name="TV Publica" tvg-country="AR" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://e7.pngegg.com/pngimages/29/608/png-clipart-television-publica-argentina-television-public-broadcasting-partidos-television-text.png" ,TV Publica | AR
+#EXTINF:-1 tvg-chno="171" tvg-id="tvpublica.ar" tvg-name="TV Publica" tvg-country="AR" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://e7.pngegg.com/pngimages/29/608/png-clipart-television-publica-argentina-television-public-broadcasting-partidos-television-text.png", TV Publica | AR
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
 
-#EXTINF:-1 tvg-chno="172" tvg-id="Telemax.mx" tvg-name="Telemax" tvg-country="MX" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fdirectostv.teleame.com%2Fwp-content%2Fuploads%2F2018%2F01%2Ftelemax.png&f=1&nofb=1&ipt=9697e6b1ba0d84e550e36849a03f3c26a945fc08892896c08060358fc4ccf0e1&ipo=images" ,Telemax | MX
+#EXTINF:-1 tvg-chno="172" tvg-id="Telemax.mx" tvg-name="Telemax" tvg-country="MX" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fdirectostv.teleame.com%2Fwp-content%2Fuploads%2F2018%2F01%2Ftelemax.png&f=1&nofb=1&ipt=9697e6b1ba0d84e550e36849a03f3c26a945fc08892896c08060358fc4ccf0e1&ipo=images", Telemax | MX
 https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/chunklist_w1898957158.m3u8
 
-#EXTINF:-1 tvg-chno="173" tvg-id="RCNXtra.co" tvg-name="RCN Xtra" tvg-country="CO" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://i.imgur.com/rP8UBPq.png" ,RCN Mas | CO
+#EXTINF:-1 tvg-chno="173" tvg-id="RCNXtra.co" tvg-name="RCN Xtra" tvg-country="CO" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://i.imgur.com/rP8UBPq.png", RCN Mas | CO
 https://rcntv-rcnmas-1-us.plex.wurl.tv/4300.m3u8
 
-#EXTINF:-1 tvg-chno="174" tvg-id="TelefeInt.ar" tvg-name="Telefe Internacional" tvg-country="AR" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://i.imgur.com/WAZn1np.png" ,Telefe Int | AR
+#EXTINF:-1 tvg-chno="174" tvg-id="TelefeInt.ar" tvg-name="Telefe Internacional" tvg-country="AR" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://i.imgur.com/WAZn1np.png", Telefe Int | AR
 https://siloh.pluto.tv/lilo/production/TelefePluto/master_1.m3u8
 
-#EXTINF:-1 tvg-chno="175" tvg-id="Bolivisión.bo" tvg-name="Bolivisión" tvg-country="BO" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png" ,Bolivisión | BO
+#EXTINF:-1 tvg-chno="175" tvg-id="Bolivisión.bo" tvg-name="Bolivisión" tvg-country="BO" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png", Bolivisión | BO
 https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
 
-#EXTINF:-1 tvg-chno="176" tvg-id="canalcali.co" tvg-name="Canal Cali" tvg-country="CO" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://www.canalcalitv.com/wp-content/uploads/2017/10/Logo_CaliTV.png" ,Canal Cali | CO
+#EXTINF:-1 tvg-chno="176" tvg-id="canalcali.co" tvg-name="Canal Cali" tvg-country="CO" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://www.canalcalitv.com/wp-content/uploads/2017/10/Logo_CaliTV.png", Canal Cali | CO
 https://stmv2.voxtvhd.com.br/canalccali/canalccali/chunklist_w424458213.m3u8
 
-#EXTINF:-1 tvg-chno="177" tvg-id="RCNmas.co" tvg-name="RCN Mas" tvg-country="CO" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://i.imgur.com/rP8UBPq.png" ,RCN Xtra | CO
+#EXTINF:-1 tvg-chno="177" tvg-id="RCNmas.co" tvg-name="RCN Mas" tvg-country="CO" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://i.imgur.com/rP8UBPq.png", RCN Xtra | CO
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/4300.m3u8
 
-#EXTINF:-1 tvg-chno="178" tvg-id="14CanalCatorce.mx" tvg-name="14 Canal Catorce" tvg-country="MX" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Canal_Catorce.png" ,14 Canal Catorce | MX
+#EXTINF:-1 tvg-chno="178" tvg-id="14CanalCatorce.mx" tvg-name="14 Canal Catorce" tvg-country="MX" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Canal_Catorce.png", 14 Canal Catorce | MX
 https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/chunklist_w746140526.m3u8
 
-#EXTINF:-1 tvg-chno="179" tvg-id="15TelevisionSabinas.mx" tvg-name="15 Television Sabinas" tvg-country="MX" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/13/cf/9e/13cf9eb5-7c62-f2c7-bde0-efeee4e653b4/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x600wa.png" ,15 Television Sabinas | MX
+#EXTINF:-1 tvg-chno="179" tvg-id="15TelevisionSabinas.mx" tvg-name="15 Television Sabinas" tvg-country="MX" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/13/cf/9e/13cf9eb5-7c62-f2c7-bde0-efeee4e653b4/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x600wa.png", 15 Television Sabinas | MX
 https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w1963013639.m3u8
 
-#EXTINF:-1 tvg-chno="180" tvg-id="tvgalicia.es" tvg-name="TV Galicia" tvg-logo="https://lh3.googleusercontent.com/-NNimM6BK6ZQ/XkszwS7D6uI/AAAAAAAAwGw/zaSdPQcEOrk7IkrJiRFWvpqbLOHmMhNtwCK8BGAsYHg/s0/2020-02-17.png" group-title="PAISES" ,TV Galicia | ES
+#EXTINF:-1 tvg-chno="180" tvg-id="tvgalicia.es" tvg-name="TV Galicia" tvg-logo="https://lh3.googleusercontent.com/-NNimM6BK6ZQ/XkszwS7D6uI/AAAAAAAAwGw/zaSdPQcEOrk7IkrJiRFWvpqbLOHmMhNtwCK8BGAsYHg/s0/2020-02-17.png" group-title="PAISES", TV Galicia | ES
 https://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
 
-#EXTINF:-1 tvg-chno="181" tvg-id="CanalCapital.co" tvg-name="Canal Capital" tvg-country="CO" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://lh3.googleusercontent.com/-Emi_jrNT71c/XqeMwoB2P-I/AAAAAAAAyS4/pUS5P-UYKsoW5xFT9RQjmCl7ONAL0oG4wCK8BGAsYHg/s0/2020-04-27.png" ,Canal Capital | CO
+#EXTINF:-1 tvg-chno="181" tvg-id="CanalCapital.co" tvg-name="Canal Capital" tvg-country="CO" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://lh3.googleusercontent.com/-Emi_jrNT71c/XqeMwoB2P-I/AAAAAAAAyS4/pUS5P-UYKsoW5xFT9RQjmCl7ONAL0oG4wCK8BGAsYHg/s0/2020-04-27.png", Canal Capital | CO
 https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live-2500/index.m3u8
 
-#EXTINF:-1 tvg-chno="182" tvg-id="ATV.pe" tvg-name="ATV" tvg-country="PE" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png" ,ATV | PE
+#EXTINF:-1 tvg-chno="182" tvg-id="ATV.pe" tvg-name="ATV" tvg-country="PE" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png", ATV | PE
 https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
 
-#EXTINF:-1 tvg-chno="183" tvg-id="ATV+.pe" tvg-name="ATV +" tvg-country="PE" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png" ,ATV + | PE
+#EXTINF:-1 tvg-chno="183" tvg-id="ATV+.pe" tvg-name="ATV +" tvg-country="PE" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png", ATV + | PE
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="191" tvg-id="inglestotalprincipiante.es"  tvg-name="IT Principiante" tvg-logo="https://www.inglestotal.com/wp-content/uploads/2019/06/INGLESAUDIO2-360.jpg" group-title="Educación" ,IT Principiante
+#EXTINF:-1 tvg-chno="191" tvg-id="inglestotalprincipiante.es"  tvg-name="IT Principiante" tvg-logo="https://www.inglestotal.com/wp-content/uploads/2019/06/INGLESAUDIO2-360.jpg" group-title="Educación", IT Principiante
 https://daiconnect.com/live/hls/tvup/tivify-ita-principiante/3994d030860ea2583b3c423885623524/.m3u8?ApPW=1600&ApPH=793&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=95ea4afd-66c2-11ed-9e9d-d6835f939ca3
 
-#EXTINF:-1 tvg-chno="192" tvg-id="inglestotalintermedio.es"  tvg-name="IT Intermedio" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Podcasts125/v4/a8/b7/28/a8b7285b-0c9d-8f43-dfb8-ff24b53ed30b/mza_6821662929761198421.jpg/1200x600wp.png" group-title="Educación" ,IT Intermedio
+#EXTINF:-1 tvg-chno="192" tvg-id="inglestotalintermedio.es"  tvg-name="IT Intermedio" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Podcasts125/v4/a8/b7/28/a8b7285b-0c9d-8f43-dfb8-ff24b53ed30b/mza_6821662929761198421.jpg/1200x600wp.png" group-title="Educación", IT Intermedio
 https://daiconnect.com/live/hls/tvup/tivify-ita-intermedio/4e7d7cf8e0277f9029bfe0cb400f7769/.m3u8?ApPW=1600&ApPH=793&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=d948cb93-66c2-11ed-9e9d-d6835f939ca3
 
-#EXTINF:-1 tvg-chno="193" tvg-id="inglestotalavanzado.es"  tvg-name="IT Avanzado" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc-nA_EsGY06pp2t7ZOuHzKYhuAT49X08x5A&usqp=CAU" group-title="Educación" ,IT Avanzado
+#EXTINF:-1 tvg-chno="193" tvg-id="inglestotalavanzado.es"  tvg-name="IT Avanzado" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc-nA_EsGY06pp2t7ZOuHzKYhuAT49X08x5A&usqp=CAU" group-title="Educación", IT Avanzado
 https://daiconnect.com/live/hls/tvup/tivify-ita-avanzado/3994d030860ea2583b3c423885623524/.m3u8?ApPW=1600&ApPH=793&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=fe2eec2f-66c2-11ed-9e9d-d6835f939ca3
 
 
 
-#EXTINF:-1 tvg-chno="201" tvg-id="qelloconcerts.us" tvg-name="Qello Concerts" tvg-logo="https://m.media-amazon.com/images/I/61UKePMkOeL.png" group-title="MUSICA" ,Qello Concerts
+#EXTINF:-1 tvg-chno="201" tvg-id="qelloconcerts.us" tvg-name="Qello Concerts" tvg-logo="https://m.media-amazon.com/images/I/61UKePMkOeL.png" group-title="MUSICA", Qello Concerts
 https://daiconnect.com/live/hls/tvup/tvfy-qello/0f8612520f7d0c7a97d750e661ae473b/.m3u8?ApPW=1600&ApPH=793&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=c6f97c09-66bf-11ed-9f6a-5a7b45621b50
 
-#EXTINF:-1 tvg-chno="202" tvg-id="canalsurpatagonia.cl" tvg-name="Canal Sur Patagonia" tvg-country="CL" tvg-language="SPANISH" group-title="MUSICA"  tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.4zcC8XNI_kCtLjdBZdFcogHaHa%26pid%3DApi&f=1&ipt=581036818637fdddb1bb741bcc8c93953087f887a6060dc71beeddf15c711dc7&ipo=images" ,Canal Sur Patagonia
+#EXTINF:-1 tvg-chno="202" tvg-id="canalsurpatagonia.cl" tvg-name="Canal Sur Patagonia" tvg-country="CL" tvg-language="SPANISH" group-title="MUSICA"  tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.4zcC8XNI_kCtLjdBZdFcogHaHa%26pid%3DApi&f=1&ipt=581036818637fdddb1bb741bcc8c93953087f887a6060dc71beeddf15c711dc7&ipo=images", Canal Sur Patagonia
 https://v1.tustreaming.cl:19360/canalsurpatagoniatv/canalsurpatagoniatv.m3u8
 
-#EXTINF:-1 tvg-chno="203" tvg-id="retroplustv.ch" tvg-name="Retro Plus TV Chile" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="MUSICA" ,Retro Plus TV Chile EN
+#EXTINF:-1 tvg-chno="203" tvg-id="retroplustv.ch" tvg-name="Retro Plus TV Chile" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="MUSICA", Retro Plus TV Chile EN
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="204" tvg-id="toplatinotv.pe" tvg-name="Top Latino TV Perú" tvg-logo="https://lh3.googleusercontent.com/-2Pr5sAUtsTA/XkCTD7gYTyI/AAAAAAAAv8M/B9-Cs05PoO4uTYRUW4INkQhkH1NkuQQWACK8BGAsYHg/s0/2020-02-09.png" group-title="MUSICA" ,Top Latino TV Perú
+#EXTINF:-1 tvg-chno="204" tvg-id="toplatinotv.pe" tvg-name="Top Latino TV Perú" tvg-logo="https://lh3.googleusercontent.com/-2Pr5sAUtsTA/XkCTD7gYTyI/AAAAAAAAv8M/B9-Cs05PoO4uTYRUW4INkQhkH1NkuQQWACK8BGAsYHg/s0/2020-02-09.png" group-title="MUSICA", Top Latino TV Perú
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/chunklist_w251169644.m3u8
 
-#EXTINF:-1 tvg-chno="205" tvg-id="musictop.ar" tvg-name="Music Top Argentina" tvg-logo="https://lh3.googleusercontent.com/-jyK2QfeF7tk/YBShx6dT-eI/AAAAAAAA_k4/gq6qGMH-1UAurScNL4TayXfEA47gA1ljgCK8BGAsYHg/s0/2021-01-29.png" group-title="MUSICA" ,Music Top Argentina
+#EXTINF:-1 tvg-chno="205" tvg-id="musictop.ar" tvg-name="Music Top Argentina" tvg-logo="https://lh3.googleusercontent.com/-jyK2QfeF7tk/YBShx6dT-eI/AAAAAAAA_k4/gq6qGMH-1UAurScNL4TayXfEA47gA1ljgCK8BGAsYHg/s0/2021-01-29.png" group-title="MUSICA", Music Top Argentina
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="206" tvg-id="portalfoxmix.cl" tvg-name="Portal Foxmix Chile" tvg-logo="https://lh3.googleusercontent.com/-k9n3tedhqBs/XbC_-FblJSI/AAAAAAAArm4/pMPtuBhhdtoL_yFWs5dt23dHFTHHCv8hgCK8BGAsYHg/s0/2019-10-23.png" group-title="MUSICA" ,Portal Foxmix Chile
+#EXTINF:-1 tvg-chno="206" tvg-id="portalfoxmix.cl" tvg-name="Portal Foxmix Chile" tvg-logo="https://lh3.googleusercontent.com/-k9n3tedhqBs/XbC_-FblJSI/AAAAAAAArm4/pMPtuBhhdtoL_yFWs5dt23dHFTHHCv8hgCK8BGAsYHg/s0/2019-10-23.png" group-title="MUSICA", Portal Foxmix Chile
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="207" tvg-id="FlashTV.ec" tvg-name="Flash TV" tvg-country="EC" tvg-language="SPANISH" group-title="MUSICA"  tvg-logo="https://tvprofil.com/img/kanali-logo/flash-tv-logo.png" ,Flash TV
+#EXTINF:-1 tvg-chno="207" tvg-id="FlashTV.ec" tvg-name="Flash TV" tvg-country="EC" tvg-language="SPANISH" group-title="MUSICA"  tvg-logo="https://tvprofil.com/img/kanali-logo/flash-tv-logo.png", Flash TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/c57c0d89-91ea-4744-9a40-7543a331d581/5.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="1001" tvg-id="RadioFMMundo.ec" tvg-name="Radio FM Mundo" tvg-country="EC" tvg-language="SPANISH" group-title="RA-EC"  tvg-logo="https://fmmundo.com/wp-content/uploads/2019/08/Fmmundo-comapartir.jpeg" ,FM Mundo | UIO
+#EXTINF:-1 tvg-chno="1001" tvg-id="RadioFMMundo.ec" tvg-name="Radio FM Mundo" tvg-country="EC" tvg-language="SPANISH" group-title="RA-EC"  tvg-logo="https://fmmundo.com/wp-content/uploads/2019/08/Fmmundo-comapartir.jpeg", FM Mundo | UIO
 https://streamingwowza.com:19360/fmmundolive/fmmundolive.m3u8
 
-#EXTINF:-1 tvg-chno="1002" tvg-id="RadioAmericaEstereo.ec" tvg-name="Radio America Estereo" tvg-country="EC" tvg-language="SPANISH" group-title="RA-EC"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4WM9M67xkX.jpg" ,America Estereo | UIO
+#EXTINF:-1 tvg-chno="1002" tvg-id="RadioAmericaEstereo.ec" tvg-name="Radio America Estereo" tvg-country="EC" tvg-language="SPANISH" group-title="RA-EC"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4WM9M67xkX.jpg", America Estereo | UIO
 https://streamingwowza.com:19360/radioamericaquito/radioamericaquito.m3u8
 
-#EXTINF:-1 tvg-chno="1003" tvg-id="RadioMorena.ec" tvg-name="Radio Morena" tvg-country="EC" tvg-language="SPANISH" group-title="RA-EC" tvg-logo="https://cdn-radiotime-logos.tunein.com/s187650g.png" ,Radio Morena | GYE
+#EXTINF:-1 tvg-chno="1003" tvg-id="RadioMorena.ec" tvg-name="Radio Morena" tvg-country="EC" tvg-language="SPANISH" group-title="RA-EC" tvg-logo="https://cdn-radiotime-logos.tunein.com/s187650g.png", Radio Morena | GYE
 https://video.str3ming.com:3616/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-chno="1004" tvg-id="SonOndaTV.ec" tvg-name="Sono Onda TV" tvg-country="EC" tvg-language="SPANISH" group-title="RA-EC" tvg-logo="https://i2.paste.pics/8cac932b5b12ee4c5ae8a6ff04da69bc.png", Sono Onda TV | UIO
