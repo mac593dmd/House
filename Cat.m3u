@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 tvg-chno="1" tvg-id="Pequeradio.es" tvg-name="Pequeradio" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="INFANTIL", Pequeradio TV
+#EXTINF:-1 tvg-chno="1" tvg-id="Pequeradio.es" tvg-name="Pequeradio" tvg-logo="https://pbs.twimg.com/profile_images/1379909721721823233/uBcLvTIN_400x400.jpg" group-title="INFANTIL", Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 #EXTINF:-1 tvg-chno="2" tvg-id="CartoonNetwork.es" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL", Cartoon Network Latino
@@ -12,7 +12,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="4" tvg-id="Chiquilines.ec" tvg-name="Chiquilines" tvg-country="EC" tvg-language="SPANISH" group-title="INFANTIL"  tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/chiquilines_logo_light.png", Chiquilines
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/8d2eb6c0-598c-49e3-b536-0496beba7101/4.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/75a1c527-2b48-4bbc-a28e-cc4f123d1a8d/5.m3u8
 
 #EXTINF:-1 tvg-chno="5" tvg-id="PitufoTV.ec" tvg-name="Pitufo TV" tvg-country="EC" tvg-language="SPANISH" group-title="INFANTIL"  tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/bcec3e2f3cdb5e5eb87f4f526731dadf94b1c5ae16bdafb0cde04bbf17e6f37c._RI_V_TTW_.jpg", Pitufo TV
 https://stream.ads.ottera.tv/cl/dO2CIqsxSn4lCCgAydZHi/1920x1080_2900000_5_f.m3u8
@@ -127,25 +127,28 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/51c
 #EXTINF:-1 tvg-chno="86" tvg-id="CanalENCUENTRO.ar" tvg-name="Canal ENCUENTRO" tvg-country="AR" tvg-language="SPANISH" group-title="CULTURA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/2560px-Logo_del_canal_Encuentro.svg.png", Canal ENCUENTRO | AR
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/chunklist_w1562995537.m3u8
 
-#EXTINF:-1 tvg-chno="87" tvg-id="TheGuardian.gb" tvg-name="The Guardian" tvg-country="GB" tvg-language="SPANISH" group-title="CULTURA"  tvg-logo="https://w7.pngwing.com/pngs/681/822/png-transparent-united-kingdom-the-guardian-theguardian-com-newspaper-guardian-media-group-united-kingdom-text-logo-news-thumbnail.png", The Guardian | GB
-https://rakuten-guardian-1-eu.rakuten.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-chno="87" tvg-id="CGTNEspañol.TV" tvg-name="CGTN Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="CULTURA", CGTN Español
+https://global.cgtn.cicc.media.caton.cloud/hls/1669979134884073425/1669979134884073425.m3u8?vkey=577838549A96E050A397F73F8E1168D1D34ACD02D1E840FA8E4BE38CD3B0E1F0
 
 #EXTINF:-1 tvg-chno="88" tvg-id="CGTNDoc.TV" tvg-name="CGTN Doc TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png" group-title="CULTURA", CGTN Documentary | ENG
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
-#EXTINF:-1 tvg-chno="89" tvg-id="wildearth.us" tvg-name="Wild Earth" tvg-logo="https://149772863.v2.pressablecdn.com/wp-content/uploads/2017/02/logo-no-background2.jpg.png" group-title="CULTURA", Wild Earth | US
+#EXTINF:-1 tvg-chno="89" tvg-id="TheGuardian.gb" tvg-name="The Guardian" tvg-country="GB" tvg-language="SPANISH" group-title="CULTURA"  tvg-logo="https://w7.pngwing.com/pngs/681/822/png-transparent-united-kingdom-the-guardian-theguardian-com-newspaper-guardian-media-group-united-kingdom-text-logo-news-thumbnail.png", The Guardian | GB
+https://rakuten-guardian-1-eu.rakuten.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-chno="90" tvg-id="wildearth.us" tvg-name="Wild Earth" tvg-logo="https://149772863.v2.pressablecdn.com/wp-content/uploads/2017/02/logo-no-background2.jpg.png" group-title="CULTURA", Wild Earth | US
 https://daiconnect.com/live/hls/tvup/tivify-test-wildearth/9dd782540d3c929dc7677a0247a95a90/.m3u8?ApPW=1600&ApPH=793&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=a89ff30b-66be-11ed-9f6a-5a7b45621b50
 
-#EXTINF:-1 tvg-chno="90" tvg-id="StingrayNaturescape.us" tvg-name="Stingray Naturescape" tvg-country="US" tvg-language="SPANISH" group-title="CULTURA"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Stingray_Ambiance_logo.png/revision/latest?cb=20191020182946", Stingray Naturescape | US
+#EXTINF:-1 tvg-chno="91" tvg-id="StingrayNaturescape.us" tvg-name="Stingray Naturescape" tvg-country="US" tvg-language="SPANISH" group-title="CULTURA"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Stingray_Ambiance_logo.png/revision/latest?cb=20191020182946", Stingray Naturescape | US
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a20-62fbf52c1567211fdb82e922/variant.m3u8?url=4c5f20dd00665b31185a3bfb152f9ae8-c5551424f5e37e2ee79312a71c8c82fe3e957def7bc701eb85ecd7f66a860443da258604d1a6fb2dd77be3624e6151044d26ed3f8c5b9521898223c66993c5c846253e9a30a1ea5f6a4554166ca9c23afea4c56d6f17de019d428c703c06a4fc&x-plex-token=w_f3QjrHpqHJLsq3ZKXg
 
-#EXTINF:-1 tvg-chno="91" tvg-id="WappTV.ec" tvg-name="Wapp TV" tvg-country="EC" tvg-language="SPANISH" group-title="CULTURA"  tvg-logo="https://lh3.googleusercontent.com/-XPA8QBfVGSA/YLEWvahvgkI/AAAAAAABCjo/sVxl7r4_EQgdvmviKMozcvmxwajFgdLcgCJEEGAsYHg/s512/2021-05-28.jpg", Wapp TV
+#EXTINF:-1 tvg-chno="92" tvg-id="WappTV.ec" tvg-name="Wapp TV" tvg-country="EC" tvg-language="SPANISH" group-title="CULTURA"  tvg-logo="https://lh3.googleusercontent.com/-XPA8QBfVGSA/YLEWvahvgkI/AAAAAAABCjo/sVxl7r4_EQgdvmviKMozcvmxwajFgdLcgCJEEGAsYHg/s512/2021-05-28.jpg", Wapp TV
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/884d8d99-8505-45c8-b04c-9d598cf3d973/2.m3u8
 
-#EXTINF:-1 tvg-chno="92" tvg-id="DemandAfrica.mx" tvg-name="Demand Africa" tvg-country="MX" tvg-language="SPANISH" group-title="CULTURA"  tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/75/89/64/7589640f-38b9-cf6f-0963-1980ee7758a1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png", Demand Africa | MX
+#EXTINF:-1 tvg-chno="93" tvg-id="DemandAfrica.mx" tvg-name="Demand Africa" tvg-country="MX" tvg-language="SPANISH" group-title="CULTURA"  tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/75/89/64/7589640f-38b9-cf6f-0963-1980ee7758a1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png", Demand Africa | MX
 https://demandafrica-samsungmexico.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-chno="93" tvg-id="EuroLatinaTVEspaña.es" tvg-name="EuroLatina TV España" tvg-country="ES" tvg-language="SPANISH" group-title="CULTURA" tvg-logo="https://eurolatinatelevision.com/wp-content/uploads/cropped-logo-eurolatina.png", EuroLatina TV España
+#EXTINF:-1 tvg-chno="94" tvg-id="EuroLatinaTVEspaña.es" tvg-name="EuroLatina TV España" tvg-country="ES" tvg-language="SPANISH" group-title="CULTURA" tvg-logo="https://eurolatinatelevision.com/wp-content/uploads/cropped-logo-eurolatina.png", EuroLatina TV España
 https://media2.streambrothers.com:1936/8150/8150/playlist.m3u8
 
 
@@ -168,7 +171,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/
 https://veranda-butacatv-2-mx.samsung.wurl.tv/3000.m3u8
 
 #EXTINF:-1 tvg-chno="114" tvg-id="topcine.ec" tvg-name="Top Cine" tvg-country="EC" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TopCine_295x98.png", Top Cine
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/2b9a0b7e-12c8-4f83-975c-55687a09fdf4/5.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/494debf3-9c4a-4bda-a934-3629be386e0d/5.m3u8
 
 #EXTINF:-1 tvg-chno="115" tvg-id="cinereal.ec" tvg-name="Cine Real" tvg-country="EC" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/cine-real.jpg?itok=xcg6JUt0", Cine Real
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/8782eee9-ea63-45af-9849-a56547561a84/5.m3u8
@@ -186,12 +189,12 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-distro/9
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w352327459.m3u8
 
 #EXTINF:-1 tvg-chno="120" tvg-id="Juntos.ec" tvg-name="Juntos TV" tvg-country="EC" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/juntos_logo_dark_v3.png", Juntos TV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/cb9e97c5-19a3-4d50-a070-859334ceb84b/5.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/786dc974-9921-4a8d-970a-fb444b944470/5.m3u8
 
 #EXTINF:-1 tvg-chno="121" tvg-id="cinefeelgood.es" tvg-name="Cine Feel Gool" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://i.ytimg.com/vi/axMcwAsWXU4/mqdefault.jpg", Cine Feel Good
 https://daiconnect.com/live/hls/tvup/tvfy-feelgood/51933d2746a9887f25e7432fcdfd08b5/.m3u8?DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&requestuid=e20e20df-66bb-11ed-9e9d-d6835f939ca3
 
-#EXTINF:-1 tvg-chno="122" tvg-id="f&c.es" tvg-name="Film & Co" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=72&h=54&tok=79fab5&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Ffilmco.png", F&C
+#EXTINF:-1 tvg-chno="122" tvg-id="f&c.es" tvg-name="Film & Co" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://www.shutterstock.com/image-vector/fc-initial-logo-ampersand-monogram-260nw-335849561.jpg", F&C
 https://daiconnect.com/live/hls/tvup/tvfy-filmco/3994d030860ea2583b3c423885623524/.m3u8?ApPW=1600&ApPH=793&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=3958e82a-66bc-11ed-9f6a-5a7b45621b50
 
 #EXTINF:-1 tvg-chno="123" tvg-id="cinesverditv.es" tvg-name="Cines Verdi TV" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://www.moviementarios.com/wp-content/uploads/2021/02/cinesverditv.jpg", Cines Verdi Tv
@@ -219,7 +222,7 @@ https://rakuten-comedymovies-2-es.samsung.wurl.tv/3000.m3u8
 https://daiconnect.com/live/hls/tvup/tvfy-rtthrl/9ac4e9187143ac6d5452f0f9b53ede3c/.m3u8?ApPW=1920&ApPH=1080&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=54cef556-66bd-11ed-9e9d-d6835f939ca3
 
 #EXTINF:-1 tvg-chno="131" tvg-id="RakutenThrillers.es" tvg-name="Rakuten Thrillers" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://www.cineytele.com/wp-content/uploads/2018/04/rakuten.png", Rakuten Thrillers
-https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenThriller/81af1d2c-334d-4dc5-8b44-9386bc557e10/2.m3u8
+https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenThriller/5cc89f30-4266-434e-a576-f2d091f20059/2.m3u8
 
 #EXTINF:-1 tvg-chno="132" tvg-id="Runtimecrimen.es" tvg-name="Run Time Crimen" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://latinartv.com/sites/default/files/logos/runtime_crimen.jpg", Run Time Crimen
 https://daiconnect.com/live/hls/tvup/tvfy-rtcrim/29be370b4eccaf7a1ad9d2a02b871487/.m3u8?ApPW=1920&ApPH=1080&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=7de63aa2-66bd-11ed-9e9d-d6835f939ca3
@@ -245,13 +248,13 @@ https://rakuten-spotlight-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-chno="139" tvg-id="A3CINE.es" tvg-name="A3CINE" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/A3Cine.png/640px-A3Cine.png", A3CINE
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 
-#EXTINF:-1 tvg-chno="140" tvg-id="Runtimeclasicos.es" tvg-name="Run Time Clasicos" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Cla%CC%81sicos-en-directo-Online.png?resize=218%2C150&ssl=1", Run Time Clasicos
+#EXTINF:-1 tvg-chno="140" tvg-id="Runtimeclasicos.es" tvg-name="Run Time Clasicos" tvg-country="ES" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", Run Time Clasicos
 https://daiconnect.com/live/hls/tvup/tvfy-rtclsc/0970efd6bbf19c6efe1d09808e0104b4/.m3u8?ApPW=1920&ApPH=1080&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=c06d0f65-66bd-11ed-9f6a-5a7b45621b50
 
 #EXTINF:-1 tvg-chno="141" tvg-id="PeliculasdelOeste.ec" tvg-name="Peliculas del Oeste" tvg-country="EC" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo--S3-5cQOxClLIOINqVNN5YvYJzbmEyjAUwBJJzUIjT6xqE-6lxQGHJig1rwQztxKJSAhCBCeFUQv0dYqfGj4eud9QSjI6ty252qdAg_DuirV98e0VORtXXH4Hw6bzCWnueIB4ynTp3bhdP5NaRrG_W3Gkco6ixaLwKeqgW6942RYSUJScqWP4CX/s540/grjngo-logoroku.jpg", Peliculas del Oeste
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a20-63489eff90b96ef5e0eb3282/variant.m3u8?url=ab7ba574792ce65e771372fb374c1cef-3bf11150c4bc6da3ed45327adeb7c8558d51d42f11907d419c235ef06ea2259c8b6dbf6935e2ed94007fc14f0adab50399d4f79d5b5010304cfc01c89f83885f1b5fccbb762bea889912a71d9e2127908715c3a59a371f4f8b607788a22431bdaba86443c9ae0bfbcc0c97b9c7cca8414f4064b5fe2e11f9691e476d02d20e5d57721dfece60b1eb3505789390d6d63f6963870522b25b86b0884201cf93f14c7b55bbec9feeb717bb52e09293840cea03c2c89c0190bd92bcbdc9ddb915e5887e4b4f856b0f502dd2db6c668feb1807&x-plex-token=dfu8thF6AEgBgztQxx3d
 
-#EXTINF:-1 tvg-chno="142" tvg-id="ARTFLIX.ec" tvg-name="ARTFLIX" tvg-country="EC" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.-9tWFSDTbudsDn7rPLvsJgHaHa%26pid%3DApi&f=1&ipt=a178cb066d2da0021303b4e3b76d42f4d1ff4787e080ab120978b30073734fa3&ipo=images", ARTFLIX
+#EXTINF:-1 tvg-chno="142" tvg-id="ARTFLIX.ec" tvg-name="ARTFLIX" tvg-country="EC" tvg-language="SPANISH" group-title="CINE"  tvg-logo="https://i.playboard.app/p/63d72f10adf2e5cf1216a635de9281d3/default.jpg", ARTFLIX
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a20-6348a34c1159f6a5ce819b81/variant.m3u8?url=3f93e92b743bac198b921693a81495d7-5516ae703f7f4ea93426b6040d07cfedd5400c47c951726ef7d65b4c1d02db5708c29da0e56487e124180a9883cbbcdea7396973c43c92a65dab9e372ad9b4b1ae506d53e63543cca5e7ac7c4a888b63f96f16dc9869d3cdefa546bae6d7d618de39c1e43a8bba98fea85cff3d9cc38dc080ee1b6b445c8db9362b02855641ff4ed98c2f3125c76bffc282437553d7dd009e744108c605144733f107a671eef7ce3d46bb24f4cdf1838c585ef1737f746f68ba6973c19cf9bbc3f39ba48e3ff3e4a0ce5846f9998791ebbb5f2a0e22c4aa62c2ef8d84a614e8921a4f30867ccb&x-plex-token=dfu8thF6AEgBgztQxx3d
 
 
@@ -350,7 +353,7 @@ https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="207" tvg-id="FlashTV.ec" tvg-name="Flash TV" tvg-country="EC" tvg-language="SPANISH" group-title="MUSICA"  tvg-logo="https://tvprofil.com/img/kanali-logo/flash-tv-logo.png", Flash TV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/c57c0d89-91ea-4744-9a40-7543a331d581/5.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/ff0fc05e-7fdc-4416-9cb6-f5cc1e86a2f0/5.m3u8
 
 
 
