@@ -23,7 +23,7 @@ https://cloud7.streamingcnt.net/cnt/educa/chunklist_w143162487.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-id="LosSimpson.us" tvg-name="Los Simpson" tvg-country="US" tvg-language="SPANISH" group-title="INFANTIL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png", Los Simpson
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w1263754573.m3u8
 
-#EXTINF:-1 tvg-chno="10" tvg-id="HumorMax.ec" tvg-name="Humor Max" tvg-country="EC" tvg-language="SPANISH" group-title="Ecu" tvg-logo="http://www.humormaxchannel.com/humormax.png", Humor Max
+#EXTINF:-1 tvg-chno="10" tvg-id="HumorMax.ec" tvg-name="Humor Max" tvg-country="EC" tvg-language="SPANISH" group-title="INFANTIL" tvg-logo="http://www.humormaxchannel.com/humormax.png", Humor Max
 http://vcpar.myplaytv.com/humormax/live/playlist.m3u8
 
 
@@ -69,7 +69,7 @@ https://stmv.streamingvip.click/hechosecuador/hechosecuador/chunklist_w183950595
 #EXTINF:-1 tvg-chno="28" tvg-id="LatacungaTV.ec" tvg-name="Latacunga TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://www.latacungatv.com/images/logo.png", Latacunga TV
 https://ssh101.bozztv.com/ssh101/streamlatacungatv/chunks.m3u8?
 
-#EXTINF:-1 tvg-chno="29" tvg-id="LoretoTV.ec" tvg-name="Loreto TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="", Loreto TV
+#EXTINF:-1 tvg-chno="29" tvg-id="LoretoTV.ec" tvg-name="Loreto TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://seeklogo.com/images/M/marca-loreto-primera-version-logo-8AAD68C485-seeklogo.com.png", Loreto TV
 https://stmv1.voxhdnet.com/diego7128/diego7128/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="30" tvg-id="MulticanalCatamayo.ec" tvg-name="Multicanal Catamayo" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/1047832405523030016/PbAkxwut_400x400.jpg", Multicanal Catamayo
