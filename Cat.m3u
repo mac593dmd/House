@@ -12,7 +12,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="4" tvg-id="Chiquilines.ec" tvg-name="Chiquilines" tvg-country="EC" tvg-language="SPANISH" group-title="INFANTIL"  tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/chiquilines_logo_light.png", Chiquilines
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/75a1c527-2b48-4bbc-a28e-cc4f123d1a8d/5.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/5a7db800-95a8-4674-8c0b-3bb7f4f81709/4.m3u8
 
 #EXTINF:-1 tvg-chno="5" tvg-id="PitufoTV.ec" tvg-name="Pitufo TV" tvg-country="EC" tvg-language="SPANISH" group-title="INFANTIL"  tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/bcec3e2f3cdb5e5eb87f4f526731dadf94b1c5ae16bdafb0cde04bbf17e6f37c._RI_V_TTW_.jpg", Pitufo TV
 https://stream.ads.ottera.tv/cl/dO2CIqsxSn4lCCgAydZHi/1920x1080_2900000_5_f.m3u8
@@ -103,7 +103,7 @@ https://youvideostreaming.club/hls/ecutv4.m3u8
 #EXTINF:-1 tvg-chno="78" tvg-id="Telerama.ec" tvg-name="Telerama" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://static-media.streema.com/media/cache/27/af/27afea308274909fd22e99b78e6cc2df.jpg", Telerama
 https://envivo.telerama.ec/stream.m3u8
 
-#EXTINF:-1 tvg-chno="80" tvg-id="TroncalLive.ec" tvg-name="Troncal Live" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="http://coazucar.com/mobi/esp/images/logo_troncal01.png", Troncal Live
+#EXTINF:-1 tvg-chno="80" tvg-id="TroncalLive.ec" tvg-name="Troncal Live" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="http://coazucar.com/mobi/esp/images/logo_troncal01.png", Troncal Live 
 https://troncalive.site/hls/stream.m3u8
 
 #EXTINF:-1 tvg-chno="81" tvg-id="TVColor.ec" tvg-name="TV Color" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f6/10/4e/f6104ea0-e26c-c90f-8e4f-2267aabddbc2/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg", TV Color
@@ -198,7 +198,7 @@ https://tastemadees16intl-brightcove.amagi.tv/hls/amagi_hls_data_tastemade-taste
 https://daiconnect.com/live/hls/tvup/tivify-elpais/e619d43b1839455fb5d47bacdcc66382/.m3u8?ApPW=1600&ApPH=793&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=8ef12b23-66c0-11ed-9e9d-d6835f939ca3
 
 #EXTINF:-1 tvg-chno="159" tvg-id="WappTV.ec" tvg-name="Wapp TV" tvg-country="EC" tvg-language="SPANISH" group-title="CULTURA"  tvg-logo="https://lh3.googleusercontent.com/-XPA8QBfVGSA/YLEWvahvgkI/AAAAAAABCjo/sVxl7r4_EQgdvmviKMozcvmxwajFgdLcgCJEEGAsYHg/s512/2021-05-28.jpg", Wapp TV
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/14e93422-9737-4444-90ee-f6baccdfa251/2.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/39b4a267-3c22-43da-b49d-363da02e2cde/2.m3u8
 
 #EXTINF:-1 tvg-chno="160" tvg-id="DemandAfrica.mx" tvg-name="Demand Africa" tvg-country="MX" tvg-language="SPANISH" group-title="CULTURA"  tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/75/89/64/7589640f-38b9-cf6f-0963-1980ee7758a1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png", Demand Africa | MX
 https://demandafrica-samsungmexico.amagi.tv/playlist1080p.m3u8
@@ -245,16 +245,16 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/
 https://veranda-butacatv-2-mx.samsung.wurl.tv/3000.m3u8
 
 #EXTINF:-1 tvg-chno="254" tvg-id="topcine.ec" tvg-name="Top Cine" tvg-country="EC" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TopCine_295x98.png", Top Cine
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/494debf3-9c4a-4bda-a934-3629be386e0d/5.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/1ec254fb-3eba-4384-a527-342197adb3bf/5.m3u8
 
 #EXTINF:-1 tvg-chno="255" tvg-id="cinereal.ec" tvg-name="Cine Real" tvg-country="EC" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2022/12/CineReal_cover_FastChannel_1920x1080-752x423.jpg", Cine Real
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/8782eee9-ea63-45af-9849-a56547561a84/5.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/68f62097-28b0-46fc-a338-4b106d76a184/5.m3u8
 
 #EXTINF:-1 tvg-chno="256" tvg-id="CineAR.ar" tvg-name="Cine AR" tvg-country="AR" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png", Cine AR
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w352327459.m3u8
 
 #EXTINF:-1 tvg-chno="257" tvg-id="Juntos.ec" tvg-name="Juntos TV" tvg-country="EC" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/juntos_logo_dark_v3.png", Juntos TV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/786dc974-9921-4a8d-970a-fb444b944470/5.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/effb0b61-0443-4158-b796-79d8ebdbcbff/5.m3u8
 
 #EXTINF:-1 tvg-chno="258" tvg-id="CanelaTV.mx" tvg-name="Canela TV" tvg-country="MX" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://www.worldcupboxingseries.com/wp-content/uploads/2022/07/ctv.jpg", Canela TV
 https://stream.ads.ottera.tv/cl/S6Ga8kyTMSo1vnaR1vsU0/1280x720_3071200_0_f.m3u8
@@ -263,7 +263,7 @@ https://stream.ads.ottera.tv/cl/S6Ga8kyTMSo1vnaR1vsU0/1280x720_3071200_0_f.m3u8
 https://amc-cortos-1-us.plex.wurl.tv/6dbbaa2db12ab50781c9147553a6f01d.m3u8
 
 #EXTINF:-1 tvg-chno="260" tvg-id="CineSureño.ec" tvg-name="Cine Sureño" tvg-country="EC" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://i.ytimg.com/vi/d-o_vB7tJ6Y/hqdefault.jpg", Cine Sureño
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-distro/9b081c51-6d31-4f5f-a025-93ab28f64c73/5.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-distro/f7232293-5ae2-449a-b4f2-e770dcccc98b/5.m3u8
 
 #EXTINF:-1 tvg-chno="261" tvg-id="LaCorriente.ec" tvg-name="La Corriente" tvg-country="EC" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://e7.pngegg.com/pngimages/699/365/png-clipart-flamenco-ballet-dancer-silhouette-animals-free-dance.png", La Corriente
 https://stream.ads.ottera.tv/cl/O9nrszSd8_VV6lJV0GJ33/1280x720_2300000_0_f.m3u8
@@ -281,7 +281,7 @@ https://daiconnect.com/live/hls/tvup/tvfy-verdi/51933d2746a9887f25e7432fcdfd08b5
 https://daiconnect.com/live/hls/tvup/tvfy-rtflgs/11bed237a292749272b3b8c10ab34486/.m3u8?ApPW=1920&ApPH=1080&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=dcab93d2-66bc-11ed-9f6a-5a7b45621b50
 
 #EXTINF:-1 tvg-chno="266" tvg-id="RakutenTop.es" tvg-name="Rakuten Top" tvg-country="ES" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/Logo-rakuten-tv-transparent-PNG.png", Rakuten Top
-https://e2480f6eed82498b953d8a2eabd43b4f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_TopFree/9350642b-1025-46b0-8dbb-5b6bae97a6ba/2.m3u8
+https://e2480f6eed82498b953d8a2eabd43b4f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_TopFree/f28046b4-4e73-4c0c-87de-4a60750ce07c/2.m3u8
 
 #EXTINF:-1 tvg-chno="267" tvg-id="Runtimeaccion.es" tvg-name="Run Time Accion" tvg-country="ES" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/960x540/runtime_accion_16x9.jpg", Run Time Accion
 https://daiconnect.com/live/hls/tvup/tvfy-rtaccn/53f0b7ecb64151c0efd6716e36321ef4/.m3u8?ApPW=1920&ApPH=1080&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=05d68765-66bd-11ed-9f6a-5a7b45621b50
@@ -299,7 +299,7 @@ https://rakuten-comedymovies-2-es.samsung.wurl.tv/3000.m3u8
 https://daiconnect.com/live/hls/tvup/tvfy-rtthrl/9ac4e9187143ac6d5452f0f9b53ede3c/.m3u8?ApPW=1920&ApPH=1080&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=54cef556-66bd-11ed-9e9d-d6835f939ca3
 
 #EXTINF:-1 tvg-chno="272" tvg-id="RakutenThrillers.es" tvg-name="Rakuten Thrillers" tvg-country="ES" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://www.cineytele.com/wp-content/uploads/2018/04/rakuten.png", Rakuten Thrillers
-https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenThriller/b1bf6c2c-c75f-4fb2-a9e7-3750f812f26c/2.m3u8
+https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenThriller/d80371ab-1aea-4cd7-a2e0-4034308b8d1a/2.m3u8
 
 #EXTINF:-1 tvg-chno="273" tvg-id="Runtimecrimen.es" tvg-name="Run Time Crimen" tvg-country="ES" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://latinartv.com/sites/default/files/logos/runtime_crimen.jpg", Run Time Crimen
 https://daiconnect.com/live/hls/tvup/tvfy-rtcrim/29be370b4eccaf7a1ad9d2a02b871487/.m3u8?ApPW=1920&ApPH=1080&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=7de63aa2-66bd-11ed-9e9d-d6835f939ca3
@@ -311,7 +311,7 @@ https://rakuten-tvshows-2-es.samsung.wurl.tv/3000.m3u8
 https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/16372d8f-ee1f-4945-a1a1-45105684e66b/2.m3u8
 
 #EXTINF:-1 tvg-chno="276" tvg-id="RakutenRomantico.es" tvg-name="Rakuten Romantico" tvg-country="ES" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/Logo-rakuten-tv-transparent-PNG.png", Rakuten Romantico
-https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/84934690-4949-4e19-9fa6-3b1297aa20fe/2.m3u8
+https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/1025737e-1998-4a71-bf3c-dbcc747b43e3/2.m3u8
 
 #EXTINF:-1 tvg-chno="277" tvg-id="RakutenEspañol.es" tvg-name="Rakuten Español" tvg-country="ES" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://www.tecnologia.press/wp-content/uploads/2021/03/unnamed-1-512x492.png", Rakuten Español
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/3000.m3u8
@@ -332,7 +332,7 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a20-63489eff90b9
 https://daiconnect.com/live/hls/tvup/tvfy-rtclsc/0970efd6bbf19c6efe1d09808e0104b4/.m3u8?ApPW=1920&ApPH=1080&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=c06d0f65-66bd-11ed-9f6a-5a7b45621b50
 
 #EXTINF:-1 tvg-chno="283" tvg-id="ARTFLIX.ec" tvg-name="ARTFLIX" tvg-country="EC" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://i.playboard.app/p/63d72f10adf2e5cf1216a635de9281d3/default.jpg", ARTFLIX
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a20-6348a34c1159f6a5ce819b81/variant.m3u8?url=3ae1bd681c5d78def48c6082ea6100a4-d01283b969e5e844d4eb024c223aa9d6d75ab229e833b944316b1f13e1f18cf9fd76731014bfc4f7c1c002c46945524324ca0f365b0976a64ae2927552de30e3897bd61d481a5c7f1291978c89a85ea5cbb962621c4627b61e11518434ad8c2e2a01ae9bcc2e8dc779dd564eb33b63afad38c7ea42f12b0b49f8512a1a1dd5013ae9036a642d8a11776195c02b0017bb3272fabd5f1fabfe7823c0451f586709f5a149f936977e62b96affaa70d6deea2f0a8365815d5215d2b0963a85447fc6802fe95e2b6108650ca56eb6b67b1cd88e7ed2f303401c48db95f2c5b80cfd55&x-plex-token=eY3NME1DND_mSLfryHqD
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a20-6348a34c1159f6a5ce819b81/variant.m3u8?url=33ead07e9df3a03a04e84a7e4b9b686a-5495edbb547023e8669a8272261411590c9f0d3b84840aa13c0576e43efff759f6a4e61e06164446fd90e9325287ff398afd174f5896aa150520c956c0a754670dd96cb754372fdef914dd142b59b801c128568f03fab8e49c3ffcd6a35849a6de877bb3f0d2e414df3d98f54bed058166932ddb13c4f63c5dc5f2de0aa39455715c01d9acfd2f36cc116c431655db5e309edc61791a74ea26ba0f019b6930013f5ec2f87c7f23a0debfe4a29fbe6e6d2ef3daa345ba0ff04fdb9839af3c503ba24e0ce4a8e39852e458f888df82f3feee99cac24ccb4074cbeace35b2ff8014&x-plex-token=_MSkRi4igCy9znPDWyaa
 
 #EXTINF:-1 tvg-chno="284" tvg-id="CanelaClasicos.mx" tvg-name="Canela Clasicos" tvg-country="MX" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/linear-canela-classics-16x9_0.jpg", Canela Clasicos
 https://stream.ads.ottera.tv/cl/cq93w66X3gDwe_tpsWKzh/1280x720_3071200_0_f.m3u8
@@ -401,7 +401,6 @@ https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w1963013639.m3u8
 #EXTINF:-1 tvg-chno="421" tvg-id="Telemax.mx" tvg-name="Telemax" tvg-country="MX" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://i2.paste.pics/8a2bf919d229e094124cd4739b4c6c7c.png", Telemax | MX
 https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/chunklist_w1898957158.m3u8
 
-
 #EXTINF:-1 tvg-chno="424" tvg-id="ATV.pe" tvg-name="ATV" tvg-country="PE" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png", ATV | PE
 https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
 
@@ -455,7 +454,7 @@ https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="606" tvg-id="FlashTV.ec" tvg-name="Flash TV" tvg-country="EC" tvg-language="SPANISH" group-title="MUSICA"  tvg-logo="https://tvprofil.com/img/kanali-logo/flash-tv-logo.png", Flash TV | MX
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/b5fecf5d-6c7f-4178-ba6f-d3188b0d8068/5.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/c5743df6-77fe-4c14-ba3e-057d7d421d8c/5.m3u8
 
 #EXTINF:-1 tvg-chno="607" tvg-id="tvpj.ec" tvg-name="TVPJ" tvg-country="EC" tvg-language="SPANISH" group-title="MUSICA" tvg-logo="https://i.paste.pics/3a6934e8e137e270694013358a4f01dd.png", TVPJ | EC
 https://vdo.panelstreaming.live:3363/stream/play.m3u8?PlaylistM3UCL
@@ -470,5 +469,4 @@ https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="1000" tvg-id="NuevoTiempo.ec" tvg-name="Nuevo Tiempo" tvg-country="EC" tvg-language="SPANISH" group-title="RELIGION" tvg-logo="https://www.nuevotiempo.org/wp-content/uploads/sites/6/2020/03/logo-teste-novo-tempo-02-ES.png", Nuevo Tiempo | EC
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
-
 
