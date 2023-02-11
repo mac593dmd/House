@@ -240,7 +240,7 @@ https://inliveserver.com:1936/14056/14056/chunklist_w1762324157.m3u8
 #EXTINF:-1 tvg-chno="250" tvg-id="PlanetaTV.pe" tvg-name="Planeta TV" tvg-country="PE" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://i2.paste.pics/4075185fbbf2ba30f8739d15c9e56298.png", Planeta TV | PE
 https://live.obslivestream.com/planetatv/index.m3u8
 
-#EXTINF:-1 tvg-chno="12" group-title="CINE" tvg-logo="https://wowelsalvador.com/imagen/logo2.png", WOW TV | SV
+#EXTINF:-1 tvg-chno="251" group-title="CINE" tvg-logo="https://wowelsalvador.com/imagen/logo2.png", WOW TV | SV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="252" tvg-id="TuCine.ar" tvg-name="Tu Cine" tvg-country="AR" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TuCine_295x98.png", Tu Cine
