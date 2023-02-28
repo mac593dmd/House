@@ -19,8 +19,8 @@ https://stream.ads.ottera.tv/cl/dO2CIqsxSn4lCCgAydZHi/1920x1080_2900000_5_f.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-id="EducaTV.ec" tvg-name="Educa TV" tvg-country="EC" tvg-language="SPANISH" group-title="INFANTIL"  tvg-logo="https://lh3.googleusercontent.com/-gwVSG0Gv_VY/XzxqczgyXhI/AAAAAAAA4pA/P26xKeDaPZcrzl5WvvYymInXCZJRU3L3wCK8BGAsYHg/s0/2020-08-18.png", Educa TV | EC
 https://cloud7.streamingcnt.net/cnt/educa/chunklist_w143162487.m3u8
 
-#EXTINF:-1 tvg-chno="8" tvg-id="LosSimpson.us" tvg-name="Los Simpson" tvg-country="US" tvg-language="SPANISH" group-title="INFANTIL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png", Los Simpson
-https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w1263754573.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-id="PlanetaTvKids.ec" tvg-name="PlanetaTV Kids" tvg-country="EC" tvg-language="SPANISH" group-title="INFANTIL" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", PlanetaTV Kids
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 
 
 
@@ -62,12 +62,6 @@ https://multicanal.streamseguro.com/hls/streaming.m3u8
 
 #EXTINF:-1 tvg-chno="66" tvg-id="Oromar.ec" tvg-name="Oromar" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://oromartv.com/wp-content/uploads/2022/05/IMG_20220401_100837_641.jpg", Oromar
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
-
-#EXTINF:-1 tvg-chno="67" tvg-id="PasajeTV.ec" tvg-name="Pasaje TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/818498293307162625/1ccnoN9X_400x400.jpg", Pasaje TV
-https://canal.pasajetv.com/PasajeTV.m3u8
-
-#EXTINF:-1 tvg-chno="69" tvg-id="puruwatv.ec" tvg-name="Puruwa TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://www.m3u.cl/logo/110_TV_Puruwa.png", Puruwa TV
-https://mediacp.us:8081/8054/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="70" tvg-id="RadioMorena.ec" tvg-name="Radio Morena" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://cdn-radiotime-logos.tunein.com/s187650g.png", Radio Morena | RA-GYE
 https://video.str3ming.com:3616/hybrid/play.m3u8
@@ -215,6 +209,12 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="252" tvg-id="TDIColombia.co" group-title="CINE" tvg-logo="https://i.imgur.com/svNeBNv.png", TDI | CO
 https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
+
+#EXTINF:-1 tvg-chno="253" tvg-id="PlanetaTVMovies.ec" tvg-name="PlanetaTV Movies" tvg-country="EC" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", PlanetaTV Movies
+https://scl.edge.grupoz.cl/movie/live/movie.m3u8
+
+#EXTINF:-1 tvg-chno="255" tvg-id="SanVitoTV.ec" tvg-name="San Vito TV" tvg-country="EC" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://i2.paste.pics/cbcfd98188337b1bf79a92b1afb60ad3.png", San Vito TV
+https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="256" tvg-id="TuCine.mx" tvg-name="Tu Cine" tvg-country="MX" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TuCine_295x98.png", Tu Cine
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/5ecf9659-1cf6-45b8-ba84-655d91ef881c/5.m3u8
@@ -487,8 +487,8 @@ https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="403" tvg-id="Telemax.ar" tvg-name="Telemax" tvg-country="AR" tvg-language="SPANISH" group-title="PAISES" tvg-logo="https://i.imgur.com/gfX0hdB.png", Telemax | AR
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="404" tvg-id="Bolivisión.bo" tvg-name="Bolivisión" tvg-country="BO" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png", Bolivisión | BO
-https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
+#EXTINF:-1 tvg-chno="404" tvg-id="MiradorTV.ar" tvg-name="Mirador TV" tvg-country="AR" tvg-language="SPANISH" group-title="Ecu" tvg-logo="https://i.imgur.com/KjD1uJS.png", Mirador TV | AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="407" tvg-id="canalcali.co" tvg-name="Canal Cali" tvg-country="CO" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://www.canalcalitv.com/wp-content/uploads/2017/10/Logo_CaliTV.png", Canal Cali | CO
 https://stmv2.voxtvhd.com.br/canalccali/canalccali/chunklist_w424458213.m3u8
@@ -523,14 +523,14 @@ https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w1963013639.m3u8
 #EXTINF:-1 tvg-chno="421" tvg-id="Telemax.mx" tvg-name="Telemax" tvg-country="MX" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://i2.paste.pics/8a2bf919d229e094124cd4739b4c6c7c.png", Telemax | MX
 https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/chunklist_w1898957158.m3u8
 
-#EXTINF:-1 tvg-chno="424" tvg-id="ATV.pe" tvg-name="ATV" tvg-country="PE" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png", ATV | PE
-https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
-
-#EXTINF:-1 tvg-chno="425" tvg-id="ATV+.pe" tvg-name="ATV +" tvg-country="PE" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png", ATV + | PE
-https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
+#EXTINF:-1 tvg-chno="422" tvg-id="AztecaAmerica.mx" tvg-name="Azteca America" tvg-country="MX" tvg-language="SPANISH" group-title="PAISES" tvg-logo="https://i.imgur.com/vpXleBr.png", Azteca America | MX
+https://v-la.mybtv.net/live/107/1280x720.m3u8
 
 #EXTINF:-1 tvg-chno="426" tvg-id="ATVsur.pe" tvg-name="ATV Sur" tvg-country="PE" tvg-language="SPANISH" group-title="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png", ATV Sur | PE
 https://atvsur.mediatiquestream.com/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur1/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="427" tvg-id="Panamericana.pe" tvg-name="Panamericana" tvg-country="PE" tvg-language="SPANISH" group-title="PAISES" tvg-logo="https://i2.paste.pics/967fc9c451334a960cb23ee0482c77bc.png", Panamericana
+https://cdnh71.iblups.com/hls/ptv2.m3u8
 
 #EXTINF:-1 tvg-chno="428" tvg-id="Unimas.us" tvg-name="Unimas" tvg-country="US" tvg-language="SPANISH" group-title="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/220px-Logo_UniM%C3%A1s.svg.png", Unimas | US
 https://v-ny.mybtv.net/live/713/1280x720.m3u8
