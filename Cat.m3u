@@ -61,7 +61,7 @@ https://stmv1.voxhdnet.com/diego7128/diego7128/playlist.m3u8
 https://multicanal.streamseguro.com/hls/streaming.m3u8
 
 #EXTINF:-1 tvg-chno="66" tvg-id="Oromar.ec" tvg-name="Oromar" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://oromartv.com/wp-content/uploads/2022/05/IMG_20220401_100837_641.jpg", Oromar
-https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
+https://stream.oromartv.com:8085/hls/oromartv_hi/index.m3u8
 
 #EXTINF:-1 tvg-chno="70" tvg-id="RadioMorena.ec" tvg-name="Radio Morena" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://cdn-radiotime-logos.tunein.com/s187650g.png", Radio Morena | RA-GYE
 https://video.str3ming.com:3616/hybrid/play.m3u8
@@ -332,119 +332,128 @@ http://204.157.255.135:20001/play/a03g/index.m3u8
 #EXTINF:-1 tvg-chno="311" tvg-name="FOX SPORT 3 ECUADOR" group-title="DEPORTE" tvg-logo="https://i.imgur.com/NDWwKQI.jpg", FOX SPORT 3 ECUADOR | EC
 http://200.24.132.99:8000/play/a029
 
-#EXTINF:-1 tvg-chno="313" tvg-name="ESPN" group-title="DEPORTE" tvg-logo="https://i.imgur.com/Qltczdi.jpg", ESPN | AR
-http://181.189.246.86:58003/play/a02h/index.m3u8
+#EXTINF:-1 tvg-chno="313" tvg-name="TYC SPORTS" group-title="DEPORTE" tvg-logo="https://i.imgur.com/zKwneZ3.png", TYC SPORTS | AR
+http://nohn.me/play/hjGS-tDz3JSOQ6fHw721Vt8pBT2-ZCIo9LBdhw_QNtM
 
-#EXTINF:-1 tvg-chno="314" tvg-name="ESPN DEPORTES" group-title="DEPORTE" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png", ESPN DEPORTES | AR
+#EXTINF:-1 tvg-chno="315" tvg-name="ESPN" group-title="DEPORTE" tvg-logo="https://i.imgur.com/Qltczdi.jpg", ESPN | AR
+http://204.157.255.135:20001/play/a066/index.m3u8
+
+#EXTINF:-1 tvg-chno="316" tvg-name="ESPN DEPORTES" group-title="DEPORTE" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png", ESPN DEPORTES | AR
 http://185.191.124.105:25461/raminp/TAQhPJncSa/1150
 
-#EXTINF:-1 tvg-chno="315" tvg-name="ESPN VIVO" group-title="DEPORTE" tvg-logo="https://www.pngfind.com/pngs/m/120-1208622_espn-en-vivo-online-hd-por-internet-espn.png", ESPN VIVO | AR
+#EXTINF:-1 tvg-chno="317" tvg-name="ESPN VIVO" group-title="DEPORTE" tvg-logo="https://www.pngfind.com/pngs/m/120-1208622_espn-en-vivo-online-hd-por-internet-espn.png", ESPN VIVO | AR
 http://181.78.7.92:6500/play/a096/index.m3u8
 
-#EXTINF:-1 tvg-chno="316" tvg-name="ESPN 2 MX" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2 MX
-http://181.189.246.86:58003/play/a02j/index.m3u8
+#EXTINF:-1 tvg-chno="318" tvg-name="ESPN 2 HD" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2 HD | MX 
+http://190.61.101.9:8000/play/a03c/index.m3u8
 
-#EXTINF:-1 tvg-chno="317" tvg-name="ESPN 2 MX" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2 MX
+#EXTINF:-1 tvg-chno="320" tvg-name="ESPN 2 MX" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2 MX
 http://204.157.255.135:20001/play/a064/index.m3u8
 
-#EXTINF:-1 tvg-chno="318" tvg-name="ESPN 3" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3 | AR
+#EXTINF:-1 tvg-chno="321" tvg-name="ESPN 3" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3 | AR
 http://191.102.90.97:8000/play/a079/index.m3u8
 
-#EXTINF:-1 tvg-chno="319" tvg-name="ESPN 3 MXU" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3 MXU
-http://181.189.246.86:58003/play/a02i/index.m3u8
-
-#EXTINF:-1 tvg-chno="320" tvg-name="ESPN 3 HD" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3 HD | AR
+#EXTINF:-1 tvg-chno="322" tvg-name="ESPN 3 HD" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3 HD | AR
 http://190.5.200.52:8000/play/a00g/index.m3u8
 
-#EXTINF:-1 tvg-chno="321" tvg-name="ESPN 3 HD" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3 HD | MX
+#EXTINF:-1 tvg-chno="323" tvg-name="ESPN 3 HD" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3 HD | MX
 http://190.61.101.9:8000/play/a03b/index.m3u8
 
-#EXTINF:-1 tvg-chno="322" tvg-name="ESPN 4" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png", ESPN 4 | AR
+#EXTINF:-1 tvg-chno="325" tvg-name="ESPN 4" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png", ESPN 4 | AR
 http://190.60.37.69:8015/play/a02n/index.m3u8
 
-#EXTINF:-1 tvg-chno="323" tvg-name="ESPN 4 HD" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png", ESPN 4 HD | MX
+#EXTINF:-1 tvg-chno="326" tvg-name="ESPN 4" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png", ESPN 4 | MX 
+http://190.61.101.9:8000/play/a02c/index.m3u8
+
+#EXTINF:-1 tvg-chno="327" tvg-name="ESPN 4 HD" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png", ESPN 4 HD | MX
 http://190.61.101.9:8000/play/a02s/index.m3u8
 
-#EXTINF:-1 tvg-chno="324" tvg-name="ESPN EXTRA HD" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png", ESPN EXTRA HD | AR
+#EXTINF:-1 tvg-chno="328" tvg-name="ESPN 4 HD" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png", ESPN 4 HD | MX
+http://190.61.101.9:8000/play/a02s/index.m3u8
+
+#EXTINF:-1 tvg-chno="329" tvg-name="ESPN EXTRA HD" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png", ESPN EXTRA HD | AR
 http://190.5.200.52:8000/play/a018/index.m3u8
 
-#EXTINF:-1 tvg-chno="325" tvg-name="ESPN EXTRA" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png", ESPN EXTRA | AR
+#EXTINF:-1 tvg-chno="330" tvg-name="ESPN EXTRA" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png", ESPN EXTRA | AR
 http://190.61.101.9:8000/play/a01q/index.m3u8
 
-#EXTINF:-1 tvg-chno="326" tvg-name="ESPN COLOMBIA" group-title="DEPORTE" tvg-logo="https://i.imgur.com/Qltczdi.jpg", ESPN COLOMBIA | CO
-http://200.24.132.99:8000/play/a02m
-
-#EXTINF:-1 tvg-chno="327" tvg-name="ESPN ECUADOR" group-title="DEPORTE" tvg-logo="https://pbs.twimg.com/media/FLqWT8UWQAMlSu5.jpg", ESPN ECUADOR | EC
-http://200.24.132.99:8000/play/a022
-
-#EXTINF:-1 tvg-chno="328" tvg-name="ESPN 2 ECUADOR" group-title="DEPORTE" tvg-logo="https://pbs.twimg.com/media/FLqWT8UWQAMlSu5.jpg", ESPN 2 ECUADOR | EC
-http://200.24.132.99:8000/play/a01v
-
-#EXTINF:-1 tvg-chno="329" tvg-name="ESPN PERU" group-title="DEPORTE" tvg-logo="https://www.totalmedios.com/img/noticias/2018/02/5a7843345943b__838x390.jpg", ESPN PERU
+#EXTINF:-1 tvg-chno="334" tvg-name="ESPN PERU" group-title="DEPORTE" tvg-logo="https://www.totalmedios.com/img/noticias/2018/02/5a7843345943b__838x390.jpg", ESPN PERU
 http://181.176.148.142:8000/play/a02d
 
-#EXTINF:-1 tvg-chno="330" tvg-name="ESPN +" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/ESPN_America_logo.svg/1200px-ESPN_America_logo.svg.png", ESPN + | US
-http://rn2yfxko.tvclub.xyz/iptv/WP3PZRYBCGTFUB/19156/index.m3u8
+#EXTINF:-1 tvg-chno="335" tvg-name="ESPN" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/ESPN_America_logo.svg/1200px-ESPN_America_logo.svg.png", ESPN | US
+http://thehive.tv:25461/kevinburrell/kevinburrell22/1545
 
-#EXTINF:-1 tvg-chno="331" tvg-name="ESPN" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/ESPN_America_logo.svg/1200px-ESPN_America_logo.svg.png", ESPN 2 | US
-http://rn2yfxko.tvclub.xyz/iptv/WP3PZRYBCGTFUB/19155/index.m3u8
-
-#EXTINF:-1 tvg-chno="332" tvg-name="EUROSPORT 1" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9b/Eurosport_logo_2001.svg/1280px-Eurosport_logo_2001.svg.png", EUROSPORT 1 | ES
+#EXTINF:-1 tvg-chno="340" tvg-name="EUROSPORT 1" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9b/Eurosport_logo_2001.svg/1280px-Eurosport_logo_2001.svg.png", EUROSPORT 1 | ES
 http://51.178.36.235:49214/Eurosport_1/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="333" tvg-name="EUROSPORT 1" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9b/Eurosport_logo_2001.svg/1280px-Eurosport_logo_2001.svg.png", EUROSPORT 1 | ES
+#EXTINF:-1 tvg-chno="341" tvg-name="EUROSPORT 1" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9b/Eurosport_logo_2001.svg/1280px-Eurosport_logo_2001.svg.png", EUROSPORT 1 | ES
 http://51.158.36.81:18000/Eurosport_1/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="334" tvg-name="EUROSPORT 2" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9b/Eurosport_logo_2001.svg/1280px-Eurosport_logo_2001.svg.png", EUROSPORT 2 | ES
+#EXTINF:-1 tvg-chno="342" tvg-name="EUROSPORT 2" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9b/Eurosport_logo_2001.svg/1280px-Eurosport_logo_2001.svg.png", EUROSPORT 2 | ES
 http://51.178.36.235:49214/Eurosport_2/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="335" tvg-name="EUROSPORT 2" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9b/Eurosport_logo_2001.svg/1280px-Eurosport_logo_2001.svg.png", EUROSPORT 2 | ES
+#EXTINF:-1 tvg-chno="343" tvg-name="EUROSPORT 2" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9b/Eurosport_logo_2001.svg/1280px-Eurosport_logo_2001.svg.png", EUROSPORT 2 | ES
 http://51.158.36.81:18000/Eurosport_2/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="336" tvg-name="M LALIGA" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png", M LALIGA | ES
+#EXTINF:-1 tvg-chno="344" tvg-name="M LALIGA" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png", M LALIGA | ES
 http://51.158.36.81:18000/M_LaLiga/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="337" tvg-name="M LALIGA CAMPEONES" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png", M LALIGA CAMPEONES | ES
+#EXTINF:-1 tvg-chno="345" tvg-name="M LALIGA" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png", M LALIGA | ES
+https://h7lya1.2embed.sbs/cdn/BXaQAanLKPZ/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-chno="346" tvg-name="M LALIGA CAMPEONES" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png", M LALIGA CAMPEONES | ES
 http://51.158.36.81:18000/M_Liga_de_Campeones/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="338" tvg-name="DAZN LALIGA" group-title="DEPORTE" tvg-logo="https://i.imgur.com/29l9xsm.png", DAZN LALIGA | ES
+#EXTINF:-1 tvg-chno="348" tvg-name="DAZN LALIGA" group-title="DEPORTE" tvg-logo="https://i.imgur.com/29l9xsm.png", DAZN LALIGA | ES
 https://ttcast.gpwpaqnxpwhqufz.sbs/cdn/BXaQAanLKPZ/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="339" tvg-name="DAZN F1" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1200px-DAZN_F1_logo.svg.png", DAZN F1 | ES
+#EXTINF:-1 tvg-chno="349" tvg-name="DAZN LA LIGA" group-title="DEPORTE" tvg-logo="https://i.imgur.com/29l9xsm.png", DAZN LA LIGA | ES
+http://80.96.24.248:8000/play/a00f
+
+#EXTINF:-1 tvg-chno="350" tvg-name="DAZN F1" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1200px-DAZN_F1_logo.svg.png", DAZN F1 | ES
 http://51.178.36.235:49214/DAZN_F1/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="340" tvg-name="DAZN F1" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1200px-DAZN_F1_logo.svg.png", DAZN F1 | ES
+#EXTINF:-1 tvg-chno="351" tvg-name="DAZN F1" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1200px-DAZN_F1_logo.svg.png", DAZN F1 | ES
 http://212.224.84.217:2200/NL/daznf1hd-esp/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jn
 
-#EXTINF:-1 tvg-chno="341" tvg-name="SKY F1" group-title="DEPORTE" tvg-logo="https://e3.365dm.com/tvlogos/channels/1306-Logo.png", SKY F1 | GB
+#EXTINF:-1 tvg-chno="353" tvg-name="SKY F1" group-title="DEPORTE" tvg-logo="https://e3.365dm.com/tvlogos/channels/1306-Logo.png", SKY F1 | GB
 http://212.224.84.217:2200/EX/Sky_Sports_F1_FHD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-chno="342" tvg-name="SKY SPORT" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png", SKY SPORT | MX
+#EXTINF:-1 tvg-chno="354" tvg-name="SKY SPORT" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png", SKY SPORT | MX
 http://laondatv.online:8080/leonardo/123456/447863
 
-#EXTINF:-1 tvg-chno="343" tvg-name="SKY SPORT" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png", SKY SPORT | MX
+#EXTINF:-1 tvg-chno="355" tvg-name="SKY SPORT" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png", SKY SPORT | MX
 http://magmas5.com:8000/RRestreamingDeNosotrosMismos/LivePrivate-0FM-TR/145437
 
-#EXTINF:-1 tvg-chno="344" tvg-name="TIGO SPORTS" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1200px-Tigo_Sports_logo.svg.png", TIGO SPORTS | AR
+#EXTINF:-1 tvg-chno="357" tvg-name="TIGO SPORTS" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1200px-Tigo_Sports_logo.svg.png", TIGO SPORTS | AR
 http://190.149.66.90:16000/play/a03j/index.m3u8
 
-#EXTINF:-1 tvg-chno="345" tvg-name="CITY SPORTS" group-title="DEPORTE" tvg-logo="https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png", CITY SPORTS | AR
+#EXTINF:-1 tvg-chno="358" tvg-name="TIGO SPORTS" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1200px-Tigo_Sports_logo.svg.png", TIGO SPORTS | AR
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="360" tvg-name="CITY SPORTS" group-title="DEPORTE" tvg-logo="https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png", CITY SPORTS | AR
 https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
 
-#EXTINF:-1 tvg-chno="346" tvg-name="TUDN" group-title="DEPORTE" tvg-logo="https://i.imgur.com/EfHstB2.png", TUDN | MX
+#EXTINF:-1 tvg-chno="361" tvg-name="TUDN" group-title="DEPORTE" tvg-logo="https://i.imgur.com/EfHstB2.png", TUDN | MX
 http://45.182.21.251:33334/play/a07y/index.m3u8
 
-#EXTINF:-1 tvg-chno="347" tvg-name="TUDN HD USA" group-title="DEPORTE" tvg-logo="https://i.imgur.com/EfHstB2.png", TUDN HD USA
+#EXTINF:-1 tvg-chno="362" tvg-name="TUDN HD USA" group-title="DEPORTE" tvg-logo="https://i.imgur.com/EfHstB2.png", TUDN HD USA
 http://45.182.21.251:33334/play/a077/index.m3u8
 
-#EXTINF:-1 tvg-chno="348" tvg-name="PRENDETV LIGA MX" group-title="DEPORTE" tvg-logo="https://almomento.mx/wp-content/uploads/2022/02/ViX-plataforma-de-streaming-Televisa-Univision.jpg", PRENDETV LIGA MX
+#EXTINF:-1 tvg-chno="363" tvg-name="ZONA TUDN" group-title="DEPORTE" tvg-logo="https://i.imgur.com/EfHstB2.png", ZONA TUDN | MX
+https://linear-357.frequency.stream/dist/vix/357/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="364" tvg-name="PRENDETV LIGA MX" group-title="DEPORTE" tvg-logo="https://almomento.mx/wp-content/uploads/2022/02/ViX-plataforma-de-streaming-Televisa-Univision.jpg", PRENDETV LIGA MX
 https://dip0m6wuccbi7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2d8j5h422463p-prod/dist/samsungtv/193/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 tvg-chno="349" tvg-name="GOLTV" group-title="DEPORTE" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png", GOLTV | ES
+#EXTINF:-1 tvg-chno="365" tvg-name="GOLTV" group-title="DEPORTE" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png", GOLTV | ES
 http://51.158.36.81:18000/GOL/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="350" tvg-name="CANAL 10" group-title="DEPORTE" tvg-logo="https://diario10.com.ar/wp-content/uploads/2020/04/logo_footer_retina.png", CANAL 10 | AR
+#EXTINF:-1 tvg-chno="366" tvg-name="CANAL 10" group-title="DEPORTE" tvg-logo="https://diario10.com.ar/wp-content/uploads/2020/04/logo_footer_retina.png", CANAL 10 | AR
 https://videosenlared.fullstreaming.ar:3015/live/canal10live.m3u8
+
+#EXTINF:-1 tvg-chno="367" tvg-name="TV MAX" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png", TV MAX | PA
+https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8?
 
 #EXTINF:-1 tvg-chno="380" tvg-id="DeporTV.ar" tvg-name="Depor TV" tvg-country="AR" tvg-language="SPANISH" group-title="DEPORTE" tvg-logo="https://i.imgur.com/iyYLNRt.png", Depor TV | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
