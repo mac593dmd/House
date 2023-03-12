@@ -85,7 +85,7 @@ https://video.str3ming.com:3616/hybrid/play.m3u8
 https://d6op0qag07k4o.cloudfront.net/hls/rts_360.m3u8
 
 #EXTINF:-1 tvg-chno="78" tvg-id="RTU.ec" tvg-name="RTU" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_rtu.jpg", RTU
-https://streamingwowza.com:19360/rtutv/rtutv.m3u8
+https://streamingwowza.net:19360/rtutv/rtutv.m3u8
 
 #EXTINF:-1 tvg-chno="79" tvg-id="SonOndaTV.ec" tvg-name="Sono Onda TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://i2.paste.pics/8cac932b5b12ee4c5ae8a6ff04da69bc.png", Sono Onda TV | RA-UIO
 https://mediacpstreamchile.com:1936/sonoonda/sonoonda/chunklist_w1535311867.m3u8
@@ -105,13 +105,13 @@ https://troncalive.site/hls/stream.m3u8
 #EXTINF:-1 tvg-chno="85" tvg-id="TVColor.ec" tvg-name="TV Color" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f6/10/4e/f6104ea0-e26c-c90f-8e4f-2267aabddbc2/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg", TV Color
 https://cloud2.streaminglivehd.com:1936/8262/8262/chunklist_w521133661.m3u8
 
-#EXTINF:-1 tvg-chno="86" tvg-id="TVC.ec" tvg-name="TVC" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/1625521156521426950/Wy9hRShi_400x400.jpg", TVC
+#EXTINF:-1 tvg-chno="87" tvg-id="TVC.ec" tvg-name="TVC" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/1625521156521426950/Wy9hRShi_400x400.jpg", TVC
 https://d6op0qag07k4o.cloudfront.net/hls/tvc_360.m3u8
 
-#EXTINF:-1 tvg-chno="90" tvg-id="WuanPlusTV.ec" tvg-name="Wuan Plus TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://wuanplus.tv/wp-content/uploads/2017/10/cropped-2-WUAN-Orange-RGB-para-WEB.png", Wuan PlusTV
+#EXTINF:-1 tvg-chno="91" tvg-id="WuanPlusTV.ec" tvg-name="Wuan Plus TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://wuanplus.tv/wp-content/uploads/2017/10/cropped-2-WUAN-Orange-RGB-para-WEB.png", Wuan PlusTV
 https://streamingwowza.com:19360/wuanplus/wuanplus.m3u8
 
-#EXTINF:-1 tvg-chno="91" tvg-id="ZaracayTV.ec" tvg-name="Zaracay TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-bcf9DEeQMAc/XxC0uwkpFoI/AAAAAAAAB80/g9zgAPHdUtY95JynuTZ0PMveAJA3mdxFACLcBGAsYHQ/s540/zaracaytv_logoroku.jpg", Zaracay TV
+#EXTINF:-1 tvg-chno="92" tvg-id="ZaracayTV.ec" tvg-name="Zaracay TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-bcf9DEeQMAc/XxC0uwkpFoI/AAAAAAAAB80/g9zgAPHdUtY95JynuTZ0PMveAJA3mdxFACLcBGAsYHQ/s540/zaracaytv_logoroku.jpg", Zaracay TV
 https://streamingwowza.com:19360/zaracaytv/zaracaytv.m3u8
 
 
@@ -231,7 +231,7 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="252" tvg-id="TDIColombia.co" group-title="CINE" tvg-logo="https://i.imgur.com/svNeBNv.png", TDI | CO
 https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
 
-#EXTINF:-1 tvg-chno="253" tvg-id="PlanetaTVMovies.ec" tvg-name="PlanetaTV Movies" tvg-country="EC" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", PlanetaTV Movies | AR
+#EXTINF:-1 tvg-chno="253" tvg-id="PlanetaTVMovies.cl" tvg-name="PlanetaTV Movies" tvg-country="CL" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", PlanetaTV Movies | CL
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8
 
 #EXTINF:-1 tvg-chno="255" tvg-id="SanVitoTV.ec" tvg-name="San Vito TV" tvg-country="EC" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://i2.paste.pics/cbcfd98188337b1bf79a92b1afb60ad3.png", San Vito TV | SV
@@ -359,34 +359,34 @@ http://185.191.124.105:25461/raminp/TAQhPJncSa/1150
 #EXTINF:-1 tvg-chno="317" tvg-name="ESPN VIVO" group-title="DEPORTE" tvg-logo="https://www.pngfind.com/pngs/m/120-1208622_espn-en-vivo-online-hd-por-internet-espn.png", ESPN VIVO | AR
 http://181.78.7.92:6500/play/a096/index.m3u8
 
-#EXTINF:-1 tvg-chno="318" tvg-name="ESPN 2 HD" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2 HD | MX 
+#EXTINF:-1 tvg-chno="318" tvg-name="ESPN 2 HD MX" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2 HD | MX 
 http://190.61.101.9:8000/play/a03c/index.m3u8
 
 #EXTINF:-1 tvg-chno="320" tvg-name="ESPN 2 MX" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2 MX
 http://204.157.255.135:20001/play/a064/index.m3u8
 
-#EXTINF:-1 tvg-chno="321" tvg-name="ESPN 3" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3 | AR
+#EXTINF:-1 tvg-chno="321" tvg-name="ESPN 3 AR" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3 | AR
 http://191.102.90.97:8000/play/a079/index.m3u8
 
-#EXTINF:-1 tvg-chno="322" tvg-name="ESPN 3 HD" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3 HD | AR
+#EXTINF:-1 tvg-chno="322" tvg-name="ESPN 3 HD AR" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3 HD | AR
 http://190.5.200.52:8000/play/a00g/index.m3u8
 
-#EXTINF:-1 tvg-chno="323" tvg-name="ESPN 3 HD" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3 HD | MX
+#EXTINF:-1 tvg-chno="323" tvg-name="ESPN 3 HD MX" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3 HD | MX
 http://190.61.101.9:8000/play/a03b/index.m3u8
 
-#EXTINF:-1 tvg-chno="325" tvg-name="ESPN 4" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png", ESPN 4 | AR
+#EXTINF:-1 tvg-chno="325" tvg-name="ESPN 4 AR" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png", ESPN 4 | AR
 http://190.60.37.69:8015/play/a02n/index.m3u8
 
-#EXTINF:-1 tvg-chno="326" tvg-name="ESPN 4" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png", ESPN 4 | MX 
+#EXTINF:-1 tvg-chno="326" tvg-name="ESPN 4 MX" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png", ESPN 4 | MX 
 http://190.61.101.9:8000/play/a02c/index.m3u8
 
-#EXTINF:-1 tvg-chno="328" tvg-name="ESPN 4 HD" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png", ESPN 4 HD | MX
+#EXTINF:-1 tvg-chno="328" tvg-name="ESPN 4 HD MX" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png", ESPN 4 HD | MX
 http://190.61.101.9:8000/play/a02s/index.m3u8
 
-#EXTINF:-1 tvg-chno="329" tvg-name="ESPN EXTRA HD" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png", ESPN EXTRA HD | AR
+#EXTINF:-1 tvg-chno="329" tvg-name="ESPN EXTRA HD AR" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png", ESPN EXTRA HD | AR
 http://190.5.200.52:8000/play/a018/index.m3u8
 
-#EXTINF:-1 tvg-chno="330" tvg-name="ESPN EXTRA" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png", ESPN EXTRA | AR
+#EXTINF:-1 tvg-chno="330" tvg-name="ESPN EXTRA AR" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png", ESPN EXTRA | AR
 http://190.61.101.9:8000/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-chno="331" tvg-name="ESPN COLOMBIA" group-title="DEPORTE" tvg-logo="https://i.imgur.com/Qltczdi.jpg", ESPN COLOMBIA | CO
@@ -395,7 +395,7 @@ http://200.110.169.237:8202/play/a03h
 #EXTINF:-1 tvg-chno="334" tvg-name="ESPN PERU" group-title="DEPORTE" tvg-logo="https://www.totalmedios.com/img/noticias/2018/02/5a7843345943b__838x390.jpg", ESPN PERU
 http://181.176.148.142:8000/play/a02d
 
-#EXTINF:-1 tvg-chno="335" tvg-name="ESPN" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/ESPN_America_logo.svg/1200px-ESPN_America_logo.svg.png", ESPN | US
+#EXTINF:-1 tvg-chno="335" tvg-name="ESPN US" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/ESPN_America_logo.svg/1200px-ESPN_America_logo.svg.png", ESPN | US
 http://thehive.tv:25461/kevinburrell/kevinburrell22/1545
 
 #EXTINF:-1 tvg-chno="341" tvg-name="EUROSPORT 1" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9b/Eurosport_logo_2001.svg/1280px-Eurosport_logo_2001.svg.png", EUROSPORT 1 | ES
@@ -485,10 +485,10 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="387" tvg-id="redbulltv.ru"  tvg-name="Redbull TV" tvg-logo="https://e7.pngegg.com/pngimages/1004/93/png-clipart-red-bull-tv-television-film-streaming-media-red-bull-television-text.png" group-title="DEPORTE", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 tvg-chno="358" tvg-id="surfchannel.es"  tvg-name="Surf Channel" tvg-logo="https://www.eurosima.com/wp-content/uploads/2022/03/surf-channel_logo-240x150.png" group-title="DEPORTE", Surf Channel
+#EXTINF:-1 tvg-chno="388" tvg-id="surfchannel.es"  tvg-name="Surf Channel" tvg-logo="https://www.eurosima.com/wp-content/uploads/2022/03/surf-channel_logo-240x150.png" group-title="DEPORTE", Surf Channel
 https://surfchannel-surfchannel-01-es.samsung.wurl.tv/playlist_1920x1080_4200k.m3u8
 
-#EXTINF:-1 tvg-chno="359" tvg-id="PeopleareAwesome.us" tvg-name="People are Awesome" tvg-country="US" tvg-language="SPANISH" group-title="DEPORTE"  tvg-logo="https://pbs.twimg.com/profile_images/1379286557337653252/1jJOD0Zq_400x400.jpg", People are Awesome
+#EXTINF:-1 tvg-chno="389" tvg-id="PeopleareAwesome.us" tvg-name="People are Awesome" tvg-country="US" tvg-language="SPANISH" group-title="DEPORTE"  tvg-logo="https://pbs.twimg.com/profile_images/1379286557337653252/1jJOD0Zq_400x400.jpg", People are Awesome
 https://jukin-peopleareawesome-1-us.samsung.wurl.tv/3000.m3u8
 
 ############################################################
