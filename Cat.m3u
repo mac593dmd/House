@@ -7,22 +7,52 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="CartoonNetwork.es" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL", Cartoon Network Latino
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Cartoonito.es" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/5U7AMyc.png" group-title="INFANTIL", Cartoonito
+#EXTINF:-1 tvg-chno="3" tvg-name="Cartoon Networl Latino 2" group-title="INFANTIL" tvg-logo="https://4.bp.blogspot.com/-LY0Wiu-DhtY/XMiDY3tXiOI/AAAAAAAAAPE/KzerEufqE4IPtgTypPt7o23Z61V_Gk_nACPcBGAYYCw/s1600/CN%2BANMTV.jpg", Cartoon Networl Latino 2
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Cartoonito.es" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/5U7AMyc.png" group-title="INFANTIL", Cartoonito
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Chiquilines.ec" tvg-name="Chiquilines" tvg-country="EC" tvg-language="SPANISH" group-title="INFANTIL"  tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/chiquilines_logo_light.png", Chiquilines
+#EXTINF:-1 tvg-chno="5" tvg-name="Discovery Kids" group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", Discovery Kids
+https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Chiquilines.ec" tvg-name="Chiquilines" tvg-country="EC" tvg-language="SPANISH" group-title="INFANTIL"  tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/chiquilines_logo_light.png", Chiquilines
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/3bb7f282-d596-463e-98b8-f86ee4abf53e/5.m3u8
 
-#EXTINF:-1 tvg-chno="5" tvg-id="PitufoTV.ec" tvg-name="Pitufo TV" tvg-country="EC" tvg-language="SPANISH" group-title="INFANTIL"  tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/bcec3e2f3cdb5e5eb87f4f526731dadf94b1c5ae16bdafb0cde04bbf17e6f37c._RI_V_TTW_.jpg", Pitufo TV
+#EXTINF:-1 tvg-chno="9" tvg-id="PitufoTV.ec" tvg-name="Pitufo TV" tvg-country="EC" tvg-language="SPANISH" group-title="INFANTIL"  tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/bcec3e2f3cdb5e5eb87f4f526731dadf94b1c5ae16bdafb0cde04bbf17e6f37c._RI_V_TTW_.jpg", Pitufo TV
 https://stream.ads.ottera.tv/cl/dO2CIqsxSn4lCCgAydZHi/1920x1080_2900000_5_f.m3u8
 
-#EXTINF:-1 tvg-chno="6" tvg-id="EducaTV.ec" tvg-name="Educa TV" tvg-country="EC" tvg-language="SPANISH" group-title="INFANTIL"  tvg-logo="https://lh3.googleusercontent.com/-gwVSG0Gv_VY/XzxqczgyXhI/AAAAAAAA4pA/P26xKeDaPZcrzl5WvvYymInXCZJRU3L3wCK8BGAsYHg/s0/2020-08-18.png", Educa TV | EC
+#EXTINF:-1 tvg-chno="10" tvg-name="Planeta Junior TV" group-title="INFANTIL" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=4153cf&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fpljunior.png", Planeta Junior TV
+https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="11" tvg-name="Pl Planeta Junior TV" group-title="INFANTIL" tvg-logo="https://licensinginternational.org/wp-content/uploads/2019/12/Planeta_Junior_logo.jpg", Pl Planeta Junior TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609501978c069d00074e0dd2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-chno="12" tvg-name="Pl Bob Esponja" group-title="INFANTIL" tvg-logo="https://w7.pngwing.com/pngs/11/898/png-transparent-bob-esponja.png", Pl Bob Esponja
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-chno="13" tvg-name="Pl TV Nick" group-title="INFANTIL" tvg-logo="https://w7.pngwing.com/pngs/427/35/png-transparent-nickelodeon-the-nick-app-tv-everywhere-nick-play-nick-television-text-orange.png", Pl TV Nick
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-chno="14" tvg-name="Pl Tv Nick Jr Latino" group-title="INFANTIL" tvg-logo="https://e7.pngegg.com/pngimages/9/917/png-clipart-nick-jr-too-nickelodeon-television-logo-nick-jr.png", Pl Tv Nick Jr Latino
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d0ec7b0f7015fbe0a3bf7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=998&terminate=false&userId=
+
+#EXTINF:-1 tvg-chno="15" tvg-name="Pl TV Rugrats" group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Rugrats_logo.png", Pl TV Rugrats
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610c09219fc0430007a3fce6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-chno="16" tvg-name="Pl Toons Clasicos" group-title="INFANTIL" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=cb5068&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fplutotoonscl.png", Pl Toons Clasicos
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-chno="20" tvg-name="SEO TV Kids" group-title="INFANTIL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/seo-tv-bo.png", SEO TV Kids
+https://live.seo.tv.bo/live/2SEO.m3u8
+
+#EXTINF:-1 tvg-chno="21" tvg-id="EducaTV.ec" tvg-name="Educa TV" tvg-country="EC" tvg-language="SPANISH" group-title="INFANTIL"  tvg-logo="https://lh3.googleusercontent.com/-gwVSG0Gv_VY/XzxqczgyXhI/AAAAAAAA4pA/P26xKeDaPZcrzl5WvvYymInXCZJRU3L3wCK8BGAsYHg/s0/2020-08-18.png", Educa TV | EC
 https://cloud7.streamingcnt.net/cnt/educa/chunklist_w143162487.m3u8
 
-#EXTINF:-1 tvg-chno="7" tvg-id="RakutenFamily.es" tvg-name="Rakuten Family" tvg-country="ES" tvg-language="SPANISH" group-title="INFANTIL" tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/Logo-rakuten-tv-transparent-PNG.png", Rakuten Family
+#EXTINF:-1 tvg-chno="22" tvg-id="RakutenFamily.es" tvg-name="Rakuten Family" tvg-country="ES" tvg-language="SPANISH" group-title="INFANTIL" tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/Logo-rakuten-tv-transparent-PNG.png", Rakuten Family
 https://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-chno="12" tvg-id="PlanetaTvKids.ec" tvg-name="PlanetaTV Kids" tvg-country="EC" tvg-language="SPANISH" group-title="INFANTIL" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", PlanetaTV Kids
+#EXTINF:-1 tvg-chno="27" tvg-id="PlanetaTvKids.ec" tvg-name="PlanetaTV Kids" tvg-country="EC" tvg-language="SPANISH" group-title="INFANTIL" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", PlanetaTV Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 
 
@@ -69,49 +99,52 @@ https://stmv1.voxhdnet.com/diego7128/diego7128/playlist.m3u8
 #EXTINF:-1 tvg-chno="67" tvg-id="majestadtv.ec" tvg-name="Majestad TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/2433639/2433639-1570460635924-19694980d6844.jpg", Majestad TV
 https://stream.majestadtv.ec:3152/multi_live/play_720.m3u8
 
-#EXTINF:-1 tvg-chno="68" tvg-id="MulticanalCatamayo.ec" tvg-name="Multicanal Catamayo" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/1047832405523030016/PbAkxwut_400x400.jpg", Multicanal Catamayo
+#EXTINF:-1 tvg-chno="69" tvg-name="Manavision" group-title="ECUADOR" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/manavisin-1476.jpg", Manavision
+https://livetv.once.net.ec/manavision/video.m3u8
+
+#EXTINF:-1 tvg-chno="70" tvg-id="MulticanalCatamayo.ec" tvg-name="Multicanal Catamayo" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/1047832405523030016/PbAkxwut_400x400.jpg", Multicanal Catamayo
 https://multicanal.streamseguro.com/hls/streaming.m3u8
 
-#EXTINF:-1 tvg-chno="69" tvg-id="nortvision.ec" tvg-name="Nortvision" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/nortvisin-en-vivo-1471.png", Nortvision
+#EXTINF:-1 tvg-chno="71" tvg-id="nortvision.ec" tvg-name="Nortvision" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/nortvisin-en-vivo-1471.png", Nortvision
 https://plataformavideo.com/live/nortvision.m3u8
 
-#EXTINF:-1 tvg-chno="71" tvg-id="Oromar.ec" tvg-name="Oromar" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://oromartv.com/wp-content/uploads/2022/05/IMG_20220401_100837_641.jpg", Oromar
+#EXTINF:-1 tvg-chno="73" tvg-id="Oromar.ec" tvg-name="Oromar" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://oromartv.com/wp-content/uploads/2022/05/IMG_20220401_100837_641.jpg", Oromar
 https://stream.oromartv.com:8085/hls/oromartv_hi/index.m3u8
 
-#EXTINF:-1 tvg-chno="75" tvg-id="RadioMorena.ec" tvg-name="Radio Morena" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://cdn-radiotime-logos.tunein.com/s187650g.png", Radio Morena | RA-GYE
+#EXTINF:-1 tvg-chno="77" tvg-id="RadioMorena.ec" tvg-name="Radio Morena" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://cdn-radiotime-logos.tunein.com/s187650g.png", Radio Morena | RA-GYE
 https://video.str3ming.com:3616/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-chno="77" tvg-id="RTS.ec" tvg-name="RTS" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/150px-Rts_logo.png", RTS
+#EXTINF:-1 tvg-chno="79" tvg-id="RTS.ec" tvg-name="RTS" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/150px-Rts_logo.png", RTS
 https://d6op0qag07k4o.cloudfront.net/hls/rts_360.m3u8
 
-#EXTINF:-1 tvg-chno="78" tvg-id="RTU.ec" tvg-name="RTU" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_rtu.jpg", RTU
+#EXTINF:-1 tvg-chno="80" tvg-id="RTU.ec" tvg-name="RTU" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_rtu.jpg", RTU
 https://streamingwowza.net:19360/rtutv/rtutv.m3u8
 
-#EXTINF:-1 tvg-chno="79" tvg-id="SonOndaTV.ec" tvg-name="Sono Onda TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://i2.paste.pics/8cac932b5b12ee4c5ae8a6ff04da69bc.png", Sono Onda TV | RA-UIO
+#EXTINF:-1 tvg-chno="81" tvg-id="SonOndaTV.ec" tvg-name="Sono Onda TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://i2.paste.pics/8cac932b5b12ee4c5ae8a6ff04da69bc.png", Sono Onda TV | RA-UIO
 https://mediacpstreamchile.com:1936/sonoonda/sonoonda/chunklist_w1535311867.m3u8
 
-#EXTINF:-1 tvg-chno="80" tvg-id="TC.ec" tvg-name="TC" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://radiolacalle.com/wp-content/uploads/2021/04/46bafe86abf8f4083d79882b3f6f6dc4.jpg", TC
+#EXTINF:-1 tvg-chno="82" tvg-id="TC.ec" tvg-name="TC" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://radiolacalle.com/wp-content/uploads/2021/04/46bafe86abf8f4083d79882b3f6f6dc4.jpg", TC
 https://youvideostreaming.club/hls/ecutv3.m3u8
 
-#EXTINF:-1 tvg-chno="81" tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png", Teleamazonas
+#EXTINF:-1 tvg-chno="83" tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png", Teleamazonas
 https://youvideostreaming.club/hls/ecutv4.m3u8
 
-#EXTINF:-1 tvg-chno="82" tvg-id="Telerama.ec" tvg-name="Telerama" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://static-media.streema.com/media/cache/27/af/27afea308274909fd22e99b78e6cc2df.jpg", Telerama
+#EXTINF:-1 tvg-chno="84" tvg-id="Telerama.ec" tvg-name="Telerama" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://static-media.streema.com/media/cache/27/af/27afea308274909fd22e99b78e6cc2df.jpg", Telerama
 https://envivo.telerama.ec/stream.m3u8
 
-#EXTINF:-1 tvg-chno="84" tvg-id="TroncalLive.ec" tvg-name="Troncal Live" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="http://coazucar.com/mobi/esp/images/logo_troncal01.png", Troncal Live 
+#EXTINF:-1 tvg-chno="86" tvg-id="TroncalLive.ec" tvg-name="Troncal Live" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="http://coazucar.com/mobi/esp/images/logo_troncal01.png", Troncal Live 
 https://troncalive.site/hls/stream.m3u8
 
-#EXTINF:-1 tvg-chno="85" tvg-id="TVColor.ec" tvg-name="TV Color" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f6/10/4e/f6104ea0-e26c-c90f-8e4f-2267aabddbc2/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg", TV Color
+#EXTINF:-1 tvg-chno="87" tvg-id="TVColor.ec" tvg-name="TV Color" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f6/10/4e/f6104ea0-e26c-c90f-8e4f-2267aabddbc2/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg", TV Color
 https://cloud2.streaminglivehd.com:1936/8262/8262/chunklist_w521133661.m3u8
 
-#EXTINF:-1 tvg-chno="87" tvg-id="TVC.ec" tvg-name="TVC" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/1625521156521426950/Wy9hRShi_400x400.jpg", TVC
+#EXTINF:-1 tvg-chno="89" tvg-id="TVC.ec" tvg-name="TVC" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/1625521156521426950/Wy9hRShi_400x400.jpg", TVC
 https://d6op0qag07k4o.cloudfront.net/hls/tvc_360.m3u8
 
-#EXTINF:-1 tvg-chno="91" tvg-id="WuanPlusTV.ec" tvg-name="Wuan Plus TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://wuanplus.tv/wp-content/uploads/2017/10/cropped-2-WUAN-Orange-RGB-para-WEB.png", Wuan PlusTV
+#EXTINF:-1 tvg-chno="93" tvg-id="WuanPlusTV.ec" tvg-name="Wuan Plus TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://wuanplus.tv/wp-content/uploads/2017/10/cropped-2-WUAN-Orange-RGB-para-WEB.png", Wuan PlusTV
 https://streamingwowza.com:19360/wuanplus/wuanplus.m3u8
 
-#EXTINF:-1 tvg-chno="92" tvg-id="ZaracayTV.ec" tvg-name="Zaracay TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-bcf9DEeQMAc/XxC0uwkpFoI/AAAAAAAAB80/g9zgAPHdUtY95JynuTZ0PMveAJA3mdxFACLcBGAsYHQ/s540/zaracaytv_logoroku.jpg", Zaracay TV
+#EXTINF:-1 tvg-chno="94" tvg-id="ZaracayTV.ec" tvg-name="Zaracay TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-bcf9DEeQMAc/XxC0uwkpFoI/AAAAAAAAB80/g9zgAPHdUtY95JynuTZ0PMveAJA3mdxFACLcBGAsYHQ/s540/zaracaytv_logoroku.jpg", Zaracay TV
 https://streamingwowza.com:19360/zaracaytv/zaracaytv.m3u8
 
 
@@ -154,6 +187,9 @@ http://71.187.29.54:8000/play/a07a/index.m3u8
 
 #EXTINF:-1 tvg-chno="113" tvg-id="CGTNEspañol.TV" tvg-name="CGTN Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="NOTICIAS", CGTN Español | CN
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+
+#EXTINF:-1 tvg-chno="114" tvg-id="France24.fr" tvg-name="France 24" tvg-country="FR" tvg-language="SPANISH" group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png", France 24 | FR
+https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
 #EXTINF:-1 tvg-chno="115" tvg-id="Univision.us" tvg-name="Univision" tvg-country="US" tvg-language="SPANISH" group-title="NOTICIAS" tvg-logo="https://w7.pngwing.com/pngs/823/555/png-transparent-univision-doral-logo-television-advertising-business-television-text-people.png", Univision | US
 https://v-ny.mybtv.net/live/643/1280x720.m3u8?
@@ -219,6 +255,9 @@ https://stream.ads.ottera.tv/cl/230224cfse5plbpglsc5lkvn00/1920x1080_5711200_3_f
 
 
 
+#EXTINF:-1 tvg-chno="240" tvg-name="Cine Sony" group-title="CINE" tvg-logo="https://www.cinesony.com/sites/cinesony/themes/custom/cinesony/logo.png", Cine Sony
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="249" tvg-id="gen.ar" tvg-name="GEN TV" tvg-country="AR" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://lh3.googleusercontent.com/-C5rX_zRruQw/X1TKqOXYS-I/AAAAAAAA5UA/IOKCb1AwbRsqtVnLmUBAvTj-8pnxmF7MgCK8BGAsYHg/s0/2020-09-06.png", GEN TV | AR
 https://inliveserver.com:1936/14056/14056/chunklist_w1762324157.m3u8
 
@@ -233,6 +272,9 @@ https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
 
 #EXTINF:-1 tvg-chno="253" tvg-id="PlanetaTVMovies.cl" tvg-name="PlanetaTV Movies" tvg-country="CL" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", PlanetaTV Movies | CL
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8
+
+#EXTINF:-1 tvg-chno="254" tvg-name="SEO TV" group-title="CINE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/seo-tv-bo.png", SEO TV
+https://live.seo.tv.bo/live/4SEO.m3u8
 
 #EXTINF:-1 tvg-chno="255" tvg-id="SanVitoTV.ec" tvg-name="San Vito TV" tvg-country="EC" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://i2.paste.pics/cbcfd98188337b1bf79a92b1afb60ad3.png", San Vito TV | SV
 https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
@@ -254,6 +296,9 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w352327459.m3
 
 #EXTINF:-1 tvg-chno="261" tvg-id="Juntos.ec" tvg-name="Juntos TV" tvg-country="EC" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/juntos_logo_dark_v3.png", Juntos TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/7c81f7bc-119f-47ed-9747-2cfef6056610/5.m3u8
+
+#EXTINF:-1 tvg-chno="264" tvg-name="Doctor Who" group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Doctor-who-logo-removebg.png", Doctor Who
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-chno="265" tvg-id="CanelaTV.mx" tvg-name="Canela TV" tvg-country="MX" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://www.worldcupboxingseries.com/wp-content/uploads/2022/07/ctv.jpg", Canela TV
 https://stream.ads.ottera.tv/cl/S6Ga8kyTMSo1vnaR1vsU0/1280x720_3071200_0_f.m3u8
