@@ -64,7 +64,7 @@ https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 
 
 #EXTINF:-1 tvg-chno="51" tvg-id="RadioAmericaEstereo.ec" tvg-name="Radio America Estereo" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4WM9M67xkX.jpg", America Estereo | RA-UIO
-https://streamingwowza.com:19360/radioamericaquito/radioamericaquito.m3u8
+https://video2.makrodigital.com/americaestereoquito/americaestereoquito/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="53" tvg-id="AustralTV.ec" tvg-name="Austral TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://uploads-ssl.webflow.com/5accea787901614b35b4fd61/5b0dd0c13ce6da614a4ef4e3_25%402x-8.png", Austral TV
 https://stmv3.voxtvhd.com.br/australtv/australtv/chunklist_w1385080889.m3u8
@@ -127,7 +127,7 @@ https://s2.tvdatta.com:3825/live/redtvelive.m3u8
 https://d6op0qag07k4o.cloudfront.net/hls/rts_360.m3u8
 
 #EXTINF:-1 tvg-chno="80" tvg-id="RTU.ec" tvg-name="RTU" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_rtu.jpg", RTU
-https://video2.makrodigital.com/rtutv/rtutv/chunks.m3u8
+https://video2.makrodigital.com/rtu/rtu/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="81" tvg-id="SonOndaTV.ec" tvg-name="Sono Onda TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://i2.paste.pics/8cac932b5b12ee4c5ae8a6ff04da69bc.png", Sono Onda TV | RA-UIO
 https://mediacpstreamchile.com:1936/sonoonda/sonoonda/chunklist_w1535311867.m3u8
@@ -154,7 +154,7 @@ https://d6op0qag07k4o.cloudfront.net/hls/tvc_360.m3u8
 https://streamingwowza.com:19360/wuanplus/wuanplus.m3u8
 
 #EXTINF:-1 tvg-chno="94" tvg-id="ZaracayTV.ec" tvg-name="Zaracay TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-bcf9DEeQMAc/XxC0uwkpFoI/AAAAAAAAB80/g9zgAPHdUtY95JynuTZ0PMveAJA3mdxFACLcBGAsYHQ/s540/zaracaytv_logoroku.jpg", Zaracay TV
-https://streamingwowza.com:19360/zaracaytv/zaracaytv.m3u8
+https://video2.makrodigital.com/zaracay/zaracay/chunks.m3u8
 
 
 
@@ -379,7 +379,7 @@ https://rakuten-spotlight-2-es.samsung.wurl.tv/3000.m3u8
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 
 #EXTINF:-1 tvg-chno="288" tvg-id="PeliculasdelOeste.ec" tvg-name="Peliculas del Oeste" tvg-country="EC" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo--S3-5cQOxClLIOINqVNN5YvYJzbmEyjAUwBJJzUIjT6xqE-6lxQGHJig1rwQztxKJSAhCBCeFUQv0dYqfGj4eud9QSjI6ty252qdAg_DuirV98e0VORtXXH4Hw6bzCWnueIB4ynTp3bhdP5NaRrG_W3Gkco6ixaLwKeqgW6942RYSUJScqWP4CX/s540/grjngo-logoroku.jpg", Peliculas del Oeste
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a20-63489eff90b96ef5e0eb3282/variant.m3u8?url=b7022bbda145b047fe165be678367807-f2def01819ce973ee01d1a5863144c27f88a0f2c71ab265fdf723ee6b6d4f46b44032b1b566543c5294754248501ff40bc5efdcbc1d4c646e8674deb85b3a9d88e6bf232c8b546da6d59b1823f852cba29ab8e939dd6153da1b966d90941c9785d14fa9ecb374831e2052db401b790842563ec029924ccee38c4c2f0dcf1d874aebdb7928e4802e4d96f0fc47ca888e55ec54f6ca5c28de4ebd971a38bb0a47db5ad06e1475889a8f46965615f126dc2aed4305c3ebd32e1e067ed4eb207b2240708e1d433ac4d95f0c68845addcc181&x-plex-token=QpKxbggW816yK9smLzis
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a20-63489eff90b96ef5e0eb3282/variant.m3u8?url=4a6a5c8a418bc0d53fee9b8ecfab0659-d35bac637aa82a68765b65e15ae30adfa34dba352df6bf0d637e4a2946ecd608561b808b54aa21f8d7a82672d2add7f3cea2a7b49eda3a361f79a10243d23f86419bae5e153041c68987d0d603924d6bb0cfcc53ca7987053fd25b4021869da2561a65904727e876e8e9b7511e8205d3c6dedef2e9d2a08dde092bb41c095e6110bccc76c88e7d18653b90943c7590037b96f4bb0013ab992823ffc9dde2f3e206f77a5b3ed459e2a042899ebb17c91efe8ab76d02e8ded08833307119ef80e7dfb19e35f03a2879517a991470c7280c&x-plex-token=shPBr98ijJiy2C18tq2n
 
 #EXTINF:-1 tvg-chno="289" tvg-id="Runtimeclasicos.es" tvg-name="Run Time Clasicos" tvg-country="ES" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", Run Time Clasicos
 https://daiconnect.com/live/hls/tvup/tvfy-rtclsc/0970efd6bbf19c6efe1d09808e0104b4/.m3u8?ApPW=1920&ApPH=1080&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=c06d0f65-66bd-11ed-9f6a-5a7b45621b50
