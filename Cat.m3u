@@ -93,7 +93,7 @@ https://streaming5.globalhostla.com/rtplive/elsolrad/chunklist_w431845379.m3u8
 https://stmv.streamingvip.click/tvtoro/tvtoro/chunklist_w1378665554.m3u8
 
 #EXTINF:-1 tvg-chno="60" tvg-id="RadioFMMundo.ec" tvg-name="Radio FM Mundo" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://fmmundo.com/wp-content/uploads/2019/08/Fmmundo-comapartir.jpeg", FM Mundo | RA-UIO
-https://streamingwowza.com:19360/fmmundolive/fmmundolive.m3u8
+https://video2.makrodigital.com/fmmundo/fmmundo/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="61" tvg-id="FrecuenciaMusicalTV.us" tvg-name="Frecuencia Musical TV" tvg-country="US" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://latinartv.com/sites/default/files/logos/FMTV-1.png", Frecuencia Musical TV
 https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w949014711.m3u8
@@ -132,7 +132,7 @@ https://s2.tvdatta.com:3825/live/redtvelive.m3u8
 https://d6op0qag07k4o.cloudfront.net/hls/rts_360.m3u8
 
 #EXTINF:-1 tvg-chno="80" tvg-id="RTU.ec" tvg-name="RTU" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_rtu.jpg", RTU
-https://video2.makrodigital.com/rtu/rtu/chunks.m3u8
+https://video1.makrodigital.com/rtu/rtu/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="81" tvg-id="SonOndaTV.ec" tvg-name="Sono Onda TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://i2.paste.pics/8cac932b5b12ee4c5ae8a6ff04da69bc.png", Sono Onda TV | RA-UIO
 https://mediacpstreamchile.com:1936/sonoonda/sonoonda/chunklist_w1535311867.m3u8
@@ -153,13 +153,13 @@ https://troncalive.site/hls/stream.m3u8
 https://cloud2.streaminglivehd.com:1936/8262/8262/chunklist_w521133661.m3u8
 
 #EXTINF:-1 tvg-chno="88" tvg-name="TV Oro" group-title="ECUADOR" tvg-logo="https://static.wixstatic.com/media/f91854_950db88805b546a6b0135e079403c335~mv2.png/v1/fill/w_260,h_254,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%202023.png", TV Oro
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpoFfCBH9yoRIGyCtsmXXl30j1MZJBPEofM08jaiLZYAH61qLCqoER7lPRzPoTT_h2wJ0-ANwjGN2G7qzukM79Uejq2eN_WToLO5ZjAG8Jf40huJTUzX3eyPL-TT2IlHKuX3p19iPNtCOWjfVB0H81vKYZuJ3fIamTIS6Utn91d7o1TbBNGcfGSOzOYJCpUgj0iS_Rh11Bzd0amFHVTIkRtbmQ3R9azl95wfe8b4dl80MvNYbQVH9rN0YgmnCzALdtvusQ_wSgc9pwtKEe_PgXvdQwsm2afmYhD9q-E1JcLaS9Mj6_xu1RGIbblOiLqsI7WtJVP6zqVHC8nSG13gc8LGCB4rFnlvwWPvky8kVDOqrwtwr13We_XZvaGxrPqMx7ojamjrABwFHZeZdTa1g6f9dSlKLDD8rQGZIZOA7r3-Z4iQ2hrWTmehPGDxxyGrxcpugAmwZIl6JuI22MfHv0ohTvYZSzDIRHDj0rAysfPywoauaceAlORhpsxtGk1pRp2zQlGFKOd-4ltTosW8bhdwxtpEuqP2xFjsm8nq-faTK_xyHJhLy2NLviooEQDnSAGSr6ImbExRG6-CN6hN2jvddWdeUmhB5GAhHWRm7P56auR0Eo5P_RhtBbh3K1pGuGbLGCXBQY8jwKs4_gCqg5bJfIQ07sotAqPdXmi5ec4YeAANUVi-a3bYxYu12Sn8BY7WuA57RLunV3sZcjAlSiL2sQh7EuuvVYPHbqVDLLIJB35EUqZLyYcT8m8oxoZFlodTJ-kDKaNRZkC-Oa2fbGt2F_cU9hD67u4zUP0W_OQhSJ4oljSmFXLzrQK-9cWINuMzdlpO40rGAwiAe74KeB17zXRmLnRDnxDPGjLqzwDb28Ovfb_vV7WXoL9UGgyuNsAx57-Ty9hey5cgASoJdXMtZWFzdC0xMMgE.m3u8
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqgF8_cBf2A5TkWuQJx7Mt6i5euvSr_ZnfUfU5LCT0q9YYJE0R8Mh0-7hZJ-OJBPV3q-gH8puGyUhhCNbmTLEerNP2YIlko2R70GZeUVuoKw2h2yeHPRr7-DLuXNGJZS00mEoZyCvQVJNxXMNc-_6Ii657wWe7wkUj-WnPr3yYPmmwlqK98MDnUNtBE0Se0I8PbldNBOj9g5AYBfk3ltGGsrW7WouxitzEMMFGBdFiFKjvWkwqH1VeQ83Iw-mGx9U7-VVpM0XwYnHp5c7OyOok623PgnAZNO_zAuGpGC7b6VAQ6038unMH_sHo1fH975YiQbn7ri8C9bQgmBduMcGbbxAFcHKIAIWxBIofwR_sapddqmU_19qMmTLsv96HCkJ8p2UOtbPWjzWDONV3s8z_kUNO08I3rxvmNw7dvwuLd6eN3Ov9Gr0uj-KRseDnW29NQX3yEah4kB4yD2UBtt_J5xDZnkjvC3Qe69ONOShEwIgKW8EaD46HmbeKS1uKGmQhNkFKbBGg87U0Bm60Pb8MfqnwQrGzY0CqVwJb4i4LUCznX5DavSZrshmIv2H6ERcSpczUG8Q4C8Q6dxxEGAgogBCfpJrdkQ-IDAAo-IXezyvFrhibW2CoZ6sRFD5PQhLdhvYdnIKipaA-1Ao8kX_jUT88AtDaRC9mamzWcWLPUDSmC9Ql4m9fernbEeZIXhE5vR3seqvtt58-yjUTAQr8WKnl1Lb8wpQ2v24ibTorQBIiU9Gs7WoOi-b5cYwcwMagG7z7jMCLFbS2HFQk6Ba-MV4F8-N74wQ8ZnMPPWBtTaMjgNo9nJKTfX3brPtoYyLRhBkhkjMbOLNTyoGcLtvtKzNyrtPEoMYsNDcYoRaK3NSTYTi4ddDgLWoNoZmk0fdpgLtB3OZCc1hrYaDANa1wsgjwqqJw8KDyABKgl1cy1lYXN0LTEwyQQ.m3u8
 
 #EXTINF:-1 tvg-chno="89" tvg-id="TVC.ec" tvg-name="TVC" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/1625521156521426950/Wy9hRShi_400x400.jpg", TVC
 https://d6op0qag07k4o.cloudfront.net/hls/tvc_360.m3u8
 
 #EXTINF:-1 tvg-chno="93" tvg-id="WuanPlusTV.ec" tvg-name="Wuan Plus TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://wuanplus.tv/wp-content/uploads/2017/10/cropped-2-WUAN-Orange-RGB-para-WEB.png", Wuan PlusTV
-https://streamingwowza.com:19360/wuanplus/wuanplus.m3u8
+https://video2.makrodigital.com/wuanplus/wuanplus/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="94" tvg-id="ZaracayTV.ec" tvg-name="Zaracay TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-bcf9DEeQMAc/XxC0uwkpFoI/AAAAAAAAB80/g9zgAPHdUtY95JynuTZ0PMveAJA3mdxFACLcBGAsYHQ/s540/zaracaytv_logoroku.jpg", Zaracay TV
 https://video2.makrodigital.com/zaracay/zaracay/chunks.m3u8
