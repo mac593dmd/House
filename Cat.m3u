@@ -125,6 +125,9 @@ https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 tvg-chno="77" tvg-id="RadioMorena.ec" tvg-name="Radio Morena" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://cdn-radiotime-logos.tunein.com/s187650g.png", Radio Morena | RA-GYE
 https://video.str3ming.com:3616/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-chno="76" tvg-id="puruwatv.ec" tvg-name="Puruwa TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://www.m3u.cl/logo/110_TV_Puruwa.png", Puruwa TV
+https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/chunklist_w1163577427.m3u8
+
 #EXTINF:-1 tvg-chno="78" tvg-id="RedTVEVentanas.ec" tvg-name="Red TVE Ventanas" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://i2.paste.pics/4b572215220370b87829ebde7c0f63c9.png", Red TVE Ventanas
 https://s2.tvdatta.com:3825/live/redtvelive.m3u8
 
@@ -153,7 +156,7 @@ https://troncalive.site/hls/stream.m3u8
 https://cloud2.streaminglivehd.com:1936/8262/8262/chunklist_w521133661.m3u8
 
 #EXTINF:-1 tvg-chno="88" tvg-name="TV Oro" group-title="ECUADOR" tvg-logo="https://static.wixstatic.com/media/f91854_950db88805b546a6b0135e079403c335~mv2.png/v1/fill/w_260,h_254,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%202023.png", TV Oro
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqgFMcN37CILQUz-_7djzhaZj-V3F8f1HKxWKHlcvprn3xArpMsxrzcJO8MYvncjWBXexwaKa8O_FT5yxmx5e_8RUfO2C7W8R9Ff6xHFRchrBrLEkmrIyD1w9pOEcR5xqGJJhtPDT1ny-s8r1yJJIabUKqfKQSfegRR7prQGTo6COlFd-7egXJHEg6v9S3Kxe_SrHAnD64RvvKKbPkXOOKL4gsdQOa918vK8yWn6AVudoWeO_huXxQOdoymmUbw8TFqjCGlq7zCfgNjlgSLRE_85ITvkiKlXO5Cx6Ya8c4EITD0IMgErkOVRBjP5wZartoAKrRek3BUU0OeBdVxrB0HOWabrYSLulN5YFtp9gTVRa2xfO-tjKGoiRHYWOPKcFpzwc_w6Orqsf21-oHBAysa-6fTj3Pu2zjwyBpaX-ujRLcYh9S1gWYVW8kwqjNL7JDf1SXdhRUVFj1pluVJQxYtsKEReDtH0WuPAPe8Iujf2Qfb9Wu0-r4lL8q0HCxV_fsOu682LXrLW2jpSV8Cq6cc-itaENdjrq5JrN2OngwU7b6MKC7BCDmorvmUCsfLYsxRpx9sfu9uw7GOgNzGaI0y8aISEQ5s58CnN161o0Uvuw7ZC1QTxd1WEx26i3oYsWQ1w7M9Q4xcIYPzyVKrqt96ry2cDkq4v8pLU2IGcyjgUPmmrAmz5r1zvyBN38feJqTjCK-h1rl2OAYk-JXCJhRJYi_CBMzJWxeKHw9U8hkO1Sl5dyZxPJ42qxdeFDN9AANabsiaK5Dy3nqHV_rKzgWPkN01mbigMW1qfHcbcc_QGLJoNEDxh_4d8jA9TTb-WdMSB2Hj2klq0mXBTebzzLgTgmZ3oSrRQcevmKyHB8dUswwgYi48wmuZwy4ndyLe8AexzTMQtY-CbQKYaDDaqRZVnlqK9-3hMXyABKgl1cy1lYXN0LTEwzAQ.m3u8
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqgFpFCyKp_VDxM_hHLxbxfcHwXHaYD6BvNHGUBlptFQqqBLLluLfbDRHyH7S-23yq7F_BOthcCg_F6UN-3B1Bl_Gf2N0P_VzIlgS69oOpdBBVI0msMnxM35ZZfCwK4mYRQa89Iy_3Cspw6doNHWTEtqnT-i9QSVjqxJhJzYPa6pd9c3YgwiKcZOyuMFJgUrnXCVKNRB0bcvGoQq_onWCLa6YxMuguvC3Xt4USWGkfEQtL9jxjapxblDktmA2spNAVk6GCe0oqB0QZcyvFCmIuDf0f9gOewV1_aqHPIL2mYJNe3QjLhMl23PYiZIO8jEzdjU71c320ZCHoXzjCs9waQfE-jw-4gVHf8JNHYrqgBU89UbnRmW8GtTWtrcZxh7amq0tjZn_SLSQ6eJ_jn6xzYOC6Av9H0Wv3A2Q7Tzn-fOZINy7m9_J4i4hg2HQqGqT5yl6zO70E9-TTiDz8F76jLp-jozshj6AOVEgi4pm-ieGNtb0uRzgs_qK4ZVxIzkTcR62ycdxCv8ByOwKMRq2KBa3o4G-81Bo9cmkhXfJbtoup5sFYTfQAuBSm07vEGU34W2T2w7tWutHgNEybwGz3vApHl7zaj4Agl8p2_AjX8YCM86_n_TwWjgRsM_gYZjLWijObsSWWYp3na3wSUkZavBWy8wGlO3Xg15Ad5noqIwR_qZ4yNJZF71vGmSYlFExEbXsVuBQrD9_xiJpxjBBIcxeTN8rUCAb3HWk4igRr1QzW7sn7kWdiGmtNNDGT4XOuPluuOPSfBiGhgY3MldFVfV2uHjoEShlnuljmZbfh2WU2V2Qo_AVgmhvjmsqZzs3rWiKwY0hKqF0vt2N3FqdqYItlbL4VGmllfQgemnEIQC-mUpNMdPfuAE1J03sqMghTr9pO72GUtdbGQaDM6FFnhPwoXnlAOlnSABKgl1cy1lYXN0LTEwzQQ.m3u8
 
 #EXTINF:-1 tvg-chno="89" tvg-id="TVC.ec" tvg-name="TVC" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/1625521156521426950/Wy9hRShi_400x400.jpg", TVC
 https://d6op0qag07k4o.cloudfront.net/hls/tvc_360.m3u8
