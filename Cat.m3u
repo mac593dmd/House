@@ -122,11 +122,14 @@ https://plataformavideo.com/live/nortvision.m3u8
 #EXTINF:-1 tvg-chno="73" tvg-id="Oromar.ec" tvg-name="Oromar" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://oromartv.com/wp-content/uploads/2022/05/IMG_20220401_100837_641.jpg", Oromar
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
-#EXTINF:-1 tvg-chno="77" tvg-id="RadioMorena.ec" tvg-name="Radio Morena" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://cdn-radiotime-logos.tunein.com/s187650g.png", Radio Morena | RA-GYE
-https://video.str3ming.com:3616/hybrid/play.m3u8
+#EXTINF:-1 tvg-chno="75" tvg-id="PlanetaHDEcuador.ec" tvg-name="Planeta HD Ecuador" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/planeta_hd_logo.png", Planeta HD Ecuador
+https://cdnhd.iblups.com/hls/RbO1PiXI7m.m3u8
 
 #EXTINF:-1 tvg-chno="76" tvg-id="puruwatv.ec" tvg-name="Puruwa TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://www.m3u.cl/logo/110_TV_Puruwa.png", Puruwa TV
 https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/chunklist_w1163577427.m3u8
+
+#EXTINF:-1 tvg-chno="77" tvg-id="RadioMorena.ec" tvg-name="Radio Morena" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://cdn-radiotime-logos.tunein.com/s187650g.png", Radio Morena | RA-GYE
+https://video.str3ming.com:3616/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-chno="78" tvg-id="RedTVEVentanas.ec" tvg-name="Red TVE Ventanas" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://i2.paste.pics/4b572215220370b87829ebde7c0f63c9.png", Red TVE Ventanas
 https://s2.tvdatta.com:3825/live/redtvelive.m3u8
@@ -156,7 +159,7 @@ https://troncalive.site/hls/stream.m3u8
 https://cloud2.streaminglivehd.com:1936/8262/8262/chunklist_w521133661.m3u8
 
 #EXTINF:-1 tvg-chno="88" tvg-name="TV Oro" group-title="ECUADOR" tvg-logo="https://static.wixstatic.com/media/f91854_950db88805b546a6b0135e079403c335~mv2.png/v1/fill/w_260,h_254,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%202023.png", TV Oro
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqYFNmegOP3q0a-uws3yP2dZV1iLJpppbDg9cUu9lLBryuevEyUBk-Sep9fzaXAfwzglmIgmDstih-H07d95iiVDiR7EsgXJ28q0I65vgChdn5fs6uw4udROqYkUn0V8gmQTRlfv2T5VT7ZwG08klRCQDrsLIjTcTKdW1fQZZ8eqb0lP1wJw9GZWrYV2Dcxz06HphjS6Oq7Ff4GtEk-QU-mk-cv6X23z45vRuDRs5aIYgpwsudZqwLDitOJYjbdMaSMlUfDgDgiK7EMeZzpB_kF_PDCT8w7PyWN39vEb0MYKtWRFIvRAE_T-1BevGpCOcnvfwHQB4TyKsCNwN3ekhQqeMAdNL5aYBCL7iLwPUe3iqIB1aag8MHs9XdV0DfS9MV1cpgZ7usVUu7xjR96TPXz9rcRYqfCk274CpgaBcl5EG1nhjlb4Xwle-9zn8-Mtl9775uEXiVe9ht1GYBGLtHFf-UhKMh-nNwvMM1Gcy1A3fHnrAPHQWwi7iBX__0yyk8RrG9LJrrttFs16swh-YT48FYX9yOjGnI2EcDKEOsc05nvMqevlOCYz5Ir3VJtR_i4GK7Pft4PYgLmbNyCogh7IDUpXpYjkX_R6hqK_NrrvmscjlcXT6VOrboY_CPI90oKSBWjukNNHqGono_x8jfGuhutGvCOkMVza_e37aWSbY9eIq764nbAGNjTlynzJe-S5ImW_qnp4zBb6ynrYLP3VjZYpKZVQ6xuw74fsgnsQCvtum6DStm93q5YogAFxHA9siuFOOY1diolJ743RJTs4KnHCJW2B7uivkp4-KuWKNbwlc_JgfbGTccWEykd-8B3HNoZo_Ol-iOV5eNCxuvyilXWMfEipuWecip-jwNhoG2PEWsspjAlxdZCYUWZPEFnB0hqri_8KGgx-2jrAuZ68FCTeyoEgASoJdXMtZWFzdC0xMNAE.m3u8
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqcFsYuP00AeuXourX_WUVNyE2YiaZKIsru1HmZe6lYgTwbfqCyGgEMgPS7Eiy9WxdOaaevqMTdYEIY7dBkQ3sS6dwECqDzjy5Hc2yWFSYjH_h7l47pJxDOYJ0eFu5Xjf18k6dnlYlVJFRz013FkN5ksS-mRKIQRQ028N-BXsH6vmtUGZJ19-_pPfZ4LY-UDwGTGxlnhDmYFzsY4W3ftjJAgzUwXa7mqS1Y_eZB0fXmrptPlhqtFlDW4rNX4Vjrg4_vl4UTDWja0i8PE8XPkmgem1zZjz_qECPTWX5a3wQGxkWua27G2k-loPV786Lg7rKTl4KhWY2lZGE64NQNfTik-5pf0O4ZbRVb1dnYl0ZmoPpuHQkuZcXMMOPjhD4HPdcOkWRzDATIpEALnFR36esic2HH_H-f1KKj2VeaKhslRrqSJ6Ub9fbJr_7Ur8ZXybHkOJQnq6nZWXoVkMtf5W712etT8sHQff8BF87EffvvCesma-GE-2i_oYmlumTx6jCw3PrL6P6gxSQz4xn-uxyZGwSpEteGnyZvyT45VUKzCxX8KoAFjsukLjlAxkcMRO8WtPF7e7llYCp6jU29M8H8NEDgHiY8IsJQ_mpwjwz5lVT5rK92mo_IsCv9-KDlOWSts9fILmo4oOs47o7Ni1c4tUcAri_2zQk_krumo3jbOVbmidT5IC0UZQM_v6wFe30A_MmHzDln8ksMz22PiJOlqBVsYqYkzyLhg1Bzpo1-fdjSvnAlgYksnRKgu398d7fdtWjMvC_1BNEoRzeRS9rU4d5yY-GhPuqPEFaV_81KCcF6YhBj7_HnGS2SD09hlQd029mmunRZYcU11oBLoNdFUu6zEjy8nlZmtNVo2MayrhtBvo2AKsYOcu7wfZeWuHVEL79G1Vy22xRoMqZGA3EE2JsFvldtgIAEqCXVzLWVhc3QtMTDQBA.m3u8
 
 #EXTINF:-1 tvg-chno="89" tvg-id="TVC.ec" tvg-name="TVC" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/1625521156521426950/Wy9hRShi_400x400.jpg", TVC
 https://d6op0qag07k4o.cloudfront.net/hls/tvc_360.m3u8
@@ -420,10 +423,10 @@ http://go.iptvhn.net:25461/Denis/Denis123/7674
 #EXTINF:-1 tvg-chno="307" tvg-name="DIRECTV SPORT" group-title="DEPORTE" tvg-logo="https://i.imgur.com/TG1HRPi.png", DIRECTV SPORT | AR
 http://iptvtree.es/qtvbox/w6kqBNLz48yf/71105.ts
 
-#EXTINF:-1 tvg-chno="309" tvg-name="FOX SPORTS 2" group-title="DEPORTE" tvg-logo="https://i.imgur.com/NDWwKQI.jpg", FOX SPORTS 2 | AR
+#EXTINF:-1 tvg-chno="309" tvg-name="FOX SPORTS 2" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/800px-2015_Fox_sports_logo.svg.png", FOX SPORTS 2 | AR
 http://204.157.255.135:20001/play/a03f/index.m3u8
 
-#EXTINF:-1 tvg-chno="310" tvg-name="FOX SPORTS 3" group-title="DEPORTE" tvg-logo="https://i.imgur.com/NDWwKQI.jpg", FOX SPORTS 3 | AR
+#EXTINF:-1 tvg-chno="310" tvg-name="FOX SPORTS 3" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/800px-Fox_sports_3_logo.svg.png", FOX SPORTS 3 | AR
 http://204.157.255.135:20001/play/a03g/index.m3u8
 
 #EXTINF:-1 tvg-chno="313" tvg-name="TYC SPORTS" group-title="DEPORTE" tvg-logo="https://i.imgur.com/zKwneZ3.png", TYC SPORTS | AR
@@ -485,6 +488,9 @@ http://181.176.148.142:8000/play/a02d
 
 #EXTINF:-1 tvg-chno="337" tvg-name="ESPN US" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/ESPN_America_logo.svg/1200px-ESPN_America_logo.svg.png", ESPN | US
 http://thehive.tv:25461/kevinburrell/kevinburrell22/1545
+
+#EXTINF:-1 tvg-chno="338" tvg-name="ESPN +" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/ESPN_America_logo.svg/1200px-ESPN_America_logo.svg.png", ESPN + | US
+http://176.57.50.167:25461/692803/264908/61890
 
 #EXTINF:-1 tvg-chno="341" tvg-name="EUROSPORT 1" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9b/Eurosport_logo_2001.svg/1280px-Eurosport_logo_2001.svg.png", EUROSPORT 1 | ES
 http://51.158.36.81:18000/Eurosport_1/hls/playlist.m3u8
