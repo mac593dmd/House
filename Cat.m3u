@@ -83,11 +83,20 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 #EXTINF:-1 tvg-chno="55" tvg-id="Ecotel.ec" tvg-name="Ecotel" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://sites.google.com/site/radioecotel/_/rsrc/1472777761320/ecotel-television-on-line-1/ECOLOGOTV.jpg", Ecotel
 https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 
+#EXTINF:-1 tvg-chno="56" tvg-id="EcuadorTVHD.ec" tvg-name="Ecuador TV HD" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png", Ecuador TV HD
+http://50.7.66.234:8080/moontools/6548@89787/53453
+
 #EXTINF:-1 tvg-chno="57" tvg-id="Ecuavisa.ec" tvg-name="Ecuavisa" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/553725322483335168/P8WbdzKV_400x400.jpeg", Ecuavisa
 https://youvideostreaming.club/hls/ecutv1.m3u8
 
 #EXTINF:-1 tvg-chno="57.1" tvg-id="Ecuavisa.ec" tvg-name="Ecuavisa.1" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://www.ecuavisa.com/news-portlet/getogimage/8e39cc7e-84b0-423b-85b9-5fb8f15b12fc.jpg", Ecuavisa.1
 https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8
+
+#EXTINF:-1 tvg-chno="57.2" tvg-id="EcuavisaSD.ec" tvg-name="Ecuavisa SD" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/72475322359315.5631191190494.jpg", Ecuavisa SD
+http://50.7.66.234:8080/moontools/6548@89787/8084
+
+#EXTINF:-1 tvg-chno="57.3" tvg-id="EcuavisaFHD.ec" tvg-name="Ecuavisa FHD" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ecuavisa_Internacional-C.svg/1200px-Ecuavisa_Internacional-C.svg.png", Ecuavisa FHD
+http://50.7.66.234:8080/moontools/6548@89787/53455
 
 #EXTINF:-1 tvg-chno="58" tvg-id="ElSolRadioyTelevision.ec" tvg-name="El Sol Radio y Television" tvg-country="EC" tvg-language="SPANISH"  group-title="ECUADOR" tvg-logo="https://solradiomadrid.com/wp-content/uploads/2022/08/cropped-Diseno-sin-titulo-15.jpg", El Sol Radio y Television
 https://streaming5.globalhostla.com/rtplive/elsolrad/chunklist_w431845379.m3u8
@@ -100,6 +109,9 @@ https://video2.makrodigital.com/fmmundo/fmmundo/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="61" tvg-id="FrecuenciaMusicalTV.us" tvg-name="Frecuencia Musical TV" tvg-country="US" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://latinartv.com/sites/default/files/logos/FMTV-1.png", Frecuencia Musical TV
 https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w949014711.m3u8
+
+#EXTINF:-1 tvg-chno="62" tvg-id="gamavisiónFHD.ec" tvg-name="Gamavisón FHD" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png", Gamavisión FHD
+http://50.7.66.234:8080/moontools/6548@89787/53456
 
 #EXTINF:-1 tvg-chno="63" tvg-id="HechosEC.ec" tvg-name="HECHOS" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/znddkhgxhbqp.jpg", Hechos
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/chunklist_w1839505953.m3u8
@@ -137,6 +149,9 @@ https://s2.tvdatta.com:3825/live/redtvelive.m3u8
 #EXTINF:-1 tvg-chno="79" tvg-id="RTS.ec" tvg-name="RTS" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/150px-Rts_logo.png", RTS
 https://d6op0qag07k4o.cloudfront.net/hls/rts_360.m3u8
 
+#EXTINF:-1 tvg-chno="79.1" tvg-id="RTS.ec" tvg-name="RTS" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rts_hd_logo.png", RTS
+http://50.7.66.234:8080/moontools/6548@89787/7534
+
 #EXTINF:-1 tvg-chno="80" tvg-id="RTU.ec" tvg-name="RTU" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_rtu.jpg", RTU
 https://video1.makrodigital.com/rtu/rtu/chunks.m3u8
 
@@ -146,8 +161,14 @@ https://mediacpstreamchile.com:1936/sonoonda/sonoonda/chunklist_w1535311867.m3u8
 #EXTINF:-1 tvg-chno="82" tvg-id="TC.ec" tvg-name="TC" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://radiolacalle.com/wp-content/uploads/2021/04/46bafe86abf8f4083d79882b3f6f6dc4.jpg", TC
 https://youvideostreaming.club/hls/ecutv3.m3u8
 
+#EXTINF:-1 tvg-chno="82.2" tvg-id="TCFHD.ec" tvg-name="TC FHD" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png", TC FHD
+http://50.7.66.234:8080/moontools/6548@89787/53458
+
 #EXTINF:-1 tvg-chno="83" tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png", Teleamazonas
 https://youvideostreaming.club/hls/ecutv4.m3u8
+
+#EXTINF:-1 tvg-chno="83.1" tvg-id="TeleamazonasFHD.ec" tvg-name="Teleamazonas FHD" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://seeklogo.com/images/T/teleamazonas-antiguo-fondo-azul-logo-8E2D85CDDF-seeklogo.com.png", Teleamazonas FHD
+http://50.7.66.234:8080/moontools/6548@89787/7532
 
 #EXTINF:-1 tvg-chno="84" tvg-id="Telerama.ec" tvg-name="Telerama" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://static-media.streema.com/media/cache/27/af/27afea308274909fd22e99b78e6cc2df.jpg", Telerama
 https://envivo.telerama.ec/stream.m3u8
@@ -158,9 +179,11 @@ https://troncalive.site/hls/stream.m3u8
 #EXTINF:-1 tvg-chno="87" tvg-id="TVColor.ec" tvg-name="TV Color" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f6/10/4e/f6104ea0-e26c-c90f-8e4f-2267aabddbc2/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg", TV Color
 https://cloud2.streaminglivehd.com:1936/8262/8262/chunklist_w521133661.m3u8
 
-
 #EXTINF:-1 tvg-chno="89" tvg-id="TVC.ec" tvg-name="TVC" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/1625521156521426950/Wy9hRShi_400x400.jpg", TVC
 https://d6op0qag07k4o.cloudfront.net/hls/tvc_360.m3u8
+
+#EXTINF:-1 tvg-chno="89.1" tvg-id="TVCFHD.ec" tvg-name="TVC FHD" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Tvc_2003.png", TVC FHD
+http://50.7.66.234:8080/moontools/6548@89787/53460
 
 #EXTINF:-1 tvg-chno="93" tvg-id="WuanPlusTV.ec" tvg-name="Wuan Plus TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://wuanplus.tv/wp-content/uploads/2017/10/cropped-2-WUAN-Orange-RGB-para-WEB.png", Wuan PlusTV
 https://video2.makrodigital.com/wuanplus/wuanplus/chunks.m3u8
@@ -439,8 +462,23 @@ http://204.157.255.135:20001/play/a03f/index.m3u8
 #EXTINF:-1 tvg-chno="310" tvg-name="FOX SPORTS 3" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/800px-Fox_sports_3_logo.svg.png", FOX SPORTS 3 | AR
 http://204.157.255.135:20001/play/a03g/index.m3u8
 
-#EXTINF:-1 tvg-chno="313" tvg-id="TyCSports.ar" tvg-name="TYC SPORTS" group-title="DEPORTE" tvg-logo="https://i.imgur.com/zKwneZ3.png", TYC SPORTS | AR
+#EXTINF:-1 tvg-chno="311" tvg-id="TyCSports.ar" tvg-name="TYC SPORTS" group-title="DEPORTE" tvg-logo="https://i.imgur.com/zKwneZ3.png", TYC SPORTS | AR
 http://nohn.me/play/hjGS-tDz3JSOQ6fHw721Vt8pBT2-ZCIo9LBdhw_QNtM
+
+#EXTINF:-1 tvg-chno="312" tvg-name="EL CANAL DEL FÚTBOL HD" group-title="DEPORTE" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png", EL CANAL DEL FÚTBOL HD
+http://50.7.66.234:8080/moontools/6548@89787/1086208
+
+#EXTINF:-1 tvg-chno="313" tvg-name="GOL TV" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/640px-GOLTV.png", GOL TV
+http://50.7.66.234:8080/moontools/6548@89787/7471
+
+#EXTINF:-1 tvg-chno="313.1" tvg-name="GOL TV HD" group-title="DEPORTE" tvg-logo="https://www.prensario.net/Multimedios/imgs/14885_750.jpg", GOL TV HD
+http://50.7.66.234:8080/moontools/6548@89787/53491
+
+#EXTINF:-1 tvg-chno="314" tvg-name="GOL TV EC SD" group-title="DEPORTE" tvg-logo="https://ipuntotv.com/IMAGES/Goltv-ecuador.png", GOL TV EC SD
+http://50.7.66.234:8080/moontools/6548@89787/25753
+
+#EXTINF:-1 tvg-chno="314.1" tvg-name="GOL TV EC FHD" group-title="DEPORTE" tvg-logo="https://cdn.mitvstatic.com/channels/b39ba6be-fb3e-4ce7-a302-d9eb6461bf9e_m.jpg", GOL TV EC FHD
+http://50.7.66.234:8080/moontools/6548@89787/53381
 
 #EXTINF:-1 tvg-chno="315" tvg-name="ESPN" group-title="DEPORTE" tvg-logo="https://i.imgur.com/Qltczdi.jpg", ESPN | AR
 http://204.157.255.135:20001/play/a066/index.m3u8
