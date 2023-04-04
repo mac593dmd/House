@@ -421,8 +421,14 @@ https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="305" tvg-name="DIRECTV SPORT" group-title="DEPORTE" tvg-logo="https://i.imgur.com/TG1HRPi.png", DIRECTV SPORT | AR
 http://190.119.178.46:8000/play/a032/index.m3u8
 
+#EXTINF:-1 tvg-chno="305.1" tvg-name="DIRECTV SPORT" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/1200px-DirecTV_Sports_Latin_America_%282018%29.png", DIRECTV SPORT | AR
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234324
+
 #EXTINF:-1 tvg-chno="306" tvg-name="DIRECTV SPORT 2" group-title="DEPORTE" tvg-logo="https://www.directv.com.ec/content/dam/public-sites/channels/612.png", DIRECTV SPORT 2 | AR
 http://190.119.178.46:8000/play/a033/index.m3u8
+
+#EXTINF:-1 tvg-chno="306.1" tvg-name="DIRECTV SPORT 2" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png", DIRECTV SPORT 2 | AR
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234327
 
 #EXTINF:-1 tvg-chno="307" tvg-name="DIRECTV SPORT +" group-title="DEPORTE" tvg-logo="https://www.directv.com.ec/content/dam/public-sites/channels/613.png", DIRECTV SPORT + | AR
 http://190.119.178.46:8000/play/a034/index.m3u8
