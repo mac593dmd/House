@@ -365,8 +365,107 @@ https://stream.ads.ottera.tv/cl/230224cfse5plbpglsc5lkvn00/1920x1080_5711200_3_f
 ########################### CINE ###########################
 ############################################################
 
-#EXTINF:-1 tvg-chno="240" tvg-id="CineSony.us" tvg-name="Cine Sony" group-title="CINE" tvg-logo="https://www.cinesony.com/sites/cinesony/themes/custom/cinesony/logo.png", Cine Sony
+#EXTINF:-1 tvg-chno="200" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/TNT_Film_HD_Logo.svg/1280px-TNT_Film_HD_Logo.svg.png" group-title="CINE Y SERIES", TNT HD
+http://45.190.13.50:8003/play/a02w/index.m3u8
+
+#EXTINF:-1 tvg-chno="201" tvg-name="TNT Series HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TNT_Serie_HD.svg/1200px-TNT_Serie_HD.svg.png" group-title="CINE Y SERIES", TNT Series HD
+http://45.190.13.50:8003/play/a02x/index.m3u8
+
+#EXTINF:-1 tvg-chno="202" tvg-name="Star Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/800px-Star_Channel_2020.svg.png" group-title="CINE Y SERIES", Star Channel HD
+http://45.190.13.50:8003/play/a01r/index.m3u8
+
+#EXTINF:-1 tvg-chno="203" tvg-name="Warner HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="CINE Y SERIES", Warner HD
+http://45.190.13.50:8003/play/a025/index.m3u8
+
+#EXTINF:-1 tvg-chno="204" tvg-name="Space HD" tvg-logo="https://www.pngfind.com/pngs/m/577-5774924_space-tv-logo-png-transparent-png.png" group-title="CINE Y SERIES", Space HD
+http://45.190.13.50:8003/play/a02v/index.m3u8
+
+#EXTINF:-1 tvg-chno="205" tvg-name="Syfy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/a/ae/Syfy_HD_Logo_2021.svg/1200px-Syfy_HD_Logo_2021.svg.png" group-title="CINE Y SERIES", Syfy HD
+http://45.190.13.50:8003/play/a01z/index.m3u8
+
+#EXTINF:-1 tvg-chno="206" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="CINE Y SERIES", FX
+http://45.190.13.50:8003/play/a01w/index.m3u8
+
+#EXTINF:-1 tvg-chno="207" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="CINE Y SERIES", AXN
+http://45.190.13.50:8003/play/a02r/index.m3u8
+
+#EXTINF:-1 tvg-chno="208" tvg-name="Paramount HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="CINE Y SERIES", Paramount HD
+http://45.190.13.50:8003/play/a02u/index.m3u8
+
+#EXTINF:-1 tvg-chno="209" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="CINE Y SERIES", AMC
+http://45.190.13.50:8003/play/a02s/index.m3u8
+
+#EXTINF:-1 tvg-chno="210" tvg-name="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Aunde_hd.png" group-title="CINE Y SERIES", A&E HD
+http://45.190.13.50:8002/play/a01a/index.m3u8
+
+#EXTINF:-1 tvg-chno="211" tvg-name="Studio Universal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="CINE Y SERIES", Studio Universal HD
+http://45.190.13.50:8003/play/a01y/index.m3u8
+
+#EXTINF:-1 tvg-chno="212" tvg-name="Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Universal-Pictures-Logo.svg" group-title="CINE Y SERIES", Universal
+http://45.190.13.50:8003/play/a02y/index.m3u8
+
+#EXTINF:-1 tvg-chno="213" tvg-name="Universal Cinema HD" tvg-logo="https://www.directv.com.ec/content/dam/public-sites/channels/572.png" group-title="CINE Y SERIES", Universal Cinema HD
+http://45.190.13.50:8003/play/a01v/index.m3u8
+
+#EXTINF:-1 tvg-chno="214" tvg-name="Universal Comedy HD" tvg-logo="https://www.directv.com.ec/content/dam/public-sites/channels/573.png" group-title="CINE Y SERIES", Universal Comedy HD
+http://45.190.13.50:8003/play/a01s/index.m3u8
+
+#EXTINF:-1 tvg-chno="215" tvg-name="Universal Crime HD" tvg-logo="https://www.directv.com.ec/content/dam/public-sites/channels/574.png" group-title="CINE Y SERIES", Universal Crime HD
+http://45.190.13.50:8003/play/a01u/index.m3u8
+
+#EXTINF:-1 tvg-chno="216" tvg-name="Universal Premiere 1 HD" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/571.png" group-title="CINE Y SERIES", Universal Premiere 1 HD
+http://45.190.13.50:8003/play/a01t/index.m3u8
+
+#EXTINF:-1 tvg-chno="217" tvg-name="Universal Reality HD" tvg-logo="https://www.directv.com.ec/content/dam/public-sites/channels/575.png" group-title="CINE Y SERIES", Universal Reality HD
+http://45.190.13.50:8003/play/a02t/index.m3u8
+
+#EXTINF:-1 tvg-chno="218" tvg-name="CINEMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="CINE Y SERIES", CINEMAX HD
+http://45.190.13.50:8000/play/a01p/index.m3u8
+
+#EXTINF:-1 tvg-chno="219" tvg-name="CINECANAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="CINE Y SERIES", CINECANAL HD
+http://45.190.13.50:8003/play/a026/index.m3u8
+
+#EXTINF:-1 tvg-chno="220" tvg-name="Golden Premier HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="CINE Y SERIES", Golden Premier HD
+http://45.190.13.50:8002/play/a00t/index.m3u8
+
+#EXTINF:-1 tvg-chno="221" tvg-name="Golden Premier 2 HD" tvg-logo="https://www.micineclub.com/img/goldenpremier2.png" group-title="CINE Y SERIES", Golden Premier 2 HD
+http://45.190.13.50:8002/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-chno="222" tvg-name="Golden Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/640px-Canal_Golden_logo.svg.png" group-title="CINE Y SERIES", Golden Plus HD
+http://45.190.13.50:8003/play/a030/index.m3u8
+
+#EXTINF:-1 tvg-chno="223" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/HBO_HD_logo.png/640px-HBO_HD_logo.png" group-title="CINE Y SERIES", HBO HD
+http://45.190.13.50:8003/play/a021/index.m3u8
+
+#EXTINF:-1 tvg-chno="224" tvg-name="HBO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="CINE Y SERIES", HBO 2 HD
+http://45.190.13.50:8003/play/a022/index.m3u8
+
+#EXTINF:-1 tvg-chno="225" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE Y SERIES", HBO Family HD
+http://45.190.13.50:8003/play/a020/index.m3u8
+
+#EXTINF:-1 tvg-chno="226" tvg-name="HBO Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE Y SERIES", HBO Plus HD
+http://45.190.13.50:8003/play/a023/index.m3u8
+
+#EXTINF:-1 tvg-chno="227" tvg-name="HBO Pop HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="CINE Y SERIES", HBO Pop HD
+http://45.190.13.50:8003/play/a02z/index.m3u8
+
+#EXTINF:-1 tvg-chno="228" tvg-name="HBO Xtreme HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="CINE Y SERIES", HBO Xtreme HD
+http://45.190.13.50:8003/play/a024/index.m3u8
+
+#EXTINF:-1 tvg-chno="229" tvg-name="Sony HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CINE Y SERIES", Sony HD
+http://45.190.13.50:8002/play/a019/index.m3u8
+
+#EXTINF:-1 tvg-chno="230" tvg-name="Sony Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png" group-title="CINE Y SERIES", Sony Movies HD
+http://45.190.13.50:8003/play/a02q/index.m3u8
+
+#EXTINF:-1 tvg-chno="231" tvg-id="CineSony.us" tvg-name="Cine Sony" group-title="CINE" tvg-logo="https://www.cinesony.com/sites/cinesony/themes/custom/cinesony/logo.png", Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="232" tvg-name="Play Movie HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/69/Jalsha_Movies_HD_alt.png" group-title="CINE Y SERIES", Play Movie HD
+http://45.190.13.50:8003/play/a046/index.m3u8
+
+#EXTINF:-1 tvg-chno="233" tvg-name="DHE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png" group-title="CINE Y SERIES", DHE HD
+http://45.190.13.50:8000/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-chno="248" tvg-id="OrbitTV.do" tvg-name="Orbit TV" tvg-country="DO" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png", Orbit TV | DO
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?
@@ -479,13 +578,22 @@ https://rakuten-spotlight-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-chno="287" tvg-id="A3CINE.es" tvg-name="A3CINE" tvg-country="ES" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/A3Cine.png/640px-A3Cine.png", A3CINE
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 
-#EXTINF:-1 tvg-chno="288" tvg-id="PeliculasdelOeste.ec" tvg-name="Peliculas del Oeste" tvg-country="EC" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo--S3-5cQOxClLIOINqVNN5YvYJzbmEyjAUwBJJzUIjT6xqE-6lxQGHJig1rwQztxKJSAhCBCeFUQv0dYqfGj4eud9QSjI6ty252qdAg_DuirV98e0VORtXXH4Hw6bzCWnueIB4ynTp3bhdP5NaRrG_W3Gkco6ixaLwKeqgW6942RYSUJScqWP4CX/s540/grjngo-logoroku.jpg", Peliculas del Oeste
+#EXTINF:-1 tvg-chno="288" tvg-name="Atres Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="CINE Y SERIES", Atres Series
+http://45.190.13.50:8002/play/a014/index.m3u8
+
+#EXTINF:-1 tvg-chno="289" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/1200px-TCM_logo.svg.png" group-title="CINE Y SERIES", TCM
+http://45.190.13.50:8003/play/a027/index.m3u8
+
+#EXTINF:-1 tvg-chno="290" tvg-name="Retro Plus TV" tvg-logo="https://image.roku.com/developer_channels/prod/407b41e3649e464cd4a478c2858e6e2e1b3b85536634ab2188f23eb5402fe438.png" group-title="CINE Y SERIES", Retro Plus TV
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="291" tvg-id="PeliculasdelOeste.ec" tvg-name="Peliculas del Oeste" tvg-country="EC" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo--S3-5cQOxClLIOINqVNN5YvYJzbmEyjAUwBJJzUIjT6xqE-6lxQGHJig1rwQztxKJSAhCBCeFUQv0dYqfGj4eud9QSjI6ty252qdAg_DuirV98e0VORtXXH4Hw6bzCWnueIB4ynTp3bhdP5NaRrG_W3Gkco6ixaLwKeqgW6942RYSUJScqWP4CX/s540/grjngo-logoroku.jpg", Peliculas del Oeste
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a20-63489eff90b96ef5e0eb3282.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=UnWKoYo7s1xN72dpE7y7
 
-#EXTINF:-1 tvg-chno="289" tvg-id="Runtimeclasicos.es" tvg-name="Run Time Clasicos" tvg-country="ES" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", Run Time Clasicos
+#EXTINF:-1 tvg-chno="292" tvg-id="Runtimeclasicos.es" tvg-name="Run Time Clasicos" tvg-country="ES" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", Run Time Clasicos
 https://daiconnect.com/live/hls/tvup/tvfy-rtclsc/0970efd6bbf19c6efe1d09808e0104b4/.m3u8?ApPW=1920&ApPH=1080&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=c06d0f65-66bd-11ed-9f6a-5a7b45621b50
 
-#EXTINF:-1 tvg-chno="290" tvg-id="CanelaClasicos.mx" tvg-name="Canela Clasicos" tvg-country="MX" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/linear-canela-classics-16x9_0.jpg", Canela Clasicos
+#EXTINF:-1 tvg-chno="293" tvg-id="CanelaClasicos.mx" tvg-name="Canela Clasicos" tvg-country="MX" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/linear-canela-classics-16x9_0.jpg", Canela Clasicos
 https://stream.ads.ottera.tv/cl/230218cfo29nuisvfi0odt1tj0/1280x720_3071200_0_f.m3u8?i=475_652
 
 ############################################################
@@ -625,7 +733,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="384" tvg-id="garajetv.ar" tvg-name="Garaje TV" tvg-logo="https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_200x200.jpg" group-title="DEPORTE", Garage TV
-http://186.0.233.76:1935/Garage/garage.smil/chunklist_w1648686726_b1296000_sleng.m3u8
+http://50.7.66.234:8080/moontools/6548@89787/4016
 
 #EXTINF:-1 tvg-chno="385" tvg-id="motorvisiontv.es"  tvg-name="Motorvision TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/motorvision-tv-3201.jpg" group-title="DEPORTE", Motorvision TV
 https://daiconnect.com/live/hls/tvup/tvfy-mtov/791b83ec57063d5be36796eaa1279dcd/.m3u8?ApPW=1920&ApPH=1080&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=72d49265-66bf-11ed-9e9d-d6835f939ca3
