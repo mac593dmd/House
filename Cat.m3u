@@ -19,7 +19,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="DiscoveryKidsMexico.mx" tvg-name="Discovery Kids" group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", Discovery Kids
 https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-chno="7" tvg-name="Nickelodeon HD" group-title="INFANTIL" tvg-logo="https://es.wikipedia.org/wiki/Nickelodeon#/media/Archivo:NICK2023.png", Nickelodeon HD
+#EXTINF:-1 tvg-chno="7" tvg-name="Nickelodeon HD" group-title="INFANTIL" tvg-logo="https://png.pngtree.com/png-vector/20220923/ourlarge/pngtree-nickelodeon-logo-free-png-image_6214213.png", Nickelodeon HD
 http://45.190.13.50:8000/play/a03d/index.m3u8
 
 #EXTINF:-1 tvg-chno="8" tvg-name="Nick Jr" group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png", Nick Jr
@@ -294,7 +294,7 @@ https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist_1024
 #EXTINF:-1 tvg-chno="118" tvg-id="T13.cl" tvg-name="T13" tvg-country="CL" tvg-language="SPANISH" group-title="NOTICIAS" tvg-logo="https://www-storage.13.cl/t13/_images/t13-push-notification-logo.jpg", T13 | CL
 https://ythls.onrender.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg.m3u8
 
-#EXTINF:-1 tvg-chno="119" tvg-name="Latina HD" group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg", Latina HD
+#EXTINF:-1 tvg-chno="119" tvg-name="Latina HD" group-title="NOTICIAS" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo-latina-despues.jpg", Latina HD
 http://50.7.66.234:8080/moontools/6548@89787/56273
 
 #EXTINF:-1 tvg-chno="120" tvg-name="Canal Caracol" group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png", Canal Caracol
@@ -440,7 +440,7 @@ http://45.190.13.50:8002/play/a01a/index.m3u8
 #EXTINF:-1 tvg-chno="211" tvg-name="Studio Universal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="CINE Y SERIES", Studio Universal HD
 http://45.190.13.50:8003/play/a01y/index.m3u8
 
-#EXTINF:-1 tvg-chno="212" tvg-name="Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Universal-Pictures-Logo.svg" group-title="CINE Y SERIES", Universal
+#EXTINF:-1 tvg-chno="212" tvg-name="Universal" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Universal-Logo-tumb-1280x720.png" group-title="CINE Y SERIES", Universal
 http://45.190.13.50:8003/play/a02y/index.m3u8
 
 #EXTINF:-1 tvg-chno="213" tvg-name="Universal Cinema HD" tvg-logo="https://www.directv.com.ec/content/dam/public-sites/channels/572.png" group-title="CINE Y SERIES", Universal Cinema HD
@@ -657,11 +657,20 @@ http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234327
 #EXTINF:-1 tvg-chno="307" tvg-name="DIRECTV SPORT +" group-title="DEPORTE" tvg-logo="https://www.directv.com.ec/content/dam/public-sites/channels/613.png", DIRECTV SPORT + | AR
 http://190.119.178.46:8000/play/a034/index.m3u8
 
-#EXTINF:-1 tvg-chno="309" tvg-name="FOX SPORTS 2" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/800px-2015_Fox_sports_logo.svg.png", FOX SPORTS 2 | AR
+#EXTINF:-1 tvg-chno="308" tvg-name="FOX SPORTS HD" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/800px-2015_Fox_sports_logo.svg.png", FOX SPORTS HD
+http://45.190.13.50:8002/play/a001/index.m3u8
+
+#EXTINF:-1 tvg-chno="309" tvg-name="FOX SPORTS 2" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/800px-2015_Fox_sports_logo.svg.png", FOX SPORTS 2 | AR.
 http://204.157.255.135:20001/play/a03f/index.m3u8
 
-#EXTINF:-1 tvg-chno="310" tvg-name="FOX SPORTS 3" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/800px-Fox_sports_3_logo.svg.png", FOX SPORTS 3 | AR
+#EXTINF:-1 tvg-chno="309.1" tvg-name="FOX SPORTS 2" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/800px-2015_Fox_sports_logo.svg.png", FOX SPORTS 2 | AR
+http://45.190.13.50:8002/play/a01n/index.m3u8
+
+#EXTINF:-1 tvg-chno="310" tvg-name="FOX SPORTS 3" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/800px-Fox_sports_3_logo.svg.png", FOX SPORTS 3 | AR.
 http://204.157.255.135:20001/play/a03g/index.m3u8
+
+#EXTINF:-1 tvg-chno="310.1" tvg-name="FOX SPORTS 3" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/800px-Fox_sports_3_logo.svg.png", FOX SPORTS 3 | AR
+http://45.190.13.50:8002/play/a01o/index.m3u8
 
 #EXTINF:-1 tvg-chno="311" tvg-id="TyCSports.ar" tvg-name="TYC SPORTS" group-title="DEPORTE" tvg-logo="https://i.imgur.com/zKwneZ3.png", TYC SPORTS | AR
 http://45.190.13.50:8003/play/a01c/index.m3u8
@@ -744,7 +753,7 @@ http://sdmx.us:25461/belfast/belfast/220429
 #EXTINF:-1 tvg-chno="350" tvg-name="DAZN F1" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1200px-DAZN_F1_logo.svg.png", DAZN F1 | ES
 http://50.7.66.234:8080/moontools/6548@89787/1143419
 
-#EXTINF:-1 tvg-chno="351" tvg-name="MOVISTAR F1" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Movistar_Formula_1.svg", MOVISTAR F1 | ES
+#EXTINF:-1 tvg-chno="351" tvg-name="MOVISTAR F1" group-title="DEPORTE" tvg-logo="https://www.momentogp.com/wp-content/uploads/2019/02/movistar-renueva-contrato-emision-f1-201842591_1.jpg", MOVISTAR F1 | ES
 http://50.7.66.234:8080/moontools/6548@89787/53028
 
 #EXTINF:-1 tvg-chno="354" tvg-name="SKY SPORT" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png", SKY SPORT | MX
@@ -779,6 +788,18 @@ https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/60580
 
 #EXTINF:-1 tvg-chno="368" tvg-id="NeoTV.ar" tvg-name="Neo TV" group-title="DEPORTE" tvg-logo="https://i.imgur.com/Xtu85tb.png", Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1 tvg-chno="370" tvg-name="VIX 1" group-title="DEPORTE" tvg-logo="https://theme.zdassets.com/theme_assets/12350451/9cdeed54b9c68fa55c3beb8edd8d228c5e452450.png", VIX 1 🇨🇷 
+https://linear-489.frequency.stream/dist/vix/489/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="371" tvg-name="VIX 2" group-title="DEPORTE" tvg-logo="https://mms.businesswire.com/media/20220331005834/es/1407180/5/ViX.jpg", VIX 2 🇨🇷
+https://linear-490.frequency.stream/dist/vix/490/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="372" tvg-name="VIX 3" group-title="DEPORTE" tvg-logo="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt37afb73ea6a565b3/62463aaf0c8230128a03e18d/descarga.jpg", VIX 3 🇨🇷
+https://linear-506.frequency.stream/dist/vix/506/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="373" tvg-name="VIX 4" group-title="DEPORTE" tvg-logo="https://ayuda.tigo.com.pa/hc/article_attachments/9373342049683/MicrosoftTeams-image.png", VIX 4 🇨🇷
+https://linear-507.frequency.stream/dist/vix/507/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="380" tvg-id="DeporTV.ar" tvg-name="Depor TV" tvg-country="AR" tvg-language="SPANISH" group-title="DEPORTE" tvg-logo="https://i.imgur.com/iyYLNRt.png", Depor TV | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
