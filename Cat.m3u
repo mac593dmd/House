@@ -131,6 +131,9 @@ https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 #EXTINF:-1 tvg-chno="56" tvg-id="EcuadorTVHD.ec" tvg-name="Ecuador TV HD" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png", Ecuador TV HD
 http://50.7.66.234:8080/moontools/6548@89787/53453
 
+#EXTINF:-1 tvg-chno="56.1" tvg-id="EcuadorTV.ec" tvg-name="Ecuador TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png", Ecuador TV
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_session=708901963&_cdn_timestamp=1681580680&_cdn_token=3348371aa4ba7c7922a01bef6d11d8c934eb6231
+
 #EXTINF:-1 tvg-chno="57" tvg-id="Ecuavisa.ec" tvg-name="Ecuavisa" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/553725322483335168/P8WbdzKV_400x400.jpeg", Ecuavisa
 https://youvideostreaming.club/hls/ecutv1.m3u8
 
@@ -158,6 +161,9 @@ https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w949014711.m3u8
 #EXTINF:-1 tvg-chno="62" tvg-id="gamavisiónFHD.ec" tvg-name="Gamavisón FHD" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png", Gamavisión FHD
 http://50.7.66.234:8080/moontools/6548@89787/53456
 
+#EXTINF:-1 tvg-chno="62.1" tvg-id="gamavisión.ec" tvg-name="Gamavisón" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png", Gamavisión
+http://160.20.165.246:8000/play/a00r/index.m3u8
+
 #EXTINF:-1 tvg-chno="63" tvg-id="HechosEC.ec" tvg-name="HECHOS" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/znddkhgxhbqp.jpg", Hechos
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/chunklist_w1839505953.m3u8
 
@@ -178,6 +184,12 @@ https://multicanal.streamseguro.com/hls/streaming.m3u8
 
 #EXTINF:-1 tvg-chno="71" tvg-id="nortvision.ec" tvg-name="Nortvision" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/nortvisin-en-vivo-1471.png", Nortvision
 https://plataformavideo.com/live/nortvision.m3u8
+
+#EXTINF:-1 tvg-chno="73" tvg-id="Oromar.ec" tvg-name="Oromar" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://oromartv.com/wp-content/uploads/2022/05/IMG_20220401_100837_641.jpg", Oromar
+http://160.20.165.246:8000/play/a00t/index.m3u8
+
+#EXTINF:-1 tvg-chno="74" tvg-id="PasajeTV.ec" tvg-name="Pasaje TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/818498293307162625/1ccnoN9X_400x400.jpg", Pasaje TV
+http://160.20.165.246:8000/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-chno="75" tvg-id="PlanetaHDEcuador.ec" tvg-name="Planeta HD Ecuador" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/planeta_hd_logo.png", Planeta HD Ecuador
 https://cdnhd.iblups.com/hls/RbO1PiXI7m.m3u8
@@ -657,7 +669,7 @@ http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234327
 #EXTINF:-1 tvg-chno="307" tvg-name="DIRECTV SPORT +" group-title="DEPORTE" tvg-logo="https://www.directv.com.ec/content/dam/public-sites/channels/613.png", DIRECTV SPORT + | AR
 http://190.119.178.46:8000/play/a034/index.m3u8
 
-#EXTINF:-1 tvg-chno="308" tvg-name="FOX SPORTS HD" group-title="DEPORTE" tvg-logo="https://i.imgur.com/NDWwKQI.jpg", FOX SPORTS
+#EXTINF:-1 tvg-chno="308" tvg-name="FOX SPORTS HD" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png", FOX SPORTS HD
 http://45.190.13.50:8002/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-chno="309" tvg-name="FOX SPORTS 2" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/800px-2015_Fox_sports_logo.svg.png", FOX SPORTS 2. | AR
@@ -838,6 +850,9 @@ https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="404" tvg-id="MiradorTV.ar" tvg-name="Mirador TV" tvg-country="AR" tvg-language="SPANISH" group-title="PAISES" tvg-logo="https://i.imgur.com/KjD1uJS.png", Mirador TV | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="405" tvg-id="Bolivisión.bo" tvg-name="Bolivisión" tvg-country="BO" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png", Bolivisión | BO
+http://177.234.230.226:8010/play/a035/index.m3u8
+
 #EXTINF:-1 tvg-chno="406" tvg-id="BoliviaDeportesTV.bo" tvg-name="Bolivia Deportes TV" tvg-country="BO" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg", Bolivia Deportes TV
 https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w376273250.m3u8
 
@@ -958,20 +973,47 @@ https://5f700d5b2c46f.streamlock.net/elsellotv/elsellotv/playlist.m3u8
 ######################## VARIEDADES ########################
 ############################################################
 
-#EXTINF:-1 tvg-chno="575" tvg-id="SonyComedias.us" tvg-name="Sony Comedias" tvg-country="US" tvg-language="SPANISH" group-title="VARIEDADES" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/08/sonycomedias.jpg", Sony Comedias
-https://spt-comedias-1-us.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-chno="575" tvg-name="El Gourmet TV" group-title="VARIEDADES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/ElGourmet2023.png", El Gourmet TV
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/GOURMET/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOURMET_stream_g4&_cdn_session=708885419&_cdn_timestamp=1681579957&_cdn_token=7707eda50f1c70deb5adf5fa624ca961e1be62a5
 
-#EXTINF:-1 tvg-chno="577" tvg-id="SonyCompetencias.us" tvg-name="Sony Competencias" tvg-country="US" tvg-language="SPANISH" group-title="VARIEDADES" tvg-logo="https://magosdeldeporte.com/wp-content/uploads/2023/03/sony-competencias-logo.png", Sony Competencias
+#EXTINF:-1 tvg-chno="576" tvg-name="Food Network" group-title="VARIEDADES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png", Food Network
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOODNETWORK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOODNETWORK_stream_l5&_cdn_session=708885867&_cdn_timestamp=1681579977&_cdn_token=51751db7fa576d6ab85d00d91630fba3e399c76a
+
+#EXTINF:-1 tvg-chno="577" tvg-name="Mundo & Sabor" group-title="VARIEDADES" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MUNDO-Y-SABOR-FONDO-2-300x169.jpg", Mundo & Sabor
+https://marine2.miplay.cl/mundoysabor/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="580" tvg-name="On Tour Channel" group-title="VARIEDADES" tvg-logo="https://pbs.twimg.com/media/FSiiFtPXIAAjZZ8?format=png&name=120x120", On Tour Channel
+https://marine2.miplay.cl/ontour/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="581" tvg-name="Sun Channel" group-title="VARIEDADES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Channel_Logo_2022.webp/150px-Sun_Channel_Logo_2022.webp.png", Sun Channel
+http://181.189.243.254:8000/play/a0r9/index.m3u8
+
+#EXTINF:-1 tvg-chno="582" tvg-name="Travel XP Televisión" group-title="VARIEDADES" tvg-logo="https://images.travelxp.com/images/txpin/general/travelxplogo1.png", Travel XP Televisión
+http://200.119.222.198:25470/play/a001/index.m3u8
+
+#EXTINF:-1 tvg-chno="584" tvg-name="Az Corazon" group-title="VARIEDADES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/1200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png", Az Corazon
+https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
+
+#EXTINF:-1 tvg-chno="585" tvg-name="Az Mundo" group-title="VARIEDADES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TV_Azteca_Mundo_logo.svg/1200px-TV_Azteca_Mundo_logo.svg.png", Az Mundo
+https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
+
+#EXTINF:-1 tvg-chno="586" tvg-id="SonyCompetencias.us" tvg-name="Sony Competencias" tvg-country="US" tvg-language="SPANISH" group-title="VARIEDADES" tvg-logo="https://magosdeldeporte.com/wp-content/uploads/2023/03/sony-competencias-logo.png", Sony Competencias
 https://spt-competencias-1-us.samsung.wurl.tv/2000.m3u8
 
-#EXTINF:-1 tvg-chno="583" tvg-id="SonyNovelas.us" tvg-name="Sony Novelas" tvg-country="US" tvg-language="SPANISH" group-title="VARIEDADES" tvg-logo="https://salvatv.net/wp-content/uploads/2022/10/65654987.jpg", Sony Novelas
+#EXTINF:-1 tvg-chno="587" tvg-name="Az Clip" group-title="VARIEDADES" tvg-logo="https://www.vhv.rs/dpng/d/607-6075841_tv-azteca-clic-logo-tv-azteca-png-transparent.png", Az Clip
+https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
+
+#EXTINF:-1 tvg-chno="592" tvg-id="SonyNovelas.us" tvg-name="Sony Novelas" tvg-country="US" tvg-language="SPANISH" group-title="VARIEDADES" tvg-logo="https://salvatv.net/wp-content/uploads/2022/10/65654987.jpg", Sony Novelas
 https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-chno="579" tvg-id="SEOTV.bo" tvg-name="SEO TV" tvg-country="BO" tvg-language="SPANISH" group-title="VARIEDADES" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png", SEO TV 
+#EXTINF:-1 tvg-chno="596" tvg-id="SEOTVNovelas.bo" tvg-name="SEO TV Novelas" tvg-country="BO" tvg-language="SPANISH" group-title="VARIEDADES" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png", SEO TV Novelas 
+https://live.seo.tv.bo/live/3SEO.m3u8
+
+#EXTINF:-1 tvg-chno="597" tvg-id="SEOTV.bo" tvg-name="SEO TV" tvg-country="BO" tvg-language="SPANISH" group-title="VARIEDADES" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png", SEO TV 
 https://live.seo.tv.bo/live/1SEO.m3u8
 
-#EXTINF:-1 tvg-chno="587" tvg-id="SEOTVNovelas.bo" tvg-name="SEO TV Novelas" tvg-country="BO" tvg-language="SPANISH" group-title="VARIEDADES" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png", SEO TV Novelas 
-https://live.seo.tv.bo/live/3SEO.m3u8
+#EXTINF:-1 tvg-chno="599" tvg-id="SonyComedias.us" tvg-name="Sony Comedias" tvg-country="US" tvg-language="SPANISH" group-title="VARIEDADES" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/08/sonycomedias.jpg", Sony Comedias
+https://spt-comedias-1-us.samsung.wurl.tv/3000.m3u8
 
 ############################################################
 ########################## MUSICA ##########################
