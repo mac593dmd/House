@@ -19,32 +19,38 @@ https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="DiscoveryKidsMexico.mx" tvg-name="Discovery Kids" group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", Discovery Kids
 https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-chno="7" tvg-name="Nickelodeon HD" group-title="INFANTIL" tvg-logo="https://png.pngtree.com/png-vector/20220923/ourlarge/pngtree-nickelodeon-logo-free-png-image_6214213.png", Nickelodeon HD
+#EXTINF:-1 tvg-chno="6" tvg-name="Nickelodeon HD" group-title="INFANTIL" tvg-logo="https://png.pngtree.com/png-vector/20220923/ourlarge/pngtree-nickelodeon-logo-free-png-image_6214213.png", Nickelodeon HD
 http://45.190.13.50:8000/play/a03d/index.m3u8
 
-#EXTINF:-1 tvg-chno="8" tvg-name="Nick Jr" group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png", Nick Jr
+#EXTINF:-1 tvg-chno="7" tvg-name="Nick Jr" group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png", Nick Jr
 http://45.190.13.50:8000/play/a03e/index.m3u8
 
-#EXTINF:-1 tvg-chno="9" tvg-name="Teen Nick HD" group-title="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/5d/TEENick_HD_2009.png", Teen Nick HD
+#EXTINF:-1 tvg-chno="8" tvg-name="Teen Nick HD" group-title="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/5d/TEENick_HD_2009.png", Teen Nick HD
 http://45.190.13.50:8000/play/a03b/index.m3u8
 
-#EXTINF:-1 tvg-chno="10" tvg-name="Disney Junior" group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Disney_Junior_2D_logo.png", Disney Junior
+#EXTINF:-1 tvg-chno="9" tvg-name="Disney Junior" group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Disney_Junior_2D_logo.png", Disney Junior
 http://45.190.13.50:8000/play/a03i/index.m3u8
 
-#EXTINF:-1 tvg-chno="11" tvg-name="Disney Channel HD" group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png", Disney Channel HD
+#EXTINF:-1 tvg-chno="10" tvg-name="Disney Channel HD" group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png", Disney Channel HD
 http://45.190.13.50:8003/play/a03g/index.m3u8
 
-#EXTINF:-1 tvg-chno="13" tvg-id="Chiquilines.ec" tvg-name="Chiquilines" tvg-country="EC" tvg-language="SPANISH" group-title="INFANTIL"  tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/chiquilines_logo_light.png", Chiquilines
+#EXTINF:-1 tvg-chno="11" tvg-name="BITME" group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/800px-BitMe_logo.svg.png", BITME
+http://50.7.66.234:8080/moontools/6548@89787/47698
+
+#EXTINF:-1 tvg-chno="12" tvg-id="Chiquilines.ec" tvg-name="Chiquilines" tvg-country="EC" tvg-language="SPANISH" group-title="INFANTIL"  tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/chiquilines_logo_light.png", Chiquilines
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/3bb7f282-d596-463e-98b8-f86ee4abf53e/5.m3u8
 
-#EXTINF:-1 tvg-chno="14" tvg-id="PitufoTV.ec" tvg-name="Pitufo TV" tvg-country="EC" tvg-language="SPANISH" group-title="INFANTIL"  tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/bcec3e2f3cdb5e5eb87f4f526731dadf94b1c5ae16bdafb0cde04bbf17e6f37c._RI_V_TTW_.jpg", Pitufo TV
+#EXTINF:-1 tvg-chno="13" tvg-id="PitufoTV.ec" tvg-name="Pitufo TV" tvg-country="EC" tvg-language="SPANISH" group-title="INFANTIL"  tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/bcec3e2f3cdb5e5eb87f4f526731dadf94b1c5ae16bdafb0cde04bbf17e6f37c._RI_V_TTW_.jpg", Pitufo TV
 https://stream.ads.ottera.tv/cl/dO2CIqsxSn4lCCgAydZHi/1920x1080_2900000_5_f.m3u8
 
-#EXTINF:-1 tvg-chno="15" tvg-name="Planeta Junior TV" group-title="INFANTIL" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=4153cf&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fpljunior.png", Planeta Junior TV
+#EXTINF:-1 tvg-chno="14" tvg-name="Planeta Junior TV" group-title="INFANTIL" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=4153cf&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fpljunior.png", Planeta Junior TV
 https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="17" tvg-name="Pl Bob Esponja" group-title="INFANTIL" tvg-logo="https://w7.pngwing.com/pngs/11/898/png-transparent-bob-esponja.png", Pl Bob Esponja
+#EXTINF:-1 tvg-chno="16" tvg-name="Pl Bob Esponja" group-title="INFANTIL" tvg-logo="https://w7.pngwing.com/pngs/11/898/png-transparent-bob-esponja.png", Pl Bob Esponja
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-chno="17" tvg-name="Los Padrinos Mágicos" group-title="INFANTIL" tvg-logo="https://i.pinimg.com/736x/ae/bb/61/aebb61fb7dd43f0e5d000e0bb5fb77a0--los.jpg" , Los Padrinos Mágicos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6322099c822bbc00074857db/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-chno="18" tvg-name="Pl TV Nick" group-title="INFANTIL" tvg-logo="https://w7.pngwing.com/pngs/427/35/png-transparent-nickelodeon-the-nick-app-tv-everywhere-nick-play-nick-television-text-orange.png", Pl TV Nick
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -70,51 +76,78 @@ https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8?WebM3UCL
 #EXTINF:-1 tvg-chno="25" tvg-name="SEO TV Kids" group-title="INFANTIL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/seo-tv-bo.png", SEO TV Kids
 https://live.seo.tv.bo/live/2SEO.m3u8
 
-#EXTINF:-1 tvg-chno="26" tvg-name="BITME" group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/800px-BitMe_logo.svg.png", BITME
-http://50.7.66.234:8080/moontools/6548@89787/47698
+#EXTINF:-1 tvg-chno="26" tvg-id="PlanetaTvKids.ec" tvg-name="PlanetaTV Kids" tvg-country="EC" tvg-language="SPANISH" group-title="INFANTIL" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", PlanetaTV Kids
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="27" tvg-id="RakutenFamily.es" tvg-name="Rakuten Family" tvg-country="ES" tvg-language="SPANISH" group-title="INFANTIL" tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/Logo-rakuten-tv-transparent-PNG.png", Rakuten Family
 https://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-chno="30" tvg-name="EL CHAVO DEL OCHO" group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/1200px-El_Chavo_Animado_logo.svg.png", EL CHAVO DEL OCHO
+#EXTINF:-1 tvg-chno="28" tvg-id="PE | Movie Kids" tvg-name="PE | Movie Kids" tvg-logo="https://pbs.twimg.com/media/FsvNtA0XoAgvBJt?format=png&name=240x240" group-title="INFANTIL", 28 | Movie Kids
+http://181.176.148.142:8000/play/a01z
+
+#EXTINF:-1 tvg-chno="29" tvg-id="CL | Cine Cartoon" tvg-name="CL | Cine Cartoon" tvg-logo="https://pbs.twimg.com/media/FrrJ-lpWYAE2rNA?format=png&name=360x360" group-title="INFANTIL", 29 | Cine Cartoon
+https://6362ca6f1fc28.streamlock.net:443/cinecartoon/cinecartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="30" tvg-id="USA | Tom y Jerry TV" tvg-name="USA | Tom y Jerry TV" tvg-logo="https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png" group-title="INFANTIL", 30 | Tom y Jerry TV
+https://6362ca6f1fc28.streamlock.net:443/tomyjerry/tomyjerry/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="31" tvg-id="USA | Los Picapiedra TV" tvg-name="USA | Los Picapiedra TV" tvg-logo="https://www.themoviedb.org/t/p/original/f87jYBMajaJpW8G5zxfqmfZwjJ5.png" group-title="INFANTIL", 31 | Los Picapiedra TV
+https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="32" tvg-name="EL CHAVO DEL OCHO" group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/1200px-El_Chavo_Animado_logo.svg.png", EL CHAVO DEL OCHO
 http://50.7.66.234:8080/moontools/6548@89787/18576
 
-#EXTINF:-1 tvg-chno="31" tvg-name="GARFIELD" group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Garfield_the_Cat.svg/800px-Garfield_the_Cat.svg.png", GARFIELD
+#EXTINF:-1 tvg-chno="33" tvg-name="GARFIELD" group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Garfield_the_Cat.svg/800px-Garfield_the_Cat.svg.png", GARFIELD
 http://50.7.66.234:8080/moontools/6548@89787/18577
 
-#EXTINF:-1 tvg-chno="32" tvg-name="LOONEY TUNES" group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/9/9e/Looney-Tunes-Logo.svg/800px-Looney-Tunes-Logo.svg.png", LOONEY TUNES
+#EXTINF:-1 tvg-chno="34" tvg-name="LOONEY TUNES" group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/9/9e/Looney-Tunes-Logo.svg/800px-Looney-Tunes-Logo.svg.png", LOONEY TUNES
 http://50.7.66.234:8080/moontools/6548@89787/29409
 
-#EXTINF:-1 tvg-chno="33" tvg-name="QUE HAY DE NUEVO SCOOBY DOO" group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Scooby_doo_logo.png", SCOOBY DOO
+#EXTINF:-1 tvg-chno="35" tvg-name="QUE HAY DE NUEVO SCOOBY DOO" group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Scooby_doo_logo.png", SCOOBY DOO
 http://50.7.66.234:8080/moontools/6548@89787/44723
 
-#EXTINF:-1 tvg-chno="34" tvg-name="DRAGON BALL SUPER" group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png", DRAGON BALL SUPER
+#EXTINF:-1 tvg-chno="36" tvg-name="DRAGON BALL SUPER" group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png", DRAGON BALL SUPER
 http://50.7.66.234:8080/moontools/6548@89787/29406
 
-#EXTINF:-1 tvg-chno="35" tvg-name="DRAGON BALL GT" group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png", DRAGON BALL GT
+#EXTINF:-1 tvg-chno="37" tvg-name="DRAGON BALL GT" group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png", DRAGON BALL GT
 http://50.7.66.234:8080/moontools/6548@89787/44344
 
-#EXTINF:-1 tvg-chno="37" tvg-id="LosSimpson.us" tvg-name="Los Simpson" tvg-country="US" tvg-language="SPANISH" group-title="INFANTIL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png", Los Simpson
-http://50.7.66.234:8080/moontools/6548@89787/29412
+#EXTINF:-1 tvg-chno="38" tvg-id="JP | Los Caballeros del Zodiaco TV" tvg-name="JP | Los Caballeros del Zodiaco TV" tvg-logo="https://www.pngfind.com/pngs/m/333-3330235_caballeros-del-zodiaco-png-logo-de-caballeros-del.png" group-title="INFANTIL", 38 | Los Caballeros del Zodiaco TV
+http://hplay.xyz/live/LVH60Ml8Hc/O4XSkHm6Yj/58301.m3u8
 
-#EXTINF:-1 tvg-chno="36" tvg-name="FUTURAMA" group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Futurama_1999_logo.svg/1200px-Futurama_1999_logo.svg.png", FUTURAMA
+#EXTINF:-1 tvg-chno="39" tvg-name="Los Tres Chiflados" group-title="INFANTIL" tvg-logo="https://w7.pngwing.com/pngs/497/866/png-transparent-curly-howard-shemp-howard-the-three-stooges-a-plumbing-we-will-go-short-film-three-stooges-curly-howard-shemp-howard-the-three-stooges.png" , Los Tres Chiflados
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-chno="40" tvg-name="FUTURAMA" group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Futurama_1999_logo.svg/1200px-Futurama_1999_logo.svg.png", FUTURAMA
 http://50.7.66.234:8080/moontools/6548@89787/29407
 
-#EXTINF:-1 tvg-chno="40" tvg-name="ALF" group-title="INFANTIL" tvg-logo="https://w7.pngwing.com/pngs/322/192/png-transparent-alf-television-show-melmac-extraterrestrial-life-frank-always-sunny-television-dog-like-mammal-dog-breed.png", ALF
-http://50.7.66.234:8080/moontools/6548@89787/44721
+#EXTINF:-1 tvg-chno="41" tvg-id="LosSimpson.us" tvg-name="Los Simpson" tvg-country="US" tvg-language="SPANISH" group-title="INFANTIL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png", Los Simpson
+http://50.7.66.234:8080/moontools/6548@89787/29412
 
-#EXTINF:-1 tvg-chno="41" tvg-name="CANTINFLAS" group-title="INFANTIL" tvg-logo="https://pbs.twimg.com/profile_images/1322619958/cantinflas_001Logo_400x400.jpg", CANTINFLAS
+#EXTINF:-1 tvg-chno="43" tvg-id="MX | El Chavo del 8 TV" tvg-name="MX | El Chavo del 8 TV" tvg-logo="https://pbs.twimg.com/media/Fp3p0zZXoAY_loW?format=png&name=small" group-title="INFANTIL", 43 | El Chavo del 8 TV
+https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="44" tvg-name="CANTINFLAS" group-title="INFANTIL" tvg-logo="https://pbs.twimg.com/profile_images/1322619958/cantinflas_001Logo_400x400.jpg", CANTINFLAS
 http://50.7.66.234:8080/moontools/6548@89787/1151756
 
-#EXTINF:-1 tvg-chno="42" tvg-id="PlanetaTvKids.ec" tvg-name="PlanetaTV Kids" tvg-country="EC" tvg-language="SPANISH" group-title="INFANTIL" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", PlanetaTV Kids
-https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
+#EXTINF:-1 tvg-chno="45" tvg-name="ALF" group-title="INFANTIL" tvg-logo="https://w7.pngwing.com/pngs/322/192/png-transparent-alf-television-show-melmac-extraterrestrial-life-frank-always-sunny-television-dog-like-mammal-dog-breed.png", ALF
+http://50.7.66.234:8080/moontools/6548@89787/44721
 
-#EXTINF:-1 tvg-chno="43" tvg-id="EducaTV.ec" tvg-name="Educa TV" tvg-country="EC" tvg-language="SPANISH" group-title="INFANTIL"  tvg-logo="https://lh3.googleusercontent.com/-gwVSG0Gv_VY/XzxqczgyXhI/AAAAAAAA4pA/P26xKeDaPZcrzl5WvvYymInXCZJRU3L3wCK8BGAsYHg/s0/2020-08-18.png", Educa TV | EC
-https://cloud7.streamingcnt.net/cnt/educa/chunklist_w143162487.m3u8
+#EXTINF:-1 tvg-chno="46" tvg-name="MALCOM" group-title="INFANTIL" tvg-logo="https://seeklogo.com/images/M/malcolm-in-the-middle-tv-show-logo-B4FD66AFE3-seeklogo.com.png" , MALCOM
+http://50.7.66.234:8080/moontools/6548@89787/44818
+
+#EXTINF:-1 tvg-chno="47" tvg-name="THE BIG BANG THEORY" group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TBBT_logo.svg/1657px-TBBT_logo.svg.png" , THE BIG BANG THEORY
+http://50.7.66.234:8080/moontools/6548@89787/46491
+
+#EXTINF:-1 tvg-chno="48" tvg-name="TWO AND A HALF MEN" group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Two-and-a-half-men.svg/1280px-Two-and-a-half-men.svg.png" , TWO AND A HALF MEN
+http://50.7.66.234:8080/moontools/6548@89787/1147194
 
 ############################################################
 ########################## ECUADOR #########################
 ############################################################
+
+#EXTINF:-1 tvg-chno="49" tvg-id="EducaTV.ec" tvg-name="Educa TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://lh3.googleusercontent.com/-gwVSG0Gv_VY/XzxqczgyXhI/AAAAAAAA4pA/P26xKeDaPZcrzl5WvvYymInXCZJRU3L3wCK8BGAsYHg/s0/2020-08-18.png", Educa TV | EC
+https://cloud7.streamingcnt.net/cnt/educa/chunklist_w143162487.m3u8
 
 #EXTINF:-1 tvg-chno="51" tvg-id="RadioAmericaEstereo.ec" tvg-name="Radio America Estereo" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4WM9M67xkX.jpg", America Estereo | RA-UIO
 https://video2.makrodigital.com/americaestereoquito/americaestereoquito/chunks.m3u8
@@ -300,8 +333,17 @@ http://45.190.13.50:8002/play/a00r/index.m3u8
 #EXTINF:-1 tvg-chno="116" tvg-name="HispanTV" group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/1200px-HispanTv_logo.svg.png", HispanTV
 https://live1.presstv.ir/live/hispan.m3u8
 
-#EXTINF:-1 tvg-chno="117" tvg-id="CNNenEspanol.us" site_id="cnn_en_espanol" tvg-name="CNN en Español" group-title="NOTICIAS" tvg-logo="https://i.imgur.com/s3VgvNM.png", CNN en Español
+#EXTINF:-1 tvg-chno="117" tvg-id="USA | CNN en Español" tvg-name="USA | CNN en Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" group-title="NOTICIAS", 117 | CNN en Español
+http://181.189.243.254:8000/play/a0ps/index.m3u8
+
+#EXTINF:-1 tvg-chno="117.1" tvg-id="CNNenEspanol.us" site_id="cnn_en_espanol" tvg-name="CNN en Español" group-title="NOTICIAS" tvg-logo="https://i.imgur.com/s3VgvNM.png", CNN en Español
 https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist_1024x576.m3u8
+
+#EXTINF:-1 tvg-chno="117.2" tvg-id="CL | CNN Chile" tvg-name="CL | CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/150px-CNN_Chile_logo_2017.svg.png" group-title="NOTICIAS", 117.2 | CNN Chile
+http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/5.m3u8
+
+#EXTINF:-1 tvg-chno="117.3" tvg-id="USA | CNN Internacional" tvg-name="USA | CNN Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/162px-CNN_International_logo.svg.png" group-title="NOTICIAS", 117.3 | CNN Internacional
+http://181.189.243.254:8000/play/a0o7/index.m3u8
 
 #EXTINF:-1 tvg-chno="118" tvg-id="T13.cl" tvg-name="T13" tvg-country="CL" tvg-language="SPANISH" group-title="NOTICIAS" tvg-logo="https://www-storage.13.cl/t13/_images/t13-push-notification-logo.jpg", T13 | CL
 https://ythls.onrender.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg.m3u8
@@ -887,7 +929,7 @@ http://50.7.66.234:8080/moontools/6548@89787/4027
 http://50.7.66.234:8080/moontools/6548@89787/4087
 
 #EXTINF:-1 tvg-chno="424" tvg-id="ATV.pe" tvg-name="ATV" tvg-country="PE" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png", ATV | PE
-https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATV_stream_of&_cdn_session=708854307&_cdn_timestamp=1681578548&_cdn_token=c2e67caeb30ccce9068e6d750f0190cf58d95754
 
 #EXTINF:-1 tvg-chno="425" tvg-id="ATV+.pe" tvg-name="ATV +" tvg-country="PE" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png", ATV + | PE
 https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_480.m3u8
