@@ -34,6 +34,9 @@ http://45.190.13.50:8000/play/a03i/index.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-name="Disney Channel HD" group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png", Disney Channel HD
 http://45.190.13.50:8003/play/a03g/index.m3u8
 
+#EXTINF:-1 tvg-chno="11" tvg-name="BITME" group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/800px-BitMe_logo.svg.png", BITME
+http://45.228.234.77:3340/play/bitme/index.m3u8
+
 #EXTINF:-1 tvg-chno="12" tvg-id="Chiquilines.ec" tvg-name="Chiquilines" tvg-country="EC" tvg-language="SPANISH" group-title="INFANTIL"  tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/chiquilines_logo_light.png", Chiquilines
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/3bb7f282-d596-463e-98b8-f86ee4abf53e/5.m3u8
 
@@ -98,6 +101,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6054ab20a365c70007e4fd
 http://hplay.xyz/live/LVH60Ml8Hc/O4XSkHm6Yj/58301.m3u8
 
 #EXTINF:-1 tvg-chno="39" tvg-name="Los Tres Chiflados" group-title="INFANTIL" tvg-logo="https://w7.pngwing.com/pngs/497/866/png-transparent-curly-howard-shemp-howard-the-three-stooges-a-plumbing-we-will-go-short-film-three-stooges-curly-howard-shemp-howard-the-three-stooges.png" , Los Tres Chiflados
+http://hplay.xyz/live/LVH60Ml8Hc/O4XSkHm6Yj/49190.m3u8
+
+#EXTINF:-1 tvg-chno="39.1" tvg-name="Los Tres Chiflados" group-title="INFANTIL" tvg-logo="https://w7.pngwing.com/pngs/497/866/png-transparent-curly-howard-shemp-howard-the-three-stooges-a-plumbing-we-will-go-short-film-three-stooges-curly-howard-shemp-howard-the-three-stooges.png" , Los Tres Chiflados
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-chno="41" tvg-id="LosSimpson.us" tvg-name="Los Simpson" tvg-country="US" tvg-language="SPANISH" group-title="INFANTIL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png", Los Simpson
@@ -146,7 +152,6 @@ https://video2.makrodigital.com/fmmundo/fmmundo/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="61" tvg-id="FrecuenciaMusicalTV.us" tvg-name="Frecuencia Musical TV" tvg-country="US" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://latinartv.com/sites/default/files/logos/FMTV-1.png", Frecuencia Musical TV
 https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w949014711.m3u8
-
 
 #EXTINF:-1 tvg-chno="62.1" tvg-id="gamavisión.ec" tvg-name="Gamavisón" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png", Gamavisión
 http://160.20.165.246:8000/play/a00r/index.m3u8
@@ -216,6 +221,9 @@ https://cloud2.streaminglivehd.com:1936/8262/8262/chunklist_w521133661.m3u8
 
 #EXTINF:-1 tvg-chno="89" tvg-id="TVC.ec" tvg-name="TVC" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/1625521156521426950/Wy9hRShi_400x400.jpg", TVC
 https://d6op0qag07k4o.cloudfront.net/hls/tvc_360.m3u8
+
+#EXTINF:-1 tvg-chno="90" tvg-id="UCSGRTV.ec" tvg-name="UCSGRTV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://www.ucsgrtv.com/assets/images/about-icon-03.png", UCSGRTV
+https://5e2f36bc1c433.streamlock.net/lacato/lacato.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="93" tvg-id="WuanPlusTV.ec" tvg-name="Wuan Plus TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://wuanplus.tv/wp-content/uploads/2017/10/cropped-2-WUAN-Orange-RGB-para-WEB.png", Wuan PlusTV
 https://video2.makrodigital.com/wuanplus/wuanplus/chunks.m3u8
@@ -757,7 +765,7 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/202084
 #EXTINF:-1 tvg-chno="325" tvg-name="ESPN PERU" group-title="DEPORTE" tvg-logo="https://www.totalmedios.com/img/noticias/2018/02/5a7843345943b__838x390.jpg", ESPN PERU
 http://181.176.148.142:8000/play/a02d
 
-#EXTINF:-1 tvg-chno="326" tvg-name="ESPN 2 CL" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2 | CL
+#EXTINF:-1 tvg-chno="326" tvg-name="ESPN 2 CL" group-title="DEPORTE" tvg-logo="https://magosdeldeporte.com/wp-content/uploads/2023/01/espn1-chile.png", ESPN 2 | CL.
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121677
 
 #EXTINF:-1 tvg-chno="327" tvg-name="ESPN HD MX" group-title="DEPORTE" tvg-logo="https://espnpressroom.com/mexico/files/2009/11/ESPN_Mexico_BW_Neg.jpg", ESPN HD | MX
@@ -923,11 +931,11 @@ https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w1963013639.m3u8
 #EXTINF:-1 tvg-chno="421" tvg-id="Telemax.mx" tvg-name="Telemax" tvg-country="MX" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://i2.paste.pics/8a2bf919d229e094124cd4739b4c6c7c.png", Telemax | MX
 https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/chunklist_w1898957158.m3u8
 
-#EXTINF:-1 tvg-chno="422" tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" tvg-country="MX" tvg-language="SPANISH" group-title="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png", Azteca Uno. | MX
+#EXTINF:-1 tvg-chno="422" tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" tvg-country="MX" tvg-language="SPANISH" group-title="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png", Azteca Uno | MX
 http://50.7.66.234:8080/moontools/6548@89787/4087
 
 #EXTINF:-1 tvg-chno="423" tvg-id="AztecaSiete.mx" tvg-name="Azteca Siete" tvg-country="MX" tvg-language="SPANISH" group-title="PAISES" tvg-logo="https://i.imgur.com/vpXleBr.png", Azteca Siete | MX
-http://50.7.66.234:8080/moontools/6548@89787/4027
+http://hplay.xyz:80/live/LVH60Ml8Hc/O4XSkHm6Yj/302683.m3u8
 
 #EXTINF:-1 tvg-chno="424" tvg-id="ATV.pe" tvg-name="ATV" tvg-country="PE" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png", ATV | PE
 https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
@@ -935,7 +943,7 @@ https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
 #EXTINF:-1 tvg-chno="425" tvg-id="ATV+.pe" tvg-name="ATV +" tvg-country="PE" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png", ATV + | PE
 https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_480.m3u8
 
-#EXTINF:-1 tvg-chno="426" tvg-id="ATVsur.pe" tvg-name="ATV Sur" tvg-country="PE" tvg-language="SPANISH" group-title="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATV_Sur_-_2018_logo_%28final%29.png", ATV Sur. | PE
+#EXTINF:-1 tvg-chno="426" tvg-id="ATVsur.pe" tvg-name="ATV Sur" tvg-country="PE" tvg-language="SPANISH" group-title="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATV_Sur_-_2018_logo_%28final%29.png", ATV Sur | PE
 https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur3/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="427" tvg-id="PanamericanaTV.pe" tvg-name="Panamericana" tvg-country="PE" tvg-language="SPANISH" group-title="PAISES" tvg-logo="https://i2.paste.pics/967fc9c451334a960cb23ee0482c77bc.png", Panamericana
