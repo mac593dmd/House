@@ -222,7 +222,7 @@ https://cloud2.streaminglivehd.com:1936/8262/8262/chunklist_w521133661.m3u8
 #EXTINF:-1 tvg-chno="89" tvg-id="TVC.ec" tvg-name="TVC" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/1625521156521426950/Wy9hRShi_400x400.jpg", TVC
 https://d6op0qag07k4o.cloudfront.net/hls/tvc_360.m3u8
 
-#EXTINF:-1 tvg-chno="90" tvg-id="UCSG.ec" tvg-name="UCSG" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_UCSG.svg/2560px-Logo_UCSG.svg.png", UCSG
+#EXTINF:-1 tvg-chno="90" tvg-id="UCSG.ec" tvg-name="UCSG" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_UCSG.svg/2560px-Logo_UCSG.svg.png", UCSG
 https://5e2f36bc1c433.streamlock.net/lacato/lacato.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="93" tvg-id="WuanPlusTV.ec" tvg-name="Wuan Plus TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://wuanplus.tv/wp-content/uploads/2017/10/cropped-2-WUAN-Orange-RGB-para-WEB.png", Wuan PlusTV
@@ -721,10 +721,10 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/176965
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/10394
 
 #EXTINF:-1 tvg-chno="313" tvg-name="GOL TV" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/640px-GOLTV.png", GOL TV
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/180453
+http://190.131.228.59:8000/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-chno="313.1" tvg-name="GOL TV HD" group-title="DEPORTE" tvg-logo="https://www.prensario.net/Multimedios/imgs/14885_750.jpg", GOL TV HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/180475
+http://190.119.178.46:8000/play/a00r/index.m3u8
 
 #EXTINF:-1 tvg-chno="314" tvg-name="GOL TV EC SD" group-title="DEPORTE" tvg-logo="https://ipuntotv.com/IMAGES/Goltv-ecuador.png", GOL TV EC SD
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/180461
@@ -765,7 +765,7 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/202084
 #EXTINF:-1 tvg-chno="325" tvg-name="ESPN PERU" group-title="DEPORTE" tvg-logo="https://www.totalmedios.com/img/noticias/2018/02/5a7843345943b__838x390.jpg", ESPN PERU
 http://181.176.148.142:8000/play/a02d
 
-#EXTINF:-1 tvg-chno="326" tvg-name="ESPN 2 CL" group-title="DEPORTE" tvg-logo="https://magosdeldeporte.com/wp-content/uploads/2023/01/espn1-chile.png", ESPN 2 | CL.
+#EXTINF:-1 tvg-chno="326" tvg-name="ESPN 2 CL" group-title="DEPORTE" tvg-logo="https://magosdeldeporte.com/wp-content/uploads/2023/01/espn1-chile.png", ESPN 2 | CL
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121677
 
 #EXTINF:-1 tvg-chno="327" tvg-name="ESPN HD MX" group-title="DEPORTE" tvg-logo="https://espnpressroom.com/mexico/files/2009/11/ESPN_Mexico_BW_Neg.jpg", ESPN HD | MX
@@ -791,6 +791,27 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121886
 
 #EXTINF:-1 tvg-chno="334" tvg-name="ESPN +" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/ESPN_America_logo.svg/1200px-ESPN_America_logo.svg.png", ESPN + | US
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121887
+
+#EXTINF:-1 tvg-chno="336" tvg-name="Gol Perú" group-title="DEPORTE"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/245px-Gol_Per%C3%BA_2019.svg.png" , Gol Perú
+http://190.119.178.46:8000/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-chno="337" tvg-name="Win Sports" group-title="DEPORTE"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" , Win Sports
+http://190.131.228.59:8000/play/a04m/index.m3u8
+
+#EXTINF:-1 tvg-chno="337.1" tvg-name="Win Sports+ HD" group-title="DEPORTE"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png" , Win Sports+ HD
+http://190.27.253.211:8000/play/a07g/index.m3u8
+
+#EXTINF:-1 tvg-chno="338" tvg-name="Claro Sports" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/4221px-Claro_Sports_logo.svg.png" , Claro Sports
+http://hplay.xyz:80/live/LVH60Ml8Hc/O4XSkHm6Yj/302690.m3u8
+
+#EXTINF:-1 tvg-chno="338.1" tvg-name="Claro Sports 2" group-title="DEPORTE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png" , Claro Sports 2
+http://181.189.243.254:8000/play/a0on/index.m3u8
+
+#EXTINF:-1 tvg-chno="339" tvg-name="Afizzionados" group-title="DEPORTE"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/2560px-Afizzionados_Logo.svg.png" , Afizzionados
+http://hplay.xyz:80/live/LVH60Ml8Hc/O4XSkHm6Yj/304505.m3u8
+
+#EXTINF:-1 tvg-chno="340" tvg-name="TNT Sports" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png" , TNT Sports
+http://190.119.178.46:8000/play/a02g/index.m3u8
 
 #EXTINF:-1 tvg-chno="342" tvg-name="EUROSPORT 1" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png", EUROSPORT 1 | ES
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/158480
@@ -861,13 +882,19 @@ https://linear-506.frequency.stream/dist/vix/506/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-chno="373" tvg-name="VIX 4" group-title="DEPORTE" tvg-logo="https://ayuda.tigo.com.pa/hc/article_attachments/9373342049683/MicrosoftTeams-image.png", VIX 4 🇨🇷
 https://linear-507.frequency.stream/dist/vix/507/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="374" tvg-name="Adrenalina Sports Network" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/AdrenalinaSportsNetwork.png" , Adrenalina Sports Network
+http://hplay.xyz:80/live/LVH60Ml8Hc/O4XSkHm6Yj/302603.m3u8
+
+#EXTINF:-1 tvg-chno="375" tvg-name="Sport Ext" group-title="DEPORTE" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/SPORT-EXT-FONDO-2-300x169.jpg" , Sport Ext
+https://marine2.miplay.cl/sportext/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="380" tvg-id="DeporTV.ar" tvg-name="Depor TV" tvg-country="AR" tvg-language="SPANISH" group-title="DEPORTE" tvg-logo="https://i.imgur.com/iyYLNRt.png", Depor TV | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="381" tvg-id="BeinSportsÑ.gb" tvg-name="Bein Sports Ñ" tvg-logo="https://i.imgur.com/D06tacN.png" group-title="DEPORTE", Bein Sports Ñ
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144818
 
-#EXTINF:-1 tvg-chno="382" tvg-id="BeinSportsXÑ.gb" tvg-name="Bein Sports Xtra Ñ" tvg-logo="https://i.imgur.com/D06tacN.png" group-title="DEPORTE", Bein Sports Xtra Ñ
+#EXTINF:-1 tvg-chno="382" tvg-id="BeinSportsX.gb" tvg-name="Bein Sports Xtra Ñ" tvg-logo="https://i.imgur.com/D06tacN.png" group-title="DEPORTE", Bein Sports Xtra Ñ
 https://vpngratis.win:8443/live/79wRcsvM5Y/sVyn4fFmrG/18.m3u8
 
 #EXTINF:-1 tvg-chno="384" tvg-id="garajetv.ar" tvg-name="Garaje TV" tvg-logo="https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_200x200.jpg" group-title="DEPORTE", Garage TV
@@ -935,7 +962,7 @@ https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w1963013639.m3u8
 https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/chunklist_w1898957158.m3u8
 
 #EXTINF:-1 tvg-chno="422" tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" tvg-country="MX" tvg-language="SPANISH" group-title="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png", Azteca Uno | MX
-http://50.7.66.234:8080/moontools/6548@89787/4087
+http://50.7.66.234:8080/moontools/6548@89787/4027
 
 #EXTINF:-1 tvg-chno="423" tvg-id="AztecaSiete.mx" tvg-name="Azteca Siete" tvg-country="MX" tvg-language="SPANISH" group-title="PAISES" tvg-logo="https://i.imgur.com/vpXleBr.png", Azteca Siete | MX
 http://hplay.xyz:80/live/LVH60Ml8Hc/O4XSkHm6Yj/302683.m3u8
