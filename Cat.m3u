@@ -222,7 +222,7 @@ https://cloud2.streaminglivehd.com:1936/8262/8262/chunklist_w521133661.m3u8
 #EXTINF:-1 tvg-chno="89" tvg-id="TVC.ec" tvg-name="TVC" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/1625521156521426950/Wy9hRShi_400x400.jpg", TVC
 https://d6op0qag07k4o.cloudfront.net/hls/tvc_360.m3u8
 
-#EXTINF:-1 tvg-chno="90" tvg-id="UCSGRTV.ec" tvg-name="UCSGRTV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://www.ucsgrtv.com/assets/images/about-icon-03.png", UCSGRTV
+#EXTINF:-1 tvg-chno="90" tvg-id="UCSG.ec" tvg-name="UCSG" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_UCSG.svg/2560px-Logo_UCSG.svg.png", UCSG
 https://5e2f36bc1c433.streamlock.net/lacato/lacato.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="93" tvg-id="WuanPlusTV.ec" tvg-name="Wuan Plus TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://wuanplus.tv/wp-content/uploads/2017/10/cropped-2-WUAN-Orange-RGB-para-WEB.png", Wuan PlusTV
@@ -374,7 +374,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8
 
 #EXTINF:-1 tvg-chno="160" tvg-id="Trece.co" tvg-name="Trece Plus" tvg-country="CO" tvg-language="SPANISH" group-title="CULTURA" tvg-logo="https://i.imgur.com/jySvMsw.png", Trece +
-https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
+http://190.242.104.58:9092/play/e0128
 
 #EXTINF:-1  tvg-chno="161" tvg-name="Nature Time" group-title="CULTURA" tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png", Nature Time
 https://amg00090-blueantllc-naturetimeemea-samsungspain-y1v3n.amagi.tv/playlist/amg00090-blueantllc-naturetimeemea-samsungspain/cb573d177b6c678d9dd43b61cef241826a371fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7753db80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad96da0af1c56942943e69c46c8c608b387d2599c12877eec479fc4a396d211d7d28c6afb54e4795a5d732a9cd97fc19d0aee8aa87953f31980a48e349cc1a3db0c58b64251498a87a1dd56de63000db8e31a5a880f8d5b8c70ab66af1baee24fdac6d37783d158d6a077682aa1a7d0e258f4a3dc14988ec4fc0918b5ff19790da93f9a4a4e496d8c0ec925b45d36cf77f4e235c01af3310ff7bcbf86fdb98e4bd309c3caf5a291232482652f8947ab9661da668836f88e5b16554340a28d4684a8ed1e613201d6db1ee31a15ef8fd0c3c7586f83203a4af86cdc6c006ee73d7833b07eaed46f3ac96e21ad0110d714758c4bf7bd6cd2a2d8ee0972f5fdcf50f062eafa5b83a74cf9236c1752f3c12d59445e749fbb355a7e2a9505c1d7cdae265851a2a783af960569496d462079e188d079958acf3e0e56900354075a2457c7549839a54f236903c01dc1a31a7b83125344cbae3c4f557f99cea5fbe9f3ce43b03f9e8fca30213f5674ae7162026bc0bd9956ed32292f2bc240ae92d34ba6a8607524597921fc48/11/848x480_1249336/index.m3u8
@@ -736,7 +736,7 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/180460
 http://204.157.255.135:20001/play/a066/index.m3u8
 
 #EXTINF:-1 tvg-chno="316" tvg-name="ESPN DEPORTES" group-title="DEPORTE" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png", ESPN DEPORTES | AR
-http://185.191.124.105:25461/raminp/TAQhPJncSa/1150
+http://190.5.200.52:8000/play/a01g/index.m3u8
 
 #EXTINF:-1 tvg-chno="317" tvg-name="ESPN VIVO" group-title="DEPORTE" tvg-logo="https://www.pngfind.com/pngs/m/120-1208622_espn-en-vivo-online-hd-por-internet-espn.png", ESPN VIVO | AR
 http://181.78.7.92:6500/play/a096/index.m3u8
@@ -771,13 +771,13 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121677
 #EXTINF:-1 tvg-chno="327" tvg-name="ESPN HD MX" group-title="DEPORTE" tvg-logo="https://espnpressroom.com/mexico/files/2009/11/ESPN_Mexico_BW_Neg.jpg", ESPN HD | MX
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/155472
 
-#EXTINF:-1 tvg-chno="328" tvg-name="ESPN DEPORTES MX" group-title="DEPORTE" tvg-logo="", ESPN DEPORTES | MX
+#EXTINF:-1 tvg-chno="328" tvg-name="ESPN DEPORTES MX" group-title="DEPORTE" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png", ESPN DEPORTES | MX
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/202473
 
 #EXTINF:-1 tvg-chno="329" tvg-name="ESPN 2 HD MX" group-title="DEPORTE" tvg-logo="https://4.bp.blogspot.com/-kapvo9xDCXw/W6ln5W14N0I/AAAAAAAAAGs/MF-UJJleKOsmiln2PQdLlTbDSTO3T1nKACPcBGAYYCw/s1600/espn2mexico.png", ESPN 2 HD | MX
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/155473
 
-#EXTINF:-1 tvg-chno="329.1" tvg-name="ESPN 2 MX" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2 MX
+#EXTINF:-1 tvg-chno="329.1" tvg-name="ESPN 2 MX" group-title="DEPORTE" tvg-logo="https://www.telegratishd.com/img/espn2mexico.png", ESPN 2 MX.
 http://204.157.255.135:20001/play/a064/index.m3u8
 
 #EXTINF:-1 tvg-chno="330" tvg-name="ESPN 3 HD MX" group-title="DEPORTE" tvg-logo="https://3.bp.blogspot.com/-E7U76IniEIw/W6ln_eXwxqI/AAAAAAAAAG4/L3U5bplcLakT-9S3g-zOuskWMXTdB9TeQCPcBGAYYCw/s1600/espn3mexico.png", ESPN 3 HD | MX
@@ -866,6 +866,9 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="381" tvg-id="BeinSportsÑ.gb" tvg-name="Bein Sports Ñ" tvg-logo="https://i.imgur.com/D06tacN.png" group-title="DEPORTE", Bein Sports Ñ
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144818
+
+#EXTINF:-1 tvg-chno="382" tvg-id="BeinSportsX.gb" tvg-name="Bein Sports Xtra Ñ" tvg-logo="https://i.imgur.com/D06tacN.png" group-title="DEPORTE", Bein Sports Xtra Ñ
+http://190.27.253.211:8000/play/a07g/index.m3u8
 
 #EXTINF:-1 tvg-chno="384" tvg-id="garajetv.ar" tvg-name="Garaje TV" tvg-logo="https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_200x200.jpg" group-title="DEPORTE", Garage TV
 http://50.7.66.234:8080/moontools/6548@89787/7975
@@ -1075,7 +1078,7 @@ https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/chunklist_w25116
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="606" tvg-id="FlashTV.ec" tvg-name="Flash TV" tvg-country="EC" tvg-language="SPANISH" group-title="MUSICA"  tvg-logo="https://tvprofil.com/img/kanali-logo/flash-tv-logo.png", Flash TV | MX
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/801914dc-33f0-4ceb-97c3-d63b5cc238aa/5.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="607" tvg-id="tvpj.ec" tvg-name="TVPJ" tvg-country="EC" tvg-language="SPANISH" group-title="MUSICA" tvg-logo="https://i.paste.pics/3a6934e8e137e270694013358a4f01dd.png", TVPJ | EC
 https://vdo.panelstreaming.live:3363/stream/play.m3u8?PlaylistM3UCL
