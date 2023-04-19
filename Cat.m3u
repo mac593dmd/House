@@ -220,7 +220,7 @@ https://troncalive.site/hls/stream.m3u8
 https://cloud2.streaminglivehd.com:1936/8262/8262/chunklist_w521133661.m3u8
 
 #EXTINF:-1 tvg-chno="89" tvg-id="TVC.ec" tvg-name="TVC" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/1625521156521426950/Wy9hRShi_400x400.jpg", TVC
-https://d6op0qag07k4o.cloudfront.net/hls/tvc_360.m3u8
+https://d1qovwsteln4u.cloudfront.net/hls/tvc_480.m3u8
 
 #EXTINF:-1 tvg-chno="90" tvg-id="UCSG.ec" tvg-name="UCSG" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_UCSG.svg/2560px-Logo_UCSG.svg.png", UCSG
 https://5e2f36bc1c433.streamlock.net/lacato/lacato.stream/playlist.m3u8
