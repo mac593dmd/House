@@ -196,7 +196,7 @@ https://video.str3ming.com:3616/hybrid/play.m3u8
 https://s2.tvdatta.com:3825/live/redtvelive.m3u8
 
 #EXTINF:-1 tvg-chno="79" tvg-id="RTS.ec" tvg-name="RTS" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/150px-Rts_logo.png", RTS
-https://d6op0qag07k4o.cloudfront.net/hls/rts_360.m3u8
+https://d1qovwsteln4u.cloudfront.net/hls/rts_480.m3u8
 
 #EXTINF:-1 tvg-chno="80" tvg-id="RTU.ec" tvg-name="RTU" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_rtu.jpg", RTU
 https://video1.makrodigital.com/rtu/rtu/chunks.m3u8
