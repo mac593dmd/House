@@ -151,7 +151,7 @@ https://stmv.streamingvip.click/tvtoro/tvtoro/chunklist_w1378665554.m3u8
 https://video2.makrodigital.com/fmmundo/fmmundo/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="61" tvg-id="FrecuenciaMusicalTV.us" tvg-name="Frecuencia Musical TV" tvg-country="US" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://latinartv.com/sites/default/files/logos/FMTV-1.png", Frecuencia Musical TV
-https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w949014711.m3u8
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-chno="62.1" tvg-id="gamavisión.ec" tvg-name="Gamavisón" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png", Gamavisión
 http://160.20.165.246:8000/play/a00r/index.m3u8
@@ -321,10 +321,10 @@ http://190.60.39.62:8000/play/a033
 ############################################################
 
 #EXTINF:-1 tvg-chno="130" tvg-name="El Gourmet TV" group-title="ESTILOS DE VIDA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/ElGourmet2023.png", El Gourmet TV
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/GOURMET/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOURMET_stream_g4&_cdn_session=733407795&_cdn_timestamp=1682391577&_cdn_token=587eb49bbba263a7b9b6d61b2a5fb80507000b4b
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/GOURMET/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOURMET_stream_g4&_cdn_session=741654371&_cdn_timestamp=1682654727&_cdn_token=07d515f3992d600db0863367759fbc2f6db88b18
 
 #EXTINF:-1 tvg-chno="131" tvg-name="Food Network" group-title="ESTILOS DE VIDA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png", Food Network
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOODNETWORK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOODNETWORK_stream_l5&_cdn_session=733410451&_cdn_timestamp=1682391608&_cdn_token=0e77ea59650aab287839e1fbd996352db46e95d7
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOODNETWORK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOODNETWORK_stream_l5&_cdn_session=741655211&_cdn_timestamp=1682654754&_cdn_token=f877ba827c6c178521d2d52d6153705e5f7afc73
 
 #EXTINF:-1 tvg-chno="132" tvg-name="Mundo & Sabor" group-title="ESTILOS DE VIDA" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MUNDO-Y-SABOR-FONDO-2-300x169.jpg", Mundo & Sabor
 https://marine2.miplay.cl/mundoysabor/playlist.m3u8
@@ -889,6 +889,9 @@ http://45.182.21.251:33334/play/a07y/index.m3u8
 #EXTINF:-1 tvg-chno="362" tvg-name="TUDN HD USA" group-title="DEPORTE" tvg-logo="https://i.imgur.com/EfHstB2.png", TUDN HD USA
 http://45.182.21.251:33334/play/a077/index.m3u8
 
+#EXTINF:-1 tvg-chno="363" tvg-name="ZONA TUDN 🇲🇽" group-title="DEPORTE" tvg-logo="https://i.imgur.com/EfHstB2.png", ZONA TUDN 🇲🇽
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2130323 
+
 #EXTINF:-1 tvg-chno="364" tvg-name="PRENDETV LIGA MX" group-title="DEPORTE" tvg-logo="https://almomento.mx/wp-content/uploads/2022/02/ViX-plataforma-de-streaming-Televisa-Univision.jpg", PRENDETV LIGA MX
 https://dip0m6wuccbi7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2d8j5h422463p-prod/dist/samsungtv/193/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
@@ -983,8 +986,14 @@ https://latv-rcn-xtra-1-mx.tcl.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-chno="410" tvg-id="RCNXtra.co" tvg-name="RCN Xtra" tvg-country="CO" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://i.imgur.com/rP8UBPq.png", RCN Mas | CO
 https://rcntv-rcnmas-1-us.plex.wurl.tv/4300.m3u8
 
-#EXTINF:-1 tvg-chno="416" tvg-id="tvgalicia.es" tvg-name="TV Galicia" tvg-logo="https://lh3.googleusercontent.com/-NNimM6BK6ZQ/XkszwS7D6uI/AAAAAAAAwGw/zaSdPQcEOrk7IkrJiRFWvpqbLOHmMhNtwCK8BGAsYHg/s0/2020-02-17.png" group-title="PAISES", TV Galicia | ES
+#EXTINF:-1 tvg-chno="414" tvg-name="La 1 🇪🇸" group-title="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png", La 1 🇪🇸
+http://51.91.8.161:18000/LA_1/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="415" tvg-id="tvgalicia.es" tvg-name="TV Galicia" tvg-logo="https://lh3.googleusercontent.com/-NNimM6BK6ZQ/XkszwS7D6uI/AAAAAAAAwGw/zaSdPQcEOrk7IkrJiRFWvpqbLOHmMhNtwCK8BGAsYHg/s0/2020-02-17.png" group-title="PAISES", TV Galicia | ES
 https://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="418" tvg-name="Las Estrellas 🇲🇽" group-title="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/180px-Las_Estrellas.svg.png", Las Estrellas 🇲🇽
+http://45.228.234.77:3340/play/lasestrellas/index.m3u8
 
 #EXTINF:-1 tvg-chno="419" tvg-id="14CanalCatorce.mx" tvg-name="14 Canal Catorce" tvg-country="MX" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Canal_Catorce.png", 14 Canal Catorce | MX
 https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/chunklist_w746140526.m3u8
@@ -1014,7 +1023,7 @@ http://190.92.25.125:8000/play/a031/index.m3u8
 https://cdnh71.iblups.com/hls/ptv2.m3u8
 
 #EXTINF:-1 tvg-chno="428" tvg-name="WILLAX" group-title="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Willax_Televisi%C3%B3n_2020.png", WILLAX
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/WILLAX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=734057867&_cdn_timestamp=1682423597&_cdn_token=6b40ebf5bb5cfc9b133e1d5a0ff76ed7c118760e
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/WILLAX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=741539811&_cdn_timestamp=1682651827&_cdn_token=a3b703f4a6e5b328a289d5f5705dd72a3af9ef24
 
 #EXTINF:-1 tvg-chno="429" tvg-id="MegaTV.us" tvg-name="Mega TV" tvg-country="US" tvg-language="SPANISH" group-title="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mega_TV_logo_2016.svg/2560px-Mega_TV_logo_2016.svg.png", Mega TV | US
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/chunklist_w986015691_b1428000.m3u8
@@ -1092,6 +1101,9 @@ https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="557" tvg-name="CHACRA TV 🇦🇷" group-title="AGRO" tvg-logo="https://lh3.googleusercontent.com/-pKI6d5kptYI/XnDCiQcHe0I/AAAAAAAAw_Y/pjVT7LGqYmswBIePrX9PeXozB4UncbPEgCK8BGAsYHg/s0/2020-03-17.png" , CHACRA TV 🇦🇷
 https://s8.stweb.tv/chacra/live/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="558" tvg-name="Agro TV 🇧🇴" group-title="AGRO" tvg-logo="https://teleestrella.tv.bo/wp-content/uploads/2023/01/logo-agro-trasnparente-1024x394.png", Agro TV 🇧🇴
+https://solo.disfrutaenlared.com:1936/agrotv/agrotv/playlist.m3u8
 
 ############################################################
 ######################## VARIEDADES ########################
