@@ -144,9 +144,6 @@ https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8
 #EXTINF:-1 tvg-chno="58" tvg-id="ElSolRadioyTelevision.ec" tvg-name="El Sol Radio y Television" tvg-country="EC" tvg-language="SPANISH"  group-title="ECUADOR" tvg-logo="https://solradiomadrid.com/wp-content/uploads/2022/08/cropped-Diseno-sin-titulo-15.jpg", El Sol Radio y Television
 https://streaming5.globalhostla.com/rtplive/elsolrad/chunklist_w431845379.m3u8
 
-#EXTINF:-1 tvg-chno="59" tvg-id="EliteTV.ec" tvg-name="Elite TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://media.cdnandroid.com/5c/ac/49/8e/95/imagen-elite-tv-x-0thumb.jpg", Elite TV
-https://stmv.streamingvip.click/tvtoro/tvtoro/chunklist_w1378665554.m3u8
-
 #EXTINF:-1 tvg-chno="60" tvg-id="RadioFMMundo.ec" tvg-name="Radio FM Mundo" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://fmmundo.com/wp-content/uploads/2019/08/Fmmundo-comapartir.jpeg", FM Mundo | RA-UIO
 https://video2.makrodigital.com/fmmundo/fmmundo/chunks.m3u8
 
@@ -198,6 +195,9 @@ https://s2.tvdatta.com:3825/live/redtvelive.m3u8
 #EXTINF:-1 tvg-chno="79" tvg-id="RTS.ec" tvg-name="RTS" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/150px-Rts_logo.png", RTS
 https://d1qovwsteln4u.cloudfront.net/hls/rts_480.m3u8
 
+#EXTINF:-1 tvg-chno="79.1" tvg-id="RTS.ec" tvg-name="RTS" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rts_hd_logo.png", RTS
+http://bgtv.site/play/tvhd-408.php?id=313&token=kasjhfaasasblack&f=.m3u8%20
+
 #EXTINF:-1 tvg-chno="80" tvg-id="RTU.ec" tvg-name="RTU" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_rtu.jpg", RTU
 https://video1.makrodigital.com/rtu/rtu/chunks.m3u8
 
@@ -207,8 +207,14 @@ https://mediacpstreamchile.com:1936/sonoonda/sonoonda/chunklist_w1535311867.m3u8
 #EXTINF:-1 tvg-chno="82" tvg-id="TC.ec" tvg-name="TC" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://radiolacalle.com/wp-content/uploads/2021/04/46bafe86abf8f4083d79882b3f6f6dc4.jpg", TC
 https://youvideostreaming.club/hls/ecutv3.m3u8
 
+#EXTINF:-1 tvg-chno="82.1" tvg-id="TCIT.ec" tvg-name="TC IT" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png", TC IT
+http://bgtv.site/play/tvhd-408.php?id=316&token=kasjhfaasasblack&f=.m3u8%20
+
 #EXTINF:-1 tvg-chno="83" tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png", Teleamazonas
 https://youvideostreaming.club/hls/ecutv4.m3u8
+
+#EXTINF:-1 tvg-chno="83.1" tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas FHD" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://seeklogo.com/images/T/teleamazonas-antiguo-fondo-azul-logo-8E2D85CDDF-seeklogo.com.png", Teleamazonas
+http://bgtv.site/play/tvhd-408.php?id=314&token=kasjhfaasasblack&f=.m3u8%20
 
 #EXTINF:-1 tvg-chno="84" tvg-id="Telerama.ec" tvg-name="Telerama" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://static-media.streema.com/media/cache/27/af/27afea308274909fd22e99b78e6cc2df.jpg", Telerama
 https://envivo.telerama.ec/stream.m3u8
@@ -581,9 +587,6 @@ https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
 #EXTINF:-1 tvg-chno="256" tvg-id="TuCine.mx" tvg-name="Tu Cine" tvg-country="MX" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TuCine_295x98.png", Tu Cine
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="257" tvg-id="butakatv.ec" tvg-name="Butaka TV" tvg-country="EC" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://m.media-amazon.com/images/I/61oOVpNLmqL._SL500_.png", Butaka TV
-https://veranda-butacatv-2-mx.samsung.wurl.tv/3000.m3u8
-
 #EXTINF:-1 tvg-chno="258" tvg-id="topcine.ec" tvg-name="Top Cine" tvg-country="EC" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TopCine_295x98.png", Top Cine
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/playlist.m3u8
 
@@ -775,7 +778,7 @@ http://181.78.7.92:6500/play/a096/index.m3u8
 #EXTINF:-1 tvg-chno="319" tvg-name="ESPN 2 HD 🇦🇷 *" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2 HD 🇦🇷 *	
 http://190.5.200.52:8000/play/a00i/index.m3u8
 
-#EXTINF:-1 tvg-chno="319.1" tvg-name="ESPN 2 🇦🇷" group-title="DEPORTE" tvg-logo="https://www.telegratishd.com/img/espn2mexico.png", ESPN 2 🇦🇷
+#EXTINF:-1 tvg-chno="319.1" tvg-name="ESPN 2 🇦🇷" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2. 🇦🇷
 http://204.157.255.135:20001/play/a064/index.m3u8
 
 #EXTINF:-1 tvg-chno="320" tvg-name="ESPN 3 🇦🇷" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3 🇦🇷
@@ -795,9 +798,6 @@ http://190.5.200.52:8000/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-chno="323" tvg-name="ESPN 🇨🇴 COLOMBIA" group-title="DEPORTE" tvg-logo="https://magosdeldeporte.com/wp-content/uploads/2023/01/espn1-colombia.png", ESPN 🇨🇴 COLOMBIA
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/202084
-
-#EXTINF:-1 tvg-chno="325" tvg-name="ESPN 🇵🇪 PERU" group-title="DEPORTE" tvg-logo="https://www.totalmedios.com/img/noticias/2018/02/5a7843345943b__838x390.jpg", ESPN 🇵🇪 PERU
-http://181.176.148.142:8000/play/a02d
 
 #EXTINF:-1 tvg-chno="326" tvg-name="ESPN 2 🇨🇱" group-title="DEPORTE" tvg-logo="https://magosdeldeporte.com/wp-content/uploads/2023/01/espn1-chile.png", ESPN 2 🇨🇱
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121677
@@ -842,7 +842,7 @@ http://181.189.243.254:8000/play/a0on/index.m3u8
 http://hplay.xyz:80/live/LVH60Ml8Hc/O4XSkHm6Yj/304505.m3u8
 
 #EXTINF:-1 tvg-chno="340" tvg-name="TNT Sports" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png" , TNT Sports
-http://190.119.178.46:8000/play/a02g/index.m3u8
+http://50.7.66.234:8080/monicaferraz/518260/1155814
 
 #EXTINF:-1 tvg-chno="342" tvg-name="EUROSPORT 1" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png", EUROSPORT 1 | ES
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/158480
@@ -1005,7 +1005,7 @@ https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w1963013639.m3u8
 https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/chunklist_w1898957158.m3u8
 
 #EXTINF:-1 tvg-chno="422" tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" tvg-country="MX" tvg-language="SPANISH" group-title="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png", Azteca Uno | MX
-http://50.7.66.234:8080/moontools/6548@89787/4027
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/50654
 
 #EXTINF:-1 tvg-chno="423" tvg-id="AztecaSiete.mx" tvg-name="Azteca Siete" tvg-country="MX" tvg-language="SPANISH" group-title="PAISES" tvg-logo="https://i.imgur.com/vpXleBr.png", Azteca Siete | MX
 http://hplay.xyz:80/live/LVH60Ml8Hc/O4XSkHm6Yj/302683.m3u8
@@ -1152,9 +1152,6 @@ https://v1.tustreaming.cl:19360/canalsurpatagoniatv/canalsurpatagoniatv.m3u8
 
 #EXTINF:-1 tvg-chno="602" tvg-id="retroplustv.ch" tvg-name="Retro Plus TV Chile" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="MUSICA", Retro Plus TV | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="603" tvg-id="toplatinotv.pe" tvg-name="Top Latino TV Perú" tvg-logo="https://lh3.googleusercontent.com/-2Pr5sAUtsTA/XkCTD7gYTyI/AAAAAAAAv8M/B9-Cs05PoO4uTYRUW4INkQhkH1NkuQQWACK8BGAsYHg/s0/2020-02-09.png" group-title="MUSICA", Top Latino TV | PE
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/chunklist_w251169644.m3u8
 
 #EXTINF:-1 tvg-chno="604" tvg-id="musictop.ar" tvg-name="Music Top Argentina" tvg-logo="https://lh3.googleusercontent.com/-jyK2QfeF7tk/YBShx6dT-eI/AAAAAAAA_k4/gq6qGMH-1UAurScNL4TayXfEA47gA1ljgCK8BGAsYHg/s0/2021-01-29.png" group-title="MUSICA", Music Top | AR
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
