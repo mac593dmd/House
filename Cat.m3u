@@ -1171,7 +1171,7 @@ https://media2.streambrothers.com:1936/8150/8150/playlist.m3u8
 ########################### 24/7 ###########################
 ############################################################
 
-#EXTINF:-1 tvg-chno="264" tvg-name="Doctor Who" group-title="24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Doctor-who-logo-removebg.png", Doctor Who
+#EXTINF:-1 tvg-chno="664" tvg-name="Doctor Who" group-title="24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Doctor-who-logo-removebg.png", Doctor Who
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-chno="665" channel-id="pluto-5e8397936791b30007ebb5a7" tvg-id="5e8397936791b30007ebb5a7" tvg-logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png" group-title="24/7", Pl TV Humor
