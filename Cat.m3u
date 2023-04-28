@@ -589,9 +589,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/playl
 #EXTINF:-1 tvg-chno="262" tvg-id="SonyComedias.us" tvg-name="Sony Comedias" tvg-country="US" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/08/sonycomedias.jpg", Sony Comedias
 https://spt-comedias-1-us.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-chno="264" tvg-name="Doctor Who" group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Doctor-who-logo-removebg.png", Doctor Who
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
 #EXTINF:-1 tvg-chno="265" tvg-id="CanelaTV.mx" tvg-name="Canela TV" tvg-country="MX" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://www.worldcupboxingseries.com/wp-content/uploads/2022/07/ctv.jpg", Canela TV
 https://stream.ads.ottera.tv/cl/S6Ga8kyTMSo1vnaR1vsU0/1280x720_3071200_0_f.m3u8
 
@@ -917,7 +914,7 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-chno="385" tvg-id="motorvisiontv.es"  tvg-name="Motorvision TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/motorvision-tv-3201.jpg" group-title="DEPORTE", Motorvision TV
 https://daiconnect.com/live/hls/tvup/tvfy-mtov/791b83ec57063d5be36796eaa1279dcd/.m3u8?ApPW=1920&ApPH=1080&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=72d49265-66bf-11ed-9e9d-d6835f939ca3
 
-#EXTINF:-1 tvg-chno="386" tvg-id="EsportsMax.ve" tvg-name="Esports Max 🇻🇪" tvg-country="VE" tvg-language="SPANISH" group-title="DEPORTE" tvg-logo="https://pbs.twimg.com/profile_images/1620063212778536960/SeYRicjr_400x400.jpg", Esports Max 🇻🇪
+#EXTINF:-1 tvg-chno="386" tvg-id="EsportsMax.ve" tvg-name="Esports Max 🇻🇪" tvg-country="VE" tvg-language="SPANISH" group-title="DEPORTE" tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fc905e2a19ebb5996c1339253a548c1aef6194b9e112ea2aa0a9aeecc965c0b98.png", Esports Max 🇻🇪
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="387" tvg-id="redbulltv.ru"  tvg-name="Redbull TV" tvg-logo="https://e7.pngegg.com/pngimages/1004/93/png-clipart-red-bull-tv-television-film-streaming-media-red-bull-television-text.png" group-title="DEPORTE", Redbull TV
@@ -945,10 +942,10 @@ https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="404" tvg-id="MiradorTV.ar" tvg-name="Mirador TV 🇦🇷" tvg-country="AR" tvg-language="SPANISH" group-title="PAISES" tvg-logo="https://i.imgur.com/KjD1uJS.png", Mirador TV 🇦🇷
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="405" tvg-name="CANAL 10 🇦🇷" group-title="DEPORTE" tvg-logo="https://diario10.com.ar/wp-content/uploads/2020/04/logo_footer_retina.png", CANAL 10 🇦🇷
+#EXTINF:-1 tvg-chno="405" tvg-name="CANAL 10 🇦🇷" group-title="PAISES" tvg-logo="https://diario10.com.ar/wp-content/uploads/2020/04/logo_footer_retina.png", CANAL 10 🇦🇷
 https://panel.dattalive.com/8204/8204/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="406" tvg-id="NeoTV.ar" tvg-name="Neo TV 🇦🇷" group-title="DEPORTE" tvg-logo="https://i.imgur.com/Xtu85tb.png", Neo TV 🇦🇷
+#EXTINF:-1 tvg-chno="406" tvg-id="NeoTV.ar" tvg-name="Neo TV 🇦🇷" group-title="PAISES" tvg-logo="https://i.imgur.com/Xtu85tb.png", Neo TV 🇦🇷
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-chno="408" tvg-id="Bolivisión.bo" tvg-name="Bolivisión 🇧🇴" tvg-country="BO" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png", Bolivisión 🇧🇴
@@ -957,7 +954,7 @@ http://177.234.230.226:8010/play/a035/index.m3u8
 #EXTINF:-1 tvg-chno="409" tvg-id="BoliviaDeportesTV.bo" tvg-name="Bolivia TV 🇧🇴" tvg-country="BO" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg", Bolivia TV 🇧🇴
 https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w376273250.m3u8
 
-#EXTINF:-1 tvg-chno="410" tvg-id="SEOTV.bo" tvg-name="SEO TV" tvg-country="BO" tvg-language="SPANISH" group-title="VARIEDADES" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png", SEO TV 
+#EXTINF:-1 tvg-chno="410" tvg-id="SEOTV.bo" tvg-name="SEO TV" tvg-country="BO" tvg-language="SPANISH" group-title="PAISES" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png", SEO TV 
 https://live.seo.tv.bo/live/1SEO.m3u8
 
 #EXTINF:-1 tvg-chno="412" tvg-id="canalcali.co" tvg-name="Canal Cali 🇨🇴" tvg-country="CO" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://www.canalcalitv.com/wp-content/uploads/2017/10/Logo_CaliTV.png", Canal Cali 🇨🇴
@@ -999,7 +996,7 @@ https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w1963013639.m3u8
 #EXTINF:-1 tvg-chno="430" tvg-id="Telemax.mx" tvg-name="Telemax 🇲🇽" tvg-country="MX" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://i2.paste.pics/8a2bf919d229e094124cd4739b4c6c7c.png", Telemax 🇲🇽
 https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/chunklist_w1898957158.m3u8
 
-#EXTINF:-1 tvg-chno="432" tvg-name="TV MAX 🇵🇦" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png", TV MAX 🇵🇦
+#EXTINF:-1 tvg-chno="432" tvg-name="TV MAX 🇵🇦" group-title="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png", TV MAX 🇵🇦
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8?
 
 #EXTINF:-1 tvg-chno="434" tvg-id="Telemundo.cr" tvg-name="Telemundo 🇵🇷" tvg-country="CR" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://i.imgur.com/Ys31Rhw.png", Telemundo 🇵🇷
@@ -1174,7 +1171,10 @@ https://media2.streambrothers.com:1936/8150/8150/playlist.m3u8
 ########################### 24/7 ###########################
 ############################################################
 
-#EXTINF:-1 tvg-chno="665" channel-id="pluto-5e8397936791b30007ebb5a7" tvg-id="5e8397936791b30007ebb5a7" tvg-logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png" group-title="ECUADOR", Pl TV Humor
+#EXTINF:-1 tvg-chno="264" tvg-name="Doctor Who" group-title="24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Doctor-who-logo-removebg.png", Doctor Who
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-chno="665" channel-id="pluto-5e8397936791b30007ebb5a7" tvg-id="5e8397936791b30007ebb5a7" tvg-logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png" group-title="24/7", Pl TV Humor
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
