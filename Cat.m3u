@@ -82,19 +82,19 @@ https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="27" tvg-id="RakutenFamily.es" tvg-name="Rakuten Family" tvg-country="ES" tvg-language="SPANISH" group-title="INFANTIL" tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/Logo-rakuten-tv-transparent-PNG.png", Rakuten Family
 https://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-chno="29" tvg-id="CL | Cine Cartoon" tvg-name="CL | Cine Cartoon" tvg-logo="https://pbs.twimg.com/media/FrrJ-lpWYAE2rNA?format=png&name=360x360" group-title="INFANTIL", 29 | Cine Cartoon
+#EXTINF:-1 tvg-chno="29" tvg-id="Cine Cartoon" tvg-name="Cine Cartoon" tvg-logo="https://pbs.twimg.com/media/FrrJ-lpWYAE2rNA?format=png&name=360x360" group-title="INFANTIL", Cine Cartoon
 https://6362ca6f1fc28.streamlock.net:443/cinecartoon/cinecartoon/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="30" tvg-id="USA | Tom y Jerry TV" tvg-name="USA | Tom y Jerry TV" tvg-logo="https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png" group-title="INFANTIL", 30 | Tom y Jerry TV
+#EXTINF:-1 tvg-chno="30" tvg-id="Tom y Jerry TV" tvg-name="Tom y Jerry TV" tvg-logo="https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png" group-title="INFANTIL", Tom y Jerry TV
 https://6362ca6f1fc28.streamlock.net:443/tomyjerry/tomyjerry/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="31" tvg-id="USA | Los Picapiedra TV" tvg-name="USA | Los Picapiedra TV" tvg-logo="https://w7.pngwing.com/pngs/930/278/png-transparent-the-flintstones-and-rubbles-cartoons-the-flintstones.png" group-title="INFANTIL", 31 | Los Picapiedra TV
+#EXTINF:-1 tvg-chno="31" tvg-id="Los Picapiedra TV" tvg-name="Los Picapiedra TV" tvg-logo="https://w7.pngwing.com/pngs/930/278/png-transparent-the-flintstones-and-rubbles-cartoons-the-flintstones.png" group-title="INFANTIL", Los Picapiedra TV
 https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="33" tvg-name="GARFIELD" group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Garfield_the_Cat.svg/800px-Garfield_the_Cat.svg.png", GARFIELD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-chno="38" tvg-id="JP | Los Caballeros del Zodiaco TV" tvg-name="JP | Los Caballeros del Zodiaco TV" tvg-logo="https://www.pngfind.com/pngs/m/333-3330235_caballeros-del-zodiaco-png-logo-de-caballeros-del.png" group-title="INFANTIL", 38 | Los Caballeros del Zodiaco TV
+#EXTINF:-1 tvg-chno="38" tvg-id="Los Caballeros del Zodiaco TV" tvg-name="Los Caballeros del Zodiaco TV" tvg-logo="https://www.pngfind.com/pngs/m/333-3330235_caballeros-del-zodiaco-png-logo-de-caballeros-del.png" group-title="INFANTIL", Los Caballeros del Zodiaco TV
 http://hplay.xyz/live/LVH60Ml8Hc/O4XSkHm6Yj/58301.m3u8
 
 #EXTINF:-1 tvg-chno="39" tvg-name="Los Tres Chiflados" group-title="INFANTIL" tvg-logo="https://w7.pngwing.com/pngs/497/866/png-transparent-curly-howard-shemp-howard-the-three-stooges-a-plumbing-we-will-go-short-film-three-stooges-curly-howard-shemp-howard-the-three-stooges.png" , Los Tres Chiflados
@@ -106,7 +106,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11e
 #EXTINF:-1 tvg-chno="41" tvg-id="LosSimpson.us" tvg-name="Los Simpson" tvg-country="US" tvg-language="SPANISH" group-title="INFANTIL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png", Los Simpson
 http://tvstarlife.com:25461/live/geovany/geovany/10673.m3u8
 
-#EXTINF:-1 tvg-chno="43" tvg-id="MX | El Chavo del 8 TV" tvg-name="MX | El Chavo del 8 TV" tvg-logo="https://pbs.twimg.com/media/Fp3p0zZXoAY_loW?format=png&name=small" group-title="INFANTIL", 43 | El Chavo del 8 TV
+#EXTINF:-1 tvg-chno="43" tvg-id="El Chavo del 8 TV" tvg-name="El Chavo del 8 TV" tvg-logo="https://pbs.twimg.com/media/Fp3p0zZXoAY_loW?format=png&name=small" group-title="INFANTIL", El Chavo del 8 TV
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 
 
@@ -211,6 +211,9 @@ https://oracle.streaminghd.cl/sonovision/sonovision/playlist.m3u8
 #EXTINF:-1 tvg-chno="86" tvg-id="TC.ec" tvg-name="TC" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://radiolacalle.com/wp-content/uploads/2021/04/46bafe86abf8f4083d79882b3f6f6dc4.jpg", TC
 https://youvideostreaming.club/hls/ecutv3.m3u8
 
+#EXTINF:-1 tvg-chno="86.1" tvg-id="TCIT.ec" tvg-name="TC IT" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://radiolacalle.com/wp-content/uploads/2021/04/46bafe86abf8f4083d79882b3f6f6dc4.jpg", TC IT
+https://www.dailymotion.com/video/x7wijay
+
 #EXTINF:-1 tvg-chno="87" tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png", Teleamazonas
 https://youvideostreaming.club/hls/ecutv4.m3u8
 
@@ -288,16 +291,16 @@ http://45.190.13.50:8002/play/a00r/index.m3u8
 #EXTINF:-1 tvg-chno="116" tvg-name="HispanTV" group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/1200px-HispanTv_logo.svg.png", HispanTV
 https://live1.presstv.ir/live/hispan.m3u8
 
-#EXTINF:-1 tvg-chno="117" tvg-id="USA | CNN en Español" tvg-name="USA | CNN en Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" group-title="NOTICIAS", 117 | CNN en Español
+#EXTINF:-1 tvg-chno="117" tvg-id="CNN en Español" tvg-name="CNN en Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" group-title="NOTICIAS", CNN en Español
 http://181.189.243.254:8000/play/a0ps/index.m3u8
 
 #EXTINF:-1 tvg-chno="117.1" tvg-id="CNNenEspanol.us" site_id="cnn_en_espanol" tvg-name="CNN en Español" group-title="NOTICIAS" tvg-logo="https://i.imgur.com/s3VgvNM.png", CNN en Español
 https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist_1024x576.m3u8
 
-#EXTINF:-1 tvg-chno="117.2" tvg-id="CL | CNN Chile" tvg-name="CL | CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/150px-CNN_Chile_logo_2017.svg.png" group-title="NOTICIAS", 117.2 | CNN Chile
+#EXTINF:-1 tvg-chno="117.2" tvg-id="CNN Chile" tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/150px-CNN_Chile_logo_2017.svg.png" group-title="NOTICIAS", CNN Chile
 http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/5.m3u8
 
-#EXTINF:-1 tvg-chno="117.3" tvg-id="USA | CNN Internacional" tvg-name="USA | CNN Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/162px-CNN_International_logo.svg.png" group-title="NOTICIAS", 117.3 | CNN Internacional
+#EXTINF:-1 tvg-chno="117.3" tvg-id="CNN Internacional" tvg-name="CNN Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/162px-CNN_International_logo.svg.png" group-title="NOTICIAS", CNN Internacional
 http://181.189.243.254:8000/play/a0o7/index.m3u8
 
 #EXTINF:-1 tvg-chno="118" tvg-id="T13.cl" tvg-name="T13" tvg-country="CL" tvg-language="SPANISH" group-title="NOTICIAS" tvg-logo="https://www-storage.13.cl/t13/_images/t13-push-notification-logo.jpg", T13 | CL
@@ -333,6 +336,9 @@ http://181.189.243.254:8000/play/a0r9/index.m3u8
 
 #EXTINF:-1 tvg-chno="139" tvg-name="Travel XP Televisión" group-title="ESTILOS DE VIDA" tvg-logo="https://images.travelxp.com/images/txpin/general/travelxplogo1.png", Travel XP Televisión
 http://200.119.222.198:25470/play/a001/index.m3u8
+
+#EXTINF:-1 tvg-chno="140" tvg-name="Mexico Travel" group-title="ESTILOS DE VIDA"  tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Mexico-Travel-Channel-en-vivo-Online.png", Mexico Travel
+https://www.dailymotion.com/video/x7v76vf
 
 #EXTINF:-1 tvg-chno="141" tvg-id="4KTravel.ec" tvg-name="4K Travel" tvg-country="EC" tvg-language="SPANISH" group-title="ESTILOS DE VIDA" tvg-logo="https://i.ytimg.com/vi/9ioTA6cflCM/maxresdefault.jpg", 4K Travel
 https://4k-travel-vivalive.evrideo.tv/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/video_1080p_1000014572.m3u8
@@ -963,6 +969,9 @@ https://stmv2.voxtvhd.com.br/canalccali/canalccali/chunklist_w424458213.m3u8
 #EXTINF:-1 tvg-chno="413" tvg-id="CanalCapital.co" tvg-name="Canal Capital 🇨🇴" tvg-country="CO" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://lh3.googleusercontent.com/-Emi_jrNT71c/XqeMwoB2P-I/AAAAAAAAyS4/pUS5P-UYKsoW5xFT9RQjmCl7ONAL0oG4wCK8BGAsYHg/s0/2020-04-27.png", Canal Capital 🇨🇴
 https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live-2500/index.m3u8
 
+#EXTINF:-1 tvg-chno="414" tvg-name="RCN 🇨🇴" group-title="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png", RCN 🇨🇴
+http://190.242.104.58:9092/play/e0125
+
 #EXTINF:-1 tvg-chno="415" tvg-id="RCNmas.co" tvg-name="RCN Mas 🇨🇴" tvg-country="CO" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://i.imgur.com/rP8UBPq.png", RCN Xtra 🇨🇴
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/4300.m3u8
 
@@ -1016,6 +1025,9 @@ https://cdnh71.iblups.com/hls/ptv2.m3u8
 
 #EXTINF:-1 tvg-chno="440" tvg-name="WILLAX 🇵🇪" group-title="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Willax_Televisi%C3%B3n_2020.png", WILLAX 🇵🇪
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/WILLAX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=756672379&_cdn_timestamp=1682990968&_cdn_token=23dbc62a68e802157d7f943a3f0e3e1546262204
+
+#EXTINF:-1 tvg-chno="440.1" tvg-name="Willax 🇵🇪" group-title="PAISES"  tvg-logo="https://storage.googleapis.com/web-willax-assets/migrated/2018/12/1.1_WILLAX.jpg", Willax 🇵🇪
+https://www.dailymotion.com/video/x7x4dgx
 
 #EXTINF:-1 tvg-chno="443" tvg-id="MegaTV.us" tvg-name="Mega TV 🇺🇸" tvg-country="US" tvg-language="SPANISH" group-title="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mega_TV_logo_2016.svg/2560px-Mega_TV_logo_2016.svg.png", Mega TV 🇺🇸
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/chunklist_w986015691_b1428000.m3u8
@@ -1167,16 +1179,25 @@ https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/782b647b2e38
 #EXTINF:-1 tvg-chno="614" tvg-id="EuroLatinaTVEspaña.es" tvg-name="EuroLatina TV España" tvg-country="ES" tvg-language="SPANISH" group-title="MUSICA" tvg-logo="https://eurolatinatelevision.com/wp-content/uploads/cropped-logo-eurolatina.png", EuroLatina TV España
 https://media2.streambrothers.com:1936/8150/8150/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="615" tvg-name="Durán TV 🇪🇨" group-title="MUSICA"  tvg-logo="https://durantv.com.ec/wp-content/uploads/2023/03/cropped-dtv-blanco_Mesa-de-trabajo-1.png", Durán TV 🇪🇨
+https://cloudvideo.servers10.com:8081/8074/index.m3u8
+
 ############################################################
 ########################### 24/7 ###########################
 ############################################################
 
-#EXTINF:-1 tvg-chno="664" tvg-name="Doctor Who" group-title="24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Doctor-who-logo-removebg.png", Doctor Who
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-chno="665" channel-id="pluto-5e8397936791b30007ebb5a7" tvg-id="5e8397936791b30007ebb5a7" tvg-logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png" group-title="24/7", Pl TV Humor
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-chno="666" tvg-name="Doctor Who" group-title="24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Doctor-who-logo-removebg.png", Doctor Who
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-chno="667" tvg-name="Familia P.Luche" group-title="24/7"  tvg-logo="https://lawebdepanama.com/kickball/assets/pluche.png", Familia P.Luche
+https://linear-311.frequency.stream/311/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="668" tvg-name="Vecinos" group-title="24/7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/Webpage_imagendeltitulo_750x300_vecinos_espanol.png", Vecinos
+https://linear-314.frequency.stream/314/hls/master/playlist.m3u8
 
 
 
