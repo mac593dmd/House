@@ -211,9 +211,6 @@ https://oracle.streaminghd.cl/sonovision/sonovision/playlist.m3u8
 #EXTINF:-1 tvg-chno="86" tvg-id="TC.ec" tvg-name="TC" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://radiolacalle.com/wp-content/uploads/2021/04/46bafe86abf8f4083d79882b3f6f6dc4.jpg", TC
 https://youvideostreaming.club/hls/ecutv3.m3u8
 
-#EXTINF:-1 tvg-chno="86.1" tvg-id="TCIT.ec" tvg-name="TC IT" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://radiolacalle.com/wp-content/uploads/2021/04/46bafe86abf8f4083d79882b3f6f6dc4.jpg", TC IT
-https://www.dailymotion.com/video/x7wijay
-
 #EXTINF:-1 tvg-chno="87" tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png", Teleamazonas
 https://youvideostreaming.club/hls/ecutv4.m3u8
 
@@ -336,9 +333,6 @@ http://181.189.243.254:8000/play/a0r9/index.m3u8
 
 #EXTINF:-1 tvg-chno="139" tvg-name="Travel XP Televisión" group-title="ESTILOS DE VIDA" tvg-logo="https://images.travelxp.com/images/txpin/general/travelxplogo1.png", Travel XP Televisión
 http://200.119.222.198:25470/play/a001/index.m3u8
-
-#EXTINF:-1 tvg-chno="140" tvg-name="Mexico Travel" group-title="ESTILOS DE VIDA"  tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Mexico-Travel-Channel-en-vivo-Online.png", Mexico Travel
-https://www.dailymotion.com/video/x7v76vf
 
 #EXTINF:-1 tvg-chno="141" tvg-id="4KTravel.ec" tvg-name="4K Travel" tvg-country="EC" tvg-language="SPANISH" group-title="ESTILOS DE VIDA" tvg-logo="https://i.ytimg.com/vi/9ioTA6cflCM/maxresdefault.jpg", 4K Travel
 https://4k-travel-vivalive.evrideo.tv/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/video_1080p_1000014572.m3u8
@@ -1025,9 +1019,6 @@ https://cdnh71.iblups.com/hls/ptv2.m3u8
 
 #EXTINF:-1 tvg-chno="440" tvg-name="WILLAX 🇵🇪" group-title="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Willax_Televisi%C3%B3n_2020.png", WILLAX 🇵🇪
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/WILLAX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=756672379&_cdn_timestamp=1682990968&_cdn_token=23dbc62a68e802157d7f943a3f0e3e1546262204
-
-#EXTINF:-1 tvg-chno="440.1" tvg-name="Willax 🇵🇪" group-title="PAISES"  tvg-logo="https://storage.googleapis.com/web-willax-assets/migrated/2018/12/1.1_WILLAX.jpg", Willax 🇵🇪
-https://www.dailymotion.com/video/x7x4dgx
 
 #EXTINF:-1 tvg-chno="443" tvg-id="MegaTV.us" tvg-name="Mega TV 🇺🇸" tvg-country="US" tvg-language="SPANISH" group-title="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mega_TV_logo_2016.svg/2560px-Mega_TV_logo_2016.svg.png", Mega TV 🇺🇸
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/chunklist_w986015691_b1428000.m3u8
