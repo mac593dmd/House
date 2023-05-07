@@ -122,7 +122,7 @@ https://video2.makrodigital.com/americaestereoquito/americaestereoquito/chunks.m
 https://stmv3.voxtvhd.com.br/australtv/australtv/chunklist_w1385080889.m3u8
 
 #EXTINF:-1 tvg-chno="54" tvg-id="CTV.ec" tvg-name="CTV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/500px-CTV_logo_2018.svg.png", CTV
-https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
+https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
 
 #EXTINF:-1 tvg-chno="55" tvg-id="Ecotel.ec" tvg-name="Ecotel" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://sites.google.com/site/radioecotel/_/rsrc/1472777761320/ecotel-television-on-line-1/ECOLOGOTV.jpg", Ecotel
 https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
@@ -694,7 +694,7 @@ http://45.5.118.226:8000/play/a04q/index.m3u8
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/11047
 
 #EXTINF:-1 tvg-chno="304" tvg-name="D SPORT 2 🇦🇷" group-title="DEPORTE" tvg-logo="https://www.directv.com.ec/content/dam/public-sites/channels/612.png", D SPORT 2 🇦🇷
-http://190.119.178.46:8000/play/a033/index.m3u8
+http://45.190.13.50:8000/play/a03w/index.m3u8
 
 #EXTINF:-1 tvg-chno="304.1" tvg-name="D SPORT 2 🇦🇷" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png", D SPORT 2 🇦🇷
 http://190.119.178.46:8000/play/a033/index.m3u8
@@ -703,9 +703,9 @@ http://190.119.178.46:8000/play/a033/index.m3u8
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/11025
 
 #EXTINF:-1 tvg-chno="305" tvg-name="D SPORT 🇦🇷 +" group-title="DEPORTE" tvg-logo="https://www.directv.com.ec/content/dam/public-sites/channels/613.png", D SPORT 🇦🇷 +
-http://190.119.178.46:8000/play/a034/index.m3u8
+http://45.190.13.50:8000/play/a03x/index.m3u8
 
-#EXTINF:-1 tvg-chno="305.1" tvg-name="D SPORT 🇪🇨 + HD" group-title="DEPORTE" tvg-logo="https://i.ibb.co/gZNVks2/dtvec.png", D SPORT 🇪🇨 + HD
+#EXTINF:-1 tvg-chno="305.1" tvg-name="D SPORT 🇦🇷 + HD" group-title="DEPORTE" tvg-logo="https://i.ibb.co/gZNVks2/dtvec.png", D SPORT 🇦🇷 + HD
 http://190.119.178.46:8000/play/a034/index.m3u8
 
 #EXTINF:-1 tvg-chno="305.2" tvg-name="D SPORT 🇪🇨 + FHD" group-title="DEPORTE" tvg-logo="https://i.ibb.co/gZNVks2/dtvec.png", D SPORT 🇪🇨 + FHD
@@ -805,7 +805,7 @@ http://190.131.228.59:8000/play/a04m/index.m3u8
 http://190.27.253.211:8000/play/a07g/index.m3u8
 
 #EXTINF:-1 tvg-chno="338" tvg-name="Claro Sports 🇲🇽" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/4221px-Claro_Sports_logo.svg.png" , Claro Sports 🇲🇽
-http://hplay.xyz:80/live/LVH60Ml8Hc/O4XSkHm6Yj/302690.m3u8
+http://45.228.234.162:24000/play/a08l/index.m3u8
 
 #EXTINF:-1 tvg-chno="338.1" tvg-name="Claro Sports 2🇲🇽" group-title="DEPORTE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png" , Claro Sports 2🇲🇽
 http://181.189.243.254:8000/play/a0on/index.m3u8
@@ -829,7 +829,7 @@ http://live.budtvlight.com:25461/live/bud-1763358/7f63ee0473/39090.m3u8
 http://45.5.118.226:8000/play/a053/index.m3u8
 
 #EXTINF:-1 tvg-chno="357" tvg-name="TIGO SPORTS 🇨🇷" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1200px-Tigo_Sports_logo.svg.png", TIGO SPORTS 🇨🇷
-http://190.149.66.90:16000/play/a03j/index.m3u8
+http://181.189.243.254:8000/play/a0sn/index.m3u8
 
 #EXTINF:-1 tvg-chno="358" tvg-name="TIGO SPORTS 🇦🇷" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1200px-Tigo_Sports_logo.svg.png", TIGO SPORTS 🇦🇷
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
