@@ -122,7 +122,7 @@ https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
 https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 
 #EXTINF:-1 tvg-chno="56.1" tvg-id="EcuadorTV.ec" tvg-name="Ecuador TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png", Ecuador TV
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_session=807360827&_cdn_timestamp=1684303609&_cdn_token=645b00e59077d8886281d973d40c733d45885c9b
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_session=824866123&_cdn_timestamp=1684807517&_cdn_token=025ed77dd14b5cee510386d2ce7c8915781cff26
 
 #EXTINF:-1 tvg-chno="57" tvg-id="Ecuavisa.ec" tvg-name="Ecuavisa" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/553725322483335168/P8WbdzKV_400x400.jpeg", Ecuavisa
 https://youvideostreaming.club/hls/ecutv1.m3u8
@@ -305,10 +305,10 @@ http://190.60.39.62:8000/play/a033
 ############################################################
 
 #EXTINF:-1 tvg-chno="130" tvg-name="El Gourmet TV" group-title="ESTILOS DE VIDA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/ElGourmet2023.png", El Gourmet TV
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/GOURMET/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOURMET_stream_g4&_cdn_session=807344139&_cdn_timestamp=1684302843&_cdn_token=d3b5c1f16c334f9fdd85d480ac2989fcde779ce1
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/GOURMET/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOURMET_stream_g4&_cdn_session=824799003&_cdn_timestamp=1684806616&_cdn_token=5770e01ad72e4af6d7c31c9a4b72ad84179e8c3f
 
 #EXTINF:-1 tvg-chno="131" tvg-name="Food Network" group-title="ESTILOS DE VIDA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png", Food Network
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOODNETWORK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOODNETWORK_stream_l5&_cdn_session=807344851&_cdn_timestamp=1684302876&_cdn_token=fe6513e3bac6cb1d6e3a317046f32d3bafba264d
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOODNETWORK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOODNETWORK_stream_l5&_cdn_session=824802251&_cdn_timestamp=1684806654&_cdn_token=1c62b7582d45cd7e6cb9d34b4d64b4b5475635c8
 
 #EXTINF:-1 tvg-chno="132" tvg-name="Mundo & Sabor" group-title="ESTILOS DE VIDA" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MUNDO-Y-SABOR-FONDO-2-300x169.jpg", Mundo & Sabor
 https://marine2.miplay.cl/mundoysabor/playlist.m3u8
@@ -586,7 +586,7 @@ https://amc-cortos-1-us.plex.wurl.tv/6dbbaa2db12ab50781c9147553a6f01d.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-distro/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="268" tvg-id="LaCorriente.ec" tvg-name="La Corriente" tvg-country="EC" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://e7.pngegg.com/pngimages/699/365/png-clipart-flamenco-ballet-dancer-silhouette-animals-free-dance.png", La Corriente
-https://cfvod.kaltura.com/hlsm/p/513551/sp/51355100/serveFlavor/entryId/1_7ac0dw84/v/1/pv/1/ev/9/flavorId/1_88smzkxc/clipFrom/2400000/clipTo/2880000/name/a.mp4/index.m3u8/seg-73-v1-a1.ts
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a20-602d6608f867c4002c897e27/variant.m3u8?url=d5d087ad1c8953b7629d12ef8f4dfc9d-103b581c04a7d1e0cd53135960fe11d5deda349f198546c305881eaddaa8d51cae2cbc554c0db56a6e897b3ae704ba70cc427ad4c51dc77b215ad598465b2ae3377e2f09a0a0e7c45ee9bfc74c1d95de81b4a077ea66d3531d03fca2ab2e740260e3911a736f4c87cd86d7562640773a93d8ea31ff2e356066306f99ab126606de95890da04ed807d52e4ca7f99869029b606aac58e0db7ba6e38d624b6b3c9cb9832a108ba400f63eb4b0db45b6052adb05bc7e1bcf9c296502624d1db8a83a7c6c02b10bc8629b93f65ade600e5d98826949d1fe83b4a6532f98eb97b62a8e665ff7359d73e70aae2976544245212a6068da26a6004d937b7d8d8d3c93a855a7e05cd7c010c0a59219400b51126cd2322a0c241a94582f6fb0bba6b71d0c6b14d8632222bcc7c4039d5e12125efc1814ecfc24deb8e7c6309e5d72ce3c6ad04b785e77b802fe1d626f9797e37d1358f29242fea0ff950b9a2b2ca2a4a15aedc824c68161af0c0504f12564fc6fb945bcf35a07b048c1b90f02bd685c0b016a9f2b1111b3f0c6905413c244b764d8ebf16257a80ea286c1bec34825c5b0c230b4806ba1c64ccd485c8c02e24afff895956a03b0a6da2ce1f751e343e78d680651cadc1992f325c3fa56f79c304df1c4b48a506b72327cac28036c878bdb6c90f098f679a2d9adc824f02ef594e7e7668043d5a38eac67c42e6c7cc5109b5c87e9f5bef0c86d2e8a87f6592ac0d0041f69adabb50cd782b688c6f7feb00db3c5e2c3d627565d19c9cb63d2a78a29fcf609d3181234a4e54a6ed6fca6ea65a07a5362a45a704aef289b1b299d5cedad7d68c7500faeec91ef2a4ddf3ed17c99cadca7075ecd275d376a250c79ba7f2d1efa7db6368eadcd647fd601909fce118b65bee2fab826cb364c371c3cab076345033f975550d3a94718348954feff153147294411df15fff0d6852c7d44687f860071c535e715d3a68c9a37a93fd9ce9010742aa731f15b09ec10cb5f6060197afa71375ac8813589908f374cdcf1eeac05174142cd02ea1b6d91c13cdacc601b40efa86bd1093872bc5abd41212b83fb67d31bcb6a1558db1063ad2495c54783c1ec7616617e476da58ef4463da70bf292b701c99b40ff6e533e74dd7c6cba8e4d53dc7b8b219bb0aa236f10ff8f30c544b71217bb66ad31e73945395d53267e427df559ed15a7b44f8e2fa0c778ae6af6d89972e4d015f82b3c01bb72b422d76b81ac6d6efa05a96c5b75c84baf504864d4c2695370037b51157864e1e1c6d5268f16745b1eccba206a01b8bedb31c24fbbdc0776ef7c01b93b401db94251c43f5763e2e63fdb0b2b3a40bb665fa14f48123c6c556e2f900b215cb9805317b935488d6e828bfc18f80d9e48c2a411af49bf18e6b7b9d1414bc367423c82a3c81257419fa64a19e6a470c94ab45d21050b5ad5e2ba596d247c3f2d281833c5bbee33b6f64c68da8d147e7782d8d34d53e2348e22a474c36d764e5073413881034d40473a8d084232e89a0e95b095ba405d1610a994c0d7b1def950ff23168cee28dff4146e09adb205fffc757f8e5fbd7e6de396f28249d29ecadcb5d4bd738ca9c74dda4e13f7148e16ed138fd6539ecb250f5f236c48649a496bfff9910de906beec27c346c6f9d67212bad1b756fc691bbe1dc06cfae52481495344ced60cdf066218bf8c53eeba1b7ea28fb216c77584a94f0d8c934c8dd37b4e7516e6f2aa6edfcadeef12d5056069ed366483220ca6c8654d8bdf33f20d61e06cebe2d0428021d1a589b8d31facf548eb7d03292294293c5404882f76d14610df7957f33d3849f3186798617cd4d69d4d9105c16f186cc4c883e0873d4e1b31d6639529131025c5b9b26d40a230090e81982aeb471e8e8656b04689b8860a6259debf1d3e287b892967d1db430f8b187d14129b89e35d01b0709400203159716b598c87e7c55a56692182ec2bb02c21fd47d916&x-plex-token=Mw19UNtoNz9vJAMv9d3B&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1684364572
 
 #EXTINF:-1 tvg-chno="269" tvg-id="cinefeelgood.es" tvg-name="Cine Feel Gool" tvg-country="ES" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://i.ytimg.com/vi/axMcwAsWXU4/mqdefault.jpg", Cine Feel Good
 https://daiconnect.com/live/hls/tvup/tvfy-feelgood/51933d2746a9887f25e7432fcdfd08b5/.m3u8?DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&requestuid=e20e20df-66bb-11ed-9e9d-d6835f939ca3
@@ -646,7 +646,7 @@ http://45.190.13.50:8002/play/a014/index.m3u8
 http://45.190.13.50:8003/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-chno="288" tvg-name="Az Cinema" group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/800px-TV_Azteca_Cinema_logo.svg.png", Az Cinema
-https://stream.ads.ottera.tv/cl/230513chfr7d8p00rqer03q8fg/1280x720_3071200_0_f.m3u8?i=475_4829
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AZCINEMA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCINEMA_stream_eg&_cdn_session=824741515&_cdn_timestamp=1684805646&_cdn_token=aff0b23de4fb5df0e0f735c8d57d562d2203c0ab
 
 #EXTINF:-1 tvg-chno="289" tvg-name="Retro Plus TV" tvg-logo="https://image.roku.com/developer_channels/prod/407b41e3649e464cd4a478c2858e6e2e1b3b85536634ab2188f23eb5402fe438.png" group-title="CINE Y SERIES", Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
@@ -656,9 +656,6 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a20-63489eff90b9
 
 #EXTINF:-1 tvg-chno="291" tvg-id="Runtimeclasicos.es" tvg-name="Run Time Clasicos" tvg-country="ES" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", Run Time Clasicos
 https://daiconnect.com/live/hls/tvup/tvfy-rtclsc/0970efd6bbf19c6efe1d09808e0104b4/.m3u8?ApPW=1920&ApPH=1080&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=c06d0f65-66bd-11ed-9f6a-5a7b45621b50
-
-#EXTINF:-1 tvg-chno="292" tvg-id="CanelaClasicos.mx" tvg-name="Canela Clasicos" tvg-country="MX" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/linear-canela-classics-16x9_0.jpg", Canela Clasicos
-https://stream.ads.ottera.tv/cl/230513chfr868p00rqer03qk90/1280x720_3071200_0_f.m3u8?i=475_652
 
 ############################################################
 ########################## DEPORTE #########################
@@ -677,26 +674,17 @@ http://190.119.178.46:8000/play/a032/index.m3u8
 #EXTINF:-1 tvg-chno="303.1" tvg-name="D SPORT 🇦🇷" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/1200px-DirecTV_Sports_Latin_America_%282018%29.png", D SPORT 🇦🇷
 http://190.119.178.46:8000/play/a032/index.m3u
 
-#EXTINF:-1 tvg-chno="303.2" tvg-name="D SPORT 🇪🇨" group-title="DEPORTE" tvg-logo="https://i.ibb.co/gZNVks2/dtvec.png", D SPORT 🇪🇨
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/11047
-
 #EXTINF:-1 tvg-chno="304" tvg-name="D SPORT 2 🇦🇷" group-title="DEPORTE" tvg-logo="https://www.directv.com.ec/content/dam/public-sites/channels/612.png", D SPORT 2 🇦🇷
 http://45.190.13.50:8000/play/a03w/index.m3u8
 
 #EXTINF:-1 tvg-chno="304.1" tvg-name="D SPORT 2 🇦🇷" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png", D SPORT 2 🇦🇷
 http://190.119.178.46:8000/play/a033/index.m3u8
 
-#EXTINF:-1 tvg-chno="304.2" tvg-name="D SPORT 🇪🇨 2" group-title="DEPORTE" tvg-logo="https://i.ibb.co/gZNVks2/dtvec.png", D SPORT 🇪🇨 2
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/11025
-
 #EXTINF:-1 tvg-chno="305" tvg-name="D SPORT 🇦🇷 +" group-title="DEPORTE" tvg-logo="https://www.directv.com.ec/content/dam/public-sites/channels/613.png", D SPORT 🇦🇷 +
 http://45.190.13.50:8000/play/a03x/index.m3u8
 
 #EXTINF:-1 tvg-chno="305.1" tvg-name="D SPORT 🇦🇷 + HD" group-title="DEPORTE" tvg-logo="https://i.ibb.co/gZNVks2/dtvec.png", D SPORT 🇦🇷 + HD
 http://190.119.178.46:8000/play/a034/index.m3u8
-
-#EXTINF:-1 tvg-chno="305.2" tvg-name="D SPORT 🇪🇨 + FHD" group-title="DEPORTE" tvg-logo="https://i.ibb.co/gZNVks2/dtvec.png", D SPORT 🇪🇨 + FHD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/176955
 
 #EXTINF:-1 tvg-chno="306" tvg-name="D Sport Fight" group-title="DEPORTE"  tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/620.png", D Sport Fight
 http://190.119.178.46:8000/play/a036/index.m3u8
