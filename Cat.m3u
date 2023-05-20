@@ -663,7 +663,7 @@ https://daiconnect.com/live/hls/tvup/tvfy-rtclsc/0970efd6bbf19c6efe1d09808e0104b
 
 
 #EXTINF:-1 tvg-chno="301" tvg-name="GOL TV 🇺🇸" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/640px-GOLTV.png", GOL TV 🇺🇸
-http://190.119.178.46:8000/play/a00r/index.m3u8
+http://190.43.232.140:8000/play/a069/index.m3u8
 
 #EXTINF:-1 tvg-chno="301.1" tvg-name="GOL TV 🇺🇸 HD" group-title="DEPORTE" tvg-logo="https://www.prensario.net/Multimedios/imgs/14885_750.jpg", GOL TV 🇺🇸 HD
 http://190.119.178.46:8000/play/a00r/index.m3u8
