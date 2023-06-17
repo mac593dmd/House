@@ -20,7 +20,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-chno="6" tvg-name="Nickelodeon HD" group-title="INFANTIL" tvg-logo="https://png.pngtree.com/png-vector/20220923/ourlarge/pngtree-nickelodeon-logo-free-png-image_6214213.png", Nickelodeon HD
-https://v3.playerlatino.live/stream/m3u8/184
+https://v3.playerlatino.live/stream/m3u8/645
 
 #EXTINF:-1 tvg-chno="7" tvg-name="Nick Jr" group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png", Nick Jr
 https://v3.playerlatino.live/stream/m3u8/79
@@ -41,13 +41,16 @@ http://45.228.234.77:3340/play/bitme/index.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="13" tvg-id="PitufoTV.ec" tvg-name="Pitufo TV" tvg-country="EC" tvg-language="SPANISH" group-title="INFANTIL"  tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/bcec3e2f3cdb5e5eb87f4f526731dadf94b1c5ae16bdafb0cde04bbf17e6f37c._RI_V_TTW_.jpg", Pitufo TV
-https://stream.ads.ottera.tv/cl/230616ci67fclt4sqs0tnjav5g/1280x720_3071200_0_f.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=514&avod=1&coppa=1&is_lat=1&dnt=1&us_privacy=1---&did=00000000-0000-0000-0000-000000000000&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=0&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.toongoggles.com%252F&preroll_duration=30&preroll=1&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1687004866&id=266202&ip=181.199.40.41&override_expiration=1500&sign=kuNY5EMp6T3wXTvC4FfyMOIce6feTB%2BmkaHRv4DD%2BlI%3D
 
 #EXTINF:-1 tvg-chno="14" tvg-name="Planeta Junior TV" group-title="INFANTIL" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=4153cf&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fpljunior.png", Planeta Junior TV
 https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="16" tvg-name="Pl Bob Esponja" group-title="INFANTIL" tvg-logo="https://w7.pngwing.com/pngs/11/898/png-transparent-bob-esponja.png", Pl Bob Esponja
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-chno="16.1" tvg-name="Bob Esponja TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/2560px-Bob_esponja_logotipo.svg.png" group-title="24/7", Bob Esponja TV
+http://51.159.104.29:8080/bobesponja/index.m3u8
 
 #EXTINF:-1 tvg-chno="17" tvg-name="Los Padrinos Mágicos" group-title="INFANTIL" tvg-logo="https://i.pinimg.com/736x/ae/bb/61/aebb61fb7dd43f0e5d000e0bb5fb77a0--los.jpg", Los Padrinos Mágicos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6322099c822bbc00074857db/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -91,6 +94,15 @@ https://6362ca6f1fc28.streamlock.net:443/tomyjerry/tomyjerry/playlist.m3u8
 #EXTINF:-1 tvg-chno="31" tvg-id="Los Picapiedra TV" tvg-name="Los Picapiedra TV" tvg-logo="https://w7.pngwing.com/pngs/930/278/png-transparent-the-flintstones-and-rubbles-cartoons-the-flintstones.png" group-title="INFANTIL", Los Picapiedra TV
 https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="32" tvg-name="Pinguinos de Madagascar" group-title="INFANTIL" tvg-logo="https://w7.pngwing.com/pngs/621/463/png-transparent-penguin-madagascar-brand-penguin-animals-text-logo.png", Pinguinos de Madagascar
+http://hidra.live:80/yhehteog/NeN02o7t1o/50628
+
+#EXTINF:-1 tvg-chno="33" tvg-name="Cinema Disney Pixar" group-title="INFANTIL" tvg-logo="https://e7.pngegg.com/pngimages/680/796/png-clipart-pixar-computer-the-walt-disney-company-animation-film-pixar-lamp.png", Cinema Disney Pixar 
+http://hidra.live:80/yhehteog/NeN02o7t1o/50579
+
+#EXTINF:-1 tvg-chno="34" tvg-name="Cinema Dreamworks" group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/800px-DreamWorks_Channel_Logo.svg.png", Cinema Dreamworks 
+http://hidra.live:80/yhehteog/NeN02o7t1o/50580
+
 #EXTINF:-1 tvg-chno="38" tvg-id="Los Caballeros del Zodiaco TV" tvg-name="Los Caballeros del Zodiaco TV" tvg-logo="https://www.pngfind.com/pngs/m/333-3330235_caballeros-del-zodiaco-png-logo-de-caballeros-del.png" group-title="INFANTIL", Los Caballeros del Zodiaco TV
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58301
 
@@ -100,6 +112,26 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11e
 #EXTINF:-1 tvg-chno="43" tvg-id="El Chavo del 8 TV" tvg-name="El Chavo del 8 TV" tvg-logo="https://pbs.twimg.com/media/Fp3p0zZXoAY_loW?format=png&name=small" group-title="INFANTIL", El Chavo del 8 TV
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="43.1" tvg-name="El Chavo del 8 S1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/1200px-El_Chavo_Animado_logo.svg.png" group-title="24/7", El Chavo del 8 S1
+https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="43.2" tvg-name="El Chavo del 8 S2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/1200px-El_Chavo_Animado_logo.svg.png" group-title="24/7", El Chavo del 8 S2
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/35022
+
+#EXTINF:-1 tvg-chno="43.3" tvg-name="El Chavo del 8 S3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/1200px-El_Chavo_Animado_logo.svg.png" group-title="24/7", El Chavo del 8 S3
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/38712
+
+#EXTINF:-1 tvg-chno="43.4" tvg-name="El Chavo del 8 S4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/1200px-El_Chavo_Animado_logo.svg.png" group-title="24/7", El Chavo del 8 S4
+https://v3.playerlatino.live/stream/m3u8/400
+
+#EXTINF:-1 tvg-chno="44" tvg-name="El Chapulin Colorado TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1024px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="24/7", El Chapulin Colorado TV
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/38714
+
+#EXTINF:-1 tvg-chno="44.1" tvg-name="El Chapulin Colorado 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1024px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="24/7", El Chapulin Colorado 2
+https://v3.playerlatino.live/stream/m3u8/418
+
+#EXTINF:-1 tvg-chno="45" tvg-name="Chespirito TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Chespirito_Cut_1617889980592.png" group-title="24/7", Chespirito TV
+https://v3.playerlatino.live/stream/m3u8/417
 
 ############################################################
 ########################## ECUADOR #########################
@@ -475,7 +507,7 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/40-hls/live-media
 http://181.189.243.254:8000/play/a0v2/index.m3u8
 
 #EXTINF:-1 tvg-chno="214" tvg-name="Universal Comedy HD" tvg-logo="https://www.directv.com.ec/content/dam/public-sites/channels/573.png" group-title="CINE Y SERIES", Universal Comedy HD
-
+http://45.190.13.50:8003/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-chno="215" tvg-name="Universal Crime HD" tvg-logo="https://www.directv.com.ec/content/dam/public-sites/channels/574.png" group-title="CINE Y SERIES", Universal Crime HD
 http://181.189.243.254:8000/play/a0t0/index.m3u8
@@ -508,7 +540,7 @@ https://v3.playerlatino.live/stream/m3u8/62
 https://v3.playerlatino.live/stream/m3u8/300
 
 #EXTINF:-1 tvg-chno="225" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE Y SERIES", HBO Family HD
-https://v3.playerlatino.live/stream/m3u8/63
+http://181.189.243.254:8000/play/a0ou/index.m3u8
 
 #EXTINF:-1 tvg-chno="226" tvg-name="HBO Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE Y SERIES", HBO Plus HD
 https://v3.playerlatino.live/stream/m3u8/64
@@ -520,14 +552,16 @@ http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/3159
 https://v3.playerlatino.live/stream/m3u8/814
 
 #EXTINF:-1 tvg-chno="229" tvg-name="Sony HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CINE Y SERIES", Sony HD
+http://45.190.13.50:8002/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-chno="230" tvg-name="Sony Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png" group-title="CINE Y SERIES", Sony Movies HD
 https://v3.playerlatino.live/stream/m3u8/145
 
 #EXTINF:-1 tvg-chno="231" tvg-id="CineSony.us" tvg-name="Cine Sony" group-title="CINE" tvg-logo="https://www.cinesony.com/sites/cinesony/themes/custom/cinesony/logo.png", Cine Sony
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="232" tvg-name="Play Movie HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/69/Jalsha_Movies_HD_alt.png" group-title="CINE Y SERIES", Play Movie HD
-
+http://45.190.13.50:8003/play/a046/index.m3u8
 
 #EXTINF:-1 tvg-chno="233" tvg-name="DHE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png" group-title="CINE Y SERIES", DHE HD
 https://v3.playerlatino.live/stream/m3u8/844
@@ -794,6 +828,12 @@ http://50.7.66.234:8080/monicaferraz/518260/1155814
 #EXTINF:-1 tvg-chno="341" tvg-name="Golf Channel 🇺🇸" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/200px-Golf_Channel_Logo_2018.png", Golf Channel 🇺🇸
 http://181.189.243.254:8000/play/a0qg/index.m3u8
 
+#EXTINF:-1 tvg-chno="342" tvg-name="Eurosport 1 🇪🇸" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/230px-Eurosport_1_Logo_2015.svg.png", Eurosport 1 🇪🇸
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/90494
+
+#EXTINF:-1 tvg-chno="343" tvg-name="Eurosport 2 🇪🇸" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/250px-Eurosport_2_Logo_2015.svg.png", Eurosport 2 🇪🇸
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/90495
+
 #EXTINF:-1 tvg-chno="345" tvg-name="M LALIGA 🇪🇸" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png", M LALIGA 🇪🇸
 http://190.83.60.34:1414/play/a05s
 
@@ -974,14 +1014,6 @@ http://181.119.66.30:8000/play/42/index.m3u8
 ######################### EDUCACIÓN ########################
 ############################################################
 
-#EXTINF:-1 tvg-chno="500" tvg-id="inglestotalprincipiante.es"  tvg-name="IT Principiante" tvg-logo="https://www.inglestotal.com/wp-content/uploads/2019/06/INGLESAUDIO2-360.jpg" group-title="EDUCACIÓN", IT Principiante
-https://daiconnect.com/live/hls/tvup/tivify-ita-principiante/3994d030860ea2583b3c423885623524/.m3u8?ApPW=1600&ApPH=793&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=95ea4afd-66c2-11ed-9e9d-d6835f939ca3
-
-#EXTINF:-1 tvg-chno="501" tvg-id="inglestotalintermedio.es"  tvg-name="IT Intermedio" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Podcasts125/v4/a8/b7/28/a8b7285b-0c9d-8f43-dfb8-ff24b53ed30b/mza_6821662929761198421.jpg/1200x600wp.png" group-title="EDUCACIÓN", IT Intermedio
-https://daiconnect.com/live/hls/tvup/tivify-ita-intermedio/4e7d7cf8e0277f9029bfe0cb400f7769/.m3u8?ApPW=1600&ApPH=793&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=d948cb93-66c2-11ed-9e9d-d6835f939ca3
-
-#EXTINF:-1 tvg-chno="502" tvg-id="inglestotalavanzado.es"  tvg-name="IT Avanzado" tvg-logo="https://cdns-images.dzcdn.net/images/talk/cc5167c2a27df08eb3e144d791ffaa65/500x500.jpg" group-title="EDUCACIÓN", IT Avanzado
-https://daiconnect.com/live/hls/tvup/tivify-ita-avanzado/3994d030860ea2583b3c423885623524/.m3u8?ApPW=1600&ApPH=793&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=fe2eec2f-66c2-11ed-9e9d-d6835f939ca3
 
 
 ############################################################
@@ -990,6 +1022,9 @@ https://daiconnect.com/live/hls/tvup/tivify-ita-avanzado/3994d030860ea2583b3c423
 
 #EXTINF:-1 tvg-chno="525" tvg-name="TechScience 365" group-title="TECNOLOGIA" tvg-logo="https://images.squarespace-cdn.com/content/v1/54486405e4b0426d647a1d02/1588948002485-18PGFATSHJWXBLN3HFYA/science-logo-black+copy.png", TechScience 365
 https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="527" tvg-id="HiperconectadosTelevisión.cl" tvg-name="Hiperconectados Televisión" tvg-country="CL" tvg-language="SPANISH" group-title="TECNOLOGIA" tvg-logo="https://image.roku.com/developer_channels/prod/2ee8ed69266a33986437dd4fea6fc49cd2ebf61ac54c1a230ee6ce65eacba267.png", Hiperconectados TV | CL
+https://inliveserver.com:1936/11010/11010/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="528" tvg-id="PlatziTV.co" tvg-name="Platzi TV" tvg-country="CO" tvg-language="SPANISH" group-title="TECNOLOGIA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Platzi.jpg", Platzi TV
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
@@ -1034,7 +1069,7 @@ https://solo.disfrutaenlared.com:1936/agrotv/agrotv/playlist.m3u8
 ############################################################
 
 #EXTINF:-1 tvg-chno="575" tvg-name="E! Entertaiment" group-title="VARIEDADES" tvg-logo="https://www.pngkit.com/png/full/762-7622581_e-hd-e-entertainment-logo.png", E! Entertaiment
-http://45.190.13.50:8002/play/a00v/index.m3u8
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/EENTRETAIMENT/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DE_CH_stream_7o&_cdn_session=891994387&_cdn_timestamp=1687137845&_cdn_token=a4e12d156816578f1bd7f425117228e89bbd4e99
 
 #EXTINF:-1 tvg-chno="576" tvg-name="Hola TV" group-title="VARIEDADES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg", Hola TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
