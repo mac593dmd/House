@@ -138,7 +138,7 @@ https://v3.playerlatino.live/stream/m3u8/417
 ############################################################
 
 #EXTINF:-1 tvg-chno="50" tvg-id="AcademiaTV.ec" tvg-name="Academia TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://i.imgur.com/rRCw8Kq.png", Academia TV
-https://player-api.new.livestream.com/accounts/30417243/events/9529139/broadcasts/236570424.secure.m3u8?dw=14400&hdnea=st%3D1686942784~exp%3D1686944584~acl%3D%2Fi%2F30417243_9529139_lsi00p78mt8dot9tuep_1%40408471%2F%2A~hmac%3Dd927408de2dd49bedaea38381d7632fc4c23dc606412296cc2ac7cacf1139a30&token=648cb56c_312f77798d5f9c5c341161516729f36c38848c2b
+https://player-api.new.livestream.com/accounts/30417243/events/9529139/broadcasts/236601247.secure.m3u8?dw=14400&hdnea=st%3D1687223366~exp%3D1687225166~acl%3D%2Fi%2F30417243_9529139_lsi4xtflfkj0ivvyg9z_1%40379217%2F%2A~hmac%3D9151cc8f26d61cf3bf987e3b2f2070b069a0115bbb5b397a50b260aaa99f7ef0&token=6490fd72_3e9577e1cfa1623e1669db96b1aa3ec348f3b691
 
 #EXTINF:-1 tvg-chno="51" tvg-id="RadioAmericaEstereo.ec" tvg-name="Radio America Estereo" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4WM9M67xkX.jpg", America Estereo | RA-UIO
 https://video2.makrodigital.com/americaestereoquito/americaestereoquito/chunks.m3u8
@@ -153,7 +153,7 @@ https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
 https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 
 #EXTINF:-1 tvg-chno="56.1" tvg-id="EcuadorTV.ec" tvg-name="Ecuador TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png", Ecuador TV
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_session=892058267&_cdn_timestamp=1687139014&_cdn_token=fdcbe8664e95ef98668838cc385bb48f3bcdd3ff
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_session=902920499&_cdn_timestamp=1687495409&_cdn_token=64bf2a0cac1820fa54ba40b80d2c32c18556e88c
 
 #EXTINF:-1 tvg-chno="57" tvg-id="Ecuavisa.ec" tvg-name="Ecuavisa" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/553725322483335168/P8WbdzKV_400x400.jpeg", Ecuavisa
 https://youvideostreaming.club/hls/ecutv1.m3u8
@@ -246,7 +246,7 @@ https://troncalive.site/hls/stream.m3u8
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 
 #EXTINF:-1 tvg-chno="92" tvg-name="TV Oro" group-title="ECUADOR" tvg-logo="https://static.wixstatic.com/media/f91854_950db88805b546a6b0135e079403c335~mv2.png/v1/fill/w_260,h_254,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%202023.png", TV Oro
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CsAFDnm-auNetmlRWmMQaTWz3RqAjLbC2O_TuVlV4-CQraBCiuXZ_tqTOk1jP7Fi3bgjQNJ9lHs8JJ-_joyoM6wUqTV7g34f8CzOLIO4r6Mrze3H_vtXy-QUUERppnAvtLRlPZrPoPJS1uKKWCM0zDYImwcB-MNRRkdhgKZkW_hhG7ZpS27xqTdBM1rXCKQsRvJ8G4lEMj8Ge1KJqZOYtfVxczapejmgTmUCM3ganII12AKmTBeI7hGQznEubSg7gjYCN9xMESIgPMbizEpbl-hoW1sX0L9E45fwyhfqBTLiEtnSkI8kluP3txzkTxh05svuOQCKH5RN802O5_2bPf6xWFJQpw9m2a5hJ5ZlhYNBCCox1IrsZTCkeW63irXbj5e9BQef9o985gX1fWhaBtviDzifBC46RMaBz006ir_8QR2iv3CeAtw8r5Qe-9Sj_sdE0wq_5iWuGd6VJTF5l-QWEUGF8kc-Lyu8h6W6pyq-TYREHs9Tj1CsqBzHmjF9mGsfQ5hx6kfmLr-RYv_GvP-NDJgedASkjoZ1yaPZykjowKuJTboazBcLI-R7bt6NpGNvpSd4z4_ogNl-FuS24tMBixXRqt-_E3tZ3fcw4QIHrwmmb7niH-VGEcJNa4Ac-AgAXeFc9FRwwhHStBsntcb0izBbUjaev5ILzQJr63ZukH1zf8ipXvliaJclM-2YJBK2JDnQGrzP4QlcYbxBApHMotHZibtxALKmENs5LyS0-vrrd0ZofysZRzeB1N0RvNLY46aqjhpe3A7leabhGeyh9tI4kxbRZVnF_-6Q0x6MPO3DE70WT4R7LtANnby29M6-TPrNXl1RsvjhciZwZaRbus0Vtn8Nvw7gH64A1lhpngHI2k1Xp0EM2F23BHh5Jyy5C1YxZ-CJzdCLSzWrH5uUDjeh7oli5T6dv49xJdKiz_4aDOBs3Fa6HLHvZ2hYLSABKglldS13ZXN0LTIw6QY.m3u8
+https://video-weaver.atl01.hls.ttvnw.net/v1/playlist/CsAFHpWb0ZqbsXlPW2aFE9OuN_QXl0PzPgq0IW8HxHkFnwZiVYfsboARlwtpzk-YQ0ccI3nx2nit1hIs9o8lCpieuaAhpHD1P24iZOnMJuIZt4jsadjZYnWNlvSkgm0ZH0plVVnv177hA4ImoPD2CbgFhUCtmSq-RJPbxDEKPOvSPh1BG-5uyl0HHhp0_tZRsc-ywwWJfZ2yIh9KhRzmBk8gxGxVheZh2wtybLtNY2EaWWAE82QdJmxqN_UoSzJL9hwO6q9-2uKXw562M1mzuZ8NmSOmj6jfm-kMlEqmDhUmT4yK3BDJthMjg7tBQKTfFYSP9TugmgDa27iJXqfAxnWyy_QmMHqOXmyoxQeEMs1kiFrIVBGOoLoY8Zbmv4eTGO37SEtxZF-YKQCsIvjN3zw92BgtUrrs8bWKEiV8i9X9sJZlDanm_xES7QmZkVSt1OHrK7x7TDM6PJwEYVttbuu1vin_-TY8GE-pta6wh5B1S3m_w2-aWGN9SCscsYGNScxhv5A3Xc6Vkg8Cap34dWwBPBhp-j-jE2_a0w0VlJF-AaGxFmpnthjlh82Ip6Gkuql35ximHDzF4uiPTu4i6_eMSn6ZV4U6WvGImhNOlD8982UbOBnAy0xkVECncQd64RYe2LExxHL_hwHkKnTRD31p9elSjb68g_4aUGOMSNx9RzsxnmT3ygsu3beuHH6-ErwnzKWRiWLDzuWt06ModLv_pQKOCxx9iiIrHCGQihWYQZUPNaz1NfeNCBif86f_MoIuhqokSmExRP4_NiV6qzQXToTEPv-2SepRYQcY5gtF8MZz3HKrgcsDS_rQoZmJ4hlfbkg2Dio1_5DV6wqgQvhD7IlyxR7ZQ0i35MXr7Rkk-8OmS0umDjqmv9cywm7KBkdqBiyqyQzaG2FmNpGyLaQm79-3h_NQj0uz7_V9wqXbkpAaDFXe6wDwYTu41CTytSABKglldS13ZXN0LTIw7QY.m3u8
 
 #EXTINF:-1 tvg-chno="93" tvg-id="TVC.ec" tvg-name="TVC" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/1625521156521426950/Wy9hRShi_400x400.jpg", TVC
 https://d1qovwsteln4u.cloudfront.net/hls/tvc_480.m3u8
@@ -255,7 +255,7 @@ https://d1qovwsteln4u.cloudfront.net/hls/tvc_480.m3u8
 https://5e2f36bc1c433.streamlock.net/lacato/lacato.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="96" tvg-id="VitoTVO.ec" tvg-name="Vito TVO" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Vito_TVO_logo.jpg/800px-Vito_TVO_logo.jpg", Vito TVO
-https://player-api.new.livestream.com/accounts/8069167/events/10873892/broadcasts/236571407.secure.m3u8?dw=14400&hdnea=st%3D1686943132~exp%3D1686944932~acl%3D%2Fi%2F8069167_10873892_lsid2k6kupoo3lojxfp_1%40447030%2F%2A~hmac%3D3a2cb094c9ab20da2ca4912615ee8fd4d329aeb587245fee88fe8e9b347aa188&token=648cb6c8_06f53c02adfbdca91b392d690f676125f3533526
+https://player-api.new.livestream.com/accounts/8069167/events/10873892/broadcasts/236598586.secure.m3u8?dw=14400&hdnea=st%3D1687223535~exp%3D1687225335~acl%3D%2Fi%2F8069167_10873892_lsiwt69ep49gq9d9o8h_1%40688856%2F%2A~hmac%3D1819152d6409598934d0fa01f891b25ecccdcaf330f126928ce57417ddb3e28d&token=6490fe1b_2b93cb8f21ec011964e5ef6eeb431ba4f2cb9dad
 
 #EXTINF:-1 tvg-chno="97" tvg-id="WuanPlusTV.ec" tvg-name="Wuan Plus TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://wuanplus.tv/wp-content/uploads/2017/10/cropped-2-WUAN-Orange-RGB-para-WEB.png", Wuan PlusTV
 https://video2.makrodigital.com/wuanplus/wuanplus/chunks.m3u8
@@ -302,7 +302,7 @@ https://tvup-live.secure2.footprint.net/cubavision/cubavision.mpd
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140233
 
 #EXTINF:-1 tvg-chno="111" tvg-id="TelemundoHD.us" group-title="NOTICIAS" tvg-logo="https://i.imgur.com/NMo8bSE.png", TELEMUNDO HD 🇺🇸
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEMUNDO_stream_fp&_cdn_session=891958283&_cdn_timestamp=1687137110&_cdn_token=73eeba4e56c9520134e1219e7f25e2112acc9a7c
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEMUNDO_stream_fp&_cdn_session=902781995&_cdn_timestamp=1687491897&_cdn_token=9acafd68a08b9ea912334f4bdeafae391c9dafe9
 
 #EXTINF:-1 tvg-chno="113" tvg-id="CGTNEspañol.TV" tvg-name="CGTN Español 🇨🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="NOTICIAS", CGTN Español 🇨🇳
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
@@ -335,17 +335,17 @@ https://ythls.onrender.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg.m3u8
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=897274299&_cdn_timestamp=1687317648&_cdn_token=a28550cda7fe60e58bc638e2bd7d2c120bd8f4fd
 
 #EXTINF:-1 tvg-chno="120" tvg-name="Canal Caracol 🇨🇴" group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png", Canal Caracol 🇨🇴
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/NOTICIASCARACOL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNOTICIASCARACOL_stream_93&_cdn_session=891986291&_cdn_timestamp=1687137692&_cdn_token=720107cf5f38fd9d506849de1f21fe8baa9f2606
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NOTICIASCARACOL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNOTICIASCARACOL_stream_93&_cdn_session=902847043&_cdn_timestamp=1687493401&_cdn_token=eeba0bfa6fe37ab3441aefde29f2d8944a07d414
 
 ############################################################
 ###################### ESTILOS DE VIDA #####################
 ############################################################
 
 #EXTINF:-1 tvg-chno="130" tvg-name="El Gourmet TV" group-title="ESTILOS DE VIDA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/ElGourmet2023.png", El Gourmet TV
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/GOURMET/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOURMET_stream_g4&_cdn_session=891999195&_cdn_timestamp=1687137936&_cdn_token=a0b60e7201d79d45f521c49b59beb9ee0e5adcc3
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/GOURMET/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOURMET_stream_g4&_cdn_session=902892731&_cdn_timestamp=1687494673&_cdn_token=6767cba70f5eb667a3677a3021266d2cb63480b6
 
 #EXTINF:-1 tvg-chno="131" tvg-name="Food Network" group-title="ESTILOS DE VIDA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png", Food Network
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOODNETWORK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOODNETWORK_stream_l5&_cdn_session=892000499&_cdn_timestamp=1687137960&_cdn_token=302ed7d2b1fc9dfe71887628a1dc5962a73bfd13
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOODNETWORK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOODNETWORK_stream_l5&_cdn_session=902892907&_cdn_timestamp=1687494679&_cdn_token=9cee73ba95ad8492c29d11a06315b40b7f077c81
 
 #EXTINF:-1 tvg-chno="132" tvg-name="Mundo & Sabor" group-title="ESTILOS DE VIDA" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MUNDO-Y-SABOR-FONDO-2-300x169.jpg", Mundo & Sabor
 https://marine2.miplay.cl/mundoysabor/playlist.m3u8
@@ -672,7 +672,7 @@ https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 http://45.228.232.204:16000/play/a03e/index.m3u8
 
 #EXTINF:-1 tvg-chno="287" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/1200px-TCM_logo.svg.png" group-title="CINE Y SERIES", TCM
-http://45.190.13.50:8003/play/a027/index.m3u8
+http://181.189.243.254:8000/play/a0ri/index.m3u8
 
 #EXTINF:-1 tvg-chno="288" tvg-name="Az Cinema" group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/800px-TV_Azteca_Cinema_logo.svg.png", Az Cinema
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AZCINEMA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCINEMA_stream_eg&_cdn_session=891964067&_cdn_timestamp=1687137225&_cdn_token=20f815676e9e576034e3b1540af8d6a44ce1c067
@@ -715,7 +715,7 @@ http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/37843
 https://v3.playerlatino.live/stream/m3u8/667
 
 #EXTINF:-1 tvg-chno="304.1" tvg-name="D SPORT 2 🇦🇷" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png", D SPORT 2 🇦🇷
-http://190.83.60.34:1414/play/a06c
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/1789
 
 #EXTINF:-1 tvg-chno="305" tvg-name="D SPORT 🇦🇷 +" group-title="DEPORTE" tvg-logo="https://www.directv.com.ec/content/dam/public-sites/channels/613.png", D SPORT 🇦🇷 +
 http://45.190.13.50:8000/play/a03x/index.m3u8
@@ -724,7 +724,7 @@ http://45.190.13.50:8000/play/a03x/index.m3u8
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/1645
 
 #EXTINF:-1 tvg-chno="306" tvg-name="D Sport Fight" group-title="DEPORTE"  tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/620.png", D Sport Fight
-http://190.83.60.34:1414/play/a069
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/92073
 
 #EXTINF:-1 tvg-chno="307" tvg-name="FOX SPORTS PREMIUM 🇲🇽" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Fox_Sports_Premium_Argentina_2019.png", FOX SPORTS PREMIUM 🇲🇽
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/56034
@@ -742,13 +742,13 @@ https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/in
 http://45.190.13.50:8002/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-chno="312" tvg-name="FOX SPORTS 2 🇦🇷" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/800px-2015_Fox_sports_logo.svg.png", FOX SPORTS 2 🇦🇷
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=892002883&_cdn_timestamp=1687138003&_cdn_token=62c7c5091d37b03689da2939543c6f8a47a69806
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=902895027&_cdn_timestamp=1687494730&_cdn_token=dbeee66a80e77185d5a220df7bc301707d88e6e1
 
 #EXTINF:-1 tvg-chno="312.1" tvg-name="FOX SPORTS 2 🇦🇷" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/800px-2015_Fox_sports_logo.svg.png", FOX SPORTS 2 🇦🇷
 http://45.190.13.50:8002/play/a01n/index.m3u8
 
 #EXTINF:-1 tvg-chno="313" tvg-name="FOX SPORTS 3 🇦🇷" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/800px-Fox_sports_3_logo.svg.png", FOX SPORTS 3 🇦🇷
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=892004739&_cdn_timestamp=1687138035&_cdn_token=c3ec64bdaa1810e060de95b8b607b90d8f59cfbd
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=902895227&_cdn_timestamp=1687494735&_cdn_token=118aa453301b8febfe7ec467050b4dfd8f33400d
 
 #EXTINF:-1 tvg-chno="313.1" tvg-name="FOX SPORTS 3 🇦🇷" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/800px-Fox_sports_3_logo.svg.png", FOX SPORTS 3 🇦🇷
 http://45.190.13.50:8002/play/a01o/index.m3u8
@@ -760,7 +760,7 @@ http://170.254.234.244:8000/play/a01e/index.m3u8
 http://50.7.66.234:8080/monicaferraz/518260/4193
 
 #EXTINF:-1 tvg-chno="316" tvg-name="ESPN 🇦🇷" group-title="DEPORTE" tvg-logo="https://i.imgur.com/Qltczdi.jpg", ESPN 🇦🇷
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=892007259&_cdn_timestamp=1687138082&_cdn_token=eb114e952c824d0209a845585ad26fc8d8692c6e
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=902897467&_cdn_timestamp=1687494792&_cdn_token=2d943804b751f4e895132e1bc8c7db6224908200
 
 #EXTINF:-1 tvg-chno="317" tvg-name="ESPN DEPORTES 🇺🇸" group-title="DEPORTE" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png", ESPN DEPORTES 🇺🇸
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/74909
@@ -769,10 +769,10 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/74909
 http://181.78.11.117:8000/play/a07o/index.m3u8
 
 #EXTINF:-1 tvg-chno="319" tvg-name="ESPN 2 🇦🇷" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2 🇦🇷
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=892008763&_cdn_timestamp=1687138105&_cdn_token=94f0c339d20efdc45b16db80ce6f741854d0aa03
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=902897723&_cdn_timestamp=1687494798&_cdn_token=a2a4e65c6e7f0d2f348db86499d0baf0130f4bf9
 
 #EXTINF:-1 tvg-chno="319.1" tvg-name="ESPN 2 HD 🇦🇷 *" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2 HD 🇦🇷 *	
-http://45.190.13.50:8002/play/a01k/index.m3u8
+http://181.119.66.30:8000/play/03/index.m3u8
 
 #EXTINF:-1 tvg-chno="320" tvg-name="ESPN 3 🇦🇷" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3 🇦🇷
 http://191.102.90.97:8000/play/a079/index.m3u8
@@ -787,7 +787,7 @@ http://181.78.4.186:8000/play/a0fu/index.m3u8
 http://181.78.4.186:8000/play/a0fu/index.m3u8
 
 #EXTINF:-1 tvg-chno="322" tvg-name="ESPN EXTRA HD 🇦🇷" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png", ESPN EXTRA HD 🇦🇷
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPNMAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPNMAS2_stream_l4&_cdn_session=892023739&_cdn_timestamp=1687138432&_cdn_token=8104082d252070331118147370c2b18c41eee3af
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPNMAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPNMAS2_stream_l4&_cdn_session=902899835&_cdn_timestamp=1687494855&_cdn_token=69f75db4959af197dafe7f48ea01c0b2f60973c3
 
 #EXTINF:-1 tvg-chno="327" tvg-name="ESPN HD 🇲🇽" group-title="DEPORTE" tvg-logo="https://espnpressroom.com/mexico/files/2009/11/ESPN_Mexico_BW_Neg.jpg", ESPN HD 🇲🇽
 https://v3.playerlatino.live/stream/m3u8/530
@@ -1069,7 +1069,7 @@ https://solo.disfrutaenlared.com:1936/agrotv/agrotv/playlist.m3u8
 ############################################################
 
 #EXTINF:-1 tvg-chno="575" tvg-name="E! Entertaiment" group-title="VARIEDADES" tvg-logo="https://www.pngkit.com/png/full/762-7622581_e-hd-e-entertainment-logo.png", E! Entertaiment
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/EENTRETAIMENT/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DE_CH_stream_7o&_cdn_session=891994387&_cdn_timestamp=1687137845&_cdn_token=a4e12d156816578f1bd7f425117228e89bbd4e99
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/EENTRETAIMENT/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DE_CH_stream_7o&_cdn_session=902886035&_cdn_timestamp=1687494504&_cdn_token=c4f834ce5bdcbfde8b6a878e07a991eca45be252
 
 #EXTINF:-1 tvg-chno="576" tvg-name="Hola TV" group-title="VARIEDADES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg", Hola TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
