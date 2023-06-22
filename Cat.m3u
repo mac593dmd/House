@@ -41,7 +41,7 @@ http://45.228.234.77:3340/play/bitme/index.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="13" tvg-id="PitufoTV.ec" tvg-name="Pitufo TV" tvg-country="EC" tvg-language="SPANISH" group-title="INFANTIL"  tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/bcec3e2f3cdb5e5eb87f4f526731dadf94b1c5ae16bdafb0cde04bbf17e6f37c._RI_V_TTW_.jpg", Pitufo TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=514&avod=1&coppa=1&is_lat=1&dnt=1&us_privacy=1---&did=00000000-0000-0000-0000-000000000000&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=0&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.toongoggles.com%252F&preroll_duration=30&preroll=1&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1687004866&id=266202&ip=181.199.40.41&override_expiration=1500&sign=kuNY5EMp6T3wXTvC4FfyMOIce6feTB%2BmkaHRv4DD%2BlI%3D
+https://stream.ads.ottera.tv/cl/230622cia6csdhqgp6sejtrug0/1280x720_3071200_0_f.m3u8
 
 #EXTINF:-1 tvg-chno="14" tvg-name="Planeta Junior TV" group-title="INFANTIL" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=4153cf&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fpljunior.png", Planeta Junior TV
 https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
@@ -129,7 +129,7 @@ https://v3.playerlatino.live/stream/m3u8/417
 ############################################################
 
 #EXTINF:-1 tvg-chno="50" tvg-id="AcademiaTV.ec" tvg-name="Academia TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://i.imgur.com/rRCw8Kq.png", Academia TV
-https://player-api.new.livestream.com/accounts/30417243/events/9529139/broadcasts/236609256.secure.m3u8?dw=14400&hdnea=st%3D1687303722~exp%3D1687305522~acl%3D%2Fi%2F30417243_9529139_lsiqfybjsnpo4gjvbl5_1%40446819%2F%2A~hmac%3De9cb9156be07ead662ab9666392f8bfc15b9e05c9440debcd437cd8d88b3eaff&token=64923756_32fb77e35c40ffc38d12949fed74d855734c737d
+https://player-api.new.livestream.com/accounts/30417243/events/9529139/broadcasts/236618997.secure.m3u8?dw=14400&hdnea=st%3D1687448589~exp%3D1687450389~acl%3D%2Fi%2F30417243_9529139_lsix78zmav87vwzy9se_1%40689018%2F%2A~hmac%3Db36d3fdd9ffc30ad74c7e1b5259fe5880b4773190d95b65385ff6e27020de87c&token=64946d39_d32b9450238893b75c4286b86a52cdfabbb058e4
 
 #EXTINF:-1 tvg-chno="51" tvg-id="RadioAmericaEstereo.ec" tvg-name="Radio America Estereo" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4WM9M67xkX.jpg", America Estereo | RA-UIO
 https://video2.makrodigital.com/americaestereoquito/americaestereoquito/chunks.m3u8
@@ -203,7 +203,6 @@ https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/chunklist_w1163577427.m3u8
 #EXTINF:-1 tvg-chno="79" tvg-id="RadioMorena.ec" tvg-name="Radio Morena" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://cdn-radiotime-logos.tunein.com/s187650g.png", Radio Morena | RA-GYE
 https://video.str3ming.com:3616/hybrid/play.m3u8
 
-
 #EXTINF:-1 tvg-chno="82" tvg-id="RTS.ec" tvg-name="RTS" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/150px-Rts_logo.png", RTS
 https://d1qovwsteln4u.cloudfront.net/hls/rts_480.m3u8
 
@@ -232,7 +231,7 @@ https://troncalive.site/hls/stream.m3u8
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 
 #EXTINF:-1 tvg-chno="92" tvg-name="TV Oro" group-title="ECUADOR" tvg-logo="https://static.wixstatic.com/media/f91854_950db88805b546a6b0135e079403c335~mv2.png/v1/fill/w_260,h_254,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%202023.png", TV Oro
-https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CsIFS9LQg-1lknGmPbFzaO4RrG6F5Ku_No4twjWiuGdqeSpwNGAzUBSTXESZD0TVvc3qHIDVrrczIYyDoXQctw5wZfCW9P0AYakB-GNMJP72VLfOYvHFFt4rZ97yvou7d6-EAS_TxW0sLyYQVbZTjsC7viUriI4TDdJDYnIMFdrSohI6ZRBUxOI-swCE_5dBuP7yoki7aBZdAMruKaxgjCpPk_6LNrnKXPLJBLtsseZdmiEWtaBijzZZ4oPR5-YhxS5pZXZFXlY1HIvgOb3mDNVgI3bSOKKevFnXw-c5IGyMj5GcVAaCto992o2Xn9Uonjk2A63owiru1IEYLC_bBV06Liqkk57o5Uf8-pGkoKXYHlh8Ug_rLlxWzkWbJeoposqWmeCnkv6umIPFD75PIe9JCfKW0Xybc8iouKX77DbdG0hs82FUByQbipOXEvNZWx8ckFsiHEv3cVUrZWjg0nU3SLqfzBxTAhsAmX8jgrciyPuvK26ks14722zXC_VB9GspzDHYDljLFWKnTKBBjfVa8UCNqs5ClTnB0H3I7pEjhK_B88un2QyBgX4ORTlfQis_8bDoRwhNOzJUXd5q_ThGQOMKdkLDIfgaUNrBj_ollC7d8R48fP8SYM997j3ZQPlZq1PAcrKSzEiF3JbMB7-kilCes74LORDNUhCJAQsZzsB-TUB_s8mAKRXYxEKkkQRdBuNFwPs796lYM6K5vEtXjrtVq8AEDskOTaPLBpsE54hzZwbCqqec-XpEEykBxctxMEZA3NqwTxfMqOIzk1FFkclXZlTzrl4EgSNXIXEZMvXT5u4cBVE0J1IZtfbpv2lG6VcNK6EISwrD7-1ckrw28PVib_bTOTjN7hkTCR7Dje12ujRSqZXWjT-UzeBVsTPn0UtAKeuJF67VihRj7w8Fvu83kQNKD67TuGN24E-6zoHLaBoM1UBF7HO3lhny40M2IAEqCXVzLWVhc3QtMTCjBQ.m3u8
+https://video-weaver.dfw56.hls.ttvnw.net/v1/playlist/CsEFr5dPdcZvntKcZW04uPDghRQm6u9LJ0swXe3XlXDpOM_t7qL8eUAnVU0tAls_nHN0tu-qoh8idxyKkaHIbfwuGSv4qb1rIQWeAD7wTgs22z5SCxE-E-hjn1VmbnTgZepTJPcSh1r5IbnLQJgfUhgjVcx1cdhoYI4hyYokJGA96KRBP7BIc2DF6Fmqc3exEkrk0U7TPV9cSgrSnz5LK1biRJAl1tRKXhx8d5mNCHoCFWqXNmgfA-z_B-HwvZnucxwQVNpVC2_0N5Ek6NcAkeaOROd183Juvxw7qnh14LBrcrPp_flZ9nne22QKotiQ-cLqS899XQ3bQpoyo1VS72KyBeczKTJVK5XLNLDfBl37GX-iXpu82Ge4ZB3PcHs_YgEWIuiO8lurNOElLe1bYo4DbDOfIOhJEbzxih64hzSgVIWavn7QuABpsICQnaT9Ee8rGvo7xIT5jfud9ef8PwAC8ZOhghsC9W1ei3NyxkRsBIpMyJd1Ktla2aTQVbbx0OGsKtNT3QI_SwlWZ_QcQpnumFuJyaV2ZHDtaMnB9YPW7Tr7cu0kkvb1MJq-_As2hwerRb7-dfSmplKqbJkUGhSYxxmzI0y7pkevaNjd_CAlhHkaHzei4FAuX_OeJA_JtKR17jDHGuA-KETV4JXVyIo2xUHekDfCL7X-u_u5VoGwohm1PiPqgpupwyekH1ennAMz32aOz1iKoumC8dNv9h7dn-rwa37ioBxYHXVlekoQX8gdvW_GNXgrdmiKsjVEYHQo_9OgI-MoHMeoeThcb8i1_5k4qILslSOAd77ANgCudWDFrYS7zWxH61wQTuWgKlRA_Ws5tR7OuroYx1ftyKfOKwgEyfXfhaXF1i1DKm48GXEzEfIdZUpCC6liTO2UTTMKTSU9gbwSwTacIiURqJdR68dHJSJPCgL7C7xnVajO3dQTGgxtOnXSF9Q6fR9h7AogASoJdXMtZWFzdC0xMKQF.m3u8
 
 #EXTINF:-1 tvg-chno="93" tvg-id="TVC.ec" tvg-name="TVC" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/1625521156521426950/Wy9hRShi_400x400.jpg", TVC
 https://d1qovwsteln4u.cloudfront.net/hls/tvc_480.m3u8
@@ -241,7 +240,7 @@ https://d1qovwsteln4u.cloudfront.net/hls/tvc_480.m3u8
 https://5e2f36bc1c433.streamlock.net/lacato/lacato.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="96" tvg-id="VitoTVO.ec" tvg-name="Vito TVO" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Vito_TVO_logo.jpg/800px-Vito_TVO_logo.jpg", Vito TVO
-https://player-api.new.livestream.com/accounts/8069167/events/10873892/broadcasts/236606219.secure.m3u8?dw=14400&hdnea=st%3D1687303823~exp%3D1687305623~acl%3D%2Fi%2F8069167_10873892_lsinssi7xzg4bwqg559_1%40301177%2F%2A~hmac%3Db58efb267ba392ab2149aa74ad06ef2591b58893e87cb97289e93b4972775901&token=649237bb_489244fb3a812f6da91284e5462777828a6a4fd3
+https://player-api.new.livestream.com/accounts/8069167/events/10873892/broadcasts/236626558.secure.m3u8?dw=14400&hdnea=st%3D1687448707~exp%3D1687450507~acl%3D%2Fi%2F8069167_10873892_lsijkxlp8tbm7gdc7jq_1%4079655%2F%2A~hmac%3D821319f9321f429e56bdd5a9e411eb1a7b5cbfa649aa76a8bbadd8c51e4a8225&token=64946daf_33021a1aaf751629daaf3891cef3759e4ae33cae
 
 #EXTINF:-1 tvg-chno="97" tvg-id="WuanPlusTV.ec" tvg-name="Wuan Plus TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://wuanplus.tv/wp-content/uploads/2017/10/cropped-2-WUAN-Orange-RGB-para-WEB.png", Wuan PlusTV
 https://video2.makrodigital.com/wuanplus/wuanplus/chunks.m3u8
@@ -318,7 +317,7 @@ http://181.189.243.254:8000/play/a0o7/index.m3u8
 https://ythls.onrender.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg.m3u8
 
 #EXTINF:-1 tvg-chno="119" tvg-name="Latina HD 🇵🇪" group-title="NOTICIAS" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo-latina-despues.jpg", Latina HD 🇵🇪
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=897274299&_cdn_timestamp=1687317648&_cdn_token=a28550cda7fe60e58bc638e2bd7d2c120bd8f4fd
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=908486667&_cdn_timestamp=1687679755&_cdn_token=3f35d0a1d0ff210184eac9b48f5a4e3cf5e5d06a
 
 #EXTINF:-1 tvg-chno="120" tvg-name="Canal Caracol 🇨🇴" group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png", Canal Caracol 🇨🇴
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NOTICIASCARACOL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNOTICIASCARACOL_stream_93&_cdn_session=902847043&_cdn_timestamp=1687493401&_cdn_token=eeba0bfa6fe37ab3441aefde29f2d8944a07d414
@@ -658,7 +657,7 @@ http://45.228.232.204:16000/play/a03e/index.m3u8
 http://181.189.243.254:8000/play/a0ri/index.m3u8
 
 #EXTINF:-1 tvg-chno="288" tvg-name="Az Cinema" group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/800px-TV_Azteca_Cinema_logo.svg.png", Az Cinema
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AZCINEMA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCINEMA_stream_eg&_cdn_session=891964067&_cdn_timestamp=1687137225&_cdn_token=20f815676e9e576034e3b1540af8d6a44ce1c067
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AZCINEMA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCINEMA_stream_eg&_cdn_session=902808531&_cdn_timestamp=1687492505&_cdn_token=04845a3de4333c50a9face2eb10d06c336573c84
 
 #EXTINF:-1 tvg-chno="289" tvg-name="Retro Plus TV" tvg-logo="https://image.roku.com/developer_channels/prod/407b41e3649e464cd4a478c2858e6e2e1b3b85536634ab2188f23eb5402fe438.png" group-title="CINE Y SERIES", Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
@@ -978,7 +977,7 @@ https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/a
 https://cdnh71.iblups.com/hls/ptv2.m3u8
 
 #EXTINF:-1 tvg-chno="440" tvg-name="WILLAX 🇵🇪" group-title="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Willax_Televisi%C3%B3n_2020.png", WILLAX 🇵🇪
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/WILLAX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=897274027&_cdn_timestamp=1687317643&_cdn_token=5f557e1d2321cf0eb186fd8b645a065418484a24
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/WILLAX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=908486579&_cdn_timestamp=1687679750&_cdn_token=5d96c661b490207c95e8a27728f1653c91a3c3d4
 
 #EXTINF:-1 tvg-chno="443" tvg-id="MegaTV.us" tvg-name="Mega TV 🇺🇸" tvg-country="US" tvg-language="SPANISH" group-title="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mega_TV_logo_2016.svg/2560px-Mega_TV_logo_2016.svg.png", Mega TV 🇺🇸
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/chunklist_w986015691_b1428000.m3u8
@@ -990,7 +989,7 @@ http://162.246.18.122:8081/telepuerto-master/ucl-abr/playlist.m3u8
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="449" tvg-name="Venevisión 🇻🇪" group-title="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/90px-Logotipo_de_Venevisi%C3%B3n.svg.png", Venevisión 🇻🇪
-http://181.119.66.30:8000/play/42/index.m3u8
+http://45.90.105.74:25461/live/JW2WBOndemand/d8rQEH2h4E/2317.m3u8
 
 
 ############################################################
@@ -1005,6 +1004,9 @@ http://181.119.66.30:8000/play/42/index.m3u8
 
 #EXTINF:-1 tvg-chno="525" tvg-name="TechScience 365" group-title="TECNOLOGIA" tvg-logo="https://images.squarespace-cdn.com/content/v1/54486405e4b0426d647a1d02/1588948002485-18PGFATSHJWXBLN3HFYA/science-logo-black+copy.png", TechScience 365
 https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="526" tvg-name="La Fábrica TV" group-title="TECNOLOGIA" tvg-logo="https://i.ytimg.com/vi/W-mP9QJ0H6I/hqdefault.jpg", La Fábrica TV
+https://mejorestrucos.com:5443/LiveApp/streams/854077030689510682594068.m3u8
 
 #EXTINF:-1 tvg-chno="527" tvg-id="HiperconectadosTelevisión.cl" tvg-name="Hiperconectados Televisión" tvg-country="CL" tvg-language="SPANISH" group-title="TECNOLOGIA" tvg-logo="https://image.roku.com/developer_channels/prod/2ee8ed69266a33986437dd4fea6fc49cd2ebf61ac54c1a230ee6ce65eacba267.png", Hiperconectados TV | CL
 https://inliveserver.com:1936/11010/11010/playlist.m3u8
