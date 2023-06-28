@@ -49,7 +49,7 @@ https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-name="Pl Bob Esponja" group-title="INFANTIL" tvg-logo="https://w7.pngwing.com/pngs/11/898/png-transparent-bob-esponja.png", Pl Bob Esponja
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-chno="16.1" tvg-name="Bob Esponja TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/2560px-Bob_esponja_logotipo.svg.png" group-title="24/7", Bob Esponja TV
+#EXTINF:-1 tvg-chno="16.1" tvg-name="Bob Esponja TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/2560px-Bob_esponja_logotipo.svg.png" group-title="INFANTIL", Bob Esponja TV
 http://51.159.104.29:8080/bobesponja/index.m3u8
 
 #EXTINF:-1 tvg-chno="17" tvg-name="Los Padrinos Mágicos" group-title="INFANTIL" tvg-logo="https://i.pinimg.com/736x/ae/bb/61/aebb61fb7dd43f0e5d000e0bb5fb77a0--los.jpg", Los Padrinos Mágicos
@@ -100,28 +100,31 @@ https://v3.playerlatino.live/stream/m3u8/427
 #EXTINF:-1 tvg-chno="39.1" tvg-name="Los Tres Chiflados" group-title="INFANTIL" tvg-logo="https://w7.pngwing.com/pngs/497/866/png-transparent-curly-howard-shemp-howard-the-three-stooges-a-plumbing-we-will-go-short-film-three-stooges-curly-howard-shemp-howard-the-three-stooges.png", Los Tres Chiflados
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-chno="41" tvg-id="LosSimpson.us" tvg-name="Los Simpson" tvg-country="US" tvg-language="SPANISH" group-title="INFANTIL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png", Los Simpson
+https://v3.playerlatino.live/stream/m3u8/416
+
 #EXTINF:-1 tvg-chno="43" tvg-id="El Chavo del 8 TV" tvg-name="El Chavo del 8 TV" tvg-logo="https://pbs.twimg.com/media/Fp3p0zZXoAY_loW?format=png&name=small" group-title="INFANTIL", El Chavo del 8 TV
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="43.1" tvg-name="El Chavo del 8 S1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/1200px-El_Chavo_Animado_logo.svg.png" group-title="24/7", El Chavo del 8 S1
+#EXTINF:-1 tvg-chno="43.1" tvg-name="El Chavo del 8 S1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/1200px-El_Chavo_Animado_logo.svg.png" group-title="INFANTIL", El Chavo del 8 S1
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="43.2" tvg-name="El Chavo del 8 S2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/1200px-El_Chavo_Animado_logo.svg.png" group-title="24/7", El Chavo del 8 S2
+#EXTINF:-1 tvg-chno="43.2" tvg-name="El Chavo del 8 S2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/1200px-El_Chavo_Animado_logo.svg.png" group-title="INFANTIL", El Chavo del 8 S2
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/35022
 
-#EXTINF:-1 tvg-chno="43.3" tvg-name="El Chavo del 8 S3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/1200px-El_Chavo_Animado_logo.svg.png" group-title="24/7", El Chavo del 8 S3
+#EXTINF:-1 tvg-chno="43.3" tvg-name="El Chavo del 8 S3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/1200px-El_Chavo_Animado_logo.svg.png" group-title="INFANTIL", El Chavo del 8 S3
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/38712
 
-#EXTINF:-1 tvg-chno="43.4" tvg-name="El Chavo del 8 S4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/1200px-El_Chavo_Animado_logo.svg.png" group-title="24/7", El Chavo del 8 S4
+#EXTINF:-1 tvg-chno="43.4" tvg-name="El Chavo del 8 S4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/1200px-El_Chavo_Animado_logo.svg.png" group-title="INFANTIL", El Chavo del 8 S4
 https://v3.playerlatino.live/stream/m3u8/400
 
-#EXTINF:-1 tvg-chno="44" tvg-name="El Chapulin Colorado TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1024px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="24/7", El Chapulin Colorado TV
+#EXTINF:-1 tvg-chno="44" tvg-name="El Chapulin Colorado TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1024px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="INFANTIL", El Chapulin Colorado TV
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/38714
 
-#EXTINF:-1 tvg-chno="44.1" tvg-name="El Chapulin Colorado 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1024px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="24/7", El Chapulin Colorado 2
+#EXTINF:-1 tvg-chno="44.1" tvg-name="El Chapulin Colorado 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1024px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="INFANTIL", El Chapulin Colorado 2
 https://v3.playerlatino.live/stream/m3u8/418
 
-#EXTINF:-1 tvg-chno="45" tvg-name="Chespirito TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Chespirito_Cut_1617889980592.png" group-title="24/7", Chespirito TV
+#EXTINF:-1 tvg-chno="45" tvg-name="Chespirito TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Chespirito_Cut_1617889980592.png" group-title="INFANTIL", Chespirito TV
 https://v3.playerlatino.live/stream/m3u8/417
 
 ############################################################
@@ -129,7 +132,7 @@ https://v3.playerlatino.live/stream/m3u8/417
 ############################################################
 
 #EXTINF:-1 tvg-chno="50" tvg-id="AcademiaTV.ec" tvg-name="Academia TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://i.imgur.com/rRCw8Kq.png", Academia TV
-https://player-api.new.livestream.com/accounts/30417243/events/9529139/broadcasts/236663815.secure.m3u8?dw=14400&hdnea=st%3D1687812045~exp%3D1687813845~acl%3D%2Fi%2F30417243_9529139_lsil7mgzpuj6nbz8w4i_1%40408568%2F%2A~hmac%3D8f11639aa2f1aa30b22dbe9692cd7c4354d6ff0e2ae334a217ff75e65039c6f7&token=6499f8f9_e7bff1cc949ec2c9ec2c0cd6fb1f8e285741d599
+https://player-api.new.livestream.com/accounts/30417243/events/9529139/broadcasts/236680191.secure.m3u8?dw=14400&hdnea=st%3D1687911221~exp%3D1687913021~acl%3D%2Fi%2F30417243_9529139_lsiqtdd2w6l4vdyfiuz_1%40394117%2F%2A~hmac%3D29a2842aa7fd6d7935a67332c5c5a3a5e343e5b4fd8fc49b2a64da199b883c7d&token=649b7c61_088e85d330f2717fb26aaf48427d9ee8baa00ccd
 
 #EXTINF:-1 tvg-chno="51" tvg-id="RadioAmericaEstereo.ec" tvg-name="Radio America Estereo" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4WM9M67xkX.jpg", America Estereo | RA-UIO
 https://video2.makrodigital.com/americaestereoquito/americaestereoquito/chunks.m3u8
@@ -144,7 +147,7 @@ https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
 https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 
 #EXTINF:-1 tvg-chno="56" tvg-id="EcuadorTVHD.ec" tvg-name="Ecuador TV HD" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png", Ecuador TV HD
-https://mdstrm.com/live-stream-playlist/6089d0a7f61e11081f8c832a.m3u8
+http://160.20.165.245:8000/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-chno="56.1" tvg-id="EcuadorTV.ec" tvg-name="Ecuador TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png", Ecuador TV
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_session=918071611&_cdn_timestamp=1687993956&_cdn_token=2ee79646009e907e4b1bb075d9743e74af565b17
@@ -166,6 +169,9 @@ https://video2.makrodigital.com/fmmundo/fmmundo/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="62" tvg-id="FrecuenciaMusicalTV.us" tvg-name="Frecuencia Musical TV" tvg-country="US" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://latinartv.com/sites/default/files/logos/FMTV-1.png", Frecuencia Musical TV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-chno="63" tvg-id="gamavisiónFHD.ec" tvg-name="Gamavisón FHD" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png", Gamavisión FHD
+http://160.20.165.245:8000/play/a00r/index.m3u8
 
 #EXTINF:-1 tvg-chno="63.1" tvg-id="gamavisión.ec" tvg-name="Gamavisón" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png", Gamavisión
 http://160.20.165.246:8000/play/a00r/index.m3u8
@@ -224,6 +230,9 @@ https://youvideostreaming.club/hls/ecutv3.m3u8
 #EXTINF:-1 tvg-chno="87" tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png", Teleamazonas
 https://youvideostreaming.club/hls/ecutv4.m3u8
 
+#EXTINF:-1 tvg-chno="87.1" tvg-id="TeleamazonasFHD.ec" tvg-name="Teleamazonas FHD" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://seeklogo.com/images/T/teleamazonas-antiguo-fondo-azul-logo-8E2D85CDDF-seeklogo.com.png", Teleamazonas FHD
+http://160.20.165.245:8000/play/a00p/index.m3u8
+
 #EXTINF:-1 tvg-chno="88" tvg-id="Telerama.ec" tvg-name="Telerama" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://static-media.streema.com/media/cache/27/af/27afea308274909fd22e99b78e6cc2df.jpg", Telerama
 https://envivo.telerama.ec/stream.m3u8
 
@@ -234,7 +243,7 @@ https://troncalive.site/hls/stream.m3u8
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 
 #EXTINF:-1 tvg-chno="92" tvg-name="TV Oro" group-title="ECUADOR" tvg-logo="https://static.wixstatic.com/media/f91854_950db88805b546a6b0135e079403c335~mv2.png/v1/fill/w_260,h_254,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%202023.png", TV Oro
-https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CsIFZZFdAlScauLawq5aS5UxHCZ_aYBlI_fTG2oW8L8Qrhv8TFG239ayP_B-VwUbwCru7iXkslr4oOlbw_wnL-fdmJGhHKmaTG3TfChuyVIL4dTxQJ10bmZIfvYbAadO5neIJyGCrmZ-qXL6vpDh8u8SIFsGAJjSdAkyzZptA6WnXka7gaSg2L_kw8H08SBd6Lshk8qX2nVdN4tAv64VojAfPu-iDxACgEmea-TOUxJoxEycFsj9UWU200Ci6FXZn6GgIzUwgz6Isse4UtnIOlg6t7jm0mFp6UCtXys4hVroDZcMyjQVZBqM0Ad_nQcwrTPfZaEGJphMWh4BAdAjo7rJwl9-HVFjJtzrL5ejLBWqLOm4b0z3PrXSX4kW7JIKdTq2RBYrhV2AZFmRJHrc5E6t0xKWO3Ab1VibYpRbDFH4hVnuWo60nRgWmMK0zES78PFJtEAFYkQRNz0AAq66qN0cJCUqcFYJO3IJgp389ISBy9yj7MkyhS1_fF6to9SR948AAq2MnrNl-PWqW3BCm96V9sX-B7dpzCxZ7MRhbexPMAWh9ItoC330kQ8yV8BJ5_gdMzzZbFrxMTXGZNFSSSu_kHcBp4yRq-R5G0vqyH8Vk1wp7ZlpWwlMHnWEe_4_8q3NyY3s1uq_849afJk4O9rYCFjh_PEg4tshkEcGy0zX1IABtqSFGyImyaIO8cGlSa5V-Vo8t1w5aknSt2KfURebjTln-3hDUY592YFb4jjqrTLXClP-gQ913zOsVtr9Bc8XrUILxcYU_qZXRKlNexqQYcp97-UBvxRSiECpGBDYwLgbgZzTBvbttKpVFKCY45pO6GBSg-5QO6CoigWVKC4-N1BYgctiIZojPdcqF0tned7aSkBg-yMAH8A9Ca_zTyvmSCxYtnYgINh_8aj3J_hgcZ2PoXFruwFc4_xvi_gY8V9jTBoMxKeh1_0njxCJHOLgIAEqCXVzLWVhc3QtMTCoBQ.m3u8
+https://video-weaver.dfw56.hls.ttvnw.net/v1/playlist/CocGJe1vPFVbbbb30bwMnAXxq9zVvOWRc_hWPj65TJxgqslz3KKbwv_8z0iJhqQAaUZZwNiQV_0SZ9NzOhDXFkJXpe8Mr7DHLCh-qWYGaS5cKj4K_MZYYpM9a8vkj2vJRg6Ycp1_Pgygwr1Yn2SqkB6Pu4GxPEqPdboqAYDaPJbgpteSQwEHtD1KykO08t5Uto_TtZwl0TQJUFpYVbhyKq4C3jbtS3I66Aa1TWG0g4UPx1rBIajnhqWAp0n3_xuwRsP211smfaJHdE9I_e4M-u4GZYhDF9NA9WKMofRyIIXtuh52J9XGvAHbSU2bow4uehjUIJM6ceJ4JMX24EsmA7tcfvfIgaOt9jNAa-W5QxzbQWzG7vnajGb82tsBa_pzYgd1qL00eTdQjJ7kbnTxmdW0Pa8dRNGE0-nJR2Ocy2eihiCNJgFhIin-GatVFvvT33J2XUWfVswybZKMDeqyrlEB8YJWDdrEnJptClFDyBDhABa4VASOxFXGIApoGa1a0ikPIxcoO9pvFD1L1vQhthcx9N4KFhF826BllADArjqObDANPNwupkguBI7r8aDjzCWIcUm_E2dTXwvVbqTAPeJEb1b50zmEzbOJBS-06LYDr4B2e0GgJaGQxTRavCQ43l5z3ugjNFn8s00lN7THcU35WTL2FrbSN5jlXgA9mhErAiG2_hSO5n-rUonXLErqWmfxr9fdGxXGe2LnPl_DGJXvHix5uFNpvKi_wrGAVCnZbceL02iUQdgV9JjT_a_p7XCQmMCN07TsMI9TYv_TU81yS5ZuRbR7FzeWdxYL1THMjux7KjpiVW6ivm-C32M5y2fSTbOGWOw-AP9ETB_iGyRTMa6qsv9HadLmrfkjrcloH0bsXp-psvqM0Sh7pZsGCV-tV-U34XnSQwMwZvpvIqeECYjt8jDkG2VaZNEw4uZEklPZHJRJdlkHIIx76OAhQ3xw29AAhPC6PUZ7pku5H0PpS9wH-66B5LconBFxwVipB0IAPni2sxyxFYFPip1-k4zuvfeptNl_bBoMGg5TSXizfyzcmjXRIAEqCXVzLWVhc3QtMTCqBQ.m3u8
 
 #EXTINF:-1 tvg-chno="93" tvg-id="TVC.ec" tvg-name="TVC" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/1625521156521426950/Wy9hRShi_400x400.jpg", TVC
 https://d1qovwsteln4u.cloudfront.net/hls/tvc_480.m3u8
@@ -243,7 +252,7 @@ https://d1qovwsteln4u.cloudfront.net/hls/tvc_480.m3u8
 https://5e2f36bc1c433.streamlock.net/lacato/lacato.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="96" tvg-id="VitoTVO.ec" tvg-name="Vito TVO" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Vito_TVO_logo.jpg/800px-Vito_TVO_logo.jpg", Vito TVO
-https://player-api.new.livestream.com/accounts/8069167/events/10873892/broadcasts/236665493.secure.m3u8?dw=14400&hdnea=st%3D1687812337~exp%3D1687814137~acl%3D%2Fi%2F8069167_10873892_lsi3eqdbi9c5c47xbz4_1%40131495%2F%2A~hmac%3Db099cbf59c51a16513eb77592b80acc548be0a4e8aa41a809edf235901abc99f&token=6499fa1d_484fa4f32157f33bd24e48c6169e8c4d2ff111a5
+https://player-api.new.livestream.com/accounts/8069167/events/10873892/broadcasts/236675634.secure.m3u8?dw=14400&hdnea=st%3D1687911330~exp%3D1687913130~acl%3D%2Fi%2F8069167_10873892_lsi7p4wcv4bb8eae8yd_1%40305660%2F%2A~hmac%3D1b1098261819ddda366aa281a3dccd9932fde66733829c7374f4953f5b9ae3bf&token=649b7cce_1e64c718407ed6ff972c3a3bf034d2044b60eee8
 
 #EXTINF:-1 tvg-chno="97" tvg-id="WuanPlusTV.ec" tvg-name="Wuan Plus TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://wuanplus.tv/wp-content/uploads/2017/10/cropped-2-WUAN-Orange-RGB-para-WEB.png", Wuan PlusTV
 https://video2.makrodigital.com/wuanplus/wuanplus/chunks.m3u8
@@ -424,7 +433,7 @@ https://v3.playerlatino.live/stream/m3u8/28
 https://v3.playerlatino.live/stream/m3u8/187
 
 #EXTINF:-1 tvg-chno="173" tvg-name="Discovery Home & Health HD" group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png", Discovery Home & Health HD
-https://v3.playerlatino.live/stream/m3u8/24
+https://v3.playerlatino.live/stream/m3u8/640
 
 #EXTINF:-1 tvg-chno="188" tvg-id="RakutenStories.es" tvg-name="Rakuten Stories" tvg-country="ES" tvg-language="SPANISH" group-title="CULTURA" tvg-logo="https://www.tecnologia.press/wp-content/uploads/2021/03/unnamed-1-512x492.png", Rakuten Stories
 https://rakuten-spotlight-2-es.samsung.wurl.tv/3000.m3u8
@@ -700,19 +709,19 @@ https://v3.playerlatino.live/stream/m3u8/974
 https://v3.playerlatino.live/stream/m3u8/667
 
 #EXTINF:-1 tvg-chno="304.1" tvg-name="D SPORT 2 🇦🇷" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png", D SPORT 2 🇦🇷
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/1789
+https://v3.playerlatino.live/stream/m3u8/975
 
 #EXTINF:-1 tvg-chno="305" tvg-name="D SPORT 🇦🇷 +" group-title="DEPORTE" tvg-logo="https://www.directv.com.ec/content/dam/public-sites/channels/613.png", D SPORT 🇦🇷 +
 https://v3.playerlatino.live/stream/m3u8/975
 
 #EXTINF:-1 tvg-chno="305.1" tvg-name="D SPORT 🇦🇷 + HD" group-title="DEPORTE" tvg-logo="https://i.ibb.co/gZNVks2/dtvec.png", D SPORT 🇦🇷 + HD
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/1645
+https://v3.playerlatino.live/stream/m3u8/935
 
 #EXTINF:-1 tvg-chno="306" tvg-name="D Sport Fight" group-title="DEPORTE"  tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/620.png", D Sport Fight
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/92073
 
 #EXTINF:-1 tvg-chno="307" tvg-name="FOX SPORTS PREMIUM 🇲🇽" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Fox_Sports_Premium_Argentina_2019.png", FOX SPORTS PREMIUM 🇲🇽
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/56034
+https://v3.playerlatino.live/stream/m3u8/192
 
 #EXTINF:-1 tvg-chno="308" tvg-name="Fox Sports 🇲🇽" group-title="DEPORTE" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112015/untitled-1_60.png", Fox Sports 🇲🇽
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60988
@@ -784,7 +793,7 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140318
 https://v3.playerlatino.live/stream/m3u8/531
 
 #EXTINF:-1 tvg-chno="330" tvg-name="ESPN 3 HD 🇲🇽" group-title="DEPORTE" tvg-logo="https://3.bp.blogspot.com/-E7U76IniEIw/W6ln_eXwxqI/AAAAAAAAAG4/L3U5bplcLakT-9S3g-zOuskWMXTdB9TeQCPcBGAYYCw/s1600/espn3mexico.png", ESPN 3 🇲🇽 HD
-http://45.190.13.50:8002/play/a01h/index.m3u8
+https://v3.playerlatino.live/stream/m3u8/485
 
 #EXTINF:-1 tvg-chno="332" tvg-name="ESPN EXTRA 🇲🇽" group-title="DEPORTE" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6ca7eacbf7addc05b52_espn-extra.png", ESPN EXTRA 🇲🇽
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140202
@@ -856,7 +865,7 @@ https://dip0m6wuccbi7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-chno="366" tvg-id="BeinSportsÑ.gb" tvg-name="Bein Sports Ñ" tvg-logo="https://i.imgur.com/D06tacN.png" group-title="DEPORTE", Bein Sports Ñ
-http://45.5.118.226:8000/play/a052/index.m3u8
+https://v3.playerlatino.live/stream/m3u8/376
 
 #EXTINF:-1 tvg-chno="367" tvg-id="BeinSportsX.gb" tvg-name="Bein Sports Xtra Ñ" tvg-logo="https://i.imgur.com/D06tacN.png" group-title="DEPORTE", Bein Sports Xtra Ñ
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
@@ -941,7 +950,7 @@ https://latv-rcn-xtra-1-mx.tcl.wurl.tv/4300.m3u8
 https://rcntv-rcnmas-1-us.plex.wurl.tv/4300.m3u8
 
 #EXTINF:-1 tvg-chno="418" tvg-name="La 1 🇪🇸" group-title="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png", La 1 🇪🇸
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/67623
+https://v3.playerlatino.live/stream/m3u8/927
 
 #EXTINF:-1 tvg-chno="419" tvg-id="tvgalicia.es" tvg-name="TV Galicia 🇪🇸" tvg-logo="https://lh3.googleusercontent.com/-NNimM6BK6ZQ/XkszwS7D6uI/AAAAAAAAwGw/zaSdPQcEOrk7IkrJiRFWvpqbLOHmMhNtwCK8BGAsYHg/s0/2020-02-17.png" group-title="PAISES", TV Galicia 🇪🇸
 https://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
