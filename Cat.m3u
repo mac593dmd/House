@@ -41,7 +41,7 @@ http://45.228.234.77:3340/play/bitme/index.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="13" tvg-id="PitufoTV.ec" tvg-name="Pitufo TV" tvg-country="EC" tvg-language="SPANISH" group-title="INFANTIL"  tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/bcec3e2f3cdb5e5eb87f4f526731dadf94b1c5ae16bdafb0cde04bbf17e6f37c._RI_V_TTW_.jpg", Pitufo TV
-https://stream.ads.ottera.tv/cl/230625cic8vbq753pm62uasio0/1280x720_3071200_0_f.m3u8
+https://stream.ads.ottera.tv/cl/230630cife4l0gv6tiqi0b4hc0/1280x720_3071200_0_f.m3u8?i=475_4211
 
 #EXTINF:-1 tvg-chno="14" tvg-name="Planeta Junior TV" group-title="INFANTIL" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=4153cf&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fpljunior.png", Planeta Junior TV
 https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
@@ -132,7 +132,7 @@ https://v3.playerlatino.live/stream/m3u8/417
 ############################################################
 
 #EXTINF:-1 tvg-chno="50" tvg-id="AcademiaTV.ec" tvg-name="Academia TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://i.imgur.com/rRCw8Kq.png", Academia TV
-https://player-api.new.livestream.com/accounts/30417243/events/9529139/broadcasts/236689991.secure.m3u8?dw=14400&hdnea=st%3D1688056016~exp%3D1688057816~acl%3D%2Fi%2F30417243_9529139_lsiqsf8vu742iovcnt0_1%40364821%2F%2A~hmac%3D267cdb0d9ae63bad4fac3d83504b1968d42dbb4df79eb0d6b54cf6162e7a4614&token=649db1fc_581286ad88630e16e88bd9079793727c12683319
+https://player-api.new.livestream.com/accounts/30417243/events/9529139/broadcasts/236700332.secure.m3u8?dw=14400&hdnea=st%3D1688134331~exp%3D1688136131~acl%3D%2Fi%2F30417243_9529139_lsi9p6iergdalll3xn1_1%40360511%2F%2A~hmac%3D4ecc3fcba855b7d6bd0745875a104b45e3585e8e9276f1119e000e436300efdd&token=649ee3e7_36898fcc6f11c540d4ccd5505390ba276a43fa49
 
 #EXTINF:-1 tvg-chno="51" tvg-id="RadioAmericaEstereo.ec" tvg-name="Radio America Estereo" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4WM9M67xkX.jpg", America Estereo | RA-UIO
 https://video2.makrodigital.com/americaestereoquito/americaestereoquito/chunks.m3u8
@@ -186,10 +186,10 @@ https://ssh101.bozztv.com/ssh101/streamlatacungatv/chunks.m3u8?
 https://stmv1.voxhdnet.com/diego7128/diego7128/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="68" tvg-id="majestadtv.ec" tvg-name="Majestad TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/2433639/2433639-1570460635924-19694980d6844.jpg", Majestad TV
-https://stream.majestadtv.ec:3959/multi_live/play_720.m3u8
+https://go.majestadtv.ec/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-chno="70" tvg-name="Manavision" group-title="ECUADOR" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/manavisin-1476.jpg", Manavision
-https://play.once.net.ec/auth/7Yc4-kzkzNRuxxkJR80lT4JrtiFlcQieFladkPa3xGdvp6DD8ozvMIIvsEf9rh1PaqKMOK_xAf9T1wIG-bYyLsHejUwS1BvQdJpE8k_KRLRlrbaWShnn-Ch8xeueBBquZM4_T877UGWXFqXmhdAB6ST4wtnXhNI6msOdyX_Ac7x9Ns1n4YLG_SiqUMAECFJgJj7k1IyHWzxXh4MVq0GnwIuKQK2t2KUh78jzhYMqzohncChnQnkl3nu7PrEc_aS-5dSTY8yf6srsSS_rkoe9Jsu65HEvebVNPxeOzaNDWdUggxQBlt0NYdXOWRUcew_dDNRbop0lekg7MWkKhmY8NsYVurzByCUeC3_aUrPyAH98qjcY7CNdYD5Mesnuz7LjbXT79vCTXhbU0BfeLNP_kTzkrOhOourdp8J-nDi5G3CiQO3vJF7Giz-CB3DZ8jDwJZokAPFly9kKistntHH_3FBgluZtYvLN3OAlpd1rXIZ4Bqf1FdxjWL20brmukLBALkelRKdzQ9z190hrkcerrkFzjP9-VsQwQUNRV_TDVgkDlxbf1nNEd-Nnd7bDrMDfERb9WQrWBObdBan8zjmKQZZUx0paowpmd4fP2hKK_Ok
+https://play.once.net.ec/auth/7Yc4-kzkzNRuxxkJR80lT4JrtiFlcQieFladkPa3xGdvp6DD8ozvMIIvsEf9rh1PaqKMOK_xAf9T1wIG-bYyLsHejUwS1BvQdJpE8k_KRLTbXg_A-XkS2tb84F-wfTM0wgGvRivJEOq8ZDiFsy5F84F6e4z4lAEZJrixCNGWN1QkBaaaIvLViahxNDi_YgaGBmS6WE4esD2LozaHuTkR7saqyL4VaCNdXV2GoTwPk2PhSAyvQ-tosQ6B5q7aftYkDzsuYaO14WjvjNOesNrvQ1Wdyksb1udDpQycinE_9jiru4ySzI0D9uKuuSW4GhdE8PmS6OrIQj9ShgACrechoPiV5DWZXRMwutdaNBfgv__Vb0-GaMx2WyHrSPAEjjcVpicFEMvEsR0QEpDGmjxIu1pSLozG0WA2G1GB27DuT8y1xkhC_omQChyFseUcu5C26hSYo3tCswbZ-6a-GQ99xW2vVk-iND7zN7FIeUZuabWR0uV46l_W2m5yEM7CUZEQJh1tBkqVaWl4q-FpLIdYgUl9c-X_uzLHKqWE-4POFLt1Q5h4cWzuPP3BNJkNILPAW6Oo-xGgb4MKdaoi8XSqjfIjAnUEI0FNr9HPPmJYte4
 
 #EXTINF:-1 tvg-chno="71" tvg-id="MulticanalCatamayo.ec" tvg-name="Multicanal Catamayo" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/1047832405523030016/PbAkxwut_400x400.jpg", Multicanal Catamayo
 https://multicanal.streamseguro.com/hls/streaming.m3u8
@@ -693,9 +693,6 @@ https://v3.playerlatino.live/stream/m3u8/892
 #EXTINF:-1 tvg-chno="301" tvg-name="GOL TV 🇺🇸" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/640px-GOLTV.png", GOL TV 🇺🇸
 http://190.83.60.34:1414/play/a04f
 
-#EXTINF:-1 tvg-chno="301.1" tvg-name="GOL TV HD" group-title="DEPORTE" tvg-logo="https://www.prensario.net/Multimedios/imgs/14885_750.jpg", GOL TV HD
-https://v3.playerlatino.live/stream/m3u8/287
-
 #EXTINF:-1 tvg-chno="302.1" tvg-name="GOL TV EC FHD" group-title="DEPORTE" tvg-logo="https://cdn.mitvstatic.com/channels/b39ba6be-fb3e-4ce7-a302-d9eb6461bf9e_m.jpg", GOL TV EC FHD
 https://v3.playerlatino.live/stream/m3u8/514
 
@@ -822,9 +819,6 @@ http://50.7.66.234:8080/monicaferraz/518260/1155814
 #EXTINF:-1 tvg-chno="341" tvg-name="Golf Channel 🇺🇸" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/200px-Golf_Channel_Logo_2018.png", Golf Channel 🇺🇸
 http://181.189.243.254:8000/play/a0qg/index.m3u8
 
-#EXTINF:-1 tvg-chno="342" tvg-name="Eurosport 1 🇪🇸" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/230px-Eurosport_1_Logo_2015.svg.png", Eurosport 1 🇪🇸
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/90494
-
 #EXTINF:-1 tvg-chno="343" tvg-name="Eurosport 2 🇪🇸" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/250px-Eurosport_2_Logo_2015.svg.png", Eurosport 2 🇪🇸
 https://sc.id-tv.kz/Eurosport_2HD_34_35.m3u8
 
@@ -848,9 +842,6 @@ http://181.189.243.254:8000/play/a0sn/index.m3u8
 
 #EXTINF:-1 tvg-chno="358" tvg-name="TIGO SPORTS 🇦🇷" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1200px-Tigo_Sports_logo.svg.png", TIGO SPORTS 🇦🇷
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="360" tvg-name="CITY SPORTS 🇦🇷" group-title="DEPORTE" tvg-logo="https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png", CITY SPORTS 🇦🇷
-https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
 
 #EXTINF:-1 tvg-chno="361" tvg-name="TUDN 🇲🇽" group-title="DEPORTE" tvg-logo="https://i.imgur.com/EfHstB2.png", TUDN 🇲🇽
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/73630
@@ -1138,8 +1129,6 @@ http://181.189.243.254:8000/play/a0sw/index.m3u8
 #EXTINF:-1 tvg-chno="611.3" tvg-name="MTV 80s" group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png", MTV 80s
 http://181.189.243.254:8000/play/a0po/index.m3u8
 
-#EXTINF:-1 tvg-chno="615" tvg-name="Durán TV 🇪🇨" group-title="MUSICA"  tvg-logo="https://durantv.com.ec/wp-content/uploads/2023/03/cropped-dtv-blanco_Mesa-de-trabajo-1.png", Durán TV 🇪🇨
-https://cloudvideo.servers10.com:8081/8074/index.m3u8
 
 ############################################################
 ########################### 24/7 ###########################
