@@ -109,17 +109,9 @@ https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 #EXTINF:-1 tvg-chno="43.1" tvg-name="El Chavo del 8 S1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/1200px-El_Chavo_Animado_logo.svg.png" group-title="INFANTIL", El Chavo del 8 S1
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="43.2" tvg-name="El Chavo del 8 S2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/1200px-El_Chavo_Animado_logo.svg.png" group-title="INFANTIL", El Chavo del 8 S2
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/35022
-
-#EXTINF:-1 tvg-chno="43.3" tvg-name="El Chavo del 8 S3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/1200px-El_Chavo_Animado_logo.svg.png" group-title="INFANTIL", El Chavo del 8 S3
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/38712
 
 #EXTINF:-1 tvg-chno="43.4" tvg-name="El Chavo del 8 S4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/1200px-El_Chavo_Animado_logo.svg.png" group-title="INFANTIL", El Chavo del 8 S4
 https://v3.playerlatino.live/stream/m3u8/400
-
-#EXTINF:-1 tvg-chno="44" tvg-name="El Chapulin Colorado TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1024px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="INFANTIL", El Chapulin Colorado TV
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/38714
 
 #EXTINF:-1 tvg-chno="44.1" tvg-name="El Chapulin Colorado 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1024px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="INFANTIL", El Chapulin Colorado 2
 https://v3.playerlatino.live/stream/m3u8/418
@@ -188,9 +180,6 @@ https://stmv1.voxhdnet.com/diego7128/diego7128/playlist.m3u8
 #EXTINF:-1 tvg-chno="68" tvg-id="majestadtv.ec" tvg-name="Majestad TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/2433639/2433639-1570460635924-19694980d6844.jpg", Majestad TV
 https://go.majestadtv.ec/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-chno="70" tvg-name="Manavision" group-title="ECUADOR" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/manavisin-1476.jpg", Manavision
-https://play.once.net.ec/auth/7Yc4-kzkzNRuxxkJR80lT4JrtiFlcQieFladkPa3xGdvp6DD8ozvMIIvsEf9rh1PaqKMOK_xAf9T1wIG-bYyLsHejUwS1BvQdJpE8k_KRLTbXg_A-XkS2tb84F-wfTM0wgGvRivJEOq8ZDiFsy5F84F6e4z4lAEZJrixCNGWN1QkBaaaIvLViahxNDi_YgaGBmS6WE4esD2LozaHuTkR7saqyL4VaCNdXV2GoTwPk2PhSAyvQ-tosQ6B5q7aftYkDzsuYaO14WjvjNOesNrvQ1Wdyksb1udDpQycinE_9jiru4ySzI0D9uKuuSW4GhdE8PmS6OrIQj9ShgACrechoPiV5DWZXRMwutdaNBfgv__Vb0-GaMx2WyHrSPAEjjcVpicFEMvEsR0QEpDGmjxIu1pSLozG0WA2G1GB27DuT8y1xkhC_omQChyFseUcu5C26hSYo3tCswbZ-6a-GQ99xW2vVk-iND7zN7FIeUZuabWR0uV46l_W2m5yEM7CUZEQJh1tBkqVaWl4q-FpLIdYgUl9c-X_uzLHKqWE-4POFLt1Q5h4cWzuPP3BNJkNILPAW6Oo-xGgb4MKdaoi8XSqjfIjAnUEI0FNr9HPPmJYte4
-
 #EXTINF:-1 tvg-chno="71" tvg-id="MulticanalCatamayo.ec" tvg-name="Multicanal Catamayo" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/1047832405523030016/PbAkxwut_400x400.jpg", Multicanal Catamayo
 https://multicanal.streamseguro.com/hls/streaming.m3u8
 
@@ -243,7 +232,7 @@ https://troncalive.site/hls/stream.m3u8
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 
 #EXTINF:-1 tvg-chno="92" tvg-name="TV Oro" group-title="ECUADOR" tvg-logo="https://static.wixstatic.com/media/f91854_950db88805b546a6b0135e079403c335~mv2.png/v1/fill/w_260,h_254,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%202023.png", TV Oro
-https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/Cq8F05BnN-C2O-Xo7SZWZ6PJ0cvkSSobCUzLbFXNgQM6GD-w-jD41pqdhDfnwZEHowo6QpR9DaOgfVl_Jnwf2pwK_3YqMFA_YMsVLdPiRVt18G-9ijUN-KN9kktQl9a3WwoopIRikviUQnxsSTzB2pAl1M90TfE7WgqwXDAQna9uH-TVVE9wx-omaxhZezEpSM5WZiliQ2o4NzEL1YDYFpVix8ThKNZZVkErcToSLvkUN6KqXuf4MoVOeGZ5D47AFTG82o1FvDKJcB2pVvMRrrkrvEzN_bpzlhTz1b4Q1qYld_a_9qYsAs2nissE8A0a9eNxXzk6PJ2vFNnicGzt5WnwyCIx-NLOu12qynUq-2Hwb1cNZNhReZHZYteWKc3feWXxDJc-vddCLqKH2z-yOa9B5bV04cLaiKOyLlcqn9CyEVzlLtDghkKA11Nd5yegUc_rfFxu-JQ6pkcX2VZEhv3TCwNkjqJT13QRAUkFdeNrVHsZ3hS4mhWp9fZ1JxSIxrQWyrryAdG2h9RCuqtjRVYcP5UQF8EBAa7wKpM9D5drmWCMY_XDfpywOqKPBjtbs0yRYsfLGs7cgF5Xp00P6deb7do-jB3xFYYifd3-sPDqeU7OSo6To9u-32WkusNash2D9s5tebDRj-EK9-lUutYgO9wKeQtSe_A543xGEA7gXzRxV_kO_9NCXQNvS_dQKNVSSuPxoY0Nbl3_rm261ztMP7Z4sbQjHZYH6FewGjsLCmx1OfyN7oTmAICpK2T5sIG3K9XuSiZoznPwAu5bmyuxSzIT6bHAvTNLFt8lHa_EUHiwiaWqOL_FCQUe7IZcM4ca-wPMTEZsnqc36IMRfv77zokOeLb4zVuPvP6_VH5e0RgrpjWevpJYphuaqIaMKBoPNY3CdS_jkOj90tKiecRaGgwhzLiI_HSkUVeKOgAgASoJdXMtZWFzdC0xMKsF.m3u8
+https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CrAF9LXuSy-ZgMKcikhyTGGh1n_EF59gaWiVAwO_Q6AzpGo11vJdWuHJh_cJu7O6Izxh7mXxclWRoTGTLkDjqPnqV46OXNue6qmejki5YnoqFt7WRyuzF3N4uAsB9yAbymJC9TBL4u_yPH4FmEcJTZcN2k_ON0H9ek3e6EZZAyj5qkQW57Xg1DTbTZEu2e3t5Xv8IEzIrgIoDMv5UE8Adg9QHjE_uOuY2GslntXq49_WJU7zCAUdrYT9_m_84Jeffjb7vi5f7egFvxVYX_70CsTlXyQdTYMd1D_nBgzyOLEm7-edXZ6nZFv7iCY05dWEgioEMoY8LDq41mv5PVNBaPVqDIkbEuCnMpU36V4H4nZbZ9URzdqmyvWLHI6YyRguuYgg83zxzdlNtGydax-skQpMJO03gQOw5prKIKzn5Fh4xUmQyK2NfGKdNyEP3vM9bVOElezIQDSekddu7-I8MgUlfBw1f1MV7O--RX_Oe6hYcAXU1N2jGBeYm8PSCPHQAPVL3aTEGVcMMCe8n2FlmPNi3IRZfQzJCAQ4mW3zeD7XqtlwgVWpsimmCrYvYIUzsHkDKw-3kAL8V9116xmLbd6hJ9DU7DtY_kHVv1Q1VHjomgssaX3XxqZL1x1IIPH-K0YShiC6XRVtUl5VW5-fXLfOrSlHCirc20LPMCL8rZjoVjyQPqC9QPqmg8Z5WGXPO2ih7I4j_nsm2kodi5UGA3AI3Few4AeTa4mytZiue14J4EmkjZtXji3ebQyaI9inZ4aE9EYKfyTFe_IbEe0lBlMKTxN6sUtk80CqKYvpYcf5iD_IvTBgLsCWqy3vxaIaboc-0EMIRvjAC7Y4ogK-POmFFxSmoAPp126NEvWg6UpAfpN486RuxnzWDbkqrs985iQDu38U3qXywg8WftCDByRyoxoMPnYfd2SKQPiH0vBxIAEqCXVzLWVhc3QtMTCsBQ.m3u8
 
 #EXTINF:-1 tvg-chno="93" tvg-id="TVC.ec" tvg-name="TVC" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/1625521156521426950/Wy9hRShi_400x400.jpg", TVC
 https://d1qovwsteln4u.cloudfront.net/hls/tvc_480.m3u8
@@ -721,7 +710,7 @@ http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/92073
 https://v3.playerlatino.live/stream/m3u8/192
 
 #EXTINF:-1 tvg-chno="308" tvg-name="Fox Sports 🇲🇽" group-title="DEPORTE" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112015/untitled-1_60.png", Fox Sports 🇲🇽
-https://live-content.xumo.com/189/content/XM0K6VHYA4V46G/23906297/master.m3u8
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/414
 
 #EXTINF:-1 tvg-chno="309" tvg-name="Fox Sports 2 🇲🇽" group-title="DEPORTE" tvg-logo="https://i.ibb.co/hHgVk7L/foxsports2mx.png", Fox Sports 2 🇲🇽
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140324
@@ -730,7 +719,7 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140324
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140325
 
 #EXTINF:-1 tvg-chno="311" tvg-name="FOX SPORTS HD" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png", FOX SPORTS HD
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/457
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60988
 
 #EXTINF:-1 tvg-chno="312" tvg-name="FOX SPORTS 2 🇦🇷" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/800px-2015_Fox_sports_logo.svg.png", FOX SPORTS 2 🇦🇷
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=932261491&_cdn_timestamp=1688435358&_cdn_token=a044d00a7b5e7f1637211019f14ffbdf972961d4
@@ -742,7 +731,7 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140323
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=932261827&_cdn_timestamp=1688435364&_cdn_token=3e86f3ff583f20ae24bebd0eb2cbf47c3043b49e
 
 #EXTINF:-1 tvg-chno="313.1" tvg-name="FOX SPORTS 3 🇦🇷" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/800px-Fox_sports_3_logo.svg.png", FOX SPORTS 3 🇦🇷
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60987
+http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63966
 
 #EXTINF:-1 tvg-chno="314" tvg-id="TyCSports.ar" tvg-name="TYC SPORTS" group-title="DEPORTE" tvg-logo="https://i.imgur.com/zKwneZ3.png", TYC SPORTS 🇦🇷
 http://170.254.234.244:8000/play/a01e/index.m3u8
