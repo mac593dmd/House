@@ -136,7 +136,7 @@ https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 http://160.20.165.245:8000/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-chno="56.1" tvg-id="EcuadorTV.ec" tvg-name="Ecuador TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png", Ecuador TV
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_session=963777099&_cdn_timestamp=1689398084&_cdn_token=a34b26cb9e0c094e9fcc7b35c25615a8013786c5
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_session=976586203&_cdn_timestamp=1689912391&_cdn_token=a8fd30f404d76eacd854153f2f8381b0b6c000e4
 
 #EXTINF:-1 tvg-chno="57" tvg-id="Ecuavisa.ec" tvg-name="Ecuavisa" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/553725322483335168/P8WbdzKV_400x400.jpeg", Ecuavisa
 https://youvideostreaming.club/hls/ecutv1.m3u8
@@ -360,12 +360,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/pla
 
 #EXTINF:-1 tvg-chno="154" tvg-id="ENCUENTRO.ar" tvg-name="ENCUENTRO" tvg-country="AR" tvg-language="SPANISH" group-title="CULTURA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/2560px-Logo_del_canal_Encuentro.svg.png", ENCUENTRO | AR
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/chunklist_w1562995537.m3u8
-
-#EXTINF:-1 tvg-chno="155" tvg-id="medicostv.es" tvg-name="Medicos TV" tvg-logo="https://pbs.twimg.com/profile_images/879460223496462338/qiMA2_kt_400x400.jpg" group-title="CULTURA", Medicos Tv
-https://2-fss-1.streamhoster.com/pl_154/amlst:206242-3004894/1080/medSCTE35.m3u8
-
-#EXTINF:-1 tvg-chno="156" tvg-id="TelevisionConciente.ec" tvg-name="Television Conciente" tvg-country="EC" tvg-language="SPANISH" group-title="CULTURA" tvg-logo="https://www.televisionconsciente.com/img/endirecto.png", Television Conciente
-https://cloud.fractalmedia.es/live300/hls/tvc/master.m3u8
 
 #EXTINF:-1 tvg-chno="157" tvg-id="tastemade.es" tvg-name="Tastemade" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/23a7e9de-728e-4ede-ba4c-f96201c90fc8-profile_image-300x300.png" group-title="CULTURA", Tastemade
 https://tastemadees16intl-brightcove.amagi.tv/hls/amagi_hls_data_tastemade-tastemade-es16intl-brightcove/CDN/playlist.m3u8
@@ -978,13 +972,21 @@ http://162.246.18.122:8081/telepuerto-master/ucl-abr/playlist.m3u8
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="449" tvg-name="Venevisión 🇻🇪" group-title="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/90px-Logotipo_de_Venevisi%C3%B3n.svg.png", Venevisión 🇻🇪
-http://179.0.104.255:8000/play/a00z
+http://38.41.8.1:8000/play/a03v
 
 
 ############################################################
 ######################### EDUCACIÓN ########################
 ############################################################
 
+#EXTINF:-1 tvg-chno="500" tvg-id="inglestotalprincipiante.es"  tvg-name="IT Principiante" tvg-logo="https://www.inglestotal.com/wp-content/uploads/2019/06/INGLESAUDIO2-360.jpg" group-title="EDUCACIÓN", IT Principiante
+https://daiconnect.com/live/hls/tvup/tivify-ita-principiante/475882924a54c2992b6e08ff81af177c/.m3u8?ApPW=1366&ApPH=661&USrGDPRC=CPjLxiWPs7-lLBMB9CESDDCsAP_AAH_AAAiQJatd_H__bW9r-f5_aft0eY1P9_r77uQzDhfNk-4F3L_W_LwX52E7NF36tq4KmR4Eu3LBIUNlHNHUTVmwaokVryHsak2cpTNKJ6BEkHMZO2dYGF5umxtjeQKY5_p_d3fx2D-t_dv-39z3z81Xn3dZ_-_0-PCdU5_9Dfn9fRfb-9IL9_78v8v8_9_rk2_eX_3_79_77H9-f_9gloASYatxAF2ZY4M2gYRQIgRhWEhFAoAIKAYWiAgAcHBTsrAJ9YRIAUAoAjAiBDgCjIgEAAAkASEQASBFggAABEAgABAAgEQgAYGAQUAFgIBAACAaBiiFAAIEhAkRERCmBAVAkEBLZUIJQXSGmEAVZYAUAiNgoAEQSAisAAQFg4BgiQErFggSYg2iAAYAUAolQrUUnpoCFjMAAAAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=400b6fc6-1124-47b4-aad1-f27834325f43&DAdIDT=sessionid&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F114.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.25.4&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=400b6fc6-1124-47b4-aad1-f27834325f43&tvfy_env=desktop&requestuid=153c2226-6987-41e6-b7dc-f010e1b877df
+
+#EXTINF:-1 tvg-chno="501" tvg-id="inglestotalintermedio.es"  tvg-name="IT Intermedio" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Podcasts125/v4/a8/b7/28/a8b7285b-0c9d-8f43-dfb8-ff24b53ed30b/mza_6821662929761198421.jpg/1200x600wp.png" group-title="EDUCACIÓN", IT Intermedio
+https://daiconnect.com/live/hls/tvup/tivify-ita-intermedio/475882924a54c2992b6e08ff81af177c/.m3u8?ApPW=1366&ApPH=661&USrGDPRC=CPjLxiWPs7-lLBMB9CESDDCsAP_AAH_AAAiQJatd_H__bW9r-f5_aft0eY1P9_r77uQzDhfNk-4F3L_W_LwX52E7NF36tq4KmR4Eu3LBIUNlHNHUTVmwaokVryHsak2cpTNKJ6BEkHMZO2dYGF5umxtjeQKY5_p_d3fx2D-t_dv-39z3z81Xn3dZ_-_0-PCdU5_9Dfn9fRfb-9IL9_78v8v8_9_rk2_eX_3_79_77H9-f_9gloASYatxAF2ZY4M2gYRQIgRhWEhFAoAIKAYWiAgAcHBTsrAJ9YRIAUAoAjAiBDgCjIgEAAAkASEQASBFggAABEAgABAAgEQgAYGAQUAFgIBAACAaBiiFAAIEhAkRERCmBAVAkEBLZUIJQXSGmEAVZYAUAiNgoAEQSAisAAQFg4BgiQErFggSYg2iAAYAUAolQrUUnpoCFjMAAAAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=400b6fc6-1124-47b4-aad1-f27834325f43&DAdIDT=sessionid&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F114.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.25.4&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=400b6fc6-1124-47b4-aad1-f27834325f43&tvfy_env=desktop&requestuid=46773796-bd27-40ca-b61d-9cfa8d9d0d57
+
+#EXTINF:-1 tvg-chno="502" tvg-id="inglestotalavanzado.es"  tvg-name="IT Avanzado" tvg-logo="https://cdns-images.dzcdn.net/images/talk/cc5167c2a27df08eb3e144d791ffaa65/500x500.jpg" group-title="EDUCACIÓN", IT Avanzado
+https://daiconnect.com/live/hls/tvup/tivify-ita-avanzado/475882924a54c2992b6e08ff81af177c/.m3u8?ApPW=1366&ApPH=661&USrGDPRC=CPjLxiWPs7-lLBMB9CESDDCsAP_AAH_AAAiQJatd_H__bW9r-f5_aft0eY1P9_r77uQzDhfNk-4F3L_W_LwX52E7NF36tq4KmR4Eu3LBIUNlHNHUTVmwaokVryHsak2cpTNKJ6BEkHMZO2dYGF5umxtjeQKY5_p_d3fx2D-t_dv-39z3z81Xn3dZ_-_0-PCdU5_9Dfn9fRfb-9IL9_78v8v8_9_rk2_eX_3_79_77H9-f_9gloASYatxAF2ZY4M2gYRQIgRhWEhFAoAIKAYWiAgAcHBTsrAJ9YRIAUAoAjAiBDgCjIgEAAAkASEQASBFggAABEAgABAAgEQgAYGAQUAFgIBAACAaBiiFAAIEhAkRERCmBAVAkEBLZUIJQXSGmEAVZYAUAiNgoAEQSAisAAQFg4BgiQErFggSYg2iAAYAUAolQrUUnpoCFjMAAAAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=400b6fc6-1124-47b4-aad1-f27834325f43&DAdIDT=sessionid&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F114.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.25.4&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=400b6fc6-1124-47b4-aad1-f27834325f43&tvfy_env=desktop&requestuid=ae4b872f-10c4-4259-ac2e-73598b0542a6
 
 
 ############################################################
