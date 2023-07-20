@@ -118,7 +118,7 @@ https://v3.playerlatino.live/stream/m3u8/417
 ############################################################
 
 #EXTINF:-1 tvg-chno="50" tvg-id="AcademiaTV.ec" tvg-name="Academia TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://i.imgur.com/rRCw8Kq.png", Academia TV
-https://player-api.new.livestream.com/accounts/30417243/events/9529139/broadcasts/236924030.secure.m3u8?dw=14400&hdnea=st%3D1689709938~exp%3D1689711738~acl%3D%2Fi%2F30417243_9529139_lsiz0vwv3snrqcwaud0_1%40688185%2F%2A~hmac%3Db2d7361b69157b0f15a3572d4b17a7f22eca2d5fed7e0416797fc10a2d18f7ad&token=64b6ee9e_9f289b07dfbdc5bf404a5d38002ed009ce512890
+https://player-api.new.livestream.com/accounts/30417243/events/9529139/broadcasts/236951251.secure.m3u8?dw=14400&hdnea=st%3D1689892416~exp%3D1689894216~acl%3D%2Fi%2F30417243_9529139_lsijiu2n2xw79vg31dy_1%40301620%2F%2A~hmac%3D480acb7a08eecb520504509a64ff6f975f1ede8dcc1670a385c8a3d7c58e46b4&token=64b9b76c_d508cdeb23f79b8d8e5edfd51954b8e9ebd2d134
 
 #EXTINF:-1 tvg-chno="51" tvg-id="RadioAmericaEstereo.ec" tvg-name="Radio America Estereo" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4WM9M67xkX.jpg", America Estereo | RA-UIO
 https://video2.makrodigital.com/americaestereoquito/americaestereoquito/chunks.m3u8
@@ -164,12 +164,6 @@ http://160.20.165.246:8000/play/a00r/index.m3u8
 
 #EXTINF:-1 tvg-chno="64" tvg-id="HechosEC.ec" tvg-name="HECHOS" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/znddkhgxhbqp.jpg", Hechos
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/chunklist_w1839505953.m3u8
-
-#EXTINF:-1 tvg-chno="66" tvg-id="LatacungaTV.ec" tvg-name="Latacunga TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://www.latacungatv.com/images/logo.png", Latacunga TV
-https://ssh101.bozztv.com/ssh101/streamlatacungatv/chunks.m3u8?
-
-#EXTINF:-1 tvg-chno="67" tvg-id="LoretoTV.ec" tvg-name="Loreto TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://seeklogo.com/images/M/marca-loreto-primera-version-logo-8AAD68C485-seeklogo.com.png", Loreto TV
-https://stmv1.voxhdnet.com/diego7128/diego7128/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="68" tvg-id="majestadtv.ec" tvg-name="Majestad TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/2433639/2433639-1570460635924-19694980d6844.jpg", Majestad TV
 https://go.majestadtv.ec/hls/0/stream.m3u8
@@ -223,7 +217,7 @@ https://troncalive.site/hls/stream.m3u8
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 
 #EXTINF:-1 tvg-chno="92" tvg-name="TV Oro" group-title="ECUADOR" tvg-logo="https://static.wixstatic.com/media/f91854_950db88805b546a6b0135e079403c335~mv2.png/v1/fill/w_260,h_254,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%202023.png", TV Oro						
-https://video-weaver.dfw56.hls.ttvnw.net/v1/playlist/CrAFc9Ps1d1knHym34ZrUwtqCFeAFAFdjD_az1RdhJJeafI_3cLZSWT_vZeMm8gedYIfp-wygqUZEmxciij7K_9CzdsLZlQpP-3SpOPlyAcvT4ll7j-6jk9IWuH_lNtQG31VfECKoem_cUD6V1n4pX82uU4B9hrbf6ftEotFTjJj019syiBHbuAqLU4l0YpJyjebSok4pwk7HL6gKqCGDVgRJQpJHvrHJPyFrzJd6awBQbehI-gx6HCswgovmKXRMm4dx8JQ1ocB6NrZuCC5foQ5PJexidCTlR234rsj-3l5uUK_cpRM5Rj-KE4Nf3Nbr1xvDamDcGA1EEs6ZMuhFlHfzs37d8ItWfFS-HEFAIgXa9eP9QwQ9pq2bhEdJSCvvUCRy0qCqgB_LqMaXRFkmKBdmZ_SzLfGSn5tLVLu95fg_EZ4M7IA16uwzkVmOqZaFRdIA6M1xvmZOrdUqiOvSnVs_8aE3fnmTyNRtHuK94glqZ_aWRJVVNgU9u5Hkdfwc-BJ6cmLQOYha4HBWrv3vORfS79QwhobqRHYBDhb8hJBxcqz8l-lleQItBNDPujjvszlAFFMdqP8md-zJW9BilLktBsrI-YJ_xgnBoZP_bDcqQFqTcVHu50QhCp-XxbTp0IQTVkLa4sgTT6f46lufKHj-C96-ym_S22-B0NqIB5f1mnwh8OhhQv5VDBnT0eNg9d83bcdCLk1sdgfTWerbgcl2cxatIRJU8krqz8AXbfSA1eAbI61BXtb6g4P7RP4oIy7fMOmcZ4-un2e58htOOFDVx1F-4uAoVYe-JAdm_Qnrni7O7CMHkzgNlA0P-Nn9CcoymRtLgn6Q2P2xLtTOfwigCf52A_2R8lOeO3i1s9UxzDbkbscGydD9lnTxg_ewzfS42o2d6e9QV4YXFBRkkNfmhoMeuLT2uATt-RRaiF8IAEqCXVzLWVhc3QtMTC-BQ.m3u8
+https://video-weaver.dfw56.hls.ttvnw.net/v1/playlist/Cq8FUrKqNU4tm_xDdnRZT2lgAK3LqVhWm0WBKFpGU-Bvs0RZVG8Cl0J2yLHLvc0DxBSEmqqXlTh2iRtXDjfjc9yb02N_14H8438lybHmiSF8PDL9e4Xm3zsYHTUJcN2cwh31aaDwxfUS5YZZBVR4sTNUmV9nl_f8177Y9V_GeGn5qYLIjhQAfq9RQ-xCu9TCFm1WJfzwaR_eC404qx6kNzooPAlkqq6XVOIIX-HCdSMQgHdF9-H1UamdUhl8K9QIIcMG7uoh98pgLRHh9fCOu9o0oZNtWi3FNwgXVUSqLbTP_zUXsynPNJvoRuXb29a7kxUdPPidU4NGGIHu513ufzykWSfok8pAOys07nTpo0onZ53I80lrsLJFJvr3LEekPr-N4epr1pcoD8dz3e8VtAlXXKDHZPawcj7kWyAxG3oR8au-V25hGXFaRV7suuFNLajd7_6n50yXVotvXWaH7qMh4zYZ638ztzyHe447Ui1iyHhpNrMfrltdeSrA8U1WdPbjtzvpFiKXiLnLsrklLFXzRp98GiQH1JclVcbDHLXC1XFcoZgBujaDZ1pyppkgfz02Cr4r1j8LNCIrd_4DmhZ3spc4KU9eKM0PUCZllt3cFxYKVlKIjUOiDXSfQKq3iVz4k8wSdfh2VM3mEzQAdjYhcdH3zxEi6vmImzbW605lgG-i7MRRYPKX3Xh0cMGBP9XYoHwOciBBp-AJNfpnXP1pRpV-0SHK2dCg_FzM5Q7AvDeT0WmBSZ5R1PZXptOKrEWrSKpbKiJY0AprK3s7lHeYB7XATANvmuXkCQOzlPnDokvuoGm2MHCQ1U0CHKXPbvCHtDAJXlKsk7xv2MdD6bkfJVD0qxLXsw3ihGFXMauCO95IwKDWSAeB46Dx8odjp4w2SyZgh-xDpwHjAMa7e-17GgxQgU4WjF-vfaqXcwIgASoJdXMtZWFzdC0yMIoH.m3u8
 
 #EXTINF:-1 tvg-chno="93" tvg-id="TVC.ec" tvg-name="TVC" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/1625521156521426950/Wy9hRShi_400x400.jpg", TVC
 https://d1qovwsteln4u.cloudfront.net/hls/tvc_480.m3u8
@@ -291,7 +285,7 @@ https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 https://marine2.miplay.cl/france24/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="115" tvg-id="Univision.us" tvg-name="Univision 🇺🇸" tvg-country="US" tvg-language="SPANISH" group-title="NOTICIAS" tvg-logo="https://w7.pngwing.com/pngs/823/555/png-transparent-univision-doral-logo-television-advertising-business-television-text-people.png", Univision 🇺🇸
-http://181.189.243.254:8000/play/a0v0/index.m3u8
+http://190.60.39.198:8000/play/a0av/index.m3u8
 
 #EXTINF:-1 tvg-chno="116" tvg-name="HispanTV 🇮🇷" group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/1200px-HispanTv_logo.svg.png", HispanTV 🇮🇷
 https://live1.presstv.ir/live/hispan.m3u8
@@ -303,7 +297,7 @@ http://181.189.243.254:8000/play/a0ps/index.m3u8
 https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist_1024x576.m3u8
 
 #EXTINF:-1 tvg-chno="117.2" tvg-id="CNN Chile" tvg-name="CNN Chile 🇨🇱" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/150px-CNN_Chile_logo_2017.svg.png" group-title="NOTICIAS", CNN Chile 🇨🇱
-http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/5.m3u8
+http://186.3.175.72:9095/play/a162/index.m3u8
 
 #EXTINF:-1 tvg-chno="117.3" tvg-id="CNN Internacional 🇺🇸" tvg-name="CNN Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/162px-CNN_International_logo.svg.png" group-title="NOTICIAS", CNN Internacional 🇺🇸
 http://181.189.243.254:8000/play/a0o7/index.m3u8
@@ -360,6 +354,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/pla
 
 #EXTINF:-1 tvg-chno="154" tvg-id="ENCUENTRO.ar" tvg-name="ENCUENTRO" tvg-country="AR" tvg-language="SPANISH" group-title="CULTURA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/2560px-Logo_del_canal_Encuentro.svg.png", ENCUENTRO | AR
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/chunklist_w1562995537.m3u8
+
+#EXTINF:-1 tvg-chno="156" tvg-id="TelevisionConciente.ec" tvg-name="Television Conciente" tvg-country="EC" tvg-language="SPANISH" group-title="CULTURA" tvg-logo="https://www.televisionconsciente.com/img/endirecto.png", Television Conciente
+https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8
 
 #EXTINF:-1 tvg-chno="157" tvg-id="tastemade.es" tvg-name="Tastemade" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/23a7e9de-728e-4ede-ba4c-f96201c90fc8-profile_image-300x300.png" group-title="CULTURA", Tastemade
 https://tastemadees16intl-brightcove.amagi.tv/hls/amagi_hls_data_tastemade-tastemade-es16intl-brightcove/CDN/playlist.m3u8
@@ -909,7 +906,7 @@ https://stmv2.voxtvhd.com.br/canalccali/canalccali/chunklist_w424458213.m3u8
 https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live-2500/index.m3u8
 
 #EXTINF:-1 tvg-chno="414" tvg-name="RCN 🇨🇴" group-title="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png", RCN 🇨🇴
-http://190.242.104.58:9092/play/e0125
+http://177.234.230.226:8010/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-chno="415" tvg-id="RCNmas.co" tvg-name="RCN Mas 🇨🇴" tvg-country="CO" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://i.imgur.com/rP8UBPq.png", RCN Xtra 🇨🇴
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/4300.m3u8
