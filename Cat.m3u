@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/al.xml,https://iptv-org.github.io/epg/guides/dz.xml,https://iptv-org.github.io/epg/guides/as.xml,https://iptv-org.github.io/epg/guides/ad.xml,https://iptv-org.github.io/epg/guides/ao.xml,https://iptv-org.github.io/epg/guides/ai.xml,https://iptv-org.github.io/epg/guides/aq.xml,https://iptv-org.github.io/epg/guides/ag.xml,https://iptv-org.github.io/epg/guides/ar.xml,https://iptv-org.github.io/epg/guides/am.xml,https://iptv-org.github.io/epg/guides/aw.xml,https://iptv-org.github.io/epg/guides/au.xml,https://iptv-org.github.io/epg/guides/at.xml,https://iptv-org.github.io/epg/guides/az.xml,https://iptv-org.github.io/epg/guides/bs.xml,https://iptv-org.github.io/epg/guides/bh.xml,https://iptv-org.github.io/epg/guides/bd.xml,https://iptv-org.github.io/epg/guides/bb.xml,https://iptv-org.github.io/epg/guides/by.xml,https://iptv-org.github.io/epg/guides/be.xml,https://iptv-org.github.io/epg/guides/bz.xml,https://iptv-org.github.io/epg/guides/bj.xml,https://iptv-org.github.io/epg/guides/bm.xml,https://iptv-org.github.io/epg/guides/bt.xml,https://iptv-org.github.io/epg/guides/bo.xml,https://iptv-org.github.io/epg/guides/bq.xml,https://iptv-org.github.io/epg/guides/ba.xml,https://iptv-org.github.io/epg/guides/bw.xml,https://iptv-org.github.io/epg/guides/bv.xml,https://iptv-org.github.io/epg/guides/br.xml,https://iptv-org.github.io/epg/guides/io.xml,https://iptv-org.github.io/epg/guides/vg.xml,https://iptv-org.github.io/epg/guides/bn.xml,https://iptv-org.github.io/epg/guides/bg.xml,https://iptv-org.github.io/epg/guides/bf.xml,https://iptv-org.github.io/epg/guides/bi.xml,https://iptv-org.github.io/epg/guides/kh.xml,https://iptv-org.github.io/epg/guides/cm.xml,https://iptv-org.github.io/epg/guides/ca.xml,https://iptv-org.github.io/epg/guides/cv.xml,https://iptv-org.github.io/epg/guides/ky.xml,https://iptv-org.github.io/epg/guides/cf.xml,https://iptv-org.github.io/epg/guides/td.xml,https://iptv-org.github.io/epg/guides/cl.xml,https://iptv-org.github.io/epg/guides/cn.xml,https://iptv-org.github.io/epg/guides/cx.xml,https://iptv-org.github.io/epg/guides/cc.xml,https://iptv-org.github.io/epg/guides/co.xml,https://iptv-org.github.io/epg/guides/km.xml,https://iptv-org.github.io/epg/guides/ck.xml,https://iptv-org.github.io/epg/guides/cr.xml,https://iptv-org.github.io/epg/guides/hr.xml,https://iptv-org.github.io/epg/guides/cu.xml,https://iptv-org.github.io/epg/guides/cw.xml,https://iptv-org.github.io/epg/guides/cy.xml,https://iptv-org.github.io/epg/guides/cz.xml,https://iptv-org.github.io/epg/guides/cd.xml,https://iptv-org.github.io/epg/guides/dk.xml,https://iptv-org.github.io/epg/guides/dj.xml,https://iptv-org.github.io/epg/guides/dm.xml,https://iptv-org.github.io/epg/guides/do.xml,https://iptv-org.github.io/epg/guides/tl.xml,https://iptv-org.github.io/epg/guides/ec.xml,https://iptv-org.github.io/epg/guides/eg.xml,https://iptv-org.github.io/epg/guides/sv.xml,https://iptv-org.github.io/epg/guides/gq.xml,https://iptv-org.github.io/epg/guides/er.xml,https://iptv-org.github.io/epg/guides/ee.xml,https://iptv-org.github.io/epg/guides/et.xml,https://iptv-org.github.io/epg/guides/fk.xml,https://iptv-org.github.io/epg/guides/fo.xml,https://iptv-org.github.io/epg/guides/fj.xml,https://iptv-org.github.io/epg/guides/fi.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/gf.xml,https://iptv-org.github.io/epg/guides/pf.xml,https://iptv-org.github.io/epg/guides/tf.xml,https://iptv-org.github.io/epg/guides/ga.xml,https://iptv-org.github.io/epg/guides/gm.xml,https://iptv-org.github.io/epg/guides/ge.xml,https://iptv-org.github.io/epg/guides/de.xml,https://iptv-org.github.io/epg/guides/gh.xml,https://iptv-org.github.io/epg/guides/gi.xml,https://iptv-org.github.io/epg/guides/gr.xml,https://iptv-org.github.io/epg/guides/gl.xml,https://iptv-org.github.io/epg/guides/gd.xml,https://iptv-org.github.io/epg/guides/gp.xml,https://iptv-org.github.io/epg/guides/gu.xml,https://iptv-org.github.io/epg/guides/gt.xml,https://iptv-org.github.io/epg/guides/gg.xml,https://iptv-org.github.io/epg/guides/gn.xml,https://iptv-org.github.io/epg/guides/gw.xml,https://iptv-org.github.io/epg/guides/gy.xml,https://iptv-org.github.io/epg/guides/ht.xml,https://iptv-org.github.io/epg/guides/hm.xml,https://iptv-org.github.io/epg/guides/hn.xml,https://iptv-org.github.io/epg/guides/hk.xml,https://iptv-org.github.io/epg/guides/hu.xml,https://iptv-org.github.io/epg/guides/is.xml,https://iptv-org.github.io/epg/guides/in.xml,https://iptv-org.github.io/epg/guides/id.xml,https://iptv-org.github.io/epg/guides/ir.xml,https://iptv-org.github.io/epg/guides/iq.xml,https://iptv-org.github.io/epg/guides/ie.xml,https://iptv-org.github.io/epg/guides/im.xml,https://iptv-org.github.io/epg/guides/il.xml,https://iptv-org.github.io/epg/guides/it.xml,https://iptv-org.github.io/epg/guides/ci.xml,https://iptv-org.github.io/epg/guides/jm.xml,https://iptv-org.github.io/epg/guides/jp.xml,https://iptv-org.github.io/epg/guides/je.xml,https://iptv-org.github.io/epg/guides/jo.xml,https://iptv-org.github.io/epg/guides/kz.xml,https://iptv-org.github.io/epg/guides/ke.xml,https://iptv-org.github.io/epg/guides/ki.xml,https://iptv-org.github.io/epg/guides/xk.xml,https://iptv-org.github.io/epg/guides/kw.xml,https://iptv-org.github.io/epg/guides/kg.xml,https://iptv-org.github.io/epg/guides/la.xml,https://iptv-org.github.io/epg/guides/lv.xml,https://iptv-org.github.io/epg/guides/lb.xml,https://iptv-org.github.io/epg/guides/ls.xml,https://iptv-org.github.io/epg/guides/lr.xml,https://iptv-org.github.io/epg/guides/ly.xml,https://iptv-org.github.io/epg/guides/li.xml,https://iptv-org.github.io/epg/guides/lt.xml,https://iptv-org.github.io/epg/guides/lu.xml,https://iptv-org.github.io/epg/guides/mo.xml,https://iptv-org.github.io/epg/guides/mg.xml,https://iptv-org.github.io/epg/guides/mw.xml,https://iptv-org.github.io/epg/guides/my.xml,https://iptv-org.github.io/epg/guides/mv.xml,https://iptv-org.github.io/epg/guides/ml.xml,https://iptv-org.github.io/epg/guides/mt.xml,https://iptv-org.github.io/epg/guides/mh.xml,https://iptv-org.github.io/epg/guides/mq.xml,https://iptv-org.github.io/epg/guides/mr.xml,https://iptv-org.github.io/epg/guides/mu.xml,https://iptv-org.github.io/epg/guides/yt.xml,https://iptv-org.github.io/epg/guides/mx.xml,https://iptv-org.github.io/epg/guides/fm.xml,https://iptv-org.github.io/epg/guides/md.xml,https://iptv-org.github.io/epg/guides/mc.xml,https://iptv-org.github.io/epg/guides/mn.xml,https://iptv-org.github.io/epg/guides/me.xml,https://iptv-org.github.io/epg/guides/ms.xml,https://iptv-org.github.io/epg/guides/ma.xml,https://iptv-org.github.io/epg/guides/mz.xml,https://iptv-org.github.io/epg/guides/mm.xml,https://iptv-org.github.io/epg/guides/na.xml,https://iptv-org.github.io/epg/guides/nr.xml,https://iptv-org.github.io/epg/guides/np.xml,https://iptv-org.github.io/epg/guides/nl.xml,https://iptv-org.github.io/epg/guides/nc.xml,https://iptv-org.github.io/epg/guides/nz.xml,https://iptv-org.github.io/epg/guides/ni.xml,https://iptv-org.github.io/epg/guides/ne.xml,https://iptv-org.github.io/epg/guides/ng.xml,https://iptv-org.github.io/epg/guides/nu.xml,https://iptv-org.github.io/epg/guides/nf.xml,https://iptv-org.github.io/epg/guides/kp.xml,https://iptv-org.github.io/epg/guides/mk.xml,https://iptv-org.github.io/epg/guides/mp.xml,https://iptv-org.github.io/epg/guides/no.xml,https://iptv-org.github.io/epg/guides/om.xml,https://iptv-org.github.io/epg/guides/pk.xml,https://iptv-org.github.io/epg/guides/pw.xml,https://iptv-org.github.io/epg/guides/ps.xml,https://iptv-org.github.io/epg/guides/pa.xml,https://iptv-org.github.io/epg/guides/pg.xml,https://iptv-org.github.io/epg/guides/py.xml,https://iptv-org.github.io/epg/guides/pe.xml,https://iptv-org.github.io/epg/guides/ph.xml,https://iptv-org.github.io/epg/guides/pn.xml,https://iptv-org.github.io/epg/guides/pl.xml,https://iptv-org.github.io/epg/guides/pt.xml,https://iptv-org.github.io/epg/guides/pr.xml,https://iptv-org.github.io/epg/guides/qa.xml,https://iptv-org.github.io/epg/guides/cg.xml,https://iptv-org.github.io/epg/guides/ro.xml,https://iptv-org.github.io/epg/guides/ru.xml,https://iptv-org.github.io/epg/guides/rw.xml,https://iptv-org.github.io/epg/guides/re.xml,https://iptv-org.github.io/epg/guides/bl.xml,https://iptv-org.github.io/epg/guides/sh.xml,https://iptv-org.github.io/epg/guides/kn.xml,https://iptv-org.github.io/epg/guides/lc.xml,https://iptv-org.github.io/epg/guides/mf.xml,https://iptv-org.github.io/epg/guides/pm.xml,https://iptv-org.github.io/epg/guides/vc.xml,https://iptv-org.github.io/epg/guides/ws.xml,https://iptv-org.github.io/epg/guides/sm.xml,https://iptv-org.github.io/epg/guides/sa.xml,https://iptv-org.github.io/epg/guides/sn.xml,https://iptv-org.github.io/epg/guides/rs.xml,https://iptv-org.github.io/epg/guides/sc.xml,https://iptv-org.github.io/epg/guides/sl.xml,https://iptv-org.github.io/epg/guides/sg.xml,https://iptv-org.github.io/epg/guides/sx.xml,https://iptv-org.github.io/epg/guides/sk.xml,https://iptv-org.github.io/epg/guides/si.xml,https://iptv-org.github.io/epg/guides/sb.xml,https://iptv-org.github.io/epg/guides/so.xml,https://iptv-org.github.io/epg/guides/za.xml,https://iptv-org.github.io/epg/guides/gs.xml,https://iptv-org.github.io/epg/guides/kr.xml,https://iptv-org.github.io/epg/guides/ss.xml,https://iptv-org.github.io/epg/guides/es.xml,https://iptv-org.github.io/epg/guides/lk.xml,https://iptv-org.github.io/epg/guides/sd.xml,https://iptv-org.github.io/epg/guides/sr.xml,https://iptv-org.github.io/epg/guides/sj.xml,https://iptv-org.github.io/epg/guides/sz.xml,https://iptv-org.github.io/epg/guides/se.xml,https://iptv-org.github.io/epg/guides/ch.xml,https://iptv-org.github.io/epg/guides/sy.xml,https://iptv-org.github.io/epg/guides/st.xml,https://iptv-org.github.io/epg/guides/tw.xml,https://iptv-org.github.io/epg/guides/tj.xml,https://iptv-org.github.io/epg/guides/tz.xml,https://iptv-org.github.io/epg/guides/th.xml,https://iptv-org.github.io/epg/guides/tg.xml,https://iptv-org.github.io/epg/guides/tk.xml,https://iptv-org.github.io/epg/guides/to.xml,https://iptv-org.github.io/epg/guides/tt.xml,https://iptv-org.github.io/epg/guides/tn.xml,https://iptv-org.github.io/epg/guides/tr.xml,https://iptv-org.github.io/epg/guides/tm.xml,https://iptv-org.github.io/epg/guides/tc.xml,https://iptv-org.github.io/epg/guides/tv.xml,https://iptv-org.github.io/epg/guides/um.xml,https://iptv-org.github.io/epg/guides/vi.xml,https://iptv-org.github.io/epg/guides/ug.xml,https://iptv-org.github.io/epg/guides/ua.xml,https://iptv-org.github.io/epg/guides/ae.xml,https://iptv-org.github.io/epg/guides/uk.xml,https://iptv-org.github.io/epg/guides/us.xml,https://iptv-org.github.io/epg/guides/uy.xml,https://iptv-org.github.io/epg/guides/uz.xml,https://iptv-org.github.io/epg/guides/vu.xml,https://iptv-org.github.io/epg/guides/va.xml,https://iptv-org.github.io/epg/guides/ve.xml,https://iptv-org.github.io/epg/guides/vn.xml,https://iptv-org.github.io/epg/guides/wf.xml,https://iptv-org.github.io/epg/guides/eh.xml,https://iptv-org.github.io/epg/guides/ye.xml,https://iptv-org.github.io/epg/guides/zm.xml,https://iptv-org.github.io/epg/guides/zw.xml,https://iptv-org.github.io/epg/guides/ax.xml,https://www.tdtchannels.com/epg/TV.xml,https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.xml,https://iptv-org.github.io/epg/guides/es/cablego.com.pe.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/es/siba.com.co.xml,https://iptv-org.github.io/epg/guides/en/plex.tv.xml,https://iptvx.one/EPG"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/al.xml,https://iptv-org.github.io/epg/guides/dz.xml,https://iptv-org.github.io/epg/guides/as.xml,https://iptv-org.github.io/epg/guides/ad.xml,https://iptv-org.github.io/epg/guides/ao.xml,https://iptv-org.github.io/epg/guides/ai.xml,https://iptv-org.github.io/epg/guides/aq.xml,https://iptv-org.github.io/epg/guides/ag.xml,https://iptv-org.github.io/epg/guides/ar.xml,https://iptv-org.github.io/epg/guides/am.xml,https://iptv-org.github.io/epg/guides/aw.xml,https://iptv-org.github.io/epg/guides/au.xml,https://iptv-org.github.io/epg/guides/at.xml,https://iptv-org.github.io/epg/guides/az.xml,https://iptv-org.github.io/epg/guides/bs.xml,https://iptv-org.github.io/epg/guides/bh.xml,https://iptv-org.github.io/epg/guides/bd.xml,https://iptv-org.github.io/epg/guides/bb.xml,https://iptv-org.github.io/epg/guides/by.xml,https://iptv-org.github.io/epg/guides/be.xml,https://iptv-org.github.io/epg/guides/bz.xml,https://iptv-org.github.io/epg/guides/bj.xml,https://iptv-org.github.io/epg/guides/bm.xml,https://iptv-org.github.io/epg/guides/bt.xml,https://iptv-org.github.io/epg/guides/bo.xml,https://iptv-org.github.io/epg/guides/bq.xml,https://iptv-org.github.io/epg/guides/ba.xml,https://iptv-org.github.io/epg/guides/bw.xml,https://iptv-org.github.io/epg/guides/bv.xml,https://iptv-org.github.io/epg/guides/br.xml,https://iptv-org.github.io/epg/guides/io.xml,https://iptv-org.github.io/epg/guides/vg.xml,https://iptv-org.github.io/epg/guides/bn.xml,https://iptv-org.github.io/epg/guides/bg.xml,https://iptv-org.github.io/epg/guides/bf.xml,https://iptv-org.github.io/epg/guides/bi.xml,https://iptv-org.github.io/epg/guides/kh.xml,https://iptv-org.github.io/epg/guides/cm.xml,https://iptv-org.github.io/epg/guides/ca.xml,https://iptv-org.github.io/epg/guides/cv.xml,https://iptv-org.github.io/epg/guides/ky.xml,https://iptv-org.github.io/epg/guides/cf.xml,https://iptv-org.github.io/epg/guides/td.xml,https://iptv-org.github.io/epg/guides/cl.xml,https://iptv-org.github.io/epg/guides/cn.xml,https://iptv-org.github.io/epg/guides/cx.xml,https://iptv-org.github.io/epg/guides/cc.xml,https://iptv-org.github.io/epg/guides/co.xml,https://iptv-org.github.io/epg/guides/km.xml,https://iptv-org.github.io/epg/guides/ck.xml,https://iptv-org.github.io/epg/guides/cr.xml,https://iptv-org.github.io/epg/guides/hr.xml,https://iptv-org.github.io/epg/guides/cu.xml,https://iptv-org.github.io/epg/guides/cw.xml,https://iptv-org.github.io/epg/guides/cy.xml,https://iptv-org.github.io/epg/guides/cz.xml,https://iptv-org.github.io/epg/guides/cd.xml,https://iptv-org.github.io/epg/guides/dk.xml,https://iptv-org.github.io/epg/guides/dj.xml,https://iptv-org.github.io/epg/guides/dm.xml,https://iptv-org.github.io/epg/guides/do.xml,https://iptv-org.github.io/epg/guides/tl.xml,https://iptv-org.github.io/epg/guides/ec.xml,https://iptv-org.github.io/epg/guides/eg.xml,https://iptv-org.github.io/epg/guides/sv.xml,https://iptv-org.github.io/epg/guides/gq.xml,https://iptv-org.github.io/epg/guides/er.xml,https://iptv-org.github.io/epg/guides/ee.xml,https://iptv-org.github.io/epg/guides/et.xml,https://iptv-org.github.io/epg/guides/fk.xml,https://iptv-org.github.io/epg/guides/fo.xml,https://iptv-org.github.io/epg/guides/fj.xml,https://iptv-org.github.io/epg/guides/fi.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/gf.xml,https://iptv-org.github.io/epg/guides/pf.xml,https://iptv-org.github.io/epg/guides/tf.xml,https://iptv-org.github.io/epg/guides/ga.xml,https://iptv-org.github.io/epg/guides/gm.xml,https://iptv-org.github.io/epg/guides/ge.xml,https://iptv-org.github.io/epg/guides/de.xml,https://iptv-org.github.io/epg/guides/gh.xml,https://iptv-org.github.io/epg/guides/gi.xml,https://iptv-org.github.io/epg/guides/gr.xml,https://iptv-org.github.io/epg/guides/gl.xml,https://iptv-org.github.io/epg/guides/gd.xml,https://iptv-org.github.io/epg/guides/gp.xml,https://iptv-org.github.io/epg/guides/gu.xml,https://iptv-org.github.io/epg/guides/gt.xml,https://iptv-org.github.io/epg/guides/gg.xml,https://iptv-org.github.io/epg/guides/gn.xml,https://iptv-org.github.io/epg/guides/gw.xml,https://iptv-org.github.io/epg/guides/gy.xml,https://iptv-org.github.io/epg/guides/ht.xml,https://iptv-org.github.io/epg/guides/hm.xml,https://iptv-org.github.io/epg/guides/hn.xml,https://iptv-org.github.io/epg/guides/hk.xml,https://iptv-org.github.io/epg/guides/hu.xml,https://iptv-org.github.io/epg/guides/is.xml,https://iptv-org.github.io/epg/guides/in.xml,https://iptv-org.github.io/epg/guides/id.xml,https://iptv-org.github.io/epg/guides/ir.xml,https://iptv-org.github.io/epg/guides/iq.xml,https://iptv-org.github.io/epg/guides/ie.xml,https://iptv-org.github.io/epg/guides/im.xml,https://iptv-org.github.io/epg/guides/il.xml,https://iptv-org.github.io/epg/guides/it.xml,https://iptv-org.github.io/epg/guides/ci.xml,https://iptv-org.github.io/epg/guides/jm.xml,https://iptv-org.github.io/epg/guides/jp.xml,https://iptv-org.github.io/epg/guides/je.xml,https://iptv-org.github.io/epg/guides/jo.xml,https://iptv-org.github.io/epg/guides/kz.xml,https://iptv-org.github.io/epg/guides/ke.xml,https://iptv-org.github.io/epg/guides/ki.xml,https://iptv-org.github.io/epg/guides/xk.xml,https://iptv-org.github.io/epg/guides/kw.xml,https://iptv-org.github.io/epg/guides/kg.xml,https://iptv-org.github.io/epg/guides/la.xml,https://iptv-org.github.io/epg/guides/lv.xml,https://iptv-org.github.io/epg/guides/lb.xml,https://iptv-org.github.io/epg/guides/ls.xml,https://iptv-org.github.io/epg/guides/lr.xml,https://iptv-org.github.io/epg/guides/ly.xml,https://iptv-org.github.io/epg/guides/li.xml,https://iptv-org.github.io/epg/guides/lt.xml,https://iptv-org.github.io/epg/guides/lu.xml,https://iptv-org.github.io/epg/guides/mo.xml,https://iptv-org.github.io/epg/guides/mg.xml,https://iptv-org.github.io/epg/guides/mw.xml,https://iptv-org.github.io/epg/guides/my.xml,https://iptv-org.github.io/epg/guides/mv.xml,https://iptv-org.github.io/epg/guides/ml.xml,https://iptv-org.github.io/epg/guides/mt.xml,https://iptv-org.github.io/epg/guides/mh.xml,https://iptv-org.github.io/epg/guides/mq.xml,https://iptv-org.github.io/epg/guides/mr.xml,https://iptv-org.github.io/epg/guides/mu.xml,https://iptv-org.github.io/epg/guides/yt.xml,https://iptv-org.github.io/epg/guides/mx.xml,https://iptv-org.github.io/epg/guides/fm.xml,https://iptv-org.github.io/epg/guides/md.xml,https://iptv-org.github.io/epg/guides/mc.xml,https://iptv-org.github.io/epg/guides/mn.xml,https://iptv-org.github.io/epg/guides/me.xml,https://iptv-org.github.io/epg/guides/ms.xml,https://iptv-org.github.io/epg/guides/ma.xml,https://iptv-org.github.io/epg/guides/mz.xml,https://iptv-org.github.io/epg/guides/mm.xml,https://iptv-org.github.io/epg/guides/na.xml,https://iptv-org.github.io/epg/guides/nr.xml,https://iptv-org.github.io/epg/guides/np.xml,https://iptv-org.github.io/epg/guides/nl.xml,https://iptv-org.github.io/epg/guides/nc.xml,https://iptv-org.github.io/epg/guides/nz.xml,https://iptv-org.github.io/epg/guides/ni.xml,https://iptv-org.github.io/epg/guides/ne.xml,https://iptv-org.github.io/epg/guides/ng.xml,https://iptv-org.github.io/epg/guides/nu.xml,https://iptv-org.github.io/epg/guides/nf.xml,https://iptv-org.github.io/epg/guides/kp.xml,https://iptv-org.github.io/epg/guides/mk.xml,https://iptv-org.github.io/epg/guides/mp.xml,https://iptv-org.github.io/epg/guides/no.xml,https://iptv-org.github.io/epg/guides/om.xml,https://iptv-org.github.io/epg/guides/pk.xml,https://iptv-org.github.io/epg/guides/pw.xml,https://iptv-org.github.io/epg/guides/ps.xml,https://iptv-org.github.io/epg/guides/pa.xml,https://iptv-org.github.io/epg/guides/pg.xml,https://iptv-org.github.io/epg/guides/py.xml,https://iptv-org.github.io/epg/guides/pe.xml,https://iptv-org.github.io/epg/guides/ph.xml,https://iptv-org.github.io/epg/guides/pn.xml,https://iptv-org.github.io/epg/guides/pl.xml,https://iptv-org.github.io/epg/guides/pt.xml,https://iptv-org.github.io/epg/guides/pr.xml,https://iptv-org.github.io/epg/guides/qa.xml,https://iptv-org.github.io/epg/guides/cg.xml,https://iptv-org.github.io/epg/guides/ro.xml,https://iptv-org.github.io/epg/guides/ru.xml,https://iptv-org.github.io/epg/guides/rw.xml,https://iptv-org.github.io/epg/guides/re.xml,https://iptv-org.github.io/epg/guides/bl.xml,https://iptv-org.github.io/epg/guides/sh.xml,https://iptv-org.github.io/epg/guides/kn.xml,https://iptv-org.github.io/epg/guides/lc.xml,https://iptv-org.github.io/epg/guides/mf.xml,https://iptv-org.github.io/epg/guides/pm.xml,https://iptv-org.github.io/epg/guides/vc.xml,https://iptv-org.github.io/epg/guides/ws.xml,https://iptv-org.github.io/epg/guides/sm.xml,https://iptv-org.github.io/epg/guides/sa.xml,https://iptv-org.github.io/epg/guides/sn.xml,https://iptv-org.github.io/epg/guides/rs.xml,https://iptv-org.github.io/epg/guides/sc.xml,https://iptv-org.github.io/epg/guides/sl.xml,https://iptv-org.github.io/epg/guides/sg.xml,https://iptv-org.github.io/epg/guides/sx.xml,https://iptv-org.github.io/epg/guides/sk.xml,https://iptv-org.github.io/epg/guides/si.xml,https://iptv-org.github.io/epg/guides/sb.xml,https://iptv-org.github.io/epg/guides/so.xml,https://iptv-org.github.io/epg/guides/za.xml,https://iptv-org.github.io/epg/guides/gs.xml,https://iptv-org.github.io/epg/guides/kr.xml,https://iptv-org.github.io/epg/guides/ss.xml,https://iptv-org.github.io/epg/guides/es.xml,https://iptv-org.github.io/epg/guides/lk.xml,https://iptv-org.github.io/epg/guides/sd.xml,https://iptv-org.github.io/epg/guides/sr.xml,https://iptv-org.github.io/epg/guides/sj.xml,https://iptv-org.github.io/epg/guides/sz.xml,https://iptv-org.github.io/epg/guides/se.xml,https://iptv-org.github.io/epg/guides/ch.xml,https://iptv-org.github.io/epg/guides/sy.xml,https://iptv-org.github.io/epg/guides/st.xml,https://iptv-org.github.io/epg/guides/tw.xml,https://iptv-org.github.io/epg/guides/tj.xml,https://iptv-org.github.io/epg/guides/tz.xml,https://iptv-org.github.io/epg/guides/th.xml,https://iptv-org.github.io/epg/guides/tg.xml,https://iptv-org.github.io/epg/guides/tk.xml,https://iptv-org.github.io/epg/guides/to.xml,https://iptv-org.github.io/epg/guides/tt.xml,https://iptv-org.github.io/epg/guides/tn.xml,https://iptv-org.github.io/epg/guides/tr.xml,https://iptv-org.github.io/epg/guides/tm.xml,https://iptv-org.github.io/epg/guides/tc.xml,https://iptv-org.github.io/epg/guides/tv.xml,https://iptv-org.github.io/epg/guides/um.xml,https://iptv-org.github.io/epg/guides/vi.xml,https://iptv-org.github.io/epg/guides/ug.xml,https://iptv-org.github.io/epg/guides/ua.xml,https://iptv-org.github.io/epg/guides/ae.xml,https://iptv-org.github.io/epg/guides/uk.xml,https://iptv-org.github.io/epg/guides/us.xml,https://iptv-org.github.io/epg/guides/uy.xml,https://iptv-org.github.io/epg/guides/uz.xml,https://iptv-org.github.io/epg/guides/vu.xml,https://iptv-org.github.io/epg/guides/va.xml,https://iptv-org.github.io/epg/guides/ve.xml,https://iptv-org.github.io/epg/guides/vn.xml,https://iptv-org.github.io/epg/guides/wf.xml,https://iptv-org.github.io/epg/guides/eh.xml,https://iptv-org.github.io/epg/guides/ye.xml,https://iptv-org.github.io/epg/guides/zm.xml,https://iptv-org.github.io/epg/guides/zw.xml,https://iptv-org.github.io/epg/guides/ax.xml,https://www.tdtchannels.com/epg/TV.xml,https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.xml,https://iptv-org.github.io/epg/guides/es/cablego.com.pe.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/es/siba.com.co.xml,https://iptv-org.github.io/epg/guides/en/plex.tv.xml,https://iptvx.one/EPG"
 
 ############################################################
 ######################### INFANTIL #########################
@@ -20,7 +20,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-chno="6" tvg-name="Nickelodeon HD" group-title="INFANTIL" tvg-logo="https://png.pngtree.com/png-vector/20220923/ourlarge/pngtree-nickelodeon-logo-free-png-image_6214213.png", Nickelodeon HD
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NICKELODEON/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKELODEON_stream_g4&_cdn_session=995711267&_cdn_timestamp=1690550066&_cdn_token=7f83d7fcb1828641a0f82303aec0976dce28d540
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NICKELODEON/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKELODEON_stream_g4&_cdn_session=1025361347&_cdn_timestamp=1691415222&_cdn_token=4109c7b2fb83fcbfc72ec4573015d80e04ca0ea9
 
 #EXTINF:-1 tvg-chno="7" tvg-name="Nick Jr" group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png", Nick Jr
 https://v3.playerlatino.live/stream/m3u8/79
@@ -91,20 +91,53 @@ https://6362ca6f1fc28.streamlock.net:443/tomyjerry/tomyjerry/playlist.m3u8
 #EXTINF:-1 tvg-chno="31" tvg-id="Los Picapiedra TV" tvg-name="Los Picapiedra TV" tvg-logo="https://w7.pngwing.com/pngs/930/278/png-transparent-the-flintstones-and-rubbles-cartoons-the-flintstones.png" group-title="INFANTIL", Los Picapiedra TV
 https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="32" tvg-name="Pinguinos de Madagascar" group-title="INFANTIL" tvg-logo="https://w7.pngwing.com/pngs/621/463/png-transparent-penguin-madagascar-brand-penguin-animals-text-logo.png", Pinguinos de Madagascar
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50628
+
+#EXTINF:-1 tvg-chno="33" tvg-name="Cinema Disney Pixar" group-title="INFANTIL" tvg-logo="https://e7.pngegg.com/pngimages/680/796/png-clipart-pixar-computer-the-walt-disney-company-animation-film-pixar-lamp.png", Cinema Disney Pixar 
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50579
+
 #EXTINF:-1 tvg-chno="34" tvg-name="Cinema Dreamworks" group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/800px-DreamWorks_Channel_Logo.svg.png", Cinema Dreamworks 
-http://190.60.39.198:8000/play/a09f/index.m3u8
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50580
+
+#EXTINF:-1 tvg-chno="35" tvg-name="Jimmy Neutron" group-title="INFANTIL" tvg-logo="https://pics.filmaffinity.com/Jimmy_Neutron_Serie_de_TV-815775450-large.jpg", Jimmy Neutron 
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50604
+
+#EXTINF:-1 tvg-chno="36" tvg-name="Kung Fu Panda" group-title="INFANTIL" tvg-logo="https://m.media-amazon.com/images/M/MV5BODJkZTZhMWItMDI3Yy00ZWZlLTk4NjQtOTI1ZjU5NjBjZTVjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg", Kung Fu Panda 
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50606
+
+#EXTINF:-1 tvg-chno="37" tvg-name="El Perro Cobarde" group-title="INFANTIL" tvg-logo="https://e7.pngegg.com/pngimages/951/22/png-clipart-dog-desktop-high-definition-video-high-definition-television-outline-of-courage-the-cowardly-dog-love-purple-thumbnail.png", El Perro Cobarde 
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/58267
 
 #EXTINF:-1 tvg-chno="38" tvg-id="Los Caballeros del Zodiaco TV" tvg-name="Los Caballeros del Zodiaco TV" tvg-logo="https://www.pngfind.com/pngs/m/333-3330235_caballeros-del-zodiaco-png-logo-de-caballeros-del.png" group-title="INFANTIL", Los Caballeros del Zodiaco TV
 https://v3.playerlatino.live/stream/m3u8/427
 
+#EXTINF:-1 tvg-chno="39" tvg-name="Los Tres Chiflados" group-title="INFANTIL" tvg-logo="https://w7.pngwing.com/pngs/497/866/png-transparent-curly-howard-shemp-howard-the-three-stooges-a-plumbing-we-will-go-short-film-three-stooges-curly-howard-shemp-howard-the-three-stooges.png", Los Tres Chiflados
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/49190
+
 #EXTINF:-1 tvg-chno="39.1" tvg-name="Los Tres Chiflados" group-title="INFANTIL" tvg-logo="https://w7.pngwing.com/pngs/497/866/png-transparent-curly-howard-shemp-howard-the-three-stooges-a-plumbing-we-will-go-short-film-three-stooges-curly-howard-shemp-howard-the-three-stooges.png", Los Tres Chiflados
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-chno="40" tvg-name="FUTURAMA" group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Futurama_1999_logo.svg/1200px-Futurama_1999_logo.svg.png", FUTURAMA
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/50599
+
+#EXTINF:-1 tvg-chno="41" tvg-name="VIP El Laboratorio de Dexter" group-title="INFANTIL" tvg-logo="https://e7.pngegg.com/pngimages/254/244/png-clipart-graphics-laboratory-cartoon-dexter-s-laboratory.png", VIP El Laboratorio de Dexter SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50598
+
+#EXTINF:-1 tvg-chno="42" tvg-name="VIP Rick y Morty FHD" group-title="INFANTIL" tvg-logo="https://w7.pngwing.com/pngs/396/63/png-transparent-rick-morty-illustration-rick-sanchez-morty-smith-rick-and-morty-season-3-television-show-adult-swim-rick-and-morty-television-child-face-thumbnail.png", VIP Rick y Morty FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50631
 
 #EXTINF:-1 tvg-chno="43" tvg-id="El Chavo del 8 TV" tvg-name="El Chavo del 8 TV" tvg-logo="https://pbs.twimg.com/media/Fp3p0zZXoAY_loW?format=png&name=small" group-title="INFANTIL", El Chavo del 8 TV
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="43.1" tvg-name="El Chavo del 8 S1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/1200px-El_Chavo_Animado_logo.svg.png" group-title="INFANTIL", El Chavo del 8 S1
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="43.2" tvg-name="El Chavo del 8 S2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/1200px-El_Chavo_Animado_logo.svg.png" group-title="INFANTIL", El Chavo del 8 S2
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/58120
+
+#EXTINF:-1 tvg-chno="43.3" tvg-name="El Chavo del 8 S3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/1200px-El_Chavo_Animado_logo.svg.png" group-title="INFANTIL", El Chavo del 8 S3
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/58278
 
 #EXTINF:-1 tvg-chno="43.4" tvg-name="El Chavo del 8 S4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/1200px-El_Chavo_Animado_logo.svg.png" group-title="INFANTIL", El Chavo del 8 S4
 https://v3.playerlatino.live/stream/m3u8/400
@@ -120,7 +153,7 @@ https://v3.playerlatino.live/stream/m3u8/417
 ############################################################
 
 #EXTINF:-1 tvg-chno="50" tvg-id="AcademiaTV.ec" tvg-name="Academia TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://i.imgur.com/rRCw8Kq.png", Academia TV
-https://player-api.new.livestream.com/accounts/30417243/events/9529139/broadcasts/237015199.secure.m3u8?dw=14400&hdnea=st%3D1690406642~exp%3D1690408442~acl%3D%2Fi%2F30417243_9529139_lsi7fmu08uvojwi6byz_1%40446690%2F%2A~hmac%3D62faf9edce9c5ee1b37ba1c61533907cceca1005a5ff029cf76c0bca4aad386d&token=64c1901e_efd79097bb6a8a46caafbd68f96c90f6cb607eb6
+https://player-api.new.livestream.com/accounts/30417243/events/9529139/broadcasts/237087887.secure.m3u8?dw=14400&hdnea=st%3D1690988895~exp%3D1690990695~acl%3D%2Fi%2F30417243_9529139_lsiq9ln00wl6k2etx4l_1%40447440%2F%2A~hmac%3Df1917006af300d1c1eca1e96b1183e5d3154e6efe994e13b37360939bba33d5e&token=64ca728b_090a06e4ee5c260e1272aa1a3410c651b26878ca
 
 #EXTINF:-1 tvg-chno="51" tvg-id="RadioAmericaEstereo.ec" tvg-name="Radio America Estereo" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4WM9M67xkX.jpg", America Estereo | RA-UIO
 https://video2.makrodigital.com/americaestereoquito/americaestereoquito/chunks.m3u8
@@ -138,13 +171,16 @@ https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 http://160.20.165.245:8000/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-chno="56.1" tvg-id="EcuadorTV.ec" tvg-name="Ecuador TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png", Ecuador TV
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ECUADORTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DECUADORTV_stream_wj&_cdn_session=995837059&_cdn_timestamp=1690553438&_cdn_token=3bc03deaf8d1801ec33293fb2177ef157205e342
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304382
 
 #EXTINF:-1 tvg-chno="57" tvg-id="Ecuavisa.ec" tvg-name="Ecuavisa" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/553725322483335168/P8WbdzKV_400x400.jpeg", Ecuavisa
 https://youvideostreaming.club/hls/ecutv1.m3u8
 
-#EXTINF:-1 tvg-chno="57.1" tvg-id="Ecuavisa.ec" tvg-name="Ecuavisa.1" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://www.ecuavisa.com/news-portlet/getogimage/8e39cc7e-84b0-423b-85b9-5fb8f15b12fc.jpg", Ecuavisa.1
-https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8
+#EXTINF:-1 tvg-chno="57.1" tvg-id="Ecuavisa.ec" tvg-name="Ecuavisa Quito" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://www.ecuavisa.com/news-portlet/getogimage/8e39cc7e-84b0-423b-85b9-5fb8f15b12fc.jpg", Ecuavisa Quito
+http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/309
+
+#EXTINF:-1 tvg-chno="57.2" tvg-id="Ecuavisa.ec" tvg-name="Ecuavisa Guayaquil" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/72475322359315.5631191190494.jpg", Ecuavisa Guayaquil
+http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/321
 
 #EXTINF:-1 tvg-chno="58" tvg-id="EducaTV.ec" tvg-name="Educa TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://lh3.googleusercontent.com/-gwVSG0Gv_VY/XzxqczgyXhI/AAAAAAAA4pA/P26xKeDaPZcrzl5WvvYymInXCZJRU3L3wCK8BGAsYHg/s0/2020-08-18.png", Educa TV | EC
 https://cloud7.streamingcnt.net/cnt/educa/playlist.m3u8
@@ -166,6 +202,9 @@ http://160.20.165.246:8000/play/a00r/index.m3u8
 
 #EXTINF:-1 tvg-chno="64" tvg-id="HechosEC.ec" tvg-name="HECHOS" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/znddkhgxhbqp.jpg", Hechos
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/chunklist_w1839505953.m3u8
+
+#EXTINF:-1 tvg-chno="67" tvg-id="LoretoTV.ec" tvg-name="Loreto TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://seeklogo.com/images/M/marca-loreto-primera-version-logo-8AAD68C485-seeklogo.com.png", Loreto TV
+https://stmv1.voxplayer.com.br/vidieg12/vidieg12/chunklist_w267446111.m3u8
 
 #EXTINF:-1 tvg-chno="68" tvg-id="majestadtv.ec" tvg-name="Majestad TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/2433639/2433639-1570460635924-19694980d6844.jpg", Majestad TV
 https://go.majestadtv.ec/hls/0/stream.m3u8
@@ -191,8 +230,14 @@ https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/chunklist_w1163577427.m3u8
 #EXTINF:-1 tvg-chno="82" tvg-id="RTS.ec" tvg-name="RTS" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/150px-Rts_logo.png", RTS
 https://d1qovwsteln4u.cloudfront.net/hls/rts_480.m3u8
 
+#EXTINF:-1 tvg-chno="82.1" tvg-id="RTS.ec" tvg-name="RTS" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rts_hd_logo.png", RTS
+http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/302
+
 #EXTINF:-1 tvg-chno="83" tvg-id="RTU.ec" tvg-name="RTU" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_rtu.jpg", RTU
 https://video1.makrodigital.com/rtu/rtu/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="83.1" tvg-id="RTU.ec" tvg-name="RTU" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://canalrtu.tv/wp-content/uploads/2020/12/Canal-RTU-Ecuador-en-vivo-Online-2.png", RTU HD.
+http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/50395
 
 #EXTINF:-1 tvg-chno="84" tvg-id="SonOndaTV.ec" tvg-name="Sono Onda TV" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR" tvg-logo="https://i2.paste.pics/8cac932b5b12ee4c5ae8a6ff04da69bc.png", Sono Onda TV | RA-UIO
 https://live.obslivestream.com/sonoondatv/tracks-v1a1/mono.m3u8
@@ -203,11 +248,17 @@ https://oracle.streaminghd.cl/sonovision02/sonovision02/chunklist_w1640964185.m3
 #EXTINF:-1 tvg-chno="86" tvg-id="TC.ec" tvg-name="TC" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://radiolacalle.com/wp-content/uploads/2021/04/46bafe86abf8f4083d79882b3f6f6dc4.jpg", TC
 https://youvideostreaming.club/hls/ecutv3.m3u8
 
+#EXTINF:-1 tvg-chno="86.1" tvg-id="TCIT.ec" tvg-name="TC IT" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png", TC IT.
+http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/310
+
 #EXTINF:-1 tvg-chno="87" tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png", Teleamazonas
 https://youvideostreaming.club/hls/ecutv4.m3u8
 
-#EXTINF:-1 tvg-chno="87.1" tvg-id="TeleamazonasFHD.ec" tvg-name="Teleamazonas FHD" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://seeklogo.com/images/T/teleamazonas-antiguo-fondo-azul-logo-8E2D85CDDF-seeklogo.com.png", Teleamazonas FHD
-http://160.20.165.245:8000/play/a00p/index.m3u8
+#EXTINF:-1 tvg-chno="87.1" tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas Quito" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://seeklogo.com/images/T/teleamazonas-antiguo-fondo-azul-logo-8E2D85CDDF-seeklogo.com.png", Teleamazonas Quito
+http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/53511
+
+#EXTINF:-1 tvg-chno="87.2" tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas Guayaquil" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://seeklogo.com/images/T/teleamazonas-antiguo-fondo-blanco-logo-AB215334D8-seeklogo.com.png", Teleamazonas Guayaquil.
+http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/304
 
 #EXTINF:-1 tvg-chno="88" tvg-id="Telerama.ec" tvg-name="Telerama" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://static-media.streema.com/media/cache/27/af/27afea308274909fd22e99b78e6cc2df.jpg", Telerama
 https://envivo.telerama.ec/stream.m3u8
@@ -219,13 +270,13 @@ https://troncalive.site/hls/stream.m3u8
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 
 #EXTINF:-1 tvg-chno="92" tvg-name="TV Oro" group-title="ECUADOR" tvg-logo="https://static.wixstatic.com/media/f91854_950db88805b546a6b0135e079403c335~mv2.png/v1/fill/w_260,h_254,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%202023.png",  TV Oro											
-https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/Cq4FYycfj-F0_Fo-smhd21mwp4s5AMKQIv4bLgDamKOh1cB18OT66e-BAByIGJb8mKZ6IogaFcgL2TMdiX34y742DDyM1uo2XUStJqsTufdVCJXNHwY1LDCe70d0wcBsdJt3j8JIlanim6JW4omoFPJbDmfqOcmio4HeYkh9OZ4gqinLj2YCCvu0qSJQ9f4V915gpnEY_K4cOOBnJo2keIN_DI7w-f8m-l9XWXkViia0YC6Ymse_uXlNbdLkiyttX-DDLRkxE_mZXaXa3j304DWQowbkA6yQOaW7n7ucAWyLUSI47GdmnJzMHANaR-G1qkUt09R2O9t7qBhQFzQcWxJoazajpezLS6YoGHo4HLVaCFem_Vhh3-tie9alISOk3ZQnOs-yPgu6zVAaLnT0Wh03yIx8JCqaWALO96Uaa8t-YlffDRJbf9ZVRBQoe3LI0ytVs4Jz_dofkFbXOnnuzasK_9MZuDS5h0CSqx6bCIdjWCs_aNN0qDR2WNAydgOyd0lZ5-ReupsmiiOBYz_yL3DoiDEBQvx0hnbybMaZ-6YjuwTUgi7k7KUXKZz5x-uCa3Or06GecDxYQD06m_BYRMOJGpvCJldqD14Z6l_q4P9uzvKRxXc5JBo4zU6bdz5UvHJdRj7SZrwQ1zDh7nq1tKT5rviV6VT8KF2fISQTdpTnVtlPTvPaCAYHhinnxG79pd0j7tYOWyMLciX7pYMIRabTEPm69iOt_jRHjfXGdNdYqnu4mED1hHVB2NbZG8tduWKBkNqOnRHm9tXt8YFOY_AhD-5W5-6q9kmZ8abd3U4doms8518MUcbqG9rFlz9rBM3cqGZOipYErGOAJDVFIZJxm9Q6Nq1s3hZRVj-1k8Jd_xfR5fohWrkyVPN-HawsLmrKFCDrYC-5KsmFbaA35M4aDDvSjGBzK7TCwtm4VyABKgl1cy1lYXN0LTIwkAc.m3u8
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CrAFMuyLHtO9qmo0SLgNxLw7pYasrjm1Ph7VYtvkZTq7jjZDDEz4A84WqnWNwFrQlwhjz0Sw5wt6GUPW1FdjJwKsxHp4guamOV79SwaCm4dVlBitXY16cJYhSZQ3vOz7C6MFIKyTKBeMfSLzDA7gs0jCpbK_EbBEBHDNoQM5xtRX2G-12ZL0TAlN4LU66ekrtaBU9G7b8ngIqvdXcSsPCls1aL-znZOWqOirLZqln3Ruj4AEUOGxBvvkot0eNILYQtI5Y8uc0GS_oaFL7OiW4BDmjUo1xQ0UJpxjHdMYltQ2RUBs-D1uprExFWg0MBBz2DqsLkcf58_5PWQY6Qzb0ENeMNM_j7SdvPiFXFWiiVQdAKqY4u7-oWvrkoiTY6UDhiC9fOKmLzVzAzB79XcPLij0u85kq0PbeYPpoHTJzlZS75kPCufeQWOIlCU70VGv9TvlXux2RU8Mv2ktccP8-WK-ErEnrU8yF2qHutKRrHIqajTRadj2FZWbzVCIMKbNXAQjSRNGO3t4PwGCPwj-7CrPs4JDrq1EA4yidyx-VbfN0h92_nNW7UQ-7UEX6z5gNB0Z-C-E20Uq3ovdiein4SamC1E5sUqKbvRxUKK8TfKu49g1g6E1VRoQvN0GrubH_s0E9NGqMf2SxKSqqLEYVlZeH7Hy-bWNvpSbnQZxxIY1rPLLCOcP6_O2sxRNFEW-lATxzhu9uFbqfjCulXOrZhLdLIT-MgFjGAZfoo_aCS2AzxZGD4keFBhkt1_nnPdOlBHzR7wijYMt-z5R1CmgCXsUVA-BNW-IAq2kmtyFeygtW4wAw0eqPfUg70tKFKgjpIN8LnCSLsQnT8P-wQewHDEJqJB9xmLakKfNyAEoSMReWiUjMkbvsRFV3lBYE0jD57cIqRbnbk2-LND_6pa-r_LS8xoMLrtnYLQ_4GoqyrmhIAEqCXVzLWVhc3QtMTDNBQ.m3u8
 
 #EXTINF:-1 tvg-chno="93" tvg-id="TVC.ec" tvg-name="TVC" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://pbs.twimg.com/profile_images/1625521156521426950/Wy9hRShi_400x400.jpg", TVC
 https://d1qovwsteln4u.cloudfront.net/hls/tvc_480.m3u8
 
 #EXTINF:-1 tvg-chno="93.1" tvg-id="TVCFHD.ec" tvg-name="TVC FHD" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Tvc_2003.png", TVC FHD
-https://v3.playerlatino.live/stream/m3u8/885
+http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/84556
 
 #EXTINF:-1 tvg-chno="94" tvg-id="UCSG.ec" tvg-name="UCSG" tvg-country="EC" tvg-language="SPANISH" group-title="ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_UCSG.svg/2560px-Logo_UCSG.svg.png", UCSG
 https://5e2f36bc1c433.streamlock.net/lacato/lacato.stream/playlist.m3u8
@@ -293,22 +344,22 @@ http://190.60.39.198:8000/play/a0av/index.m3u8
 https://live1.presstv.ir/live/hispan.m3u8
 
 #EXTINF:-1 tvg-chno="117" tvg-id="CNN en Español" tvg-name="CNN en Español 🇺🇸" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" group-title="NOTICIAS", CNN en Español 🇺🇸
-http://181.189.243.254:8000/play/a0ps/index.m3u8
+http://45.5.119.202:54321/play/a02h/index.m3u8
 
 #EXTINF:-1 tvg-chno="117.1" tvg-id="CNNenEspanol.us" site_id="cnn_en_espanol" tvg-name="CNN en Español 🇺🇸" group-title="NOTICIAS" tvg-logo="https://i.imgur.com/s3VgvNM.png", CNN en Español 🇺🇸
 https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist_1024x576.m3u8
 
 #EXTINF:-1 tvg-chno="117.2" tvg-id="CNN Chile" tvg-name="CNN Chile 🇨🇱" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/150px-CNN_Chile_logo_2017.svg.png" group-title="NOTICIAS", CNN Chile 🇨🇱
-http://186.3.175.72:9095/play/a162/index.m3u8
+http://177.53.153.21:8001/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-chno="117.3" tvg-id="CNN Internacional 🇺🇸" tvg-name="CNN Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/162px-CNN_International_logo.svg.png" group-title="NOTICIAS", CNN Internacional 🇺🇸
-http://181.189.243.254:8000/play/a0o7/index.m3u8
+http://177.53.153.21:8001/play/a04v/index.m3u8
 
 #EXTINF:-1 tvg-chno="118" tvg-id="T13.cl" tvg-name="T13 🇨🇱" tvg-country="CL" tvg-language="SPANISH" group-title="NOTICIAS" tvg-logo="https://www-storage.13.cl/t13/_images/t13-push-notification-logo.jpg", T13 🇨🇱
 http://201.222.44.220:4227/play/a02l/index.m3u8
 
 #EXTINF:-1 tvg-chno="119" tvg-name="Latina HD 🇵🇪" group-title="NOTICIAS" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo-latina-despues.jpg", Latina HD 🇵🇪
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=995658971&_cdn_timestamp=1690548482&_cdn_token=1d9b0e9fd7dc7fc1a40bbd5c783ac730e23c8259
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=1025322395&_cdn_timestamp=1691414175&_cdn_token=5c5ec1bad9a3040ae75571da68052659834c29b8
 
 #EXTINF:-1 tvg-chno="120" tvg-name="Canal Caracol 🇨🇴" group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png", Canal Caracol 🇨🇴
 http://160.20.165.245:8000/play/a00x/index.m3u8
@@ -317,11 +368,11 @@ http://160.20.165.245:8000/play/a00x/index.m3u8
 ###################### ESTILOS DE VIDA #####################
 ############################################################
 
-#EXTINF:-1 tvg-chno="130" tvg-name="El Gourmet TV" group-title="ESTILOS DE VIDA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/ElGourmet2023.png", El Gourmet TV
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/GOURMET/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOURMET_stream_g4&_cdn_session=995815003&_cdn_timestamp=1690552865&_cdn_token=84040c404d8409b878b6eaebc86b0d79105255cb
+#EXTINF:-1 tvg-chno="130" tvg-name="El Gourmet TV" group-title="ESTILOS DE VIDA" tvg-logo="https://assets.website-files.com/640b40225e0d9452eb6904e2/640b40225e0d9490fc690995_elgourmet.png", El Gourmet TV
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302661
 
 #EXTINF:-1 tvg-chno="131" tvg-name="Food Network" group-title="ESTILOS DE VIDA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png", Food Network
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOODNETWORK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOODNETWORK_stream_l5&_cdn_session=995816859&_cdn_timestamp=1690552916&_cdn_token=2d7e128be96907ffa61893c483a05e4985de4306
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302644
 
 #EXTINF:-1 tvg-chno="132" tvg-name="Mundo & Sabor" group-title="ESTILOS DE VIDA" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MUNDO-Y-SABOR-FONDO-2-300x169.jpg", Mundo & Sabor
 https://marine2.miplay.cl/mundoysabor/playlist.m3u8
@@ -333,7 +384,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6095ad97351eb0000754c1
 https://marine2.miplay.cl/ontour/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="138" tvg-name="Sun Channel" group-title="ESTILOS DE VIDA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Channel_Logo_2022.webp/150px-Sun_Channel_Logo_2022.webp.png", Sun Channel
-http://181.189.243.254:8000/play/a0r9/index.m3u8
+http://177.53.153.21:8001/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-chno="141" tvg-id="4KTravel.ec" tvg-name="4K Travel" tvg-country="EC" tvg-language="SPANISH" group-title="ESTILOS DE VIDA" tvg-logo="https://i.ytimg.com/vi/9ioTA6cflCM/maxresdefault.jpg", 4K Travel
 https://4k-travel-vivalive.evrideo.tv/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/video_1080p_1000014572.m3u8
@@ -357,6 +408,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/pla
 #EXTINF:-1 tvg-chno="154" tvg-id="ENCUENTRO.ar" tvg-name="ENCUENTRO" tvg-country="AR" tvg-language="SPANISH" group-title="CULTURA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/2560px-Logo_del_canal_Encuentro.svg.png", ENCUENTRO | AR
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/chunklist_w1562995537.m3u8
 
+#EXTINF:-1 tvg-chno="155" tvg-id="medicostv.es" tvg-name="Medicos TV" tvg-logo="https://pbs.twimg.com/profile_images/879460223496462338/qiMA2_kt_400x400.jpg" group-title="CULTURA", Medicos Tv
+https://marine2.miplay.cl/tvsalud/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="156" tvg-id="TelevisionConciente.ec" tvg-name="Television Conciente" tvg-country="EC" tvg-language="SPANISH" group-title="CULTURA" tvg-logo="https://www.televisionconsciente.com/img/endirecto.png", Television Conciente
 https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8
 
@@ -369,8 +423,11 @@ https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-chno="159" tvg-id="WappTV.cl" tvg-name="Wapp TV" tvg-country="CL" tvg-language="SPANISH" group-title="CULTURA" tvg-logo="https://lh3.googleusercontent.com/-XPA8QBfVGSA/YLEWvahvgkI/AAAAAAABCjo/sVxl7r4_EQgdvmviKMozcvmxwajFgdLcgCJEEGAsYHg/s512/2021-05-28.jpg", Wapp TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/loVfrsEac/%2B0000/c.m3u8
 
+#EXTINF:-1 tvg-chno="159.1" tvg-id="WappTV-1.cl" tvg-name="Wapp TV.1" tvg-country="CL" tvg-language="SPANISH" group-title="CULTURA" tvg-logo="https://ott-assets.mdstrm.com/51tv/assets/images/logo-light-white.png", Wapp TV.1
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/317661
+
 #EXTINF:-1 tvg-chno="160" tvg-id="Trece.co" tvg-name="Trece Plus" tvg-country="CO" tvg-language="SPANISH" group-title="CULTURA" tvg-logo="https://i.imgur.com/jySvMsw.png", Trece +
-http://190.60.39.198:8000/play/a08v/index.m3u8
+https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-chno="161" tvg-name="Nature Time" group-title="CULTURA" tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png", Nature Time
 https://daiconnect.com/live/hls/tvup/tvfy-ntm/03276d1057013967cbf63d019a073d6c/.m3u8?ApPW=1366&ApPH=661&USrGDPRC=CPjLxiWPs7-lLBMB9CESDDCsAP_AAH_AAAiQJatd_H__bW9r-f5_aft0eY1P9_r77uQzDhfNk-4F3L_W_LwX52E7NF36tq4KmR4Eu3LBIUNlHNHUTVmwaokVryHsak2cpTNKJ6BEkHMZO2dYGF5umxtjeQKY5_p_d3fx2D-t_dv-39z3z81Xn3dZ_-_0-PCdU5_9Dfn9fRfb-9IL9_78v8v8_9_rk2_eX_3_79_77H9-f_9gloASYatxAF2ZY4M2gYRQIgRhWEhFAoAIKAYWiAgAcHBTsrAJ9YRIAUAoAjAiBDgCjIgEAAAkASEQASBFggAABEAgABAAgEQgAYGAQUAFgIBAACAaBiiFAAIEhAkRERCmBAVAkEBLZUIJQXSGmEAVZYAUAiNgoAEQSAisAAQFg4BgiQErFggSYg2iAAYAUAolQrUUnpoCFjMAAAAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=400b6fc6-1124-47b4-aad1-f27834325f43&DAdIDT=sessionid&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F114.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.25.4&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=400b6fc6-1124-47b4-aad1-f27834325f43&tvfy_env=desktop&requestuid=f5e13c87-d1c9-4c9c-b18d-94c5c8369113
@@ -400,7 +457,7 @@ https://v3.playerlatino.live/stream/m3u8/68
 https://v3.playerlatino.live/stream/m3u8/23
 
 #EXTINF:-1 tvg-chno="170" tvg-name="Discovery Theater HD" group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/320px-2015_Discovery_theater_HD_logo.svg.png", Discovery Theater HD
-http://181.189.243.254:8000/play/a0sr/index.m3u8
+http://177.53.153.21:8001/play/a02q/index.m3u8
 
 #EXTINF:-1 tvg-chno="171" tvg-name="Discovery Turbo HD" group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png", Discovery Turbo HD
 https://v3.playerlatino.live/stream/m3u8/28
@@ -435,16 +492,16 @@ https://rakuten-guardian-1-eu.rakuten.wurl.tv/3000.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
 #EXTINF:-1 tvg-chno="200" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/TNT_Film_HD_Logo.svg/1280px-TNT_Film_HD_Logo.svg.png" group-title="CINE Y SERIES", TNT HD
-http://181.189.243.254:8000/play/a0sq/index.m3u8
+http://177.53.153.21:8001/play/a02b/index.m3u8
 
 #EXTINF:-1 tvg-chno="201" tvg-name="TNT Series HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TNT_Serie_HD.svg/1200px-TNT_Serie_HD.svg.png" group-title="CINE Y SERIES", TNT Series HD
-http://181.189.243.254:8000/play/a0ta/index.m3u8
+http://177.53.153.21:8001/play/a02y/index.m3u8
 
 #EXTINF:-1 tvg-chno="202" tvg-name="Star Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/800px-Star_Channel_2020.svg.png" group-title="CINE Y SERIES", Star Channel HD
-http://190.60.39.198:8000/play/a035/index.m3u8
+http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/141420
 
 #EXTINF:-1 tvg-chno="203" tvg-name="Warner HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="CINE Y SERIES", Warner HD
-http://181.189.243.254:8000/play/a0tk/index.m3u8
+http://177.53.153.21:8001/play/a08l/index.m3u8
 
 #EXTINF:-1 tvg-chno="204" tvg-name="Space HD" tvg-logo="https://www.pngfind.com/pngs/m/577-5774924_space-tv-logo-png-transparent-png.png" group-title="CINE Y SERIES", Space HD
 https://v3.playerlatino.live/stream/m3u8/83
@@ -453,16 +510,16 @@ https://v3.playerlatino.live/stream/m3u8/83
 http://160.20.165.245:8000/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-chno="206" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="CINE Y SERIES", FX
-http://190.60.39.198:8000/play/a03m/index.m3u8
+http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/1275
 
 #EXTINF:-1 tvg-chno="207" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="CINE Y SERIES", AXN
 http://160.20.165.245:8000/play/a00n/index.m3u8
 
 #EXTINF:-1 tvg-chno="208" tvg-name="Paramount HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="CINE Y SERIES", Paramount HD
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PARAMOUNT/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPARAMOUNTCHANNEL_stream_5p&_cdn_session=995691795&_cdn_timestamp=1690549455&_cdn_token=7f53ef0d601c628e6a9dde11e00b12d7c9ca2ee5
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PARAMOUNT/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPARAMOUNTCHANNEL_stream_5p&_cdn_session=1025348571&_cdn_timestamp=1691414896&_cdn_token=abd3e231b7f75fb4dc523e219272461c239322cb
 
 #EXTINF:-1 tvg-chno="209" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="CINE Y SERIES", AMC
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AMC/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMC_stream_sj&_cdn_session=995689827&_cdn_timestamp=1690549374&_cdn_token=461ee042f7aaccfc828feb5f3d77625cfcfd5f5a
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AMC/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMC_stream_sj&_cdn_session=1025344859&_cdn_timestamp=1691414783&_cdn_token=3991bb6954f2aa8f83647160be0b40c9c8a44be8
 
 #EXTINF:-1 tvg-chno="210" tvg-name="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Aunde_hd.png" group-title="CINE Y SERIES", A&E HD
 http://160.20.165.245:8000/play/a00k/index.m3u8
@@ -474,52 +531,52 @@ http://160.20.165.245:8000/play/a01c/index.m3u8
 http://160.20.165.245:8000/play/a01d/index.m3u8
 
 #EXTINF:-1 tvg-chno="213" tvg-name="Universal Cinema HD" tvg-logo="https://www.directv.com.ec/content/dam/public-sites/channels/572.png" group-title="CINE Y SERIES", Universal Cinema HD
-http://181.189.243.254:8000/play/a0v2/index.m3u8
+http://177.53.153.21:8001/play/a0aw/index.m3u8
 
 #EXTINF:-1 tvg-chno="214" tvg-name="Universal Comedy HD" tvg-logo="https://www.directv.com.ec/content/dam/public-sites/channels/573.png" group-title="CINE Y SERIES", Universal Comedy HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140161
 
 #EXTINF:-1 tvg-chno="215" tvg-name="Universal Crime HD" tvg-logo="https://www.directv.com.ec/content/dam/public-sites/channels/574.png" group-title="CINE Y SERIES", Universal Crime HD
-http://181.189.243.254:8000/play/a0t0/index.m3u8
+http://177.53.153.21:8001/play/a09g/index.m3u8
 
 #EXTINF:-1 tvg-chno="216" tvg-name="Universal Premiere 1 HD" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/571.png" group-title="CINE Y SERIES", Universal Premiere 1 HD
-http://181.189.243.254:8000/play/a0ui/index.m3u8
+http://201.218.137.232:4123/play/a042/index.m3u8
 
 #EXTINF:-1 tvg-chno="217" tvg-name="Universal Reality HD" tvg-logo="https://www.directv.com.ec/content/dam/public-sites/channels/575.png" group-title="CINE Y SERIES", Universal Reality HD
-http://181.189.243.254:8000/play/a0sz/index.m3u8
+http://177.53.153.21:8001/play/a09f/index.m3u8
 
 #EXTINF:-1 tvg-chno="218" tvg-name="CINEMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="CINE Y SERIES", CINEMAX HD
 https://v3.playerlatino.live/stream/m3u8/20
 
 #EXTINF:-1 tvg-chno="219" tvg-name="CINECANAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="CINE Y SERIES", CINECANAL HD
-http://190.60.39.198:8000/play/a03q/index.m3u8
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/CINECANALHD/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCINECANALHD_stream_1m&_cdn_session=1025348387&_cdn_timestamp=1691414890&_cdn_token=5e3d5db5f5ddaab858fa0242ae102e97d670c8d0
 
 #EXTINF:-1 tvg-chno="220" tvg-name="Golden Premier HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="CINE Y SERIES", Golden Premier HD
-http://181.189.243.254:8000/play/a0oc/index.m3u8
+http://177.53.153.21:8001/play/a053/index.m3u8
 
 #EXTINF:-1 tvg-chno="221" tvg-name="Golden Premier 2 HD" tvg-logo="https://www.micineclub.com/img/goldenpremier2.png" group-title="CINE Y SERIES", Golden Premier 2 HD
-http://181.189.243.254:8000/play/a0od/index.m3u8
+http://177.53.153.21:8001/play/a054/index.m3u8
 
 #EXTINF:-1 tvg-chno="222" tvg-name="Golden Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/640px-Canal_Golden_logo.svg.png" group-title="CINE Y SERIES", Golden Plus HD
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="223" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/HBO_HD_logo.png/640px-HBO_HD_logo.png" group-title="CINE Y SERIES", HBO HD
-http://181.189.243.254:8000/play/a0or/index.m3u8
+http://177.53.153.21:8001/play/a03b/index.m3u8
 
 #EXTINF:-1 tvg-chno="224" tvg-name="HBO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="CINE Y SERIES", HBO 2 HD
-http://181.189.243.254:8000/play/a0os/index.m3u8
+http://177.53.153.21:8001/play/a03i/index.m3u8
 
 #EXTINF:-1 tvg-chno="225" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE Y SERIES", HBO Family HD
-http://181.189.243.254:8000/play/a0ou/index.m3u8
+http://177.53.153.21:8001/play/a04g/index.m3u8
 
 #EXTINF:-1 tvg-chno="226" tvg-name="HBO Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE Y SERIES", HBO Plus HD
-http://181.189.243.254:8000/play/a0ot/index.m3u8
+http://201.218.137.242:8000/play/a00a
 
 #EXTINF:-1 tvg-chno="227" tvg-name="HBO Pop HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="CINE Y SERIES", HBO Pop HD
 https://v3.playerlatino.live/stream/m3u8/977
 
 #EXTINF:-1 tvg-chno="228" tvg-name="HBO Xtreme HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="CINE Y SERIES", HBO Xtreme HD
-http://181.189.243.254:8000/play/a0ov/index.m3u8
+http://177.53.153.21:8001/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-chno="229" tvg-name="Sony HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CINE Y SERIES", Sony HD
 http://160.20.165.245:8000/play/a00o/index.m3u8
@@ -635,11 +692,14 @@ https://daiconnect.com/live/hls/tvup/tvfy-rtcrim/29be370b4eccaf7a1ad9d2a02b87148
 #EXTINF:-1 tvg-chno="284" tvg-id="Runtimeromance.es" tvg-name="Run Time Romance" tvg-country="ES" tvg-language="SPANISH" group-title="CINE" tvg-logo="https://latinartv.com/sites/default/files/logos/runtime_romance.jpg", Run Time Romance
 https://daiconnect.com/live/hls/tvup/tvfy-rtromc/b939fcae84b0fe5717c168deb77dcc4a/.m3u8?ApPW=1920&ApPH=1080&USrGDPRC=CPjLxiWPnYRWHBMB9CESC3CsAP_AAH_AAAiQJQtd_H__bW9r-f5_aft0eY1P9_r77uQzDhfNk-4F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHNHUDVmwaokVryHsak2cpTNKJ7BEknMZO2dYGF5vmxtj-QKY5v5_d3bx2D-t_9v-39z3z81Xn3d5_-_02PCdU5_9Dfn9fR_b89KP9_78v4v8_9_rs3_e__3_79_7_H8-CTYBJhq3EAXZljgzaBhFAiBGFYSEUCgAgoBhaICABwcFOysAn1hEgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACARCABgYBBYAWBgEAAIBoGKIUAAgSAGRARFKYEBUCQQEtlQglBdIaYQBVlgBQCI2CgARBICKwABAWDgGCJASsWCBJiDaIARgBQCiVCtRSemgAAAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=400b6fc6-1124-47b4-aad1-f27834325f43&DAdIDT=sessionid&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F110.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.21.0&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=400b6fc6-1124-47b4-aad1-f27834325f43&requestuid=d6cee5e2-af23-11ed-b761-6ab14ed3c0ca
 
+#EXTINF:-1 tvg-chno="286" tvg-name="Atres Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="CINE Y SERIES", Atres Series
+http://177.53.153.21:8001/play/a04t/index.m3u8
+
 #EXTINF:-1 tvg-chno="287" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/1200px-TCM_logo.svg.png" group-title="CINE Y SERIES", TCM
-http://181.189.243.254:8000/play/a0ri/index.m3u8
+http://177.53.153.21:8001/play/a07n/index.m3u8
 
 #EXTINF:-1 tvg-chno="288" tvg-name="Az Cinema" group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/800px-TV_Azteca_Cinema_logo.svg.png", Az Cinema
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AZCINEMA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCINEMA_stream_eg&_cdn_session=995690883&_cdn_timestamp=1690549411&_cdn_token=f9c16becb70c186cbf819c3450b0c0fa91601ade
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AZCINEMA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCINEMA_stream_eg&_cdn_session=1025347715&_cdn_timestamp=1691414874&_cdn_token=8dbdba237b190148bd192f2aa482c8ae403b49c7
 
 #EXTINF:-1 tvg-chno="289" tvg-name="Retro Plus TV" tvg-logo="https://image.roku.com/developer_channels/prod/407b41e3649e464cd4a478c2858e6e2e1b3b85536634ab2188f23eb5402fe438.png" group-title="CINE Y SERIES", Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
@@ -658,19 +718,25 @@ https://daiconnect.com/live/hls/tvup/tvfy-rtclsc/0970efd6bbf19c6efe1d09808e0104b
 https://v3.playerlatino.live/stream/m3u8/892
 
 #EXTINF:-1 tvg-chno="300.1" tvg-name="EL CANAL DEL FÚTBOL" group-title="DEPORTE" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png", EL CANAL DEL FÚTBOL
-https://v3.playerlatino.live/stream/m3u8/892
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/304386
 
 #EXTINF:-1 tvg-chno="301" tvg-name="GOL TV 🇺🇸" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/640px-GOLTV.png", GOL TV 🇺🇸
 http://190.83.60.34:1414/play/a04f
+
+#EXTINF:-1 tvg-chno="302" tvg-name="GOL TV EC SD" group-title="DEPORTE" tvg-logo="https://ipuntotv.com/IMAGES/Goltv-ecuador.png", GOL TV EC SD
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/304390
 
 #EXTINF:-1 tvg-chno="302.1" tvg-name="GOL TV EC FHD" group-title="DEPORTE" tvg-logo="https://cdn.mitvstatic.com/channels/b39ba6be-fb3e-4ce7-a302-d9eb6461bf9e_m.jpg", GOL TV EC FHD
 https://v3.playerlatino.live/stream/m3u8/514
 
 #EXTINF:-1 tvg-chno="303" tvg-name="D SPORT 🇦🇷" group-title="DEPORTE" tvg-logo="https://i.imgur.com/TG1HRPi.png", D SPORT 🇦🇷
-https://v3.playerlatino.live/stream/m3u8/259
+http://51.222.110.182:8000/play/a00g
 
 #EXTINF:-1 tvg-chno="303.1" tvg-name="D SPORT 🇦🇷" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/1200px-DirecTV_Sports_Latin_America_%282018%29.png", D SPORT 🇦🇷
 https://v3.playerlatino.live/stream/m3u8/974
+
+#EXTINF:-1 tvg-chno="303.2" tvg-name="D SPORT 🇪🇨" group-title="DEPORTE" tvg-logo="https://i.ibb.co/gZNVks2/dtvec.png", D SPORT 🇪🇨
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/318007
 
 #EXTINF:-1 tvg-chno="304" tvg-name="D SPORT 2 🇦🇷" group-title="DEPORTE" tvg-logo="https://www.directv.com.ec/content/dam/public-sites/channels/612.png", D SPORT 2 🇦🇷
 https://v3.playerlatino.live/stream/m3u8/667
@@ -681,8 +747,11 @@ https://v3.playerlatino.live/stream/m3u8/975
 #EXTINF:-1 tvg-chno="305" tvg-name="D SPORT 🇦🇷 +" group-title="DEPORTE" tvg-logo="https://www.directv.com.ec/content/dam/public-sites/channels/613.png", D SPORT 🇦🇷 +
 https://v3.playerlatino.live/stream/m3u8/975
 
-#EXTINF:-1 tvg-chno="305.1" tvg-name="D SPORT 🇦🇷 + HD" group-title="DEPORTE" tvg-logo="https://i.ibb.co/gZNVks2/dtvec.png", D SPORT 🇦🇷 + HD
+#EXTINF:-1 tvg-chno="305.1" tvg-name="D SPORT 🇦🇷 + HD" group-title="DEPORTE" tvg-logo="https://www.directv.com.ec/content/dam/public-sites/channels/613.png", D SPORT 🇦🇷 + HD
 https://v3.playerlatino.live/stream/m3u8/935
+
+#EXTINF:-1 tvg-chno="306" tvg-name="D Sport Fight" group-title="DEPORTE"  tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/620.png", D Sport Fight
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/318013
 
 #EXTINF:-1 tvg-chno="307" tvg-name="FOX SPORTS PREMIUM 🇲🇽" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Fox_Sports_Premium_Argentina_2019.png", FOX SPORTS PREMIUM 🇲🇽
 https://v3.playerlatino.live/stream/m3u8/192
@@ -700,7 +769,7 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140325
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60988
 
 #EXTINF:-1 tvg-chno="312" tvg-name="FOX SPORTS 2 🇦🇷" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/800px-2015_Fox_sports_logo.svg.png", FOX SPORTS 2 🇦🇷
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=995817547&_cdn_timestamp=1690552935&_cdn_token=d6092ed3cf49eb9a39feea3bbd90d5b64e6edab9
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=1025364347&_cdn_timestamp=1691415295&_cdn_token=8e85551974a60af6f9b780f80b25ea03f924c5f6
 
 #EXTINF:-1 tvg-chno="312.1" tvg-name="FOX SPORTS 2 🇦🇷" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/800px-2015_Fox_sports_logo.svg.png", FOX SPORTS 2 🇦🇷
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140323
@@ -718,7 +787,7 @@ http://170.254.234.244:8000/play/a01e/index.m3u8
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140317
 
 #EXTINF:-1 tvg-chno="316" tvg-name="ESPN 🇦🇷" group-title="DEPORTE" tvg-logo="https://i.imgur.com/Qltczdi.jpg", ESPN 🇦🇷
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=995818251&_cdn_timestamp=1690552953&_cdn_token=d42b17aa9e99b8ca9fca5d1aeac94426ebb58563
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=1025365931&_cdn_timestamp=1691415329&_cdn_token=ffc2245854a6ab85b610f57d810071c9f088ebca
 
 #EXTINF:-1 tvg-chno="317" tvg-name="ESPN DEPORTES 🇺🇸" group-title="DEPORTE" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png", ESPN DEPORTES 🇺🇸
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/74909
@@ -727,10 +796,10 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/74909
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63967
 
 #EXTINF:-1 tvg-chno="319" tvg-name="ESPN 2 🇦🇷" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2 🇦🇷
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=995818819&_cdn_timestamp=1690552965&_cdn_token=e80f263da7f8118df046ceb6fe7e1fa55ef68796
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=1025366187&_cdn_timestamp=1691415336&_cdn_token=30a24cc2b429a10feee0fa81293f8da57d6a29af
 
 #EXTINF:-1 tvg-chno="319.1" tvg-name="ESPN 2 HD 🇦🇷 *" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2 HD 🇦🇷 *	
-http://190.60.39.198:8000/play/a03e/index.m3u8
+http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/228113
 
 #EXTINF:-1 tvg-chno="320" tvg-name="ESPN 3 🇦🇷" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3 🇦🇷
 http://191.102.90.97:8000/play/a079/index.m3u8
@@ -742,10 +811,10 @@ http://181.78.4.186:8000/play/a0hn/index.m3u8
 http://181.78.4.186:8000/play/a0fu/index.m3u8
 
 #EXTINF:-1 tvg-chno="321.1" tvg-name="ESPN 4 HD 🇦🇷" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png", ESPN 4 HD 🇦🇷
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=995819947&_cdn_timestamp=1690552993&_cdn_token=aa39e105617d5b01510030b0e749934a48dd52f8
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=1025367523&_cdn_timestamp=1691415368&_cdn_token=ca8663ffb7380b6108f53cdb358a0d2a22772097
 
 #EXTINF:-1 tvg-chno="322" tvg-name="ESPN EXTRA HD 🇦🇷" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png", ESPN EXTRA HD 🇦🇷
-http://190.60.39.198:8000/play/a03r/index.m3u8
+http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/228203
 
 #EXTINF:-1 tvg-chno="327" tvg-name="ESPN HD 🇲🇽" group-title="DEPORTE" tvg-logo="https://espnpressroom.com/mexico/files/2009/11/ESPN_Mexico_BW_Neg.jpg", ESPN HD 🇲🇽
 https://v3.playerlatino.live/stream/m3u8/530
@@ -766,16 +835,16 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140202
 http://190.83.60.34:1414/play/a04m
 
 #EXTINF:-1 tvg-chno="337" tvg-name="Win Sports 🇨🇴" group-title="DEPORTE"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png", Win Sports 🇨🇴
-http://190.60.39.198:8000/play/a033/index.m3u8
+http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/69294
 
 #EXTINF:-1 tvg-chno="337.1" tvg-name="Win Sports+ 🇨🇴 HD" group-title="DEPORTE"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png", Win Sports+ 🇨🇴 HD
 http://190.27.253.211:8000/play/a07g/index.m3u8
 
 #EXTINF:-1 tvg-chno="338" tvg-name="Claro Sports 🇲🇽" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/4221px-Claro_Sports_logo.svg.png", Claro Sports 🇲🇽
-http://45.228.234.162:24000/play/a08l/index.m3u8
+http://201.218.137.232:4123/play/a00t/index.m3u8
 
 #EXTINF:-1 tvg-chno="338.1" tvg-name="Claro Sports 2🇲🇽" group-title="DEPORTE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png", Claro Sports 2🇲🇽
-http://181.189.243.254:8000/play/a0on/index.m3u8
+http://201.218.137.232:4123/play/a00u/index.m3u8
 
 #EXTINF:-1 tvg-chno="339" tvg-name="Afizzionados 🇲🇽" group-title="DEPORTE"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/2560px-Afizzionados_Logo.svg.png", Afizzionados 🇲🇽
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140312
@@ -784,9 +853,15 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140312
 http://190.83.60.34:1414/play/a01h
 
 #EXTINF:-1 tvg-chno="341" tvg-name="Golf Channel 🇺🇸" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/200px-Golf_Channel_Logo_2018.png", Golf Channel 🇺🇸
-http://181.189.243.254:8000/play/a0qg/index.m3u8
+http://201.218.137.232:4123/play/a00r/index.m3u8
+
+#EXTINF:-1 tvg-chno="342" tvg-name="Eurosport 1 🇪🇸" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/230px-Eurosport_1_Logo_2015.svg.png", Eurosport 1 🇪🇸
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/327667
 
 #EXTINF:-1 tvg-chno="343" tvg-name="Eurosport 2 🇪🇸" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/250px-Eurosport_2_Logo_2015.svg.png", Eurosport 2 🇪🇸
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/327668
+
+#EXTINF:-1 tvg-chno="343.1" tvg-name="Eurosport 2 🇪🇸" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/250px-Eurosport_2_Logo_2015.svg.png", Eurosport 2 🇪🇸
 https://sc.id-tv.kz/Eurosport_2HD_34_35.m3u8
 
 #EXTINF:-1 tvg-chno="345" tvg-name="M LALIGA 🇪🇸" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png", M LALIGA 🇪🇸
@@ -798,23 +873,35 @@ https://v3.playerlatino.live/stream/m3u8/890
 #EXTINF:-1 tvg-chno="350" tvg-name="DAZN F1 ATN 6" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/2560px-DAZN_F1_logo.svg.png", DAZN F1 ATN 6
 http://inliveserver.com:1935/14510/14510/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="350.1" tvg-name="DAZN F1" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/2560px-DAZN_F1_logo.svg.png", DAZN F1
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/327645
+
+#EXTINF:-1 tvg-chno="351" tvg-name="Canal F1" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logo_F1_Latinoamerica.svg/1200px-Logo_F1_Latinoamerica.svg.png", Canal F1
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34701
+
+#EXTINF:-1 tvg-chno="353" tvg-name="SKY SPORT F1🇮🇹" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png", SKY SPORT F1🇮🇹
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/34733
+
 #EXTINF:-1 tvg-chno="354" tvg-name="SKY SPORT 🇲🇽" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png", SKY SPORT 🇲🇽
 http://31.42.185.216:8000/robertomartinez/MRCUsKskoh/140952
 
 #EXTINF:-1 tvg-chno="355" tvg-name="SKY SPORT 🇲🇽" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png", SKY SPORT 🇲🇽
-https://v3.playerlatino.live/stream/m3u8/900
+http://tv.proyectox.vip:43201/elwepaman/CphvdYcr8A/153586
 
 #EXTINF:-1 tvg-chno="357" tvg-name="TIGO SPORTS 🇨🇷" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1200px-Tigo_Sports_logo.svg.png", TIGO SPORTS 🇨🇷
-http://181.189.243.254:8000/play/a0sn/index.m3u8
+http://201.218.137.232:4123/play/a00s/index.m3u8
 
-#EXTINF:-1 tvg-chno="358" tvg-name="TIGO SPORTS 🇦🇷" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1200px-Tigo_Sports_logo.svg.png", TIGO SPORTS 🇦🇷
+#EXTINF:-1 tvg-chno="358" tvg-name="TIGO SPORTS 🇬🇹" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1200px-Tigo_Sports_logo.svg.png", TIGO SPORTS 🇬🇹
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="361" tvg-name="TUDN 🇲🇽" group-title="DEPORTE" tvg-logo="https://i.imgur.com/EfHstB2.png", TUDN 🇲🇽
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/73630
 
 #EXTINF:-1 tvg-chno="362" tvg-name="TUDN HD USA🇺🇸" group-title="DEPORTE" tvg-logo="https://i.imgur.com/EfHstB2.png", TUDN HD 🇺🇸
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140281
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/319573
+
+#EXTINF:-1 tvg-chno="363" tvg-name="ZONA TUDN 🇺🇸" group-title="DEPORTE" tvg-logo="https://pbs.twimg.com/profile_images/1508560633972801554/dTAniau3_400x400.jpg", ZONA TUDN 🇺🇸
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/319584
 
 #EXTINF:-1 tvg-chno="364" tvg-name="PRENDETV LIGA 🇲🇽" group-title="DEPORTE" tvg-logo="https://almomento.mx/wp-content/uploads/2022/02/ViX-plataforma-de-streaming-Televisa-Univision.jpg", PRENDETV LIGA 🇲🇽
 https://dip0m6wuccbi7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2d8j5h422463p-prod/dist/samsungtv/193/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
@@ -833,6 +920,9 @@ https://marine2.miplay.cl/sportext/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="376" tvg-name="EX TV 🇵🇪" group-title="DEPORTE"  tvg-logo="https://pbs.twimg.com/media/FVztCFoWQAIlskp?format=png", EX TV 🇵🇪
 https://stream.plixitv.live/edx/edx/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="377" tvg-name="Adrenalina Sport Network HD 🇲🇽" group-title="DEPORTE" tvg-logo="https://pbs.twimg.com/media/FVztCFoWQAIlskp?format=png", Adrenalina Sport Network HD 🇲🇽
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302603
 
 #EXTINF:-1 tvg-chno="380" tvg-id="DeporTV.ar" tvg-name="Depor TV 🇦🇷" tvg-country="AR" tvg-language="SPANISH" group-title="DEPORTE" tvg-logo="https://i.imgur.com/iyYLNRt.png", Depor TV 🇦🇷
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
@@ -860,7 +950,10 @@ https://jukin-peopleareawesome-1-us.samsung.wurl.tv/3000.m3u8
 ############################################################
 
 #EXTINF:-1 tvg-chno="400" tvg-id="tvpublica.ar" tvg-name="TV Publica 🇦🇷" tvg-country="AR" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://e7.pngegg.com/pngimages/29/608/png-clipart-television-publica-argentina-television-public-broadcasting-partidos-television-text.png", TV Publica 🇦🇷
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
+http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/81265
+
+#EXTINF:-1 tvg-chno="401" tvg-id="TelefeInternacional.ar" tvg-name="Telefe Internacional" tvg-country="AR" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://i.imgur.com/WAZn1np.png", Telefe Int | AR
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302726
 
 #EXTINF:-1 tvg-chno="402" tvg-id="Canal26.ar" tvg-name="Canal 26 🇦🇷" tvg-country="AR" tvg-language="SPANISH" group-title="PAISES" tvg-logo="https://i.imgur.com/xDjOUuz.png", Canal 26 🇦🇷
 http://200.115.193.177/live/26hd-720/playlist.m3u8
@@ -932,13 +1025,13 @@ https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w1963013639.m3u8
 https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/chunklist_w1898957158.m3u8
 
 #EXTINF:-1 tvg-chno="432" tvg-name="TV MAX 🇵🇦" group-title="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png", TV MAX 🇵🇦
-https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8?
+http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/135618
 
 #EXTINF:-1 tvg-chno="434" tvg-id="Telemundo.cr" tvg-name="Telemundo 🇵🇷" tvg-country="CR" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://i.imgur.com/Ys31Rhw.png", Telemundo 🇵🇷
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 
 #EXTINF:-1 tvg-chno="436" tvg-id="ATV.pe" tvg-name="ATV 🇵🇪" tvg-country="PE" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png", ATV 🇵🇪
-https://d22ast2s6i1kcc.cloudfront.net/hls/atv_720.m3u8
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV1/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="437" tvg-id="ATV+.pe" tvg-name="ATV + 🇵🇪" tvg-country="PE" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png", ATV + 🇵🇪
 https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
@@ -947,10 +1040,10 @@ https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
 https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur3/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="439" tvg-id="PanamericanaTV.pe" tvg-name="Panamericana 🇵🇪" tvg-country="PE" tvg-language="SPANISH" group-title="PAISES" tvg-logo="https://i2.paste.pics/967fc9c451334a960cb23ee0482c77bc.png", Panamericana 🇵🇪
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=1004562811&_cdn_timestamp=1690810517&_cdn_token=81868c187f2d086927c769fbcb6a1976cd2f30ad
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=1025323363&_cdn_timestamp=1691414202&_cdn_token=f50575a2b31626f03ecee06882f9ca86fa9a34c3
 
 #EXTINF:-1 tvg-chno="440" tvg-name="WILLAX 🇵🇪" group-title="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Willax_Televisi%C3%B3n_2020.png", WILLAX 🇵🇪
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/WILLAX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=995658683&_cdn_timestamp=1690548468&_cdn_token=b3fae635c41be89fde7fa34bfc04973b5392dc44
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/WILLAX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=1025320803&_cdn_timestamp=1691414133&_cdn_token=58f9359c0b3f3d892988dbc3f0830c2ef48ba611
 
 #EXTINF:-1 tvg-chno="443" tvg-id="MegaTV.us" tvg-name="Mega TV 🇺🇸" tvg-country="US" tvg-language="SPANISH" group-title="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mega_TV_logo_2016.svg/2560px-Mega_TV_logo_2016.svg.png", Mega TV 🇺🇸
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/chunklist_w986015691_b1428000.m3u8
@@ -1093,28 +1186,45 @@ https://rctvhd.net:8081/elsol105fm/index.m3u8
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="611" tvg-name="MTV HD" group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/1200px-MTV-2021.svg.png", MTV HD
-http://181.189.243.254:8000/play/a0pn/index.m3u8
+http://177.53.153.21:8001/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-chno="611.1" tvg-name="MTV Live HD" group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1200px-MTV_Live_2021_logo.svg.png", MTV Live HD
 https://v3.playerlatino.live/stream/m3u8/803
 
 #EXTINF:-1 tvg-chno="611.2" tvg-name="MTV 00s" group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png", MTV 00s
-http://181.189.243.254:8000/play/a0sw/index.m3u8
+http://177.53.153.21:8001/play/a09c/index.m3u8
 
 #EXTINF:-1 tvg-chno="611.3" tvg-name="MTV 80s" group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png", MTV 80s
-http://181.189.243.254:8000/play/a0po/index.m3u8
+http://177.53.153.21:8001/play/a05v/index.m3u8
 
 
 ############################################################
 ########################### 24/7 ###########################
 ############################################################
 
+#EXTINF:-1 tvg-chno="656" tvg-name="CANTINFLAS" group-title="24/7" tvg-logo="https://pbs.twimg.com/profile_images/1322619958/cantinflas_001Logo_400x400.jpg", CANTINFLAS
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58264
 
 #EXTINF:-1 tvg-chno="665" channel-id="pluto-5e8397936791b30007ebb5a7" tvg-id="5e8397936791b30007ebb5a7" tvg-logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png" group-title="24/7", Pl TV Humor
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-chno="666" tvg-name="Doctor Who" group-title="24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Doctor-who-logo-removebg.png", Doctor Who
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-chno="667" tvg-name="Familia P.Luche" group-title="24/7"  tvg-logo="https://lawebdepanama.com/kickball/assets/pluche.png", Familia P.Luche
+http://tv.proyectox.vip:43201/elwepaman/CphvdYcr8A/37757
+
+#EXTINF:-1 tvg-chno="668" tvg-name="Vecinos" group-title="24/7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/Webpage_imagendeltitulo_750x300_vecinos_espanol.png", Vecinos
+http://tv.proyectox.vip:43201/elwepaman/CphvdYcr8A/37785
+
+#EXTINF:-1 tvg-chno="668" tvg-name="Vecinos S2" group-title="24/7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/Webpage_imagendeltitulo_750x300_vecinos_espanol.png", Vecinos S2
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49208
+
+#EXTINF:-1 tvg-chno="668" tvg-name="Vecinos S3" group-title="24/7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/Webpage_imagendeltitulo_750x300_vecinos_espanol.png", Vecinos S3
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49209
+
+#EXTINF:-1 tvg-chno="668" tvg-name="Vecinos S4" group-title="24/7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/Webpage_imagendeltitulo_750x300_vecinos_espanol.png", Vecinos S3
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49210
 
 #EXTINF:-1 tvg-chno="669" tvg-id="PadredeFamilia.us" tvg-name="Padre de familia" tvg-country="US" tvg-language="SPANISH" group-title="24/7"  tvg-logo="https://elplanetaconectado.files.wordpress.com/2020/02/familyguy.png", Padre de familia
 https://v3.playerlatino.live/stream/m3u8/416
@@ -1123,21 +1233,31 @@ https://v3.playerlatino.live/stream/m3u8/416
 https://v3.playerlatino.live/stream/m3u8/357
 
 #EXTINF:-1 tvg-chno="670.1" tvg-id="LosSimpson.us" tvg-name="Los Simpson" tvg-country="US" tvg-language="SPANISH" group-title="24/7"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png", Los Simpson S1
-https://v3.playerlatino.live/stream/m3u8/894
+http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/212269
 
 #EXTINF:-1 tvg-chno="670.2" tvg-id="LosSimpson.us" tvg-name="Los Simpson" tvg-country="US" tvg-language="SPANISH" group-title="24/7"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png", Los Simpson S2
-https://v3.playerlatino.live/stream/m3u8/895
+http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/212273
 
 #EXTINF:-1 tvg-chno="670.3" tvg-id="LosSimpson.us" tvg-name="Los Simpson" tvg-country="US" tvg-language="SPANISH" group-title="24/7"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png", Los Simpson S3
-https://v3.playerlatino.live/stream/m3u8/896
+http://daleplay.club:8080/AlexRivera/tNcNm6avPBLQ/212277
 
 #EXTINF:-1 tvg-chno="670.4" tvg-id="LosSimpson.us" tvg-name="Los Simpson" tvg-country="US" tvg-language="SPANISH" group-title="24/7"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png", Los Simpson S4
-https://v3.playerlatino.live/stream/m3u8/897
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/58071
 
 #EXTINF:-1 tvg-chno="670.5" tvg-id="LosSimpson.us" tvg-name="Los Simpson" tvg-country="US" tvg-language="SPANISH" group-title="24/7"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png", Los Simpson S5
-https://v3.playerlatino.live/stream/m3u8/899
+http://dnsplay.xyz:80/jqrrcnjz/21fs5J9hLs/58314
 
+#EXTINF:-1 tvg-chno="670.6" tvg-id="LosSimpson.us" tvg-name="Los Simpsons HD" tvg-country="US" tvg-language="SPANISH" group-title="24/7"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png", Los Simpsons HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58314
 
+#EXTINF:-1 tvg-chno="670.7" tvg-id="LosSimpson.us" tvg-name="VIP Los Simpsons FHD" tvg-country="US" tvg-language="SPANISH" group-title="24/7"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png", VIP Los Simpsons FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50616
+
+#EXTINF:-1 tvg-chno="670.8" tvg-id="LosSimpson.us" tvg-name="VIP Los Simpsons Horror HD" tvg-country="US" tvg-language="SPANISH" group-title="24/7"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png", VIP Los Simpsons Horror HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50617
+
+#EXTINF:-1 tvg-chno="670.9" tvg-id="LosSimpson.us" tvg-name="VIP Los Simpsons Retro SD" tvg-country="US" tvg-language="SPANISH" group-title="24/7"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png", VIP Los Simpsons Retro SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50618
 
 
 
