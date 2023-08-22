@@ -1002,110 +1002,110 @@ https://daiconnect.com/live/hls/tvup/tivify-ita-avanzado/3994d030860ea2583b3c423
 ############################################################
 
 #EXTINF:-1 tvg-chno="525" tvg-name="TechScience 365" group-title="TECNOLOGIA" tvg-logo="https://images.squarespace-cdn.com/content/v1/54486405e4b0426d647a1d02/1588948002485-18PGFATSHJWXBLN3HFYA/science-logo-black+copy.png", TechScience 365
-https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
+https://stmv1.cnarlatam.ar/techscience365/techscience365/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="526" tvg-name="La Fábrica TV" group-title="TECNOLOGIA" tvg-logo="https://i.ytimg.com/vi/W-mP9QJ0H6I/hqdefault.jpg", La Fábrica TV
-https://mejorestrucos.com:5443/LiveApp/streams/854077030689510682594068.m3u8
+https://mejorestrucos.com:5743/LiveApp/streams/854077030689510682594068.m3u8
 
 #EXTINF:-1 tvg-chno="527" tvg-id="HiperconectadosTelevisión.cl" tvg-name="Hiperconectados Televisión" tvg-country="CL" tvg-language="SPANISH" group-title="TECNOLOGIA" tvg-logo="https://image.roku.com/developer_channels/prod/2ee8ed69266a33986437dd4fea6fc49cd2ebf61ac54c1a230ee6ce65eacba267.png", Hiperconectados TV | CL
-https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
+https://mediacpstreamchile.com:1586/hiperconectados/hiperconectados/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="528" tvg-id="PlatziTV.co" tvg-name="Platzi TV" tvg-country="CO" tvg-language="SPANISH" group-title="TECNOLOGIA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Platzi.jpg", Platzi TV
-https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+https://mdstrm.com/live-stream-playlist/584629a63ae8df27c082901f78b.m3u8
 
 #EXTINF:-1 tvg-chno="529" tvg-id="TecTV.ar" tvg-name="Tec TV" tvg-country="AR" tvg-language="SPANISH" group-title="TECNOLOGIA" tvg-logo="https://i.imgur.com/EGCq1wc.png", Tec TV | AR
-https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+https://tv.initium.net.cl:3939/live/tectvmainlive.m3u8
 
 ############################################################
 ########################## AGRO TV #########################
 ############################################################
 
 #EXTINF:-1 tvg-chno="550" tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="AGRO", Agrotendencia TV
-https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+https://5fc584f3f19c47p9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="551" tvg-id="Telecafe.co" tvg-logo="https://i.imgur.com/GN4JWDJ.png" group-title="AGRO", Telecafé 🇨🇴(Manizales | Caldas)
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://liveingesta118.cdnmedia.tv/telecafelive/smil:dvrlive.smil/playlist.m3u8
+https://liveingesta118.cdnmedia.com/telecafelive/smil:dvrlive.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="552" tvg-id="CampoAbiertoTV.cl" group-title="AGRO" tvg-logo="https://i2.paste.pics/44c5f4becc68ee877580eed639645110.png", Campo Abierto TV 🇨🇱
-https://v1.tustreaming.cl:19360/campoabierto/campoabierto.m3u8
+https://v1.tustreaming.cl:19850/campoabierto/campoabierto.m3u8
 
 #EXTINF:-1 tvg-chno="553" tvg-id="AgroTv.pe" tvg-name="Agro TV 🇵🇪" tvg-country="PE" tvg-language="SPANISH" group-title="AGRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Agro_TV_logo.svg/1024px-Agro_TV_logo.svg.png", Agro TV 🇵🇪
-https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+https://ed21ov.live.opencaster.com/popAtGzcAnwziC/index.m3u8
 
 #EXTINF:-1 tvg-chno="554" tvg-name="El SelloTV Madariaga 🇦🇷" group-title="AGRO" tvg-logo="https://elsellotv.com.ar/wp-content/uploads/2023/02/Logo500.png", El SelloTV🇦🇷Madariaga 
-https://5f700d5b2c46f.streamlock.net/elsellotv/elsellotv/playlist.m3u8
+https://5f700d5b2c46f.streamlock.net/hts/elsellotv/elsellotv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="555" tvg-name="TV Agro 🇨🇴" group-title="AGRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/245px-TV_Agro_logo.svg.png", TV Agro 🇨🇴
-http://190.217.20.100:10800/play/a09k/index.m3u8
+http://190.217.20.100:10800/play/hts/a09k/index.m3u8
 
 #EXTINF:-1 tvg-chno="556" tvg-name="RURAL TV 🇵🇾" group-title="AGRO" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png", RURAL TV 🇵🇾
-https://cda2.alsolnet.com/elrural/live/playlist.m3u8
+https://cda2.alsolnet.com/elrural/hts/live/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="557" tvg-name="CHACRA TV 🇦🇷" group-title="AGRO" tvg-logo="https://lh3.googleusercontent.com/-pKI6d5kptYI/XnDCiQcHe0I/AAAAAAAAw_Y/pjVT7LGqYmswBIePrX9PeXozB4UncbPEgCK8BGAsYHg/s0/2020-03-17.png", CHACRA TV 🇦🇷
-https://s8.stweb.tv/chacra/live/chunks.m3u8
+https://s8.stweb.tv/chacra/live/hts/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="558" tvg-name="Agro TV 🇧🇴" group-title="AGRO" tvg-logo="https://teleestrella.tv.bo/wp-content/uploads/2023/01/logo-agro-trasnparente-1024x394.png", Agro TV 🇧🇴
-https://solo.disfrutaenlared.com:1936/agrotv/agrotv/playlist.m3u8
+https://solo.disfrutaenlared.com:8536/agrotv/agrotv/playlist.m3u8
 
 ############################################################
 ######################## VARIEDADES ########################
 ############################################################
 
 #EXTINF:-1 tvg-chno="575" tvg-name="E! Entertaiment" group-title="VARIEDADES" tvg-logo="https://www.pngkit.com/png/full/762-7622581_e-hd-e-entertainment-logo.png", E! Entertaiment
-http://45.190.13.50:8002/play/a00v/index.m3u8
+http://45.190.133.150:8002/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-chno="576" tvg-name="Hola TV" group-title="VARIEDADES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg", Hola TV
-https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
+https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index/5214.m3u8
 
 #EXTINF:-1 tvg-chno="577" tvg-name="Hola TV Play" group-title="VARIEDADES" tvg-logo="https://www.hola.com/tv/assets/videoondemand/icons/720_405_meta_logo.jpg", Hola TV Play
-https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
+https://rakuten-hola-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="584" tvg-name="Az Corazon" group-title="VARIEDADES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/1200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png", Az Corazon
-https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
+https://azt-cz.otteravision.com/aztr/cz/cz_720p_high.m3u8
 
 #EXTINF:-1 tvg-chno="585" tvg-name="Az Mundo" group-title="VARIEDADES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TV_Azteca_Mundo_logo.svg/1200px-TV_Azteca_Mundo_logo.svg.png", Az Mundo
-https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
+https://azt-mun.otteravision.com/aztr/mun/mun_1080p.m3u8
 
 #EXTINF:-1 tvg-chno="586" tvg-name="Az Clip" group-title="VARIEDADES" tvg-logo="https://www.vhv.rs/dpng/d/607-6075841_tv-azteca-clic-logo-tv-azteca-png-transparent.png", Az Clip
-https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
+https://azt-cl.otteravision.com/aztr/cl/cl_1080p.m3u8
 
 #EXTINF:-1 tvg-chno="587" tvg-id="SonyCompetencias.us" tvg-name="Sony Competencias" tvg-country="US" tvg-language="SPANISH" group-title="VARIEDADES" tvg-logo="https://magosdeldeporte.com/wp-content/uploads/2023/03/sony-competencias-logo.png", Sony Competencias
-https://spt-competencias-1-us.samsung.wurl.tv/2000.m3u8
+https://spt-competencias-1-us.samsung.wurl.tv/5128.m3u8
 
 #EXTINF:-1 tvg-chno="592" tvg-id="SonyNovelas.us" tvg-name="Sony Novelas" tvg-country="US" tvg-language="SPANISH" group-title="VARIEDADES" tvg-logo="https://salvatv.net/wp-content/uploads/2022/10/65654987.jpg", Sony Novelas
-https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
+https://spt-novelas-1-us.samsung.wurl.tv/5124.m3u8
 
 #EXTINF:-1 tvg-chno="596" tvg-id="SEOTVNovelas.bo" tvg-name="SEO TV Novelas" tvg-country="BO" tvg-language="SPANISH" group-title="VARIEDADES" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png", SEO TV Novelas 
-https://live.seo.tv.bo/live/3SEO.m3u8
+https://live.seo.tv.bo/live/3SEO/78541.m3u8
 
 ############################################################
 ########################## MUSICA ##########################
 ############################################################
 
 #EXTINF:-1 tvg-chno="600" tvg-id="qelloconcerts.us" tvg-name="Qello Concerts" tvg-logo="https://m.media-amazon.com/images/I/61UKePMkOeL.png" group-title="MUSICA", Qello Concerts | ES
-https://daiconnect.com/live/hls/tvup/tvfy-qello/0f8612520f7d0c7a97d750e661ae473b/.m3u8?ApPW=1600&ApPH=793&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=c6f97c09-66bf-11ed-9f6a-5a7b45621b50
+https://daiconnect.com/live/tvup/tvfy-qello/0f8612520f7d0c7a97d750e661ae473b/.m3u8?ApPW=1600&ApPH=793&USrGDPRC=CPiNjJwPiNjKLBMB9CESCpCsAP_AAH_AAAiQJHtd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_b89KP9_78v4v8_____3_e__3_7997-CRoBJhq3EAXZljgzaBhFAiBGFYSFUCgAgoBhaIDABwcFOysAn1hAgAQCgCMCIEOAKMCAQAACQBIRABIEWCAAAEQCAAEACIRCABgYBBYAWBgEAAIBoGKIUAAgSEGRARFKYEBUCQQGtlQglBdIaYQBVlgBQSI2KgARBICKwABAWDgGCJASsWCBJijfIARghQCiVCtRCAA.f_gAH_gAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&DAdIDT=&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.19.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=025d3b2f-92f6-4a97-bb24-4e4eb97d34be&requestuid=c6f97c09-66bf-11ed-9f6a-5a7b45621b50
 
 #EXTINF:-1 tvg-chno="601" tvg-id="canalsurpatagonia.cl" tvg-name="Canal Sur Patagonia" tvg-country="CL" tvg-language="SPANISH" group-title="MUSICA"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ebkzb5d9mqsk.jpg", Canal Sur Patagonia | CL
-https://v1.tustreaming.cl:19360/canalsurpatagoniatv/canalsurpatagoniatv.m3u8
+https://v1.tustreaming.cl:19584/canalsurpatagoniatv/canalsurpatagoniatv.m3u8
 
 #EXTINF:-1 tvg-chno="602" tvg-id="retroplustv.ch" tvg-name="Retro Plus TV Chile" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="MUSICA", Retro Plus TV | CL
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+https://59f1cbe63db89.streamlock.net:7543/retroplustv/_definst_/retroplustv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="604" tvg-id="musictop.ar" tvg-name="Music Top Argentina" tvg-logo="https://lh3.googleusercontent.com/-jyK2QfeF7tk/YBShx6dT-eI/AAAAAAAA_k4/gq6qGMH-1UAurScNL4TayXfEA47gA1ljgCK8BGAsYHg/s0/2021-01-29.png" group-title="MUSICA", Music Top | AR
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+https://live-edge01.telecentro.ar/live/smil:musictop.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="606" tvg-id="FlashTV.ec" tvg-name="Flash TV" tvg-country="EC" tvg-language="SPANISH" group-title="MUSICA"  tvg-logo="https://tvprofil.com/img/kanali-logo/flash-tv-logo.png", Flash TV | MX
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/playlist.m3u8
+https://cdn-ue1-prod.amagi.tv/linear/amg01024-olympusat-flash-distro/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="607" tvg-id="tvpj.ec" tvg-name="TVPJ" tvg-country="EC" tvg-language="SPANISH" group-title="MUSICA" tvg-logo="https://i.paste.pics/3a6934e8e137e270694013358a4f01dd.png", TVPJ | EC
-https://vdo1.panelstreaming.live:3363/stream/play.m3u8
+https://vdo1.panelstreaming.live:8063/stream/play.m3u8
 
 #EXTINF:-1 tvg-chno="608" tvg-id="ElSolNetworkTV.ec" tvg-name="El Sol Network TV" tvg-country="EC" tvg-language="SPANISH" group-title="MUSICA"  tvg-logo="https://i.imgur.com/TIH3zlP.png", El Sol Network TV | EC
-https://rctvhd.net:8081/elsol105fm/index.m3u8
+https://rctvhd.net:8078/elsol105fm/index.m3u8
 
 #EXTINF:-1 tvg-chno="609" tvg-id="VallenatoInternacional.co" tvg-name="Vallenato Internacional" tvg-country="CO" tvg-language="SPANISH" group-title="MUSICA" tvg-logo="https://pbs.twimg.com/profile_images/958693570403237889/vJlP-Zwn_400x400.jpg", Vallenato Internacional | CO
-https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+https://59a564764.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="610" tvg-id="Vevo90.ec" tvg-name="Vevo 90" tvg-country="EC" tvg-language="SPANISH" group-title="MUSICA" tvg-logo="https://w7.pngwing.com/pngs/993/465/png-transparent-vevo-youtube-music-video-youtube-text-trademark-logo-thumbnail.png", Vevo 90
 https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/51f1a0da9da049098a8cec541bddfae5/live_9.m3u8
