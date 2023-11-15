@@ -487,8 +487,7 @@ http://bgtv.site/play/tvhd-408.php?id=28&token=kasjhfaasasblack&f=.m3u8
 http://bgtv.site/play/tvhd-408.php?id=244&token=kasjhfaasasblack&f=.m3u8 
 #EXTINF:-1 tvg-chno="319" tvg-name="ESPN 2 🇦🇷" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2 🇦🇷	
 http://bgtv.site/play/tvhd-408.php?id=138&token=kasjhfaasasblack&f=.m3u8 
-#EXTINF:-1 tvg-chno="319.1" tvg-name="ESPN 2 HD 🇦🇷 *" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2 HD 🇦🇷 *	
-<<<<<<< HEAD
+#EXTINF:-1 tvg-chno="319.1" tvg-name="ESPN 2 HD 🇦🇷 *" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png", ESPN 2 HD 🇦🇷 *
 http://bgtv.site/play/tvhd-408.php?id=167&token=kasjhfaasasblack&f=.m3u8 
 #EXTINF:-1 tvg-chno="320" tvg-name="ESPN 3 🇦🇷" group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3 🇦🇷	
 http://bgtv.site/play/tvhd-408.php?id=15&token=kasjhfaasasblack&f=.m3u8 
@@ -569,251 +568,156 @@ http://bgtv.site/play/tvhd-408.php?id=3&token=kasjhfaasasblack&f=.m3u8
 #EXTINF:-1 tvg-chno="389" tvg-id="PeopleareAwesome.us" tvg-name="People are Awesome" tvg-country="US" tvg-language="SPANISH" group-title="DEPORTE"  tvg-logo="https://pbs.twimg.com/profile_images/1379286557337653252/1jJOD0Zq_400x400.jpg", People are Awesome	
 http://bgtv.site/play/tvhd-408.php?id=205&token=kasjhfaasasblack&f=.m3u8 
 
-
-############################################################
-########################## PAISES ##########################
-############################################################
-
 #EXTINF:-1 tvg-chno="400" tvg-id="tvpublica.ar" tvg-name="TV Publica 🇦🇷" tvg-country="AR" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://e7.pngegg.com/pngimages/29/608/png-clipart-television-publica-argentina-television-public-broadcasting-partidos-television-text.png", TV Publica 🇦🇷
 http://50.7.66.234:8080/moontools/6548@89787/3249
-
 #EXTINF:-1 tvg-chno="402" tvg-id="Canal26.ar" tvg-name="Canal 26 🇦🇷" tvg-country="AR" tvg-language="SPANISH" group-title="PAISES" tvg-logo="https://i.imgur.com/xDjOUuz.png", Canal 26 🇦🇷
 http://50.7.66.234:8080/moontools/6548@89787/3085
-
 #EXTINF:-1 tvg-chno="403" tvg-id="Telemax.ar" tvg-name="Telemax 🇦🇷" tvg-country="AR" tvg-language="SPANISH" group-title="PAISES" tvg-logo="https://i.imgur.com/gfX0hdB.png", Telemax 🇦🇷
 http://50.7.66.234:8080/moontools/6548@89787/3071
-
 #EXTINF:-1 tvg-chno="404" tvg-id="MiradorTV.ar" tvg-name="Mirador TV 🇦🇷" tvg-country="AR" tvg-language="SPANISH" group-title="PAISES" tvg-logo="https://i.imgur.com/KjD1uJS.png", Mirador TV 🇦🇷
 http://50.7.66.234:8080/moontools/6548@89787/47698
-
 #EXTINF:-1 tvg-chno="405" tvg-name="CANAL 10 🇦🇷" group-title="PAISES" tvg-logo="https://diario10.com.ar/wp-content/uploads/2020/04/logo_footer_retina.png", CANAL 10 🇦🇷
 http://50.7.66.234:8080/moontools/6548@89787/34609
-
 #EXTINF:-1 tvg-chno="406" tvg-id="NeoTV.ar" tvg-name="Neo TV 🇦🇷" group-title="PAISES" tvg-logo="https://i.imgur.com/Xtu85tb.png", Neo TV 🇦🇷
 http://50.7.66.234:8080/moontools/6548@89787/3257
-
 #EXTINF:-1 tvg-chno="408" tvg-id="Bolivisión.bo" tvg-name="Bolivisión 🇧🇴" tvg-country="BO" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png", Bolivisión 🇧🇴
 http://50.7.66.234:8080/moontools/6548@89787/3241
-
 #EXTINF:-1 tvg-chno="409" tvg-id="BoliviaDeportesTV.bo" tvg-name="Bolivia TV 🇧🇴" tvg-country="BO" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg", Bolivia TV 🇧🇴
 http://50.7.66.234:8080/moontools/6548@89787/3238
-
 #EXTINF:-1 tvg-chno="410" tvg-id="SEOTV.bo" tvg-name="SEO TV" tvg-country="BO" tvg-language="SPANISH" group-title="PAISES" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png", SEO TV 
 http://50.7.66.234:8080/moontools/6548@89787/3231
-
 #EXTINF:-1 tvg-chno="411" tvg-name="RTP 🇧🇴" group-title="PAISES" tvg-logo="https://i.ibb.co/68wjssL/rtp.jpg", RTP 🇧🇴
 http://50.7.66.234:8080/moontools/6548@89787/3207
-
 #EXTINF:-1 tvg-chno="411.1" tvg-name="TVU 🇧🇴" group-title="PAISES" tvg-logo="https://i.ibb.co/b2YH4Wk/tvu.jpg", TVU 🇧🇴
 http://50.7.66.234:8080/moontools/6548@89787/3206
-
 #EXTINF:-1 tvg-chno="412" tvg-id="canalcali.co" tvg-name="Canal Cali 🇨🇴" tvg-country="CO" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://www.canalcalitv.com/wp-content/uploads/2017/10/Logo_CaliTV.png", Canal Cali 🇨🇴
 http://50.7.66.234:8080/moontools/6548@89787/3073
-
 #EXTINF:-1 tvg-chno="413" tvg-id="CanalCapital.co" tvg-name="Canal Capital 🇨🇴" tvg-country="CO" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://lh3.googleusercontent.com/-Emi_jrNT71c/XqeMwoB2P-I/AAAAAAAAyS4/pUS5P-UYKsoW5xFT9RQjmCl7ONAL0oG4wCK8BGAsYHg/s0/2020-04-27.png", Canal Capital 🇨🇴
 http://50.7.66.234:8080/moontools/6548@89787/1119206
-
 #EXTINF:-1 tvg-chno="414" tvg-name="RCN 🇨🇴" group-title="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png", RCN 🇨🇴
 http://50.7.66.234:8080/moontools/6548@89787/1119205
-
 #EXTINF:-1 tvg-chno="415" tvg-id="RCNmas.co" tvg-name="RCN Mas 🇨🇴" tvg-country="CO" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://i.imgur.com/rP8UBPq.png", RCN Xtra 🇨🇴
 http://50.7.66.234:8080/moontools/6548@89787/1119204
-
 #EXTINF:-1 tvg-chno="416" tvg-id="RCNXtra.co" tvg-name="RCN Xtra 🇨🇴" tvg-country="CO" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://i.imgur.com/rP8UBPq.png", RCN Mas 🇨🇴
 http://50.7.66.234:8080/moontools/6548@89787/1119203
-
 #EXTINF:-1 tvg-chno="418" tvg-name="La 1 🇪🇸" group-title="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png", La 1 🇪🇸
 http://50.7.66.234:8080/moontools/6548@89787/1119202
-
 #EXTINF:-1 tvg-chno="419" tvg-id="tvgalicia.es" tvg-name="TV Galicia 🇪🇸" tvg-logo="https://lh3.googleusercontent.com/-NNimM6BK6ZQ/XkszwS7D6uI/AAAAAAAAwGw/zaSdPQcEOrk7IkrJiRFWvpqbLOHmMhNtwCK8BGAsYHg/s0/2020-02-17.png" group-title="PAISES", TV Galicia 🇪🇸
 http://50.7.66.234:8080/moontools/6548@89787/1119201
-
 #EXTINF:-1 tvg-chno="423" tvg-name="TELECOSTA 🇬🇹" group-title="PAISES" tvg-logo="https://www.coolstreaming.us/img/ch/image98053886230.jpg", TELECOSTA 🇬🇹
 http://50.7.66.234:8080/moontools/6548@89787/1119200
-
 #EXTINF:-1 tvg-chno="425" tvg-id="AztecaUno.mx" tvg-name="Azteca Uno 🇲🇽" tvg-country="MX" tvg-language="SPANISH" group-title="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png", Azteca Uno 🇲🇽
 http://50.7.66.234:8080/moontools/6548@89787/47445
-
 #EXTINF:-1 tvg-chno="426" tvg-id="AztecaSiete.mx" tvg-name="Azteca Siete 🇲🇽" tvg-country="MX" tvg-language="SPANISH" group-title="PAISES" tvg-logo="https://i.imgur.com/vpXleBr.png", Azteca Siete 🇲🇽
 http://50.7.66.234:8080/moontools/6548@89787/44341
-
 #EXTINF:-1 tvg-chno="427" tvg-name="Las Estrellas 🇲🇽" group-title="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/180px-Las_Estrellas.svg.png", Las Estrellas 🇲🇽
 http://50.7.66.234:8080/moontools/6548@89787/33364
-
 #EXTINF:-1 tvg-chno="429" tvg-id="15TelevisionSabinas.mx" tvg-name="15 Television Sabinas 🇲🇽" tvg-country="MX" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/13/cf/9e/13cf9eb5-7c62-f2c7-bde0-efeee4e653b4/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x600wa.png", 15 Television Sabinas 🇲🇽
 http://50.7.66.234:8080/moontools/6548@89787/33359
-
 #EXTINF:-1 tvg-chno="430" tvg-id="Telemax.mx" tvg-name="Telemax 🇲🇽" tvg-country="MX" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://i2.paste.pics/8a2bf919d229e094124cd4739b4c6c7c.png", Telemax 🇲🇽
 http://50.7.66.234:8080/moontools/6548@89787/24180
-
 #EXTINF:-1 tvg-chno="432" tvg-name="TV MAX 🇵🇦" group-title="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png", TV MAX 🇵🇦
 http://50.7.66.234:8080/moontools/6548@89787/4003
-
 #EXTINF:-1 tvg-chno="434" tvg-id="Telemundo.cr" tvg-name="Telemundo 🇵🇷" tvg-country="CR" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://i.imgur.com/Ys31Rhw.png", Telemundo 🇵🇷
 http://50.7.66.234:8080/moontools/6548@89787/3250
-
 #EXTINF:-1 tvg-chno="436" tvg-id="ATV.pe" tvg-name="ATV 🇵🇪" tvg-country="PE" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png", ATV 🇵🇪
 http://50.7.66.234:8080/moontools/6548@89787/3248
-
 #EXTINF:-1 tvg-chno="437" tvg-id="ATV+.pe" tvg-name="ATV + 🇵🇪" tvg-country="PE" tvg-language="SPANISH" group-title="PAISES"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png", ATV + 🇵🇪
 http://50.7.66.234:8080/moontools/6548@89787/3239
-
 #EXTINF:-1 tvg-chno="438" tvg-id="ATVsur.pe" tvg-name="ATV Sur 🇵🇪" tvg-country="PE" tvg-language="SPANISH" group-title="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATV_Sur_-_2018_logo_%28final%29.png", ATV Sur 🇵🇪
 http://50.7.66.234:8080/moontools/6548@89787/3236
-
 #EXTINF:-1 tvg-chno="439" tvg-id="PanamericanaTV.pe" tvg-name="Panamericana 🇵🇪" tvg-country="PE" tvg-language="SPANISH" group-title="PAISES" tvg-logo="https://i2.paste.pics/967fc9c451334a960cb23ee0482c77bc.png", Panamericana 🇵🇪
 http://50.7.66.234:8080/moontools/6548@89787/3229
-
 #EXTINF:-1 tvg-chno="440" tvg-name="WILLAX 🇵🇪" group-title="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Willax_Televisi%C3%B3n_2020.png", WILLAX 🇵🇪
 http://50.7.66.234:8080/moontools/6548@89787/3228
-
 #EXTINF:-1 tvg-chno="443" tvg-id="MegaTV.us" tvg-name="Mega TV 🇺🇸" tvg-country="US" tvg-language="SPANISH" group-title="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mega_TV_logo_2016.svg/2560px-Mega_TV_logo_2016.svg.png", Mega TV 🇺🇸
 http://50.7.66.234:8080/moontools/6548@89787/3218
-
 #EXTINF:-1 tvg-chno="445" tvg-id="UCL.uy" tvg-name="UCL 🇺🇾" tvg-country="UY" tvg-language="SPANISH" group-title="PAISES" tvg-logo="https://i.imgur.com/HeyN6Aw.png", UCL 🇺🇾
 http://50.7.66.234:8080/moontools/6548@89787/3199
-
 #EXTINF:-1 tvg-chno="448" tvg-id="VPItv.ve" tvg-name="VPItv 🇻🇪" tvg-country="VE" tvg-language="SPANISH" group-title="PAISES" tvg-logo="https://vpitv.com/pywhidub/2020/09/logo-vpitv.png", VPItv 🇻🇪
 http://50.7.66.234:8080/moontools/6548@89787/3197
-
 #EXTINF:-1 tvg-chno="449" tvg-name="Venevisión 🇻🇪" group-title="PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/90px-Logotipo_de_Venevisi%C3%B3n.svg.png", Venevisión 🇻🇪
 http://50.7.66.234:8080/moontools/6548@89787/3074
 
-
-############################################################
-######################### EDUCACIÓN ########################
-############################################################
-
 #EXTINF:-1 tvg-chno="500" tvg-id="inglestotalprincipiante.es"  tvg-name="IT Principiante" tvg-logo="https://www.inglestotal.com/wp-content/uploads/2019/06/INGLESAUDIO2-360.jpg" group-title="EDUCACIÓN", IT Principiante
 http://50.7.66.234:8080/moontools/6548@89787/3069
-
 #EXTINF:-1 tvg-chno="501" tvg-id="inglestotalintermedio.es"  tvg-name="IT Intermedio" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Podcasts125/v4/a8/b7/28/a8b7285b-0c9d-8f43-dfb8-ff24b53ed30b/mza_6821662929761198421.jpg/1200x600wp.png" group-title="EDUCACIÓN", IT Intermedio
 http://50.7.66.234:8080/moontools/6548@89787/3068
-
 #EXTINF:-1 tvg-chno="502" tvg-id="inglestotalavanzado.es"  tvg-name="IT Avanzado" tvg-logo="https://cdns-images.dzcdn.net/images/talk/cc5167c2a27df08eb3e144d791ffaa65/500x500.jpg" group-title="EDUCACIÓN", IT Avanzado
 http://50.7.66.234:8080/moontools/6548@89787/3065
 
-
-############################################################
-######################### TECNOLOGIA #######################
-############################################################
-
 #EXTINF:-1 tvg-chno="525" tvg-name="TechScience 365" group-title="TECNOLOGIA" tvg-logo="https://images.squarespace-cdn.com/content/v1/54486405e4b0426d647a1d02/1588948002485-18PGFATSHJWXBLN3HFYA/science-logo-black+copy.png", TechScience 365
 http://50.7.66.234:8080/moontools/6548@89787/2952
-
 #EXTINF:-1 tvg-chno="526" tvg-name="La Fábrica TV" group-title="TECNOLOGIA" tvg-logo="https://i.ytimg.com/vi/W-mP9QJ0H6I/hqdefault.jpg", La Fábrica TV
 http://50.7.66.234:8080/moontools/6548@89787/1126417
-
 #EXTINF:-1 tvg-chno="527" tvg-id="HiperconectadosTelevisión.cl" tvg-name="Hiperconectados Televisión" tvg-country="CL" tvg-language="SPANISH" group-title="TECNOLOGIA" tvg-logo="https://image.roku.com/developer_channels/prod/2ee8ed69266a33986437dd4fea6fc49cd2ebf61ac54c1a230ee6ce65eacba267.png", Hiperconectados TV | CL
 http://50.7.66.234:8080/moontools/6548@89787/1118923
-
 #EXTINF:-1 tvg-chno="528" tvg-id="PlatziTV.co" tvg-name="Platzi TV" tvg-country="CO" tvg-language="SPANISH" group-title="TECNOLOGIA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Platzi.jpg", Platzi TV
 http://50.7.66.234:8080/moontools/6548@89787/1118360
-
 #EXTINF:-1 tvg-chno="529" tvg-id="TecTV.ar" tvg-name="Tec TV" tvg-country="AR" tvg-language="SPANISH" group-title="TECNOLOGIA" tvg-logo="https://i.imgur.com/EGCq1wc.png", Tec TV | AR
 http://50.7.66.234:8080/moontools/6548@89787/1092653
 
-############################################################
-########################## AGRO TV #########################
-############################################################
-
 #EXTINF:-1 tvg-chno="550" tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="AGRO", Agrotendencia TV
 http://50.7.66.234:8080/moontools/6548@89787/1092639
-
 #EXTINF:-1 tvg-chno="551" tvg-id="Telecafe.co" tvg-logo="https://i.imgur.com/GN4JWDJ.png" group-title="AGRO", Telecafé 🇨🇴(Manizales | Caldas)
 http://50.7.66.234:8080/moontools/6548@89787/1080110
-
 #EXTINF:-1 tvg-chno="552" tvg-id="CampoAbiertoTV.cl" group-title="AGRO" tvg-logo="https://i2.paste.pics/44c5f4becc68ee877580eed639645110.png", Campo Abierto TV 🇨🇱
 http://50.7.66.234:8080/moontools/6548@89787/53380
-
 #EXTINF:-1 tvg-chno="553" tvg-id="AgroTv.pe" tvg-name="Agro TV 🇵🇪" tvg-country="PE" tvg-language="SPANISH" group-title="AGRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Agro_TV_logo.svg/1024px-Agro_TV_logo.svg.png", Agro TV 🇵🇪
 http://50.7.66.234:8080/moontools/6548@89787/43640
-
 #EXTINF:-1 tvg-chno="554" tvg-name="El SelloTV Madariaga 🇦🇷" group-title="AGRO" tvg-logo="https://elsellotv.com.ar/wp-content/uploads/2023/02/Logo500.png", El SelloTV🇦🇷Madariaga 
 http://50.7.66.234:8080/moontools/6548@89787/43639
-
 #EXTINF:-1 tvg-chno="555" tvg-name="TV Agro 🇨🇴" group-title="AGRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/245px-TV_Agro_logo.svg.png", TV Agro 🇨🇴
 http://50.7.66.234:8080/moontools/6548@89787/43638
-
 #EXTINF:-1 tvg-chno="556" tvg-name="RURAL TV 🇵🇾" group-title="AGRO" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png", RURAL TV 🇵🇾
 http://50.7.66.234:8080/moontools/6548@89787/43637
-
 #EXTINF:-1 tvg-chno="557" tvg-name="CHACRA TV 🇦🇷" group-title="AGRO" tvg-logo="https://lh3.googleusercontent.com/-pKI6d5kptYI/XnDCiQcHe0I/AAAAAAAAw_Y/pjVT7LGqYmswBIePrX9PeXozB4UncbPEgCK8BGAsYHg/s0/2020-03-17.png", CHACRA TV 🇦🇷
 http://50.7.66.234:8080/moontools/6548@89787/43187
-
 #EXTINF:-1 tvg-chno="558" tvg-name="Agro TV 🇧🇴" group-title="AGRO" tvg-logo="https://teleestrella.tv.bo/wp-content/uploads/2023/01/logo-agro-trasnparente-1024x394.png", Agro TV 🇧🇴
 http://50.7.66.234:8080/moontools/6548@89787/33512
 
-############################################################
-######################## VARIEDADES ########################
-############################################################
-
 #EXTINF:-1 tvg-chno="575" tvg-name="E! Entertaiment" group-title="VARIEDADES" tvg-logo="https://www.pngkit.com/png/full/762-7622581_e-hd-e-entertainment-logo.png", E! Entertaiment
 http://50.7.66.234:8080/moontools/6548@89787/33475
-
 #EXTINF:-1 tvg-chno="576" tvg-name="Hola TV" group-title="VARIEDADES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg", Hola TV
 http://50.7.66.234:8080/moontools/6548@89787/12011
-
 #EXTINF:-1 tvg-chno="577" tvg-name="Hola TV Play" group-title="VARIEDADES" tvg-logo="https://www.hola.com/tv/assets/videoondemand/icons/720_405_meta_logo.jpg", Hola TV Play
 http://50.7.66.234:8080/moontools/6548@89787/8247
-
 #EXTINF:-1 tvg-chno="584" tvg-name="Az Corazon" group-title="VARIEDADES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/1200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png", Az Corazon
 http://50.7.66.234:8080/moontools/6548@89787/7940
-
 #EXTINF:-1 tvg-chno="585" tvg-name="Az Mundo" group-title="VARIEDADES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TV_Azteca_Mundo_logo.svg/1200px-TV_Azteca_Mundo_logo.svg.png", Az Mundo
 http://50.7.66.234:8080/moontools/6548@89787/4120
-
 #EXTINF:-1 tvg-chno="586" tvg-name="Az Clip" group-title="VARIEDADES" tvg-logo="https://www.vhv.rs/dpng/d/607-6075841_tv-azteca-clic-logo-tv-azteca-png-transparent.png", Az Clip
 http://50.7.66.234:8080/moontools/6548@89787/4117
-
 #EXTINF:-1 tvg-chno="587" tvg-id="SonyCompetencias.us" tvg-name="Sony Competencias" tvg-country="US" tvg-language="SPANISH" group-title="VARIEDADES" tvg-logo="https://magosdeldeporte.com/wp-content/uploads/2023/03/sony-competencias-logo.png", Sony Competencias
 http://50.7.66.234:8080/moontools/6548@89787/4082
-
 #EXTINF:-1 tvg-chno="592" tvg-id="SonyNovelas.us" tvg-name="Sony Novelas" tvg-country="US" tvg-language="SPANISH" group-title="VARIEDADES" tvg-logo="https://salvatv.net/wp-content/uploads/2022/10/65654987.jpg", Sony Novelas
 http://50.7.66.234:8080/moontools/6548@89787/3759
-
 #EXTINF:-1 tvg-chno="596" tvg-id="SEOTVNovelas.bo" tvg-name="SEO TV Novelas" tvg-country="BO" tvg-language="SPANISH" group-title="VARIEDADES" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png", SEO TV Novelas 
 http://50.7.66.234:8080/moontools/6548@89787/3755
 
-############################################################
-########################## MUSICA ##########################
-############################################################
-
 #EXTINF:-1 tvg-chno="600" tvg-id="qelloconcerts.us" tvg-name="Qello Concerts" tvg-logo="https://m.media-amazon.com/images/I/61UKePMkOeL.png" group-title="MUSICA", Qello Concerts | ES
 http://50.7.66.234:8080/moontools/6548@89787/3178
-
 #EXTINF:-1 tvg-chno="601" tvg-id="canalsurpatagonia.cl" tvg-name="Canal Sur Patagonia" tvg-country="CL" tvg-language="SPANISH" group-title="MUSICA"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ebkzb5d9mqsk.jpg", Canal Sur Patagonia | CL
 http://50.7.66.234:8080/moontools/6548@89787/3258
-
 #EXTINF:-1 tvg-chno="602" tvg-id="retroplustv.ch" tvg-name="Retro Plus TV Chile" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="MUSICA", Retro Plus TV | CL
 http://50.7.66.234:8080/moontools/6548@89787/3260
-
 #EXTINF:-1 tvg-chno="604" tvg-id="musictop.ar" tvg-name="Music Top Argentina" tvg-logo="https://lh3.googleusercontent.com/-jyK2QfeF7tk/YBShx6dT-eI/AAAAAAAA_k4/gq6qGMH-1UAurScNL4TayXfEA47gA1ljgCK8BGAsYHg/s0/2021-01-29.png" group-title="MUSICA", Music Top | AR
 http://50.7.66.234:8080/moontools/6548@89787/3267
-
 #EXTINF:-1 tvg-chno="606" tvg-id="FlashTV.ec" tvg-name="Flash TV" tvg-country="EC" tvg-language="SPANISH" group-title="MUSICA"  tvg-logo="https://tvprofil.com/img/kanali-logo/flash-tv-logo.png", Flash TV | MX
 http://50.7.66.234:8080/moontools/6548@89787/3268
-
 #EXTINF:-1 tvg-chno="607" tvg-id="tvpj.ec" tvg-name="TVPJ" tvg-country="EC" tvg-language="SPANISH" group-title="MUSICA" tvg-logo="https://i.paste.pics/3a6934e8e137e270694013358a4f01dd.png", TVPJ | EC
 http://50.7.66.234:8080/moontools/6548@89787/3421
-
 #EXTINF:-1 tvg-chno="608" tvg-id="ElSolNetworkTV.ec" tvg-name="El Sol Network TV" tvg-country="EC" tvg-language="SPANISH" group-title="MUSICA"  tvg-logo="https://i.imgur.com/TIH3zlP.png", El Sol Network TV | EC
 http://50.7.66.234:8080/moontools/6548@89787/3612
-
 #EXTINF:-1 tvg-chno="609" tvg-id="VallenatoInternacional.co" tvg-name="Vallenato Internacional" tvg-country="CO" tvg-language="SPANISH" group-title="MUSICA" tvg-logo="https://pbs.twimg.com/profile_images/958693570403237889/vJlP-Zwn_400x400.jpg", Vallenato Internacional | CO
 http://50.7.66.234:8080/moontools/6548@89787/3613
-
 #EXTINF:-1 tvg-chno="610" tvg-id="Vevo90.ec" tvg-name="Vevo 90" tvg-country="EC" tvg-language="SPANISH" group-title="MUSICA" tvg-logo="https://w7.pngwing.com/pngs/993/465/png-transparent-vevo-youtube-music-video-youtube-text-trademark-logo-thumbnail.png", Vevo 90
 http://50.7.66.234:8080/moontools/6548@89787/3614
-
 #EXTINF:-1 tvg-chno="611" tvg-id="Vevo80.ec" tvg-name="Vevo 80" tvg-country="EC" tvg-language="SPANISH" group-title="MUSICA" tvg-logo="https://w7.pngwing.com/pngs/104/537/png-transparent-vevo-youtube-music-video-musician-youtube-television-angle-text.png", Vevo 80
 http://50.7.66.234:8080/moontools/6548@89787/3615
-
 #EXTINF:-1 tvg-chno="612" tvg-id="Vevo70.ec" tvg-name="Vevo 70" tvg-country="EC" tvg-language="SPANISH" group-title="MUSICA" tvg-logo="https://tl.vhv.rs/dpng/s/34-342877_imagenes-de-vevo-png-transparent-png.png", Vevo 70
 http://50.7.66.234:8080/moontools/6548@89787/3747
-
 #EXTINF:-1 tvg-chno="613" tvg-id="VevoLatino.ec" tvg-name="Vevo Latino" tvg-country="EC" tvg-language="SPANISH" group-title="MUSICA" tvg-logo="https://w7.pngwing.com/pngs/555/897/png-transparent-vevo-logo-youtube-music-video-youtube-text-trademark-logo.png", Vevo Latino
 http://50.7.66.234:8080/moontools/6548@89787/3753
-
 #EXTINF:-1 tvg-chno="615" tvg-name="Durán TV 🇪🇨" group-title="MUSICA"  tvg-logo="https://durantv.com.ec/wp-content/uploads/2023/03/cropped-dtv-blanco_Mesa-de-trabajo-1.png", Durán TV 🇪🇨
 http://50.7.66.234:8080/moontools/6548@89787/3089
