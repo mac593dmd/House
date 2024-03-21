@@ -6,37 +6,37 @@
 ############################################################
 
 
-#EXTINF:-1 tvg-chno="1000" tvg-id="" tvg-name="America Estereo Guayaquil" group-title="ECU RadioTV" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4WM9M67xkX.jpg", 1 | America GYE Estereo
+#EXTINF:-1 tvg-chno="1000" tvg-id="" tvg-name="America Estereo Guayaquil" group-title="ECU RadioTV" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4WM9M67xkX.jpg", 01 | America GYE Estereo
 https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="1001" tvg-id="" tvg-name="America Estereo Ibarra" group-title="ECU RadioTV" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4WM9M67xkX.jpg", 3 | America Ibarra Estereo
+#EXTINF:-1 tvg-chno="1001" tvg-id="" tvg-name="America Estereo Ibarra" group-title="ECU RadioTV" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4WM9M67xkX.jpg", 0003 | America Ibarra Estereo
 https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="1002" tvg-id="" tvg-name="Radio America Estereo Quito" tvg-country="EC" tvg-language="SPANISH" group-title="ECU RadioTV"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4WM9M67xkX.jpg", 2 | America UIO Estereo
+#EXTINF:-1 tvg-chno="1002" tvg-id="" tvg-name="Radio America Estereo Quito" tvg-country="EC" tvg-language="SPANISH" group-title="ECU RadioTV"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4WM9M67xkX.jpg", 002 | America UIO Estereo
 https://video2.makrodigital.com/americaestereoquito/americaestereoquito/chunks.m3u8
 
-#EXTINF:-1 tvg-chno="1003" tvg-id="" tvg-name="America Estereo Tulcan" group-title="ECU RadioTV" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4WM9M67xkX.jpg", 4 | America TUA Estereo
+#EXTINF:-1 tvg-chno="1003" tvg-id="" tvg-name="America Estereo Tulcan" group-title="ECU RadioTV" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4WM9M67xkX.jpg", 004 | America TUA Estereo
 https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="1004" tvg-id="" tvg-name="Antena Uno" group-title="ECU RadioTV" tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/756a9d7158b3ee67064baa62a7eebb93.jpg", 5 | Antena Uno
+#EXTINF:-1 tvg-chno="1004" tvg-id="" tvg-name="Antena Uno" group-title="ECU RadioTV" tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/756a9d7158b3ee67064baa62a7eebb93.jpg", 05 | Antena Uno
 https://tvdatta.com:3578/live/antenaunolive.m3u8
 
-#EXTINF:-1 tvg-chno="1005" tvg-id="" tvg-name="Bacan Te Veo" group-title="ECU RadioTV" tvg-logo="https://bacanteveo.com/wp-content/uploads/2021/03/cropped-LOGO-BACAN-2_00000.png", 6 | Bacan Te Veo
+#EXTINF:-1 tvg-chno="1005" tvg-id="" tvg-name="Bacan Te Veo" group-title="ECU RadioTV" tvg-logo="https://bacanteveo.com/wp-content/uploads/2021/03/cropped-LOGO-BACAN-2_00000.png", 006 | Bacan Te Veo
 https://cloudvideo.servers10.com:8081/8064/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="1006" tvg-id="" tvg-name="EcuaMundo RadioTV" group-title="ECU RadioTV" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e6/d8/a2/e6d8a20f-116b-d335-2bf9-81fbab464a9d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png", 7 | EcuaMundo RadioTV
+#EXTINF:-1 tvg-chno="1006" tvg-id="" tvg-name="EcuaMundo RadioTV" group-title="ECU RadioTV" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e6/d8/a2/e6d8a20f-116b-d335-2bf9-81fbab464a9d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png", 0007 | EcuaMundo RadioTV
 https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8
 
-#EXTINF:-1 tvg-chno="1007" tvg-id="ElSolTV.ec" tvg-name="El Sol Radio y Television" tvg-country="EC" tvg-language="SPANISH"  group-title="ECU RadioTV" tvg-logo="https://solradiomadrid.com/wp-content/uploads/2022/08/cropped-Diseno-sin-titulo-15.jpg", 8 | El Sol Radio y Television
+#EXTINF:-1 tvg-chno="1007" tvg-id="ElSolTV.ec" tvg-name="El Sol Radio y Television" tvg-country="EC" tvg-language="SPANISH"  group-title="ECU RadioTV" tvg-logo="https://solradiomadrid.com/wp-content/uploads/2022/08/cropped-Diseno-sin-titulo-15.jpg", 08 | El Sol Radio y Television
 https://streaming5.globalhostla.com/rtplive/elsolrad/chunklist_w431845379.m3u8
 
-#EXTINF:-1 tvg-chno="1008" tvg-id="FMMundo.ec" tvg-name="Radio FM Mundo" tvg-country="EC" tvg-language="SPANISH" group-title="ECU RadioTV"  tvg-logo="https://fmmundo.com/wp-content/uploads/2019/08/Fmmundo-comapartir.jpeg", 9 | FM Mundo UIO
+#EXTINF:-1 tvg-chno="1008" tvg-id="FMMundo.ec" tvg-name="Radio FM Mundo" tvg-country="EC" tvg-language="SPANISH" group-title="ECU RadioTV"  tvg-logo="https://fmmundo.com/wp-content/uploads/2019/08/Fmmundo-comapartir.jpeg", 009 | FM Mundo UIO
 https://video2.makrodigital.com/fmmundo/fmmundo/chunks.m3u8
 
-#EXTINF:-1 tvg-chno="1009" tvg-id="impactosatelital.ec" tvg-name="Impacto Satelital" tvg-country="EC" tvg-language="SPANISH" group-title="ECU RadioTV" tvg-logo="https://e7.pngegg.com/pngimages/559/343/png-clipart-satellite-dish-aerials-dish-network-satellite-television-bluetooth-text-logo.png", 10 | Impacto Satelital | RA-CUE
+#EXTINF:-1 tvg-chno="1009" tvg-id="impactosatelital.ec" tvg-name="Impacto Satelital" tvg-country="EC" tvg-language="SPANISH" group-title="ECU RadioTV" tvg-logo="https://e7.pngegg.com/pngimages/559/343/png-clipart-satellite-dish-aerials-dish-network-satellite-television-bluetooth-text-logo.png", 010 | Impacto Satelital | RA-CUE
 https://panel.streamingtv-mediacp.online:1936/jawepvrvyz/jawepvrvyz/chunklist_w165308511.m3u8
 
-#EXTINF:-1 tvg-chno="1010" tvg-id="" tvg-name="la Nueva RadioTV" group-title="ECU RadioTV" tvg-logo="https://www.lanuevaradiotv.com/wp-content/uploads/2023/12/347847610_143386825320465_5094181566788461299_n-PhotoRoom.png-PhotoRoom.png", 11 | la Nueva RadioTV
+#EXTINF:-1 tvg-chno="1010" tvg-id="" tvg-name="la Nueva RadioTV" group-title="ECU RadioTV" tvg-logo="https://www.lanuevaradiotv.com/wp-content/uploads/2023/12/347847610_143386825320465_5094181566788461299_n-PhotoRoom.png-PhotoRoom.png", 0011 | la Nueva RadioTV
 https://sv72.ecuaradiotv.net/lanuevatv/live/chunklist_w1567378126.m3u8
 
 #EXTINF:-1 tvg-chno="1011" tvg-id="" tvg-name="La Pipol Tv" group-title="ECU RadioTV" tvg-logo="https://mipipoltv.com/wp-content/uploads/2023/09/cropped-PIPOL-PNG.png", 12 | La Pipol Tv
