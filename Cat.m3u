@@ -1,5 +1,6 @@
 #EXTM3U 
 
+
 ############################################################
 ########################## MUSICA ##########################
 ############################################################
@@ -82,7 +83,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8397936791b30007ebb5
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-chno="717" tvg-id="" tvg-name="Hechizada" group-title="14 | 24/7" tvg-logo="https://w7.pngwing.com/pngs/245/894/png-transparent-fernsehserie-bewitched-season-1-television-episode-witch-television-vertebrate-computer-wallpaper.png", 717 | Hechizada
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/631fb6be21b7440007b9f606/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+https://linear-314.frequency.stream/mt/studio/314/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="718" tvg-id="USBC2100010OS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100010OS_20230125T022553SQUARE.png_20230125022554.png" group-title="14 | 24/7" , 718 | ViX JaJaJa
 https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
@@ -137,9 +138,6 @@ https://panel.streamingtv-mediacp.online:1936/jawepvrvyz/jawepvrvyz/chunklist_w1
 
 #EXTINF:-1 tvg-chno="760" tvg-id="" tvg-name="la Nueva RadioTV" group-title="15 | ECU RadioTV" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU%20RadioTV/La%20Nueva%20Radio%20TV%2097.7.png", 760 | la Nueva RadioTV
 https://sv72.ecuaradiotv.net/lanuevatv/live/chunklist_w1567378126.m3u8
-
-#EXTINF:-1 tvg-chno="761" tvg-id="" tvg-name="La Pipol Tv" group-title="15 | ECU RadioTV" tvg-logo="https://mipipoltv.com/wp-content/uploads/2023/09/cropped-PIPOL-PNG.png", 761 | La Pipol Tv
-https://cp.panelchs.com:1936/8004/8004/chunklist_w1773811543.m3u8
 
 #EXTINF:-1 tvg-chno="762" tvg-id="" tvg-name="La Redonda TV" group-title="15 | ECU RadioTV" tvg-logo="https://laradioredonda.ec/wp-content/uploads/2022/04/276322594_388791979913771_1670687898698944566_n.jpg", 762 | La Redonda TV
 https://ythls.armelin.one/channel/UCG_S--F4wcdre2-8PG9YlhA.m3u8
@@ -212,3 +210,15 @@ https://rpn3.bozztv.com/ssh101/ssh101/scandalotv/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="785" tvg-id="" tvg-name="Raly TV" group-title="15 | ECU RadioTV" tvg-logo="https://ralytv.com/wp-content/uploads/2023/01/logo-web.png", 785 | Raly TV
 https://cloudvideo.servers10.com:8081/8072/index.m3u8
+
+#EXTINF:-1 tvg-chno="786" tvg-id="" tvg-name="Radio Majestad" group-title="15 | ECU RadioTV" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-ec/majestad.png", 786 | Radio Majestad
+https://videoserver.tmcreativos.com:19360/majestadradio/majestadradio.m3u8
+
+#EXTINF:-1 tvg-chno="787" tvg-id="" tvg-name="Radio Punto Rojo" group-title="15 | ECU RadioTV" tvg-logo="https://www.radiopuntorojo.com/wp-content/uploads/2023/04/LogoRadioPuntoRojo3.png", 787 | Radio Punto Rojo
+https://video2.makrodigital.com/radiopuntorojo/radiopuntorojo/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="788" tvg-id="" tvg-name="Ciracu TV" group-title="15 | ECU RadioTV" tvg-logo="https://i.imgur.com/mkf2TJ6.png", 788 | Ciracu TV
+https://cloud37.ecuatel.com/ciracutv/live/chunklist_w532240513.m3u8
+
+#EXTINF:-1 tvg-chno="789" tvg-id="" tvg-name="TV Austro" group-title="15 | ECU RadioTV" tvg-logo="https://i.imgur.com/i6JTL7W.png", 789 | TV Austro
+https://eu1.servers10.com:8081/8056/tracks-v1a1/mono.m3u8
