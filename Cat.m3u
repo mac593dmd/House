@@ -1,19 +1,499 @@
 #EXTM3U 
+
+############################################################
+######################### INFANTIL #########################
+############################################################
+
+#EXTINF:-1 tvg-chno="1" tvg-id="Pequeradio.es" tvg-name="Pequeradio" tvg-logo="https://pbs.twimg.com/profile_images/1379909721721823233/uBcLvTIN_400x400.jpg" group-title="01 | INFANTIL", 01 | Pequeradio TV 🇪🇸
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
+#EXTINF:-1 tvg-chno="5" tvg-id="I187.45955.schedulesdirect.org" tvg-name="Discovery Kids" group-title="01 | INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", 05 | Discovery Kids
+http://160.20.165.246:8000/play/a016/index.m3u8
+
+#EXTINF:-1 tvg-chno="12" tvg-id="" tvg-name="Canal Infantil" tvg-country="USA" tvg-language="SPANISH" group-title="01 | INFANTIL" tvg-logo="https://www.latingroup.us/images/logoci.png", 12 | Canal Infantil
+https://s.emisoras.tv:8081/diostevekids/index.m3u8
+
+#EXTINF:-1 tvg-chno="13" tvg-id="ESBD130000205" tvg-id="PitufoTV.ec" tvg-name="Pitufo TV" tvg-country="EC" tvg-language="SPANISH" group-title="01 | INFANTIL" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/bcec3e2f3cdb5e5eb87f4f526731dadf94b1c5ae16bdafb0cde04bbf17e6f37c._RI_V_TTW_.jpg", 13 | Pitufo TV
+https://d37tco1tcfe7t3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r9bay52lyuk44/smrfs.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-chno="15" tvg-id="I1217.89973.schedulesdirect.org" tvg-name="ZooMoo" group-title="01 | INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/120px-ZooMoo_logo.svg.png", 15 | ZooMoo
+http://160.20.165.246:8000/play/a017/index.m3u8
+
+#EXTINF:-1 tvg-chno="16" tvg-id="ESBA33000262Z" tvg-name="Pl Bob Esponja" group-title="01 | INFANTIL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000262Z_20221026T004517SQUARE.png_20221026004518.png", 16 | Pl Bob Esponja
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-chno="17" tvg-id="6304f626d1a0ac00083a05c5" tvg-name="Los Padrinos Mágicos" group-title="01 | INFANTIL" tvg-logo="https://i.pinimg.com/736x/ae/bb/61/aebb61fb7dd43f0e5d000e0bb5fb77a0--los.jpg", 17 | Los Padrinos Mágicos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6322099c822bbc00074857db/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-chno="18" channel-id="samsung-USBA3000158L" tvg-id="USBA3000158L" tvg-name="Pl TV Nick" group-title="01 | INFANTIL" tvg-logo="https://w7.pngwing.com/pngs/427/35/png-transparent-nickelodeon-the-nick-app-tv-everywhere-nick-play-nick-television-text-orange.png", 18 | Pl TV Nick
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-chno="19" channel-id="samsung-ITBA1400007MX" tvg-id="ITBA1400007MX" tvg-name="Animotion" group-title="01 | INFANTIL" tvg-logo="https://pbs.twimg.com/media/FSIH0MSXEAEjBgA?format=jpg&name=240x240", 19 | Animotion
+http://fortv.cc:8080/ronda/ronda/119420
+
+#EXTINF:-1 tvg-chno="20" tvg-id="ESBA33000324U" tvg-name="Pl TV Rugrats" group-title="01 | INFANTIL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000324U_20230308T021505SQUARE.png_20230308021505.png", 20 | Pl TV Rugrats
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610c09219fc0430007a3fce6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-chno="21" channel-id="samsung-ESBD5100001G0" tvg-id="ESBD5100001G0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD5100001G0_20240214T035702SQUARE.png_20240214035703.png" group-title="01 | INFANTIL", 21 | SuperToons TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-chno="22" tvg-id="ESAJ3800009VJ" tvg-name="Pl Animakids" group-title="01 | INFANTIL" tvg-logo="https://m.media-amazon.com/images/I/71KbhIWkoTL.png", 22 | Pl Animakids
+https://stitcher.pluto.tv/stitch/hls/channel/608035b8d8705f0007260287/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=00b55908-8335-11ee-b717-d250370613fa1
+
+#EXTINF:-1 tvg-chno="28" tvg-name="El Laboratorio de Dexter" group-title="01 | INFANTIL" tvg-logo="https://e7.pngegg.com/pngimages/254/244/png-clipart-graphics-laboratory-cartoon-dexter-s-laboratory.png", 28 | El Laboratorio de Dexter SD
+https://stitcher.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f2f75540-9092-11ef-873b-32707f6dec09
+
+#EXTINF:-1 tvg-chno="30" channel-id="samsung-ESBA1400007MR" tvg-id="ESBA1400007MR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400007MR_20230823T033059SQUARE.png_20230823033100.png" group-title="01 | INFANTIL", 30 | Yu-Gi-Oh!
+https://stitcher.pluto.tv/stitch/hls/channel/63eb96754e83e70008ab8941/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=9f17b829-6948-11ef-baab-ae6b862fa0c5
+
+#EXTINF:-1 tvg-chno="31" tvg-name="Energeek Retro" group-title="01 | INFANTIL" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/EnerGeek%20Retro.png?itok=JIRywtME", 31 | Energeek Retro
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8?ads_amagi_channel=934&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6165&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=19bf28de-c2d9-4fd9-8ff7-d6f517343cb1&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+
+#EXTINF:-1 tvg-chno="43" tvg-name="Moviecenter Kids FHD" group-title="01 | INFANTIL" tvg-logo="https://cdn4.vectorstock.com/i/1000x1000/05/88/movie-center-logo-video-production-studio-emblem-vector-26250588.jpg", 43 | Moviecenter Kids FHD
+http://160.20.165.246:8000/play/a01f/index.m3u8
+
+############################################################
+########################## ECUADOR #########################
+############################################################
+
+#EXTINF:-1 tvg-chno="51" tvg-id="AustralTV.ec" tvg-name="Austral TV" tvg-country="EC" tvg-language="SPANISH" group-title="02 | ECUADOR" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU/Austral%20TV.png", 51 | Austral TV
+https://stmv3.voxtvhd.com.br/australtv/australtv/chunklist_w1385080889.m3u8
+
+#EXTINF:-1 tvg-chno="52" tvg-id="Canal.UNO.(C-UNO)..ec" tvg-name="Canal Uno EC" tvg-country="EC" tvg-language="SPANISH" group-title="02 | ECUADOR" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU/Canal%20Uno.png", 52 | Canal Uno
+https://movil.ejeserver.com/live/canaluno.m3u8
+
+#EXTINF:-1 tvg-chno="53" tvg-id="CTV.ec" tvg-name="CTV" tvg-country="EC" tvg-language="SPANISH" group-title="02 | ECUADOR" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU/Capricho%20TV.png", 53 | CTV
+https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
+
+#EXTINF:-1 tvg-chno="54" tvg-id="EcotelTV.ec" tvg-name="Ecotel" tvg-country="EC" tvg-language="SPANISH" group-title="02 | ECUADOR" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU/Ecotel%20TV.png", 54 | Ecotel
+https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+
+#EXTINF:-1 tvg-chno="55" tvg-id="Ecuador.TV.National.(ECUATV)..ec" tvg-name="Ecuador TV HD" tvg-country="EC" tvg-language="SPANISH" group-title="02 | ECUADOR" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU/Ecuador%20TV.jpg", 55 | Ecuador TV HD
+http://160.20.165.246:8000/play/a00q/index.m3u8
+
+#EXTINF:-1 tvg-chno="55.1" tvg-id="Ecuador.TV.National.(ECUATV)..ec" tvg-name="Ecuador TV" tvg-country="EC" tvg-language="SPANISH" group-title="02 | ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png", 55.1 | Ecuador TV
+http://160.20.165.246:8000/play/a00q/index.m3u8
+
+#EXTINF:-1 tvg-chno="56" tvg-id="ECUAVISA NACIONAL" tvg-name="Ecuavisa" tvg-country="EC" tvg-language="SPANISH" group-title="02 | ECUADOR" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU/Ecuavisa.png", 56 | Ecuavisa
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b218401540616841bee1de143
+
+#EXTINF:-1 tvg-chno="56.1" tvg-id="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec" tvg-name="Ecuavisa Quito" tvg-country="EC" tvg-language="SPANISH" group-title="02 | ECUADOR" tvg-logo="https://www.ecuavisa.com/news-portlet/getogimage/8e39cc7e-84b0-423b-85b9-5fb8f15b12fc.jpg", 56.1 | Ecuavisa Quito
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-chno="56.2" tvg-id="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec" tvg-name="Ecuavisa Guayaquil" tvg-country="EC" tvg-language="SPANISH" group-title="02 | ECUADOR" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/72475322359315.5631191190494.jpg", 56.2 | Ecuavisa Guayaquil
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/304384
+
+#EXTINF:-1 tvg-chno="57" tvg-id="EducaTV.ec" tvg-name="Educa TV" tvg-country="EC" tvg-language="SPANISH" group-title="02 | ECUADOR" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU/Educa%20TV.png", 57 | Educa TV
+https://vid2.ecuamedia.net/educatv/live/chunklist_w1471065288.m3u8
+
+#EXTINF:-1 tvg-chno="58" tvg-id="" tvg-name="Curiquingue TV" group-title="02 | ECUADOR" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU/Curiquingue%20TV.png", 58 | Curiquingue TV
+https://video2.lhdserver.es/pjtv/live.m3u8
+
+#EXTINF:-1 tvg-chno="60" tvg-id="FrecuenciaMusicalTV.us" tvg-name="Frecuencia Musical TV" tvg-country="US" tvg-language="SPANISH" group-title="02 | ECUADOR" tvg-logo="https://latinartv.com/sites/default/files/logos/FMTV-1.png", 60 | Frecuencia Musical TV
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-chno="61" tvg-id="Gamavision" tvg-name="Gamavisón FHD" tvg-country="EC" tvg-language="SPANISH" group-title="02 | ECUADOR" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU/Gamavision.png", 61 | Gamavisión FHD
+http://160.20.165.246:8000/play/a00r/index.m3u8
+
+#EXTINF:-1 tvg-chno="61.1" tvg-id="Gama.TV.(GAMATV)..ec" tvg-name="Gamavisón" tvg-country="EC" tvg-language="SPANISH" group-title="02 | ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png", 61.1 | Gamavisión
+http://160.20.165.246:8000/play/a00r/index.m3u8
+
+#EXTINF:-1 tvg-chno="63" tvg-id="LatacungaTV.ec" tvg-name="Latacunga TV" tvg-country="EC" tvg-language="SPANISH" group-title="02 | ECUADOR" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU/LatacungaTV.png", 63 | Latacunga TV
+https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="64" tvg-id="LoretoTV.ec" tvg-name="Loreto TV" tvg-country="EC" tvg-language="SPANISH" group-title="02 | ECUADOR" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU/Loreto%20TV.png", 64 | Loreto TV
+https://stmv1.painelcast.com/loretotv/loretotv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="65" tvg-id="MajestadTelevision.ec" tvg-name="Majestad TV" tvg-country="EC" tvg-language="SPANISH" group-title="02 | ECUADOR" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU/Majestad%20Television.png", 65 | Majestad TV
+https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
+
+#EXTINF:-1 tvg-chno="67" tvg-name="Manavision" group-title="02 | ECUADOR" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/manavisin-1476.jpg", 67 | Manavision
+https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
+
+#EXTINF:-1 tvg-chno="68" tvg-id="" tvg-name="Marca TV" group-title="02 | ECUADOR" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU/Marca%20TV.jpg", 68 | Marca TV
+https://eu1.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-chno="69" tvg-id="MulticanalCatamayo.ec" tvg-name="Multicanal Catamayo" tvg-country="EC" tvg-language="SPANISH" group-title="02 | ECUADOR" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU/Multicanal%20Catamayo.png", 69 | Multicanal Catamayo
+https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+
+#EXTINF:-1 tvg-chno="70" tvg-id="Nortvision.ec" tvg-name="Nortvision" tvg-country="EC" tvg-language="SPANISH" group-title="02 | ECUADOR" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU/Nortvision.jpeg", 70 | Nortvision
+https://server.asilivehd.com:3242/live/nortvisionlive.m3u8
+
+#EXTINF:-1 tvg-chno="71" tvg-id="" tvg-name="NukaTV" group-title="02 | ECUADOR" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU/Nuka%20TV.png", 71 | NukaTV
+https://cloudvideo.servers10.com:8081/8118/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-chno="74" tvg-id="OROMAR" tvg-name="Oromar" tvg-country="EC" tvg-language="SPANISH" group-title="02 | ECUADOR" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU/Oromar%20TV.png", 74 | Oromar
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/304393
+
+#EXTINF:-1 tvg-chno="76" tvg-id="PlanetaHDEcuador.ec" tvg-name="Planeta HD Ecuador" tvg-country="EC" tvg-language="SPANISH" group-title="02 | ECUADOR" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU/Planeta%20Channel.png", 76 | Planeta HD Ecuador
+https://live20.bozztv.com/akamaissh101/ssh101/planeta55tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="78" tvg-id="PuruwaTV.ec" tvg-name="Puruwa TV" tvg-country="EC" tvg-language="SPANISH" group-title="02 | ECUADOR" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU/Puruwa%20TV.png", 78 | Puruwa TV
+https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/chunklist_w1163577427.m3u8
+
+#EXTINF:-1 tvg-chno="80" tvg-id="RTS.Red.Telesistema.(RTS)..ec" tvg-name="RTS" tvg-country="EC" tvg-language="SPANISH" group-title="02 | ECUADOR" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU/RTS.png", 80 | RTS
+https://live.airstream.run/alba-ec-rts-rts/index.m3u8
+
+#EXTINF:-1 tvg-chno="80.1" tvg-id="RTS.Red.Telesistema.HDTV.(RTSHD)..ec" tvg-name="RTS HD" tvg-country="EC" tvg-language="SPANISH" group-title="02 | ECUADOR"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rts_hd_logo.png", 80.1 | RTS HD
+https://live.airstream.run/alba-ec-rts-rts/index.m3u8
+
+#EXTINF:-1 tvg-chno="81" tvg-id="247CanaldeNoticias.ar" tvg-name="RTU" tvg-country="EC" tvg-language="SPANISH" group-title="02 | ECUADOR" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU/RTU.png", 81 | RTU
+https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="81.1" tvg-id="rtu.ec" tvg-name="RTU" tvg-country="EC" tvg-language="SPANISH" group-title="02 | ECUADOR" tvg-logo="https://canalrtu.tv/wp-content/uploads/2020/12/Canal-RTU-Ecuador-en-vivo-Online-2.png", 81.1 | RTU HD
+https://video1.makrodigital.com/rtu/rtu/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="82" tvg-name="Sonovisión" group-title="02 | ECUADOR" tvg-logo="https://miasonovision.ec/wp-content/uploads/2021/01/logo_sonovision_Mesa-de-trabajo-1.png", 82 | Sonovisión
+https://us.streaminghd.cl/sonovision/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-chno="83" tvg-id="TC TELEVISION" tvg-name="TC" tvg-country="EC" tvg-language="SPANISH" group-title="02 | ECUADOR" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU/TC%20Television.png", 83 | TC
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/304396
+
+#EXTINF:-1 tvg-chno="83.1" tvg-id="TC.Televisión.(TCTV)..ec" tvg-name="TC IT" tvg-country="EC" tvg-language="SPANISH" group-title="02 | ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png", 83.1 | TC IT
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/304396
+
+#EXTINF:-1 tvg-chno="84" tvg-id="TELEAMAZONAS" tvg-name="Teleamazonas" tvg-country="EC" tvg-language="SPANISH" group-title="02 | ECUADOR" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU/Teleamazonas.png", 84 | Teleamazonas
+http://160.20.165.246:8000/play/a00p/index.m3u8
+
+#EXTINF:-1 tvg-chno="84.1" tvg-id="Teleamazonas.(Quito).(TAMAZ)..ec" tvg-name="Teleamazonas Quito" tvg-country="EC" tvg-language="SPANISH" group-title="02 | ECUADOR" tvg-logo="https://seeklogo.com/images/T/teleamazonas-antiguo-fondo-azul-logo-8E2D85CDDF-seeklogo.com.png", 84.1 | Teleamazonas Quito
+http://160.20.165.246:8000/play/a00p/index.m3u8
+
+#EXTINF:-1 tvg-chno="84.2" tvg-id="Teleamazonas.(Quito).(TAMAZ)..ec" tvg-name="Teleamazonas Guayaquil" tvg-country="EC" tvg-language="SPANISH" group-title="02 | ECUADOR" tvg-logo="https://seeklogo.com/images/T/teleamazonas-antiguo-fondo-blanco-logo-AB215334D8-seeklogo.com.png", 84.2 | Teleamazonas Guayaquil
+http://160.20.165.246:8000/play/a00p/index.m3u8
+
+#EXTINF:-1 tvg-chno="87" tvg-id="TroncalLive.ec" tvg-name="Troncal Live" tvg-country="EC" tvg-language="SPANISH" group-title="02 | ECUADOR" tvg-logo="http://coazucar.com/mobi/esp/images/logo_troncal01.png", 87 | Troncal Live
+https://troncalive.site/hls/stream.m3u8
+
+#EXTINF:-1 tvg-chno="88" tvg-id="TVColor.ec" tvg-name="TV Color" tvg-country="EC" tvg-language="SPANISH" group-title="02 | ECUADOR" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f6/10/4e/f6104ea0-e26c-c90f-8e4f-2267aabddbc2/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg", 88 | TV Color
+https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
+
+#EXTINF:-1 tvg-chno="91" tvg-id="192TVCE.ec" tvg-name="TVC" tvg-country="EC" tvg-language="SPANISH" group-title="02 | ECUADOR" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU/TVC.png", 91 | TVC
+https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-chno="91.1" tvg-id="192TVCE.ec" tvg-name="TVC FHD" tvg-country="EC" tvg-language="SPANISH" group-title="02 | ECUADOR" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU/TVC%20(2).png", 91.1 | TVC FHD
+https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-chno="92" tvg-id="UCSG.ec" tvg-name="UCSG" tvg-country="EC" tvg-language="SPANISH" group-title="02 | ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_UCSG.svg/2560px-Logo_UCSG.svg.png", 92 | UCSG
+https://stream.catomedia.net/catomedia-app/index.m3u8
+
+#EXTINF:-1 tvg-chno="96" tvg-id="ZaracayTV.ec" tvg-name="Zaracay TV" tvg-country="EC" tvg-language="SPANISH" group-title="02 | ECUADOR" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU/Zaracay%20TV.png", 96 | Zaracay TV
+https://video2.makrodigital.com/zaracay/zaracay/chunks.m3u8
+
+
+############################################################
+######################### NOTICIAS #########################
+############################################################
+
+#EXTINF:-1 tvg-chno="100" tvg-id="I184.69367.schedulesdirect.org" tvg-name="RT 🇷🇺" tvg-country="RU" tvg-language="SPANISH" group-title="03 | NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png", 100 | RT 🇷🇺
+https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
+
+#EXTINF:-1 tvg-chno="101" tvg-id="Deutsche W" tvg-name="DW 🇩🇪" tvg-country="DE" tvg-language="SPANISH" group-title="03 | NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", 101 | Deutsche W
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-chno="103" tvg-id="24 Horas" tvg-name="RTVE 🇪🇸" tvg-country="ES" tvg-language="SPANISH" group-title="03 | NOTICIAS" tvg-logo="https://pbs.twimg.com/profile_images/1269026518128365571/7PeLkMvv_400x400.jpg", 103 | RTVE 🇪🇸
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:-1 tvg-chno="106" tvg-id="Telefe Internacional" tvg-name="Telefe 🇦🇷" tvg-country="AR" tvg-language="SPANISH" group-title="03 | NOTICIAS" tvg-logo="https://i.imgur.com/WAZn1np.png", 106 | Telefe Internacional 🇦🇷
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/43312
+
+#EXTINF:-1 tvg-chno="107" tvg-id="El Toro TV" tvg-name="El Toro 🇪🇸" group-title="03 | NOTICIAS" tvg-logo="http://static-1.ivoox.com/canales/7/8/8/1/6391603381887_LG.jpg", 107 | El Toro 🇪🇸
+https://edge-nodo-001.streaming.hitcloser.net/eltorotv-streaming-web/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-chno="108" tvg-id="I9.15384.schedulesdirect.org" tvg-name="ADN 40 🇲🇽" tvg-logo="https://i.imgur.com/MLdfm8o.png" group-title="03 | NOTICIAS", 108 | ADN40 🇲🇽
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 tvg-chno="111" tvg-id="I51.4.79548.zap2it.com" group-title="03 | NOTICIAS" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/24521/s73245_ll_h15_ac.png", 111 | TELEMUNDO HD 🇺🇸
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
+
+#EXTINF:-1 tvg-chno="113" tvg-id="CGTN Español" tvg-name="CGTN Español 🇨🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="03 | NOTICIAS", 113 | CGTN Español 🇨🇳
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="116" tvg-id="HispanTV.ir" tvg-name="HispanTV 🇮🇷" group-title="03 | NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/1200px-HispanTv_logo.svg.png", 116 | HispanTV 🇮🇷
+https://live.presstv.ir/hls/hispantv.m3u8
+
+#EXTINF:-1 tvg-chno="117.1" tvg-id="I160.20436.schedulesdirect.org" site_id="cnn_en_espanol" tvg-name="CNN en Español 🇺🇸" group-title="03 | NOTICIAS" tvg-logo="https://i.imgur.com/s3VgvNM.png", 117.1 | CNN en Español 🇺🇸
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57619
+
+#EXTINF:-1 tvg-chno="123" tvg-id="Negocios TV" tvg-name="Negocios TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="03 | NOTICIAS", 123 | Negocios TV 🇪🇸
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+
+############################################################
+###################### ESTILOS DE VIDA #####################
+############################################################
+
+#EXTINF:-1 tvg-chno="133" channel-id="samsung-USBB2900002Z7" tvg-id="USBB2900002Z7" tvg-name="Hells Kitchen" group-title="04 | ESTILOS DE VIDA" tvg-logo="https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/colorLogoPNG.png", 133 | Hell's Kitchen
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6095ad97351eb0000754c1e6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-chno="141" tvg-id="" tvg-name="Turistik TV" tvg-country="MX" tvg-language="SPANISH" group-title="04 | ESTILOS DE VIDA" tvg-logo="https://turistiktv.com.mx/wp-content/uploads/2021/12/cropped-LOGO-TURISTIK-300-300x157.png", 141 | Turistik TV
+https://cdn1.cef-technology.com/stream_web/turistik/chunks.m3u8
+
+############################################################
+########################## CULTURA #########################
+############################################################
+
+#EXTINF:-1 tvg-chno="150" tvg-id="El Confidencial" tvg-name="El Confindencial" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1400001L8_20221109T010708SQUARE.png_20221109010709.png" group-title="05 | CULTURA", 150 | El Confidencial 🇪🇸
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+
+#EXTINF:-1 tvg-chno="151" tvg-id="SinFiltros" tvg-name="Sin Filtros" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2017/02/09/639E1709-1B67-4F5E-B556-EC440C382190/1280x720.jpg" group-title="05 | CULTURA", 151 | SinFiltros 🇪🇸
+https://daiconnect.com/live/hls/tvup/tivify-sinfiltros/.m3u8
+
+#EXTINF:-1 tvg-chno="153" channel-id="plex-608049aefa2b8ae93c2c3a63-6018913ea15130002b284195" tvg-id="608049aefa2b8ae93c2c3a63-6018913ea15130002b284195" tvg-name="FreeTV Saber Más" group-title="05 | CULTURA" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6576aebe-a538-473a-9f40-c8cea9fbeda8/FreeTVSaberM_s_Circle_1500x1000_-_Ralph_Campillo.png", 153 | FreeTV Saber Más 🇲🇽
+https://amg01024-olympusat-sabermas-ono-ad-d1.amagi.tv/playlist/amg01024-olympusat-sabermas-ono/cb573d177a6c6c8784cf3c78d1f74882847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae754cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7feb55e108e6fa3e5011dc02e44fa83439c8201e9d4815f83158471a5129c9aa48f8044848cb0599306e6274751314295816de1aa37d78ac01e53fb702c555040f4afe192245680554659ece985bc6af249b2e34b806424f503a75f963f8e7ea90cb59324cac5a8de40442ba9c5483b5fca89a18ee87b32ad76c4ace8d0760ef19c725e55cc68ec147175fa9aca10978d119fb251c7de291f6dc1c0129ec4b080b6b58e4eca219cc3f1cf68134a335d52de59a7c86b8c7c8716c2a912254f0340a38e27a7ecb80e6a1625ec954deb0309b0cd8a80c67c5da0044a63c64e83136f02cd307f32e43de9a53e7987220680474b912c368f4fb2b720ecaacbf0153aa190e150fa6adb8350879c73a8692f1703a3e2134c51436fd5d1731f3c0b832f9adbdef5671a5aa3b8dae9d71d3e153c12461ac5e1e87dd48ac53f1415c4407c181e7e169217987ccc3f591227df1fd0b57b12ef627014c889651e300597cca2cf80d3c456b00da5a589163d325e6ab33209237d93b28819db2a4e7b4e6bda7f0e2abc03490ce99ad9f598f20da4fd3498d1037e11ad0ad2fe6828114629d9f74dd44be39712abe9b236aedcac628b01a1c17b7daddfc978f0ada0ca4a1d99a9566309ff74c37a125fa03add2789d562d7f22b6eddc2ff29b0ef73852b89cd95d122942fa44e437aef74fbbbf6b2cf6745adf118745b7d24313a4714d6e4d87aac38dd491afda5d5fdac9a74a447463a3c4691a5155f9fe96609953944adc4cac4a6a2d00a1cc66fbb20873043ee600420e5c32ff9c39cc7bad63f1a5082f69c45b5f7dcda8cce9c72374b4d208bcd5a6272da0df99848b4fe4a32bcdfcbadf146a358ce79fb88bf25e17c87cebf05a1d9ddddf36518535f18ad92a4b44495ec4415fb48da4b2c0a95c5b1a732b589ea750d8037d78c096aa1296d1d98fb8963e61ff8b76964b7fd2a33b3533dcee7f32366b807af323d70f48dcc2e0cc6cd0b9c5a88d7902b499f030aeb575402fd2fa99fde890e0300a1dd37f6358fa66389ac2391f27ee9f43db8e9/133/1920x1080_6046040/index.m3u8
+
+#EXTINF:-1 tvg-chno="156" tvg-id="ESBC1700002IM" tvg-name="Television Conciente" tvg-country="EC" tvg-language="SPANISH" group-title="05 | CULTURA" tvg-logo="https://www.televisionconsciente.com/img/endirecto.png", 156 | Television Conciente
+https://fractaltv-samsungspain.amagi.tv/hls/amagi_hls_data_samsungsp-fractal-televison-concientes-samsunges/CDN/playlist.m3u8?device%5Bdid%5D=%7BPSID%7D&device%5Bdnt%5D=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&coppa=0&tc_string=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-chno="157" tvg-id="ESBA2200006B4" tvg-name="Tastemade" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200006B4_20220810T012723SQUARE.png_20220810012723.png" group-title="05 | CULTURA", 157 | Tastemade
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="158" tvg-id="El País" tvg-name="El Pais" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC39000033J_20230809T053828SQUARE.png_20230809053829.png" group-title="05 | CULTURA", 158 | El Pais 🇪🇸
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-chno="161" tvg-id="NatureTime" tvg-name="Nature Time" group-title="05 | CULTURA" tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png", 161 | Nature Time
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lges/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="173" tvg-id="I182.97928.schedulesdirect.org" tvg-name="Discovery Home & Health HD" group-title="05 | CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png", 173 | Discovery Home & Health HD
+http://160.20.165.246:8000/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-chno="190" channel-id="samsung-ESAJ49000017H" tvg-id="ESAJ49000017H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ49000017H_20230125T022413SQUARE.png_20230125022413.png" group-title="05 | CULTURA", 190 | INFAST
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestylelatam-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+
+#EXTINF:-1 tvg-chno="192" tvg-id="Vivir con gatos" tvg-name="Experto Animal Gatos" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900002L8_20221012T021029SQUARE.png_20221012021029.png" group-title="05 | CULTURA", 192 | Experto Animal Gatos
+https://d2ocvc6amhp1qj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f8mwmw8baqnwt-ssai-prd/fast-channel-vivir-con-gatos.m3u8?stoken=samsung.M5xia65252&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-chno="193" tvg-id="Vivir con perros" tvg-name="Experto Animal Perros" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900001G6_20221012T021030SQUARE.png_20221012021030.png" group-title="05 | CULTURA", 193 | Experto Animal Perros
+https://d2hv77yguxdxtu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9vniibmo9geug-ssai-prd/fast-channel-vivir-con-perros.m3u8?stoken=samsung.09tPk73209&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+
+
+############################################################
+########################### CINE ###########################
+############################################################
+
+#EXTINF:-1 tvg-chno="199" tvg-id="Trailers" tvg-name="Trailers" group-title="06 | CINE Y SERIES" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20221214T044904SQUARE.png_20221214044905.png", 199 | Trailers
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+
+#EXTINF:-1 tvg-chno="240" tvg-id="OrbitTV.do" tvg-name="Orbit TV" tvg-country="DO" tvg-language="SPANISH" group-title="06 | CINE" tvg-logo="https://orbittv.net/images/orbit_logo4.png", 240 | Orbit TV 🇩🇴
+https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8
+
+#EXTINF:-1 tvg-chno="241" tvg-id="gen.ar" tvg-name="GEN TV" tvg-country="AR" tvg-language="SPANISH" group-title="06 | CINE" tvg-logo="https://i.imgur.com/qGddRW4.png", 241 | GEN TV 🇦🇷
+https://live-stream.iblups.com/video/742d100014934e52c9797c38412ff2bb6b079d31.m3u8
+
+#EXTINF:-1 tvg-chno="243" tvg-id="" tvg-name="Vos y TV" group-title="06 | CINE" tvg-logo="https://1.bp.blogspot.com/-0BRrk_J1ZGg/X9Js4onzWII/AAAAAAAAC3s/WWbgFPAy9_IEK6eab7L5_yw7DfrBoYguACLcBGAsYHQ/s540/vosytv_logoroku.jpg", 243 | Vos y TV 🇪🇨
+https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="244" tvg-id="PlanetaTV.pe" tvg-name="Planeta TV" tvg-country="PE" tvg-language="SPANISH" group-title="06 | CINE" tvg-logo="https://i2.paste.pics/4075185fbbf2ba30f8739d15c9e56298.png", 244 | Planeta TV 🇵🇪
+https://live.obslivestream.com/planetatv/index.m3u8
+
+#EXTINF:-1 tvg-chno="245" group-title="06 | CINE" tvg-logo="https://wowelsalvador.com/imagen/logo2.png", 245 | WOW TV 🇸🇻
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w814400446_b2000000_slen.m3u8
+
+#EXTINF:-1 tvg-chno="248" tvg-name="FMH Family" group-title="06 | CINE" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg", 248 | FMH Family
+http://160.20.165.246:8000/play/a01j/index.m3u8
+
+#EXTINF:-1 tvg-chno="252" tvg-id="TDIColombia.co" group-title="06 | CINE" tvg-logo="https://i.imgur.com/svNeBNv.png", 252 | TDI 🇨🇴
+https://cdn.amelbasoluciones.co:8081/tdicolombia/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-chno="256" tvg-name="Tropical Tv 🇵🇪" group-title="06 | CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/bc/Logotipo_da_TV_Tropical_%28Natal%29.png", 256 | Tropical Tv 🇵🇪
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+
+#EXTINF:-1 tvg-chno="257" tvg-id="CineAr.ar" tvg-name="Cine AR" tvg-country="AR" tvg-language="SPANISH" group-title="06 | CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png", 257 | Cine AR 🇦🇷
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/164871
+
+#EXTINF:-1 tvg-chno="259" channel-id="plex-608049aefa2b8ae93c2c3a63-6018913ea15130002b284193" tvg-id="608049aefa2b8ae93c2c3a63-6018913ea15130002b284193" tvg-name="FreeTV Estelar" group-title="06 | CINE" tvg-logo="https://provider-static.plex.tv/epg/cms/production/956f7b44-59f4-4f55-8258-e274f2183b11/FreeTVEstelar_Circle_1500x1000_-_Ralph_Campillo.png", 259 | FreeTV Estelar 🇲🇽
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=17bbe526-9093-11ef-9363-d284f6ba7600
+
+#EXTINF:-1 tvg-chno="260" channel-id="plex-608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291" tvg-id="608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291" tvg-name="FreeTV Acción" group-title="06 | CINE" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f496c12b-d43f-4e47-95b7-f687763fa84f/FreeTVAccion_Circle_1500x1000_-_Ralph_Campillo.png", 260 | FreeTV Acción 🇲🇽
+https://amg01024-olympusat-topcinelatam-ono-ad-99.amagi.tv/playlist/amg01024-olympusat-topcinelatam-ono/cb573d177a6c6c8784cf3c78d1f74882847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae754cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f8b45a44893da5b3011dc02f13fa83439c8201e983825b83168477a54698c7a4838619868c8959875bea201d487832d6817d808748a5c69b6d2ad2643b182145f4aa85ff4d25f4212938a9c6e5913fb279a98821922e33b204ea0dee70883eab58f0e417a2aee2da41456fa0925f6470f5b4a4daa2656bb963a9a4be882904f39a157c54876cc832143691f0ce66eca973b0a42680805f4756aaf6449f8efc87e1a4ff29f6449a9d80f257575d5c14108f4ba39974a94fb71cf9f73d0f063a2eca9b51d7c8cc4c3c1023ecea58c6161eadcdc580d00361ba0a725bec7397580a7cdc351e1f8f4ca9c06906f8270e967b3ceb480a9356f3aa29cab2c9e9747bdfa0cf56eb7ffcef459de115be233a4b07b6e63a114643709fea631b397ac656be90a088760d13a2f0c8f0d2564a7153637d1e82e5ee7e9a82c53a5d12c4130072711523a05e9e03b1014d1360c80ec3930b618b022d2894d1552959639b86be8d9edbda51a67ec781db2b2a3e6d558fda644c1cbb4c48e69c42295b591fe72a6756bc03555098eda387aaa11e0018f9c8420f276cd0e41f01285f767103989112b9364577a2d8e9ad71c5e38c15578a7edd69d1606fbd1e99cafbb37f1d9fbc5e17649ed267c176218730c12a91d36392d007417448316e879b3605b7d97fe39bf6a8daeccd30dea0099a91e6a1df6557a8b65f322a084402765e4ce16dd2d5f86b1a72e0b026a908a8bb15e1755d3d3b48c9914070b2a8264cd265252092a9c5ddf99143089c3abd35e87013aa523a2be3e731fecce7a0adc93c0240919d8378968dc4c1c0dfc1233e2c693390ce161554d034ff8102aefc4e2fa1d9c5b5943ed746e333ba96bf61b16ff785ef58dce5f794cc7e195a5540ef81a6aa66bc923e05ea2b951d575bf6ecc3fb6afcd6b97d08c955f28a0a6bee733e6ac0a5ff0bdf38fa811d2ff48c7d56c57e5190b1a73e7d28450d9680a097a1966a95e9cf2b6c74f6b1f150a5f952/118/1920x1080_6046040/index.m3u8
+
+#EXTINF:-1 tvg-chno="261" channel-id="plex-608049aefa2b8ae93c2c3a63-608b7095a09205002da4f295" tvg-id="608049aefa2b8ae93c2c3a63-608b7095a09205002da4f295" tvg-name="FreeTV Drama" group-title="06 | CINE" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f4639394-cbab-411c-9a11-3676a7310af0/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png", 261 | FreeTV Drama 🇲🇽
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="262" channel-id="plex-608049aefa2b8ae93c2c3a63-6018913ea15130002b28418f" tvg-id="608049aefa2b8ae93c2c3a63-6018913ea15130002b28418f" tvg-name="FreeTV Live" group-title="06 | CINE" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2aca9f2d-cd37-4e99-93c2-ea331d407008/FreeTVLive_logo_1500x1000RDX.png", 262 | FreeTV Live 🇲🇽
+https://amg01024-olympusat-chiquilines-ono-ad-et.amagi.tv/playlist/amg01024-olympusat-chiquilines-ono/cb573d177a6c6c8784cf3c78d1f74882847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae754cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fbe45a468a6ff4e0011dc02e45fa83439c8201ea81810f834b8470f6409d95a1de85468b8cb9599506e6274759326da68e789ecc2fdeb0fc4f2b99741c7044218cc986ed712c944e555dfbe6b9d90f9b42f7a70bdb2d5ddc019c5cca34836fd84bcda14cf5acea8847183ba79d5e6223f6e1f68efe6266ec62abfbb9857779cbf0432d1db807b2232f2bdef4d82b88c201e4d549e4e4336a52a7904188d3a791e3c2e120f623d8c2f18c2b0c4d6c0958ce37cc9b69c867dc68b8f11134524948a8e823aef2da513d2c408a9953c40608b8cfc5a5cd0b3efe5641348207d85f1622c83a780e864798ca661ce34f0b812673f8572590438edb4694f781b06c4ab4dad40cfe7fff8a19c6f910ac52294b0ec1b246214d5869c0fd3c427f6ed452aad5d8e4721d16a2f4c2f38f573d113014571fd19c8d199a8ad3671a13cf412312057a78b30ac27bda144c0e27c417d6a21d7bdf7e4b43e7a32c134f7fa9d8a38891d7c95dc719b9abac0001156b8adc59774e941609ec239f1d683c1d78831a6547b215283a80f7fac4e94eea53fe1ec70b6d0177cdb0364c0c407a600be1fe0070ba5df26fdeb6c350cde89f1d07fb5462ffafffa2bd4b8299b1d5401999a4541066d7d722c9330ad216cd2a9b98108af73d726d1a055da074bc9fffc08347f5dddbae9eef490fcb75be8eeab0d72971f2905332221c5c1b459f17460395d5cf6d0c77edf372a80da6a362a04c503c28549eac341ed7b8394cc7754969abf69fd0edd25544832ed565d96c0691520f05e8d877bfd0e5bda9d12f1c2bf1828660f7e18488c7d38a017b08673fd2817c5d65d72bf5c356b2fe532ca1d9c5b59a5d9673e327b2cbe37db372f39dce7bc4faaaf7f57318494917ad91859d3aeffc5b15f52ba10e477ebb85ebf369fea0cc2470f852ed804723ee097753cda4ec178a4c9ce32a21f3887953b72266d9811f47e471967a46ee674aa950613e9fff59546ca3a8b755/64/1920x1080_6046040/index.m3u8
+
+#EXTINF:-1 tvg-chno="263" channel-id="plex-608049aefa2b8ae93c2c3a63-60240f57676235002df19f49" tvg-id="608049aefa2b8ae93c2c3a63-60240f57676235002df19f49" tvg-name="FreeTV Familia" group-title="06 | CINE" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9cfe65ea-0cf3-4d32-8165-a76e076878bd/FreeTVFamilia_Circle_1500x1000_-_Ralph_Campillo.png", 263 | FreeTV Familia 🇲🇽
+https://amg01024-olympusat-juntos-ono-ad-h5.amagi.tv/playlist/amg01024-olympusat-juntos-ono/cb573d177a6c6c8784cf3c78d1f74882847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae754cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7adb70f148d68f3b0011dc02e45fa83439c8201b287dd5e83158425a246cbc6a48fd246848cb5599312f10b194a2b6b988360e1af37d28ba34717c62442371f51f5ed92ee5e0395534c4efdc0dead698d53a4f72d957427a85ad70093279d25ac1ba2e45ab6e3b8d04f0e3da1d2526222b3bfede09c3437ae28ffabedaf3116d9f44179169e688120286195fecf4280951193e176d4b0394468989540c99be5d6b5c1e7209d21d989fd8b024e4f777661ec3cf2c01db140dc7cbb80102e4c5d45dff93fa5d683295a054e829310c10117cbb7e1e9d91c3ecf740d14eb6fd4016b06ab35686fab29f78e4e0fe3475adf7d57955931930cfda83ccaa5ceeb0237b0acb1288b6ce0b844ddfa1ba47d294a03a7bc0a4d404949e6b41e675c78c756aad2daf1480701e1f2bf96aa351e153c12663ad19c8d199a8ad3671a13cf412312057a78b30ac27bda144c0e27c417d6a21d7bdf7e4b43e7a32c134f7fa9d8a38891d7c95dc719b9abac0001156b8adc59774e941609ec239f1d683c1d78831a6547b215283a80f7fac4e94eea53fe1ec70b6d0177cdb0364c0c407a600be1fe0070ba5df26fdeb6c350cde89f1d07fb5462ffafffa2bd4b8299b1d5401999a4541066d7d722c9330ad216cd2a9b98108af73d726d1a055da074bc9fffc08347f5dddbae9eef490fcb75be8eeab0d72971f2905332221c5c1b459f17460395d5cf6d0c77edf372a80da6a362a04c503c28549eac341ed7b8394cc7754969abf69fd0edd25544832ed565d96c0691520f05e8d877bfd0e5bda9d12f1c2bf1828660f7e18488c7d38a017b08673fd2817c5d65d72bf5c356b2fe532ca1d9c5b59a5d9673e327b2cbe37db372f39dce7bc4faaaf7f57318494917ad91859d3aeffc5b15f52ba10e477ebb85ebf369fea0cc2470f852ed804723ee097753cda4ec178a4c9ce32a21f3887953b72262d9811f479972967a46a569b0ee339f3c32e1d4037fef73b319/60/1920x1080_6046040/index.m3u8
+
+#EXTINF:-1 tvg-chno="267" tvg-id="La Corriente" tvg-name="La Corriente" tvg-country="EC" tvg-language="SPANISH" group-title="06 | CINE" tvg-logo="https://e7.pngegg.com/pngimages/699/365/png-clipart-flamenco-ballet-dancer-silhouette-animals-free-dance.png" channel-id="plex-608049aefa2b8ae93c2c3a63-602d6608f867c4002c897e27", 267 | La Corriente 🇪🇸
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/335257
+
+#EXTINF:-1 tvg-chno="269" tvg-id="I430.88305.schedulesdirect.org" tvg-name="Film and Co" tvg-country="ES" tvg-language="SPANISH" group-title="06 | CINE" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Film%20and%20Co.png", 269 | Film and Co 🇪🇸
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/35002
+
+#EXTINF:-1 tvg-chno="271" tvg-id="ESBC2700005EE" tvg-name="Rakuten Top" tvg-country="ES" tvg-language="SPANISH" group-title="06 | CINE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700005EE_20221012T021024SQUARE.png_20221012021024.png", 271 | Rakuten Top 🇪🇸
+https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=top-movies-rakuten-tv_es&ads.rtv_content_id=5983&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=2e168f35-49e5-4c36-aaf3-dca62186a421&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=5983&publishing_platform_id=5
+
+#EXTINF:-1 tvg-chno="272" tvg-id="ESAJ45000181E" tvg-name="Rakuten Action" tvg-country="ES" tvg-language="SPANISH" group-title="06 | CINE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ45000181E_20220323T081350SQUARE.png_20220323081353.png", 272 | Rakuten Action 🇪🇸
+https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
+
+#EXTINF:-1 tvg-chno="274" tvg-id="ESAJ4500019AM" tvg-name="Rakuten Comedy" tvg-country="ES" tvg-language="SPANISH" group-title="06 | CINE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500019AM_20221109T010644SQUARE.png_20221109010644.png", 274 | Rakuten Comedy 🇪🇸
+https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=comedy-rakuten-tv_es&ads.rtv_content_id=6180&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=2e8eb778-e993-4112-a12a-064e0dd4ea3b&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6180&publishing_platform_id=5
+
+#EXTINF:-1 tvg-chno="276" tvg-id="ESAJ4500020V7" tvg-name="Rakuten Drama" tvg-country="ES" tvg-language="SPANISH" group-title="06 | CINE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500020V7_20220323T081528SQUARE.png_20220323081531.png", 276 | Rakuten Drama 🇪🇸
+https://jmp2.uk/sam-ES2600003UM.m3u8
+
+#EXTINF:-1 tvg-chno="277" tvg-id="ESBC27000079V" tvg-name="Rakuten Romantico" tvg-country="ES" tvg-language="SPANISH" group-title="06 | CINE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000079V_20221109T010947SQUARE.png_20221109010947.png", 277 | Rakuten Romantico 🇪🇸
+https://jmp2.uk/sam-ES2600012C9.m3u8
+
+#EXTINF:-1 tvg-chno="278" tvg-id="ESBC27000062Q" tvg-name="Rakuten Español" tvg-country="ES" tvg-language="SPANISH" group-title="06 | CINE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000062Q_20221109T010936SQUARE.png_20221109010937.png", 278 | Rakuten Español 🇪🇸
+https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=spanish-cinema-rakuten-tv_es&ads.rtv_content_id=6196&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=780b06f7-6e88-4278-8974-699a5694d7b2&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6196&publishing_platform_id=5
+
+#EXTINF:-1 tvg-chno="279" tvg-id="Runtime Cine y Series" tvg-name="Run Time TV y Peliculas" tvg-country="ES" tvg-language="SPANISH" group-title="06 | CINE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC400001QQ_20230412T042443SQUARE.png_20230412042443.png", 279 | Run Time 🇪🇸
+https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_es/rt_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-chno="280" tvg-id="Runtime Acción" tvg-name="Run Time Accion" tvg-country="ES" tvg-language="SPANISH" group-title="06 | CINE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD80000288_20230712T021347SQUARE.png_20230712021348.png", 280 | Run Time Accion 🇪🇸
+https://d10po0m73eydog.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9veh3t1iih14b/ra_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-chno="281" tvg-id="Runtime Comedia" tvg-name="Run Time Comedia" tvg-country="ES" tvg-language="SPANISH" group-title="06 | CINE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD8000033W_20230809T053831SQUARE.png_20230809053832.png", 281 | Run Time Comedia 🇪🇸
+https://d1w4lf3ohil0ad.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fgcph1khrr3ct/rc_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-chno="282" tvg-id="Runtime Thriller-Terror" tvg-name="Run Time Thriller + Terror" group-title="06 | CINE" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Cine/RT%20Thriller.png", 282 | Runtime Thriller-Terror 🇪🇸
+https://run-th-es.otteravision.com/run/th_es/th_es_720.m3u8
+
+#EXTINF:-1 tvg-chno="283" tvg-id="Runtime Crimen" tvg-name="Run Time Crimen" group-title="06 | CINE" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/Cine/RT%20Crimen.png", 283 | Runtime Crimen 🇪🇸
+https://run-cr-es.otteravision.com/run/cr_es/cr_es_720.m3u8
+
+#EXTINF:-1 tvg-chno="284" tvg-id="Runtime Romance" tvg-name="Run Time Romance" tvg-country="ES" tvg-language="SPANISH" group-title="06 | CINE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20230308T021514SQUARE.png_20230308021515.png", 284 | Run Time Romance 🇪🇸
+https://d3c5d9v98rks92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c7xudvnfq7skl/rr_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-chno="285" tvg-id="I31.82808.schedulesdirect.org" tvg-name="A3CINE" tvg-country="ES" tvg-language="SPANISH" group-title="06 | CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/A3Cine.png/640px-A3Cine.png", 285 | A3CINE 🇪🇸
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+
+#EXTINF:-1 tvg-chno="290" tvg-id="ESBC2700002LO" tvg-name="Peliculas del Oeste" group-title="06 | CINE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700002LO_20230510T044206SQUARE.png_20230510044207.png", 290 | Peliculas del Oeste
+https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_GrjngoPeliculasDelOeste/playlist.m3u8?ads.wurl_channel=1239&ads.wurl_name=GrjngoPeliculasDelOeste&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+
+############################################################
+########################## DEPORTE #########################
+############################################################
+
+#EXTINF:-1 tvg-chno="300" tvg-id="El Canal Del Futbol" tvg-name="EL CANAL DEL FÚTBOL HD" group-title="07 | DEPORTE" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png", 300 | EL CANAL DEL FÚTBOL HD
+http://38.44.109.41:8003/play/a038/index.m3u8
+
+#EXTINF:-1 tvg-chno="300.1" tvg-id="El Canal Del Futbol" tvg-name="EL CANAL DEL FÚTBOL" group-title="07 | DEPORTE" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png", 300.1 | EL CANAL DEL FÚTBOL
+http://38.44.109.41:8003/play/a038/index.m3u8
+
+#EXTINF:-1 tvg-chno="322" tvg-id="FOX SPORTS 2" tvg-name="ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/175px-ESPN_7_logo.svg.png" group-title="07 | DEPORTE", 322 | ESPN 7
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34636
+
+#EXTINF:-1 tvg-chno="337" tvg-id="WinSports.co" tvg-name="Win Sports 🇨🇴" group-title="07 | DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png", 337 | Win Sports 🇨🇴
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/78717
+
+#EXTINF:-1 tvg-chno="337.1" tvg-id="Win Sports+.co" tvg-name="Win Sports+ 🇨🇴 HD" group-title="07 | DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png", 337.1 | Win Sports+ 🇨🇴 HD
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/78697
+
+#EXTINF:-1 tvg-chno="354" tvg-id="I400.52300.schedulesdirect.org" tvg-name="SKY SPORT 🇲🇽" group-title="07 | DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png", 354 | SKY SPORT 🇲🇽
+http://190.92.10.66:4000/play/a001/index.m3u8
+
+#EXTINF:-1 tvg-chno="355" tvg-id="I521.50367.schedulesdirect.org" tvg-name="SKY SPORT 🇲🇽" group-title="07 | DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png", 355 | SKY SPORT 🇲🇽
+http://190.92.10.66:4000/play/a001/index.m3u8
+
+#EXTINF:-1 tvg-chno="367" tvg-id="beIN SPORTS XTRA ñ" tvg-name="Bein Sports Xtra Ñ" tvg-logo="https://i.imgur.com/D06tacN.png" group-title="07 | DEPORTE", 367 | beIN SPORTS XTRA ñ
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="379" tvg-id="El Garage TV" tvg-name="Garaje TV 🇦🇷" tvg-logo="https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_200x200.jpg" group-title="07 | DEPORTE", 379 | El Garage TV 🇦🇷
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1 tvg-chno="380" tvg-id="ESBA1500002B5" tvg-name="Motorvision TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1500002B5_20230426T015703SQUARE.png_20230426015704.png" group-title="07 | DEPORTE", 380 | Motorvision
+https://ov-mvg-mv-es.ottera.tv/mvg/mv_es/mv_es.m3u8
+
+#EXTINF:-1 tvg-chno="382" tvg-id="Red Bull TV" tvg-name="Redbull TV" tvg-logo="https://e7.pngegg.com/pngimages/1004/93/png-clipart-red-bull-tv-television-film-streaming-media-red-bull-television-text.png" group-title="07 | DEPORTE", 382 | Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-chno="384" tvg-id="PeopleareAwesome.us" tvg-name="People are Awesome" tvg-country="US" tvg-language="SPANISH" group-title="07 | DEPORTE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500023Y5_20220323T081726SQUARE.png_20220323081728.png", 384 | People are Awesome
+https://jukin-peopleareawesome-2-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="385" tvg-id="ESBC2700009B4" tvg-name="FIFA+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20230712T021339SQUARE.png_20230712021340.png" group-title="07 | DEPORTE" , 385 | FIFA+
+https://jmp2.uk/sam-ESBC2700009B4.m3u8
+
+############################################################
+########################## PAISES ##########################
+############################################################
+
+#EXTINF:-1 tvg-chno="406" tvg-id="NeoTV.ar" tvg-name="Neo TV 🇦🇷" group-title="08 | PAISES" tvg-logo="https://i.imgur.com/Xtu85tb.png", 406 | Neo TV 🇦🇷
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1 tvg-chno="415" tvg-id="608049aefa2b8ae93c2c3a63-6244f2d33ef43121e567cf13" tvg-name="RCN Xtra 🇨🇴" tvg-country="CO" tvg-language="SPANISH" group-title="08 | PAISES" tvg-logo="https://i.imgur.com/rP8UBPq.png", 415 | RCN Xtra 🇨🇴
+http://160.20.165.246:8000/play/a015/index.m3u8
+
+#EXTINF:-1 tvg-chno="416" tvg-id="RcnNuestra.co" tvg-name="RCN Mas 🇨🇴" tvg-country="CO" tvg-language="SPANISH" group-title="08 | PAISES" tvg-logo="https://i.imgur.com/rP8UBPq.png", 416 | RCN Mas 🇨🇴
+https://rcntv-rcnmas-1-us.plex.wurl.tv/4300.m3u8
+
+#EXTINF:-1 tvg-chno="419" tvg-id="TVG - TV Galicia" tvg-name="TV Galicia 🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/75px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="08 | PAISES", 419 | TVG TV Galicia
+https://crtvg-europa.flumotion.cloud/crtvg/europa_high/chunks_dvr.m3u8
+
+#EXTINF:-1 tvg-chno="425" tvg-id="I85.46607.schedulesdirect.org" tvg-name="Azteca Uno 🇲🇽" tvg-country="MX" tvg-language="SPANISH" group-title="08 | PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png", 425 | Azteca Uno 🇲🇽
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
+
+#EXTINF:-1 tvg-chno="427" tvg-id="Canal de las Estrellas" tvg-name="Las Estrellas 🇲🇽" group-title="08 | PAISES" tvg-logo="https://i.imgur.com/kaTu9Qb.png", 427 | Canal de las Estrellas 🇲🇽
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-chno="434" tvg-id="TelemundoLatinAmerica.pa" tvg-name="Telemundo 🇵🇷" tvg-country="CR" tvg-language="SPANISH" group-title="08 | PAISES"  tvg-logo="https://i.imgur.com/Ys31Rhw.png", 434 | Telemundo 🇵🇷
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
+
+#EXTINF:-1 tvg-chno="436" tvg-id="ATV.pe" tvg-id="ATV.pe" tvg-name="ATV 🇵🇪" tvg-country="PE" tvg-language="SPANISH" group-title="08 | PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png", 436 | ATV 🇵🇪
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-chno="437" tvg-id="ATVPlus.pe" tvg-name="ATV + 🇵🇪" tvg-country="PE" tvg-language="SPANISH" group-title="08 | PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png", 437 | ATV + 🇵🇪
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-chno="438" tvg-id="ATVsur.pe" tvg-name="ATV Sur 🇵🇪" tvg-country="PE" tvg-language="SPANISH" group-title="08 | PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATV_Sur_-_2018_logo_%28final%29.png", 438 | ATV Sur 🇵🇪
+https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-chno="439" tvg-id="PanamericanaTV.pe" tvg-name="Panamericana 🇵🇪" tvg-country="PE" tvg-language="SPANISH" group-title="08 | PAISES" tvg-logo="https://i2.paste.pics/967fc9c451334a960cb23ee0482c77bc.png", 439 | Panamericana 🇵🇪
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/110633
+
+#EXTINF:-1 tvg-chno="441" tvg-id="PE | América Televisión" tvg-name="América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="08 | PAISES", 441 | América Tv 🇵🇪
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/110637
+
+#EXTINF:-1 tvg-chno="445" tvg-id="Canal UCL" tvg-name="UCL 🇺🇾" tvg-country="UY" tvg-language="SPANISH" group-title="08 | PAISES" tvg-logo="https://i.imgur.com/HeyN6Aw.png", 445 | UCL 🇺🇾
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+
+#EXTINF:-1 tvg-chno="449" tvg-id="VENEVISION PLUS" tvg-name="Venevisión 🇻🇪" group-title="08 | PAISES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/90px-Logotipo_de_Venevisi%C3%B3n.svg.png", 449 | Venevisión 🇻🇪
+http://38.41.8.1:8000/play/a03v
+
+############################################################
+######################### EDUCACIÓN ########################
+############################################################
+
+
+############################################################
+######################### TECNOLOGIA #######################
+############################################################
+
+#EXTINF:-1 tvg-chno="527" tvg-id="HiperconectadosTelevisión.cl" tvg-name="Hiperconectados Televisión" tvg-country="CL" tvg-language="SPANISH" group-title="10 | TECNOLOGIA" tvg-logo="https://image.roku.com/developer_channels/prod/2ee8ed69266a33986437dd4fea6fc49cd2ebf61ac54c1a230ee6ce65eacba267.png", 527 | Hiperconectados TV 🇨🇱
+https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/chunklist_w313735177.m3u8
+
+#EXTINF:-1 tvg-chno="528" tvg-id="PlatziTV.co" tvg-name="Platzi TV" tvg-country="CO" tvg-language="SPANISH" group-title="10 | TECNOLOGIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Platzi.jpg", 528 | Platzi TV 🇨🇴
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+
+#EXTINF:-1 tvg-chno="540" tvg-id="ESBC3500002PW" tvg-name="Ideas en 5 Minutos" group-title="10 | TECNOLOGIA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20221215T020824SQUARE.png_20221215020824.png", 540 | Ideas en 5 Minutos
+https://d1vhgfbxsl1eqy.cloudfront.net/playlist/amg02051-admecyltd-5minutecraftsspanish-samsunges/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=1
+
+############################################################
+########################## AGRO TV #########################
+############################################################
+
+#EXTINF:-1 tvg-chno="551" tvg-id="Telecafé.co" tvg-logo="https://i.imgur.com/GN4JWDJ.png" group-title="11 | AGRO", 551 | Telecafé 🇨🇴
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/304273
+
+#EXTINF:-1 tvg-chno="552" tvg-id="CampoAbiertoTV.cl" group-title="11 | AGRO" tvg-logo="https://i2.paste.pics/44c5f4becc68ee877580eed639645110.png", 552 | Campo Abierto TV 🇨🇱
+https://v2.tustreaming.cl/catvlive/index.m3u8
+
+#EXTINF:-1 tvg-chno="553" tvg-id="AgroTv.pe" tvg-name="Agro TV 🇵🇪" tvg-country="PE" tvg-language="SPANISH" group-title="11 | AGRO" tvg-logo="https://pbs.twimg.com/media/FXmbIh6WIAAdhcO?format=png", 553 | Agro TV 🇵🇪
+https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+
+#EXTINF:-1 tvg-chno="555" tvg-id="TVAgro.co" tvg-name="TV Agro 🇨🇴" group-title="11 | AGRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/245px-TV_Agro_logo.svg.png", 555 | TV Agro 🇨🇴
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/304285
+
+
 ############################################################
 ######################## VARIEDADES ########################
 ############################################################
 
-#EXTINF:-1 tvg-chno="600" tvg-id="I239.30259.schedulesdirect.org" tvg-name="E! Entertaiment" group-title="12 | VARIEDADES" tvg-logo="https://www.pngkit.com/png/full/762-7622581_e-hd-e-entertainment-logo.png", 600 | E! Entertaiment
-http://home-playtv.com:8080/garayale/KSGSU/9405
-
-#EXTINF:-1 tvg-chno="601" tvg-id="I1.82970.schedulesdirect.org" tvg-name="Hola TV" group-title="12 | VARIEDADES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg", 601 | Hola TV
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/139757
-
-#EXTINF:-1 tvg-chno="602" tvg-id="ESBA1400008NE" tvg-name="Hola TV Play" group-title="12 | VARIEDADES" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400008NE_20220713T034534SQUARE.png_20220713034534.png", 602 | Hola TV Play
-https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="603" channel-id="samsung-ESAJ4500017Y1" tvg-id="ESAJ4500017Y1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500017Y1_20220323T081606SQUARE.png_20220323081609.png" group-title="12 | VARIEDADES", 603 | Fashion TV
-https://jmp2.uk/SamsungTVPlus/ESAJ4500017Y1.m3u8
+https://9d71e7fce78e454e967afe6d07e80146.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_FashionTV/playlist.m3u8?ads.wurl_channel=382&ads.wurl_name=FashionTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-chno="609" tvg-id="Corazón" tvg-name="Az Corazon" group-title="12 | VARIEDADES" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300003VN_20230628T012819SQUARE.png_20230628012819.png", 609 | Az Corazon 🇲🇽
 https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
@@ -24,28 +504,16 @@ https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 #EXTINF:-1 tvg-chno="611" tvg-id="Clic" tvg-name="Az Clic" group-title="12 | VARIEDADES" tvg-logo="https://www.vhv.rs/dpng/d/607-6075841_tv-azteca-clic-logo-tv-azteca-png-transparent.png", 611 | Az Clic 🇲🇽
 https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
 
-#EXTINF:-1 tvg-chno="612" channel-id="samsung-USAJ3504719A" tvg-id="USAJ3504719A" tvg-name="Sony Competencias" tvg-country="US" tvg-language="SPANISH" group-title="12 | VARIEDADES" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504719A_20230321T235906SQUARE.png_20230321235907.png", 612 | Sony Competencias
-https://spt-competencias-1-us.samsung.wurl.tv/2000.m3u8
-
-#EXTINF:-1 tvg-chno="616" channel-id="samsung-USAJ22000057N" tvg-id="USAJ22000057N" tvg-name="Sony Comedias" tvg-country="US" tvg-language="SPANISH" group-title="12 | VARIEDADES" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ22000057N_20230712T001605SQUARE.png_20230712001606.png", 616 | Sony Comedias
-https://d05f9c4e535042b78e6de94ef5548e4a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-2/playlist.m3u8?ads.wurl_channel=1448&ads.wurl_name=SonyCanalComedias-2&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-chno="617" channel-id="samsung-USAJ3000002OC" tvg-id="USAJ3000002OC" tvg-name="Sony Novelas" tvg-country="US" tvg-language="SPANISH" group-title="12 | VARIEDADES" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000002OC_20230321T235909SQUARE.png_20230321235909.png", 617 | Sony Novelas
-https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
-
 
 ############################################################
 ########################## MUSICA ##########################
 ############################################################
 
-#EXTINF:-1 tvg-chno="650" tvg-id="Quello Concerts" tvg-name="Qello Concerts" tvg-logo="https://m.media-amazon.com/images/I/61UKePMkOeL.png" group-title="13 | MUSICA", 650 | Quello Concerts 🇪🇸
-http://home-playtv.com:8080/garayale/KSGSU/199531
-
 #EXTINF:-1 tvg-chno="653" tvg-id="toplatinotv.pe" tvg-name="Top Latino TV Perú" tvg-logo="https://toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png" group-title="13 | MUSICA", 653 | Top Latino TV 🇵🇪
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 
 #EXTINF:-1 tvg-chno="656" channel-id="plex-608049aefa2b8ae93c2c3a63-6018913ea15130002b284191" tvg-id="608049aefa2b8ae93c2c3a63-6018913ea15130002b284191" tvg-name="FreeTV Hits" group-title="13 | MUSICA" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4775fd5f-1436-4f2d-a368-35a008221dff/FreeTVHits_Circle_1500x1000_-_Ralph_Campillo.png", 656 | FreeTV Hits 🇲🇽
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/playlist.m3u8
+https://amg01024-olympusat-flash-ono-ad-3q.amagi.tv/playlist/amg01024-olympusat-flash-ono/cb573d177a6c6c8784cf3c78d1f74882847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae754cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7aab25c43d869a1b5011dc02e45fa83439c8201e987d15f83438477f3129ac4f2dedb18d38cb9599506e6274759326da68e789ecc2fdeb0fc4f2b99741c7044008cd292fa5d7287575363ebebc4ad60c006dc8557c10a49b3148c5f976ac524bd1eb0af48b2a8becb540f3aabc9146522b6eca38fe86f47d70ceeb1d6cd61758ff7176135af07bc731216bea7867ee3c21185f8278cb01b5f528093109acce586b6b28e139926ce91f0ce394719365506d604f2c269de7bdb2ffd945b4b324c40bed454d496e65c256c4b8a852ca2796fbad486cdd00222c7700e49e974977d1769c9005a269447939b387fc72f19ba393cef2a56ea23ace2509fcedae11575b2dbc950fa1d80df67d7f816ac7f28580bbdff2951511613ba8967092337c74bf0a1a98b16595a949da3ffc44076122a28421e82f4e67382fca6437947f87d083a047a7e9700c527dc0f59102fbb7db9cd592ef26c462ce2b471484860e4a4dbeb81c4cf41a1699dccf2341dd23809cf5bffe3d1b2ccef7cde7a2c5b7948810b6b51cf7f3020d9b4b92b1d1d0cb4f157a52d761c23e4fd12530051721964f3378c683f90f430b097cb5bdee0cf6c2d44c21c6062fff7a618c8ff8ed1460193a356596392df67e2662cde16c761e88037b0c42420592922b22aeef4860364ed6c86a9a98ce73e2273ef6ab29fe2fcf17357fe905b263a056fda1e38790103a2d3d9680134b9f277a615d1e25bad4d43207f69eac2510ec8b82c5cab3c7036f1fb8b93fb9e4a50eb7ee479cc5706a47c043aae996bbdcde1a5bacf447c34f49ae70cb7a883848cf1cf2575042570b8c94d5a7add69a1df54affd532ca1d9cbd6db689667eb7aeed7e160b76ad2bed664999993faf460041e0b078ea6d9ce548aec4415c138b12b0a17938de8f11f8bf9b41577e758a0c84759a7307a52deb8b963ec2eabed2d25f78d0b0e876c532181309dae15425c0c51102379a325f11344dd093df4ef/72/1920x1080_6046040/index.m3u8
 
 #EXTINF:-1 tvg-chno="657" tvg-id="tvpj.ec" tvg-name="TVPJ" tvg-country="EC" tvg-language="SPANISH" group-title="13 | MUSICA" tvg-logo="https://i.paste.pics/3a6934e8e137e270694013358a4f01dd.png", 657 | TVPJ 🇪🇨
 https://vdo1.panelstreaming.live:3363/stream/play.m3u8
@@ -56,58 +524,17 @@ https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
 #EXTINF:-1 tvg-chno="659" tvg-id="VallenatoInternacional.co" tvg-name="Vallenato Internacional" tvg-country="CO" tvg-language="SPANISH" group-title="13 | MUSICA" tvg-logo="https://pbs.twimg.com/profile_images/958693570403237889/vJlP-Zwn_400x400.jpg", 659 | Vallenato Internacional 🇨🇴
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
 
-#EXTINF:-1 tvg-chno="660" tvg-id="ESBC2100001IU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100001IU_20230412T042424SQUARE.png_20230412042425.png" group-title="13 | MUSICA", 660 | Vevo Pop
-https://d3t95pdz2h4c90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3yjwupt2bfu30/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-chno="660.1" tvg-id="ESBD230000289" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000289_20230712T021354SQUARE.png_20230712021354.png" group-title="13 | MUSICA", 660.1 | Vevo '70s & '80s
-https://d9a7gn34udfwh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x1td8h8f4kkdh/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-chno="661" tvg-id="MTV Hits HD" tvg-name="MTV HD" group-title="13 | MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/1200px-MTV-2021.svg.png", 661 | MTV Hits HD
-http://home-playtv.com:8080/garayale/KSGSU/481930
-
-#EXTINF:-1 tvg-chno="661.1" tvg-id="MTV Live" tvg-name="MTV Live HD" group-title="13 | MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1200px-MTV_Live_2021_logo.svg.png", 661.1 | MTV Live
-http://home-playtv.com:8080/garayale/KSGSU/481930
-
-#EXTINF:-1 tvg-chno="661.2" tvg-id="MTV 00s" tvg-name="MTV 00s" group-title="13 | MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png", 661.2 | MTV 00s
-http://home-playtv.com:8080/garayale/KSGSU/242039
-
-#EXTINF:-1 tvg-chno="661.3" tvg-id="MTV 80s" tvg-name="MTV 80s" group-title="13 | MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png", 661.3 | MTV 80s
-http://home-playtv.com:8080/garayale/KSGSU/481928
-
-#EXTINF:-1 tvg-chno="662" tvg-id="I274.47403.schedulesdirect.org" tvg-name="Exa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exa_TV_logo.svg/320px-Exa_TV_logo.svg.png" group-title="13 | MUSICA", 662 | Exa TV
-http://home-playtv.com:8080/garayale/KSGSU/217140
-
-#EXTINF:-1 tvg-chno="665" tvg-name="Durán TV 🇪🇨" group-title="13 | MUSICA" tvg-logo="https://i.imgur.com/8k8DsBL.png", 665 | Durán TV 🇪🇨
-https://cloudvideo.servers10.com:8081/8074/index.m3u8
 
 ############################################################
 ########################### 24/7 ###########################
 ############################################################
 
 
-#EXTINF:-1 tvg-chno="700" tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" group-title="14 | 24/7"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/250px-Comedy_Central_2018.svg.png", 700 | Comedy Central HD
-http://home-playtv.com:8080/garayale/KSGSU/53049
-
-#EXTINF:-1 tvg-chno="701" tvg-id="I201.55980.schedulesdirect.org" tvg-name="Distrito Comedia" group-title="14 | 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png", 701 | Distrito Comedia
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57639
-
-#EXTINF:-1 tvg-chno="703" tvg-name="Los Tres Chiflados" group-title="14 | 24/7" tvg-logo="https://w7.pngwing.com/pngs/497/866/png-transparent-curly-howard-shemp-howard-the-three-stooges-a-plumbing-we-will-go-short-film-three-stooges-curly-howard-shemp-howard-the-three-stooges.png", 703 | Los Tres Chiflados
-http://home-playtv.com:8080/garayale/KSGSU/107893
-
 #EXTINF:-1 tvg-chno="703.1" tvg-name="Los Tres Chiflados" group-title="14 | 24/7" tvg-logo="https://w7.pngwing.com/pngs/497/866/png-transparent-curly-howard-shemp-howard-the-three-stooges-a-plumbing-we-will-go-short-film-three-stooges-curly-howard-shemp-howard-the-three-stooges.png", 703.1 | Los Tres Chiflados
-http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/578169
-
-#EXTINF:-1 tvg-chno="704" tvg-id="El Chavo del 8 TV" tvg-name="El Chavo del 8 TV" tvg-logo="https://pbs.twimg.com/media/Fp3p0zZXoAY_loW?format=png&name=small" group-title="14 | 24/7", 704 | El Chavo del 8 TV
-http://tvbross.com:8090/Inter_Jomy2023/yeAUn7PKe8/25169
-
-#EXTINF:-1 tvg-chno="704.1" tvg-name="El Chavo del 8 S1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/1200px-El_Chavo_Animado_logo.svg.png" group-title="14 | 24/7", 704.1 | El Chavo del 8 S1
-http://xtream.lat:8880/Alex2023/Alex2023/150945
-
-#EXTINF:-1 tvg-chno="704.2" tvg-name="El Chavo del 8 S2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/1200px-El_Chavo_Animado_logo.svg.png" group-title="14 | 24/7", 704.2 | El Chavo del 8 S2
-http://tvbross.com:8090/Inter_Jomy2023/yeAUn7PKe8/17744
+https://stitcher.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f2f75540-9092-11ef-873b-32707f6dec09
 
 #EXTINF:-1 tvg-chno="706" tvg-name="CANTINFLAS" group-title="14 | 24/7" tvg-logo="https://pbs.twimg.com/profile_images/1322619958/cantinflas_001Logo_400x400.jpg", 706 | CANTINFLAS
-http://xtream.lat:8880/Alex2023/Alex2023/137001
+https://stitcher.pluto.tv/stitch/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f2f75540-9092-11ef-873b-32707f6dec09
 
 #EXTINF:-1 tvg-chno="715" tvg-id="5e8397936791b30007ebb5a7" tvg-logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png" group-title="14 | 24/7", 715 | Pl TV Humor
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -116,22 +543,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8397936791b30007ebb5
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-chno="717" tvg-id="" tvg-name="Hechizada" group-title="14 | 24/7" tvg-logo="https://w7.pngwing.com/pngs/245/894/png-transparent-fernsehserie-bewitched-season-1-television-episode-witch-television-vertebrate-computer-wallpaper.png", 717 | Hechizada
-http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/236000
+https://stitcher.pluto.tv/stitch/hls/channel/631fb6be21b7440007b9f606/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=17bbe526-9093-11ef-9363-d284f6ba7600
 
 #EXTINF:-1 tvg-chno="718" tvg-id="USBC2100010OS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100010OS_20230125T022553SQUARE.png_20230125022554.png" group-title="14 | 24/7" , 718 | ViX JaJaJa
-https://jmp2.uk/SamsungTVPlus/USBC2100010OS.m3u8
-
-#EXTINF:-1 tvg-chno="720.1" tvg-id="LosSimpson.us" tvg-name="Los Simpsons HD" tvg-country="US" tvg-language="SPANISH" group-title="14 | 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png", 720.1 | Los Simpsons HD
-http://home-playtv.com:8080/SiaFlores21/BSMRA/107939
-
-#EXTINF:-1 tvg-chno="720.2" tvg-id="LosSimpson.us" tvg-name="Los Simpsons FHD" tvg-country="US" tvg-language="SPANISH" group-title="14 | 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png", 720.2 | Los Simpsons FHD
-http://home-playtv.com:8080/SiaFlores21/BSMRA/216987
-
-#EXTINF:-1 tvg-chno="720.8" tvg-id="LosSimpson.us" tvg-name="Los Simpson" tvg-country="US" tvg-language="SPANISH" group-title="14 | 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png", 720.8 | Los Simpson S01 a S20
-http://new-tv.cloud:25461/JorGeMo/uugSv3p8zrdk/578200
+https://stitcher.pluto.tv/stitch/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f2f75540-9092-11ef-873b-32707f6dec09
 
 #EXTINF:-1 tvg-chno="721" tvg-id="ESBD1300001EP" tvg-name="Baywatch" group-title="14 | 24/7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300001EP_20230712T021331SQUARE.png_20230712021332.png", 721 | Baywatch – Los Vigilantes de la Playa
-https://jmp2.uk/SamsungTVPlus/ESBD1300001EP.m3u8
+https://stitcher.pluto.tv/stitch/hls/channel/664c76520120f40008b81db9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=9f17b829-6948-11ef-baab-ae6b862fa0c5
 
 
 ############################################################
@@ -140,7 +558,7 @@ https://jmp2.uk/SamsungTVPlus/ESBD1300001EP.m3u8
 
 
 #EXTINF:-1 tvg-chno="750" tvg-id="" tvg-name="America Estereo Guayaquil" group-title="15 | ECU RadioTV" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU%20RadioTV/AmericaTV.png", 750 | America GYE Estereo
-https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8
+https://video2.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="751" tvg-id="" tvg-name="America Estereo Ibarra" group-title="15 | ECU RadioTV" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU%20RadioTV/AmericaTV.png", 751 | America Ibarra Estereo
 https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8
@@ -154,32 +572,17 @@ https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlis
 #EXTINF:-1 tvg-chno="754" tvg-id="" tvg-name="Antena Uno" group-title="15 | ECU RadioTV" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU%20RadioTV/Antena%20Uno.png", 754 | Antena Uno
 https://tvdatta.com:3578/live/antenaunolive.m3u8
 
-#EXTINF:-1 tvg-chno="756" tvg-id="" tvg-name="EcuaMundo RadioTV" group-title="15 | ECU RadioTV" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU%20RadioTV/EcuaMundo%20Radio%20TV.jpeg", 756 | EcuaMundo RadioTV
-https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8
-
-#EXTINF:-1 tvg-chno="757" tvg-id="ElSolTV.ec" tvg-name="El Sol Radio y Television" group-title="15 | ECU RadioTV" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU%20RadioTV/El%20Sol%20TV.png", 757 | El Sol Radio y Television
-https://streaming5.globalhostla.com/rtplive/elsolrad/chunklist_w431845379.m3u8
-
 #EXTINF:-1 tvg-chno="758" tvg-id="FMMundo.ec" tvg-name="Radio FM Mundo" group-title="15 | ECU RadioTV"  tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU%20RadioTV/FM%20Mundo.png", 758 | FM Mundo
 https://video2.makrodigital.com/fmmundo/fmmundo/chunks.m3u8
 
-#EXTINF:-1 tvg-chno="761" tvg-id="" tvg-name="La Pipol Tv" group-title="15 | ECU RadioTV" tvg-logo="https://mipipoltv.com/wp-content/uploads/2023/09/cropped-PIPOL-PNG.png", 761 | La Pipol Tv
-https://cp.panelchs.com:1936/8004/8004/chunklist_w1773811543.m3u8
-
-#EXTINF:-1 tvg-chno="762" tvg-id="" tvg-name="La Redonda TV" group-title="15 | ECU RadioTV" tvg-logo="https://laradioredonda.ec/wp-content/uploads/2022/04/276322594_388791979913771_1670687898698944566_n.jpg", 762 | La Redonda TV
-https://ythls.armelin.one/channel/UCG_S--F4wcdre2-8PG9YlhA.m3u8
+#EXTINF:-1 tvg-chno="759" tvg-id="impactosatelital.ec" tvg-name="Radio Impacto Impacto 2" group-title="15 | ECU RadioTV" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU%20RadioTV/Radio%20Impacto%202.png", 759 | Radio Impacto 2
+https://panel.streamingtv-mediacp.online:1936/jawepvrvyz/jawepvrvyz/chunklist_w165308511.m3u8
 
 #EXTINF:-1 tvg-chno="764" tvg-id="" tvg-name="Metropoli Medios TV" group-title="15 | ECU RadioTV" tvg-logo="https://medios.com.py/wp-content/uploads/2022/09/Diseno-Logo-M-medios-1024x1024.png", 764 | Metropoli Medios TV
 https://eu1.servers10.com:8081/8214/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="765" tvg-id="" tvg-name="Pantalla Clasica EC" group-title="15 | ECU RadioTV" tvg-logo="https://www.radiopasionecuador.com/images/sampledata/icetheme/logo.png", 765 | Pantalla Clasica EC
-https://ssh101-fl.bozztv.com/ssh101/ecuadoralmundo/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-chno="767" tvg-id="RadioMorena.ec" tvg-name="Radio Morena" group-title="15 | ECU RadioTV" tvg-logo="https://cdn-radiotime-logos.tunein.com/s187650g.png", 767 | Radio Morena GYE
-https://www.mistr3m.com:19360/morenatv/morenatv.m3u8
-
-#EXTINF:-1 tvg-chno="768" tvg-name="Radio y TV Alegría" group-title="15 | ECU RadioTV" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU%20RadioTV/Radio%20Alegria%2098.5%20FM.png", 768 | Radio y TV Alegría 985FM
-https://video.compuwebecuador.com:3880/stream/play.m3u8
+https://videostreampro.vitiks.pro:5443/LiveApp/streams/oDC3lZUhF785n99d5513247542701.m3u8
 
 #EXTINF:-1 tvg-chno="769" tvg-id="" tvg-name="Radio Bonita 1067" group-title="15 | ECU RadioTV" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU%20RadioTV/Radio%20Bonita%20106.7.png", 769 | Radio Bonita 1067
 https://cloudvideo.servers10.com:8081/8154/tracks-v1a1/mono.m3u8
@@ -196,11 +599,8 @@ https://eu1.servers10.com:8081/8108/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="775" tvg-id="SonoOndaTV.ec" tvg-name="Sono Onda TV" group-title="15 | ECU RadioTV" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU%20RadioTV/Sono%20Onda%20TV.png", 775 | Sono Onda TV
 https://live.obslivestream.com/sonoondatv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="777" tvg-id="" tvg-name="Radio Monumental TV" group-title="15 | ECU RadioTV" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU%20RadioTV/Radio%20Monumental%20TV.png", 777 | Radio Monumental TV
-https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8
-
 #EXTINF:-1 tvg-chno="778" tvg-id="" tvg-name="Radio Rocafuerte TV" group-title="15 | ECU RadioTV" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU%20RadioTV/Radio%20Rocafuerte%20TV.png", 778 | Radio Rocafuerte TV
-https://stmv.streamingvip.click/rocafuertefm/rocafuertefm/playlist.m3u8
+https://online.hechosecuador.com:5443/WebRTCApp/streams/Rocafuerte.m3u8
 
 #EXTINF:-1 tvg-chno="780" tvg-id="" tvg-name="Ecua Stereo Radio TV" group-title="15 | ECU RadioTV" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU%20RadioTV/Ecua%20Stereo%20Radio%20TV.png", 780 | Ecua Stereo Radio TV
 https://video.misistemareseller.com/ecuastereotv/ecuastereotv/playlist.m3u8
@@ -209,10 +609,7 @@ https://video.misistemareseller.com/ecuastereotv/ecuastereotv/playlist.m3u8
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-chno="784" tvg-id="" tvg-name="Scandalo TV" group-title="15 | ECU RadioTV" tvg-logo="https://scandalotv.com/wp-content/uploads/2022/10/cropped-ISO-STV-01-1.jpg", 784 | Scandalo TV
-https://ssh101-fl.bozztv.com/ssh101/scandalotv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-chno="785" tvg-id="" tvg-name="Studio Futbol" group-title="15 | ECU RadioTV" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU%20RadioTV/Studio%20Futbol.png", 785 | Studio Futbol
-http://160.20.165.246:8000/play/a004/index.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/scandalotv/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="786" tvg-id="" tvg-name="Radio Majestad" group-title="15 | ECU RadioTV" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-ec/majestad.png", 786 | Radio Majestad
 https://videoserver.tmcreativos.com:19360/majestadradio/majestadradio.m3u8
@@ -226,10 +623,7 @@ https://cloud37.ecuatel.com/ciracutv/live/chunklist_w532240513.m3u8
 #EXTINF:-1 tvg-chno="789" tvg-id="" tvg-name="TV Austro" group-title="15 | ECU RadioTV" tvg-logo="https://i.imgur.com/i6JTL7W.png", 789 | TV Austro
 https://eu1.servers10.com:8081/8056/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="790" tvg-id="" tvg-name="Elite TV" group-title="15 | ECU RadioTV" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU%20RadioTV/Elite%20TV.png", 790 | Elite TV
-https://tv.portalexpress.es:3322/stream/play.m3u8
-
 #EXTINF:-1 tvg-chno="791" tvg-id="" tvg-name="UNIANDES TV" group-title="15 | ECU RadioTV" tvg-logo="https://raw.githubusercontent.com/mac593dmd/Caras-tulades/main/ECU%20RadioTV/Uniandes%20TV.png", 791 | UNIANDES TV
-https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
+https://video.compuwebecuador.com:3323/stream/play.m3u8
 
 
